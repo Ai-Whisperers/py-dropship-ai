@@ -24,6 +24,7 @@ El dropshipping internacional clásico (AliExpress → cliente paraguayo) **no f
 | [Catálogo OSS](docs/08-OSS-CATALOG.md) | **25 temas · 1,710 repos** investigados vía GitHub API, shortlists curadas, stack adoptado |
 | [Profundización](docs/09-PROFUNDIZACION-2026-10.md) | Pagos post-BCP (tope 3%/2%), Ley 7593/2025 datos, régimen courier USD 1.000, competencia ampliada, 12 mejoras técnicas |
 | [Profundización II](docs/10-PROFUNDIZACION-II.md) | RESIMPLE ₲20-80k/mes, Meta Ads LATAM (CPM $2-4, mínimo $300-500/mes), Ley 1334/98 (7 días), señales de nicho, finanzas de fallo |
+| [Cumplimiento y organismos](docs/11-CUMPLIMIENTO-ORGANISMOS.md) | DINAVISA 189/2022 (perfumes = gate), SEDECO, 8-organismo mapa, 30-unidades validación legal |
 
 ## Estado
 
@@ -31,4 +32,5 @@ El dropshipping internacional clásico (AliExpress → cliente paraguayo) **no f
 - 2026-10-22: análisis de 40 sombreros + investigación OSS (InvenTree, Medusa, Evolution API, meta-mcp-server, Scrapling) + sonda de scrapeabilidad CDE (Cellshop/Nissei 403, Fastrax/ShoppingChina/Tupi abiertos).
 - 2026-10-22: catálogo OSS completo — 25 búsquedas × top-100 por estrellas, 1,710 repos únicos indexados en `data/oss/`, doc curado con stack adoptado y shortlists por capa.
 - 2026-10-22: profundización — tope de comisiones BCP (3% crédito/2% débito desde jul-2026, uPay Gs.0/mes), Ley 7593/2025 de datos (ventana hasta nov-2027), courier USD 33/kg CN→PY impuestos incl., competencia (Tiendamia/Shein-Temu/MELI 13-20%), última milla Gs. 15-30k, y 12 mejoras técnicas (evals, observabilidad, precios dinámicos, privacidad).
+- 2026-10-22: cumplimiento — DINAVISA regula perfumes (Res. 189/2022, importador habilitado, 30 unidades de muestra legales); decisión de nicho ajustada: audio/gaming primero (sin gate sanitario), perfumes fase 2; mapa de 8 organismos; patrón de compliance unificado WiseQ+PY.
 - 2026-10-22: profundización II — RESIMPLE (₲20-80k/mes hasta ₲80M/año; alerta 80% del tope), Meta Ads LATAM real (mínimo funcional $300-500/mes, CPA máx = 50% del margen), Ley 1334/98 art. 26 (retracto 7 días), nicho (perfumes/audio-gaming/accesorios Apple con margen 30%+), y reglas financieras de corte.
