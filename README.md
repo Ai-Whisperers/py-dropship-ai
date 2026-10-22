@@ -29,6 +29,7 @@ El dropshipping internacional clásico (AliExpress → cliente paraguayo) **no f
 | [Tooling PY](docs/13-TOOLING-PY.md) | MCP installs (Evolution API P0), docker-compose fase 0, wrappers finos a construir |
 | [Zero-access data](docs/14-ZERO-ACCESS-DATA.md) | **First CDE price snapshot captured (113 SKUs)**, full collection list both ops, cron plan |
 | [Hermes/Jev + reuso AIW](docs/15-HERMES-JEV-REUSO-PY.md) | Veredicto Jev (rutar carriles OpenRouter), checklist Hermes, inventario de reuso AIW (saskia-app, ops-toolkit, observabilidad) |
+| [DevOps masterplan](https://github.com/Ai-Whisperers/wiseq-ai-onboarding/blob/main/docs/15-DEVOPS-MASTERPLAN.md) | Pipeline/storage/DB/SLO plan maestro (en repo WiseQ), fases 0-2 |
 
 ## Estado
 

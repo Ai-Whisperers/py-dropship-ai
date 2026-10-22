@@ -1,0 +1,36 @@
+# Keepalive: prevents GitHub's silent 60-day auto-disable of scheduled
+# workflows (the nightly cde-snapshot MUST keep running during quiet periods).
+# Commits a timestamp file weekly only if the repo has been otherwise quiet.
+name: keepalive
+
+on:
+  schedule:
+    - cron: "41 3 * * 1"  # weekly Monday 03:41 UTC (before the nightly slot)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4
+        with:
+          persist-credentials: false
+      - name: Bump keepalive timestamp (only if repo quiet >7 days)
+        run: |
+          git config user.name "aiw-keepalive-bot"
+          git config user.email "actions@github.com"
+          LAST=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          AGE=$(( (NOW - LAST) / 86400 ))
+          if [ "$AGE" -lt 7 ]; then
+            echo "Repo active ($AGE days since last commit) — no keepalive needed."
+            exit 0
+          fi
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .keepalive
+          git add .keepalive
+          git commit -m "chore: keepalive bump [skip ci]"
+          git push
