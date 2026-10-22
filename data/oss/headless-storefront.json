@@ -1,0 +1,294 @@
+{
+ "query": "headless+storefront",
+ "total_count": 724,
+ "items": [
+  {
+   "full_name": "spree/spree",
+   "url": "https://github.com/spree/spree",
+   "stars": 15769,
+   "lang": "Ruby",
+   "desc": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platfo",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "reactioncommerce/reaction",
+   "url": "https://github.com/reactioncommerce/reaction",
+   "stars": 12399,
+   "lang": "JavaScript",
+   "desc": "Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.",
+   "pushed": "2026-03-01"
+  },
+  {
+   "full_name": "vuestorefront/vue-storefront",
+   "url": "https://github.com/vuestorefront/vue-storefront",
+   "stars": 10959,
+   "lang": null,
+   "desc": "Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to",
+   "pushed": "2026-06-09"
+  },
+  {
+   "full_name": "bagisto/nextjs-commerce",
+   "url": "https://github.com/bagisto/nextjs-commerce",
+   "stars": 6430,
+   "lang": "TypeScript",
+   "desc": "Open source headless commerce that\u2019s fast, flexible, and built to scale,launch stunning storefronts that convert and grow your business without limits.",
+   "pushed": "2026-09-14"
+  },
+  {
+   "full_name": "itswadesh/svelte-commerce",
+   "url": "https://github.com/itswadesh/svelte-commerce",
+   "stars": 1821,
+   "lang": "Svelte",
+   "desc": "Open-source headless SvelteKit storefront for 26 commerce backends \u2014 Medusa, Shopify, Saleor, Vendure, WooCommerce, Litekart and more \u2014 plus GoCommerce via an early connector.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "saleor/storefront",
+   "url": "https://github.com/saleor/storefront",
+   "stars": 1634,
+   "lang": "TypeScript",
+   "desc": "Saleor Storefront built using React, Next.js with App Router, TypeScript, GraphQL, and Tailwind CSS.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "storefront-foundation/react-storefront",
+   "url": "https://github.com/storefront-foundation/react-storefront",
+   "stars": 839,
+   "lang": "JavaScript",
+   "desc": "React Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, Apache-2.0 license. Join us as contributor (contributors@reactstorefront.io).",
+   "pushed": "2023-03-06"
+  },
+  {
+   "full_name": "CromwellCMS/Cromwell",
+   "url": "https://github.com/CromwellCMS/Cromwell",
+   "stars": 753,
+   "lang": "TypeScript",
+   "desc": "WordPress-like CMS for Next.js websites",
+   "pushed": "2024-07-12"
+  },
+  {
+   "full_name": "reactioncommerce/example-storefront",
+   "url": "https://github.com/reactioncommerce/example-storefront",
+   "stars": 612,
+   "lang": "JavaScript",
+   "desc": "Example Storefront is Reaction Commerce\u2019s headless ecommerce storefront - Next.js, GraphQL, React. Built using Apollo Client and the commerce-focused React UI components provided in the Storefront Com",
+   "pushed": "2023-07-18"
+  },
+  {
+   "full_name": "thomasKn/astro-shopify",
+   "url": "https://github.com/thomasKn/astro-shopify",
+   "stars": 505,
+   "lang": "Astro",
+   "desc": "A lightweight and powerful ecommerce starter theme to build headless Shopify storefronts with Astro.",
+   "pushed": "2026-10-05"
+  },
+  {
+   "full_name": "instantcommerce/shopify-headless-theme",
+   "url": "https://github.com/instantcommerce/shopify-headless-theme",
+   "stars": 414,
+   "lang": "CSS",
+   "desc": "Liquid theme that automatically redirects customers to your custom storefront.",
+   "pushed": "2024-05-02"
+  },
+  {
+   "full_name": "Weaverse/pilot",
+   "url": "https://github.com/Weaverse/pilot",
+   "stars": 388,
+   "lang": "TypeScript",
+   "desc": "A fully-featured Shopify Hydrogen theme crafted to help you launch modern, high-performing headless storefronts in minutes.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "graphcommerce-org/graphcommerce",
+   "url": "https://github.com/graphcommerce-org/graphcommerce",
+   "stars": 362,
+   "lang": "TypeScript",
+   "desc": "GraphCommerce\u00ae is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "frontvibe/fluid",
+   "url": "https://github.com/frontvibe/fluid",
+   "stars": 290,
+   "lang": "TypeScript",
+   "desc": "Fluid is a Hydrogen theme that lets you easily build Shopify headless storefronts by organizing your content with Sanity.",
+   "pushed": "2026-08-31"
+  },
+  {
+   "full_name": "vendurehq/storefront-qwik-starter",
+   "url": "https://github.com/vendurehq/storefront-qwik-starter",
+   "stars": 265,
+   "lang": "TypeScript",
+   "desc": "An e-commerce storefront starter built with Qwik and Vendure",
+   "pushed": "2025-12-19"
+  },
+  {
+   "full_name": "zackha/nuxtcommerce",
+   "url": "https://github.com/zackha/nuxtcommerce",
+   "stars": 247,
+   "lang": "Vue",
+   "desc": "An open-source, dynamic e-commerce solution powered by Nuxt 4 and GraphQL, headless storefront replacement for Woocommerce. Featuring a user interface in the style of Pinterest and fully customizable",
+   "pushed": "2026-03-20"
+  },
+  {
+   "full_name": "shopware/frontends",
+   "url": "https://github.com/shopware/frontends",
+   "stars": 230,
+   "lang": "TypeScript",
+   "desc": "Shopware Frontends is a framework for building custom, headless storefronts with Shopware 6.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "vendurehq/storefront-remix-starter",
+   "url": "https://github.com/vendurehq/storefront-remix-starter",
+   "stars": 227,
+   "lang": "TypeScript",
+   "desc": "A storefront starter kit for Vendure built with Remix",
+   "pushed": "2025-12-18"
+  },
+  {
+   "full_name": "mirumee/nimara-ecommerce",
+   "url": "https://github.com/mirumee/nimara-ecommerce",
+   "stars": 131,
+   "lang": "TypeScript",
+   "desc": "Headless, composable ecommerce storefront built with Next.js, Typescript, and shadcn/ui.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "bagisto/headless-ecommerce",
+   "url": "https://github.com/bagisto/headless-ecommerce",
+   "stars": 111,
+   "lang": "PHP",
+   "desc": "Laravel Headless eCommerce APIs allow you to experience seamless and easily scalable storefront performance. An open-source and GraphQL based Rest API Laravel platform delivering ultra-fast, dynamic,",
+   "pushed": "2026-07-21"
+  },
+  {
+   "full_name": "ecomplus/storefront",
+   "url": "https://github.com/ecomplus/storefront",
+   "stars": 102,
+   "lang": "JavaScript",
+   "desc": "Modern and high performant headless eCommerce Storefront. PWA & JAMstack architecture ready for E-Com Plus APIs. Built with Vue.js, extensible through widgets and editable with Netlify CMS.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "swellstores/origin-theme",
+   "url": "https://github.com/swellstores/origin-theme",
+   "stars": 100,
+   "lang": "Vue",
+   "desc": "Headless NuxtJS 2 storefront starter powered by Swell",
+   "pushed": "2024-03-21"
+  },
+  {
+   "full_name": "swellstores/horizon",
+   "url": "https://github.com/swellstores/horizon",
+   "stars": 72,
+   "lang": "TypeScript",
+   "desc": "Headless NextJS storefront starter powered by Swell",
+   "pushed": "2024-04-11"
+  },
+  {
+   "full_name": "spree/storefront",
+   "url": "https://github.com/spree/storefront",
+   "stars": 68,
+   "lang": "TypeScript",
+   "desc": "Open-source Next.js eCommerce storefront for @spree. DTC & B2B, Stripe/Adyen/PayPal payments, multi-region, one page checkout. MIT license.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "perryraskin/nextjs-tailwind-shopify-storefront",
+   "url": "https://github.com/perryraskin/nextjs-tailwind-shopify-storefront",
+   "stars": 62,
+   "lang": "TypeScript",
+   "desc": "Starter template for a Shopify Headless React Storefront using TailwindCSS",
+   "pushed": "2023-01-06"
+  },
+  {
+   "full_name": "hubblecommerce/hubble-frontend-pwa",
+   "url": "https://github.com/hubblecommerce/hubble-frontend-pwa",
+   "stars": 60,
+   "lang": "TypeScript",
+   "desc": "E-Commerce PWA Storefront - Shopware 6 Nuxt.JS Storefront",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "ecomplus/cloud-commerce",
+   "url": "https://github.com/ecomplus/cloud-commerce",
+   "stars": 54,
+   "lang": "TypeScript",
+   "desc": "Complete platform on top of headless commerce APIs. High performant Astro + Vue storefront with built-in CMS. Integrations for payments, shipping, ERPs, CRMs and others. Truly extensible event-driven",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "DivanteLtd/spartacus-capybara",
+   "url": "https://github.com/DivanteLtd/spartacus-capybara",
+   "stars": 45,
+   "lang": "TypeScript",
+   "desc": "SAP Spartacus Theme based on https://storefrontui.io look and feel and design system. Headless storefront solution for Hybris. Always Open Source, MIT license. Made with \ud83d\udc99 by Divante",
+   "pushed": "2023-01-05"
+  },
+  {
+   "full_name": "GatsbyStorefront/gatsby-starter-storefront-shopify",
+   "url": "https://github.com/GatsbyStorefront/gatsby-starter-storefront-shopify",
+   "stars": 44,
+   "lang": "JavaScript",
+   "desc": "Starter package for faster setup process of Gatsby Storefront.",
+   "pushed": "2023-06-10"
+  },
+  {
+   "full_name": "Agilo/medusawp",
+   "url": "https://github.com/Agilo/medusawp",
+   "stars": 40,
+   "lang": "PHP",
+   "desc": "MedusaWP enables you to use WordPress as a headless CMS or as a storefront for your Medusa shop.",
+   "pushed": "2024-10-14"
+  },
+  {
+   "full_name": "n-for-all/amerta",
+   "url": "https://github.com/n-for-all/amerta",
+   "stars": 38,
+   "lang": "TypeScript",
+   "desc": "Amerta is a modern, developer-first e-commerce framework built on top of Payload CMS and Next.js. It is designed to replace legacy platforms with a fully typed, scalable architecture that provides abs",
+   "pushed": "2026-08-26"
+  },
+  {
+   "full_name": "xcart/frontapp",
+   "url": "https://github.com/xcart/frontapp",
+   "stars": 32,
+   "lang": "TypeScript",
+   "desc": "Frontapp is X-Cart's solution for headless commerce. Built on top of Next.js framework it provides best-in-class templates for creating modern and performant commerce storefronts. Includes unbeatable",
+   "pushed": "2026-02-19"
+  },
+  {
+   "full_name": "BartoszLiburski/vsf-prismic",
+   "url": "https://github.com/BartoszLiburski/vsf-prismic",
+   "stars": 31,
+   "lang": "TypeScript",
+   "desc": "Headless Prismic CMS implementation to Vue-storefront",
+   "pushed": "2019-03-22"
+  },
+  {
+   "full_name": "sctg-development/fufuni",
+   "url": "https://github.com/sctg-development/fufuni",
+   "stars": 30,
+   "lang": "TypeScript",
+   "desc": "Cloudflare-native headless commerce platform with React, Hono, Durable Objects, Stripe, Auth0, and multilingual storefront/admin.",
+   "pushed": "2026-05-21"
+  },
+  {
+   "full_name": "binshops/react-ecommerce",
+   "url": "https://github.com/binshops/react-ecommerce",
+   "stars": 29,
+   "lang": "TypeScript",
+   "desc": "Modern eCommerce Storefront based on Next.js and React.js technologies. PrestaShop React.js Theme. PrestaShop NextJs.",
+   "pushed": "2025-09-30"
+  },
+  {
+   "full_name": "btreitz/nextjs-shopify-ecom-demo",
+   "url": "https://github.com/btreitz/nextjs-shopify-ecom-demo",
+   "stars": 25,
+   "lang": "TypeScript",
+   "desc": "A modern e-commerce application built using Next.js App Router. The application is designed to interact with Shopify via the Shopify Storefront API, but utilizes Shopify solely as Content Management S",
+   "pushed": "2024-06-22"
+  }
+ ]
+}

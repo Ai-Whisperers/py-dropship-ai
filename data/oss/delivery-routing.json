@@ -1,0 +1,222 @@
+{
+ "query": "delivery+routing",
+ "total_count": 5948,
+ "items": [
+  {
+   "full_name": "VROOM-Project/vroom",
+   "url": "https://github.com/VROOM-Project/vroom",
+   "stars": 1898,
+   "lang": "C++",
+   "desc": "Vehicle Routing Open-source Optimization Machine",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "zhnt/loushang",
+   "url": "https://github.com/zhnt/loushang",
+   "stars": 1831,
+   "lang": "Python",
+   "desc": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, K",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "zszszszsz/.config",
+   "url": "https://github.com/zszszszsz/.config",
+   "stars": 363,
+   "lang": "Shell",
+   "desc": "# # Automatically generated file; DO NOT EDIT. # OpenWrt Configuration # CONFIG_MODULES=y CONFIG_HAVE_DOT_CONFIG=y # CONFIG_TARGET_sunxi is not set # CONFIG_TARGET_apm821xx is not set # CONFIG_TARGET_",
+   "pushed": "2023-10-05"
+  },
+  {
+   "full_name": "analytix-energy-solutions/ticker",
+   "url": "https://github.com/analytix-energy-solutions/ticker",
+   "stars": 178,
+   "lang": "Python",
+   "desc": "Smart notification management for Home Assistant. Centralized routing, user subscriptions, smart delivery.",
+   "pushed": "2026-07-26"
+  },
+  {
+   "full_name": "jettbrains/-L-",
+   "url": "https://github.com/jettbrains/-L-",
+   "stars": 166,
+   "lang": null,
+   "desc": "W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet \u2014 September 2019. For th",
+   "pushed": "2021-08-18"
+  },
+  {
+   "full_name": "dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery",
+   "url": "https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery",
+   "stars": 156,
+   "lang": "Python",
+   "desc": "A MSc's Dissertation Project which focuses on Vehicle Routing Problem with Time Windows (VRPTW), using both exact method and heuristic approach (General Variable Neighbourhood Search)",
+   "pushed": "2019-10-19"
+  },
+  {
+   "full_name": "endmr11/routing_app",
+   "url": "https://github.com/endmr11/routing_app",
+   "stars": 117,
+   "lang": "Java",
+   "desc": "This project provides comprehensive solutions for vehicle routing, delivery scheduling, and optimization in logistics operations.",
+   "pushed": "2025-05-17"
+  },
+  {
+   "full_name": "grubhub/mdrplib",
+   "url": "https://github.com/grubhub/mdrplib",
+   "stars": 78,
+   "lang": "Python",
+   "desc": "Meal Delivery Routing Problem Test Instance Library",
+   "pushed": "2018-02-28"
+  },
+  {
+   "full_name": "txxa/hass-ans",
+   "url": "https://github.com/txxa/hass-ans",
+   "stars": 70,
+   "lang": "Python",
+   "desc": "Home Assistant integration for intelligent, centralized notification routing with advanced filtering, rate limiting, retries, and multi-channel delivery.",
+   "pushed": "2026-09-07"
+  },
+  {
+   "full_name": "javonn13/AWS-Basic-for-Beginners",
+   "url": "https://github.com/javonn13/AWS-Basic-for-Beginners",
+   "stars": 55,
+   "lang": null,
+   "desc": "This course will teach you AWS basics right through to advanced cloud computing concepts.  Ideal for beginners - absolutely no cloud computing experience is required!  There are lots of hands-on exerc",
+   "pushed": "2021-09-04"
+  },
+  {
+   "full_name": "NeiH4207/evrp-python",
+   "url": "https://github.com/NeiH4207/evrp-python",
+   "stars": 41,
+   "lang": "Python",
+   "desc": "The Electric Vehicle Routing Problem (EVRP) is a twist on the classic Vehicle Routing Problem (VRP) that considers the limitations of electric vehicles (EVs) for logistics and delivery planning.",
+   "pushed": "2024-08-08"
+  },
+  {
+   "full_name": "ecterceocgan/pickup-delivery-vrp",
+   "url": "https://github.com/ecterceocgan/pickup-delivery-vrp",
+   "stars": 39,
+   "lang": "Python",
+   "desc": "Naive branching implementation of a specific pick-up and delivery vehicle routing optimization problem.",
+   "pushed": "2019-10-25"
+  },
+  {
+   "full_name": "aws-samples/delivery-routes-optimization-for-logistics",
+   "url": "https://github.com/aws-samples/delivery-routes-optimization-for-logistics",
+   "stars": 33,
+   "lang": "TypeScript",
+   "desc": "Optimize Delivery Route and Order Dispatching",
+   "pushed": "2026-09-10"
+  },
+  {
+   "full_name": "goyal-aman/email-router",
+   "url": "https://github.com/goyal-aman/email-router",
+   "stars": 33,
+   "lang": "Go",
+   "desc": "Email Router is a programmable SMTP proxy that multiplexes outbound email at runtime via plugins, allowing fine-grained control over delivery based on sender, recipient, domain, volume, health checks,",
+   "pushed": "2026-04-25"
+  },
+  {
+   "full_name": "taxideftis/bathos",
+   "url": "https://github.com/taxideftis/bathos",
+   "stars": 30,
+   "lang": "Rust",
+   "desc": "AI Workflow Agent method of overwhelming depth \u2014 18 specialist roles, a 7-wave delivery pipeline, scale-adaptive routing, and hard quality gates, backed by a small Rust engine that makes the critical",
+   "pushed": "2026-09-30"
+  },
+  {
+   "full_name": "ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery",
+   "url": "https://github.com/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery",
+   "stars": 29,
+   "lang": "Python",
+   "desc": "Pickup-and-Delivery Problems (PDPs) constitute an important family of routing problems in which goods or passengers have to be transported from different origins to different destinations. These probl",
+   "pushed": "2019-08-13"
+  },
+  {
+   "full_name": "kristogodari/drone-delivery-routing-algorithm",
+   "url": "https://github.com/kristogodari/drone-delivery-routing-algorithm",
+   "stars": 25,
+   "lang": "Java",
+   "desc": "Given a fleet of drones, a list of customer orders, and availability of the individual products in warehouses, schedule the drone operations so that the orders are completed as soon as possible.",
+   "pushed": "2023-10-08"
+  },
+  {
+   "full_name": "VsevolodUstinov/openclaw-worker-relay",
+   "url": "https://github.com/VsevolodUstinov/openclaw-worker-relay",
+   "stars": 24,
+   "lang": "Python",
+   "desc": "Supervise Codex CLI and Claude Code workers from OpenClaw with async progress, routed delivery, wake, resume, and automation support.",
+   "pushed": "2026-07-21"
+  },
+  {
+   "full_name": "Viewovershock24/american-truck-simulator-hack-2026-trucking-toolkit",
+   "url": "https://github.com/Viewovershock24/american-truck-simulator-hack-2026-trucking-toolkit",
+   "stars": 24,
+   "lang": null,
+   "desc": "American Truck Simulator Hack 2026 themed PC companion for truck profiles, garage planning, upgrades, cargo routes, deliveries and driving analytics",
+   "pushed": "2026-10-02"
+  },
+  {
+   "full_name": "Genius-Society/rogsoft_goofish",
+   "url": "https://github.com/Genius-Society/rogsoft_goofish",
+   "stars": 24,
+   "lang": "Classic ASP",
+   "desc": "Goofish for Asuswrt is a Koolcenter plugin that brings Xianyu shop automation to ASUS routers. It features AI-powered reply, auto-delivery, order management, and multi-account support, helping merchan",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "vnvo/deltaforge",
+   "url": "https://github.com/vnvo/deltaforge",
+   "stars": 23,
+   "lang": "Rust",
+   "desc": "A versatile, high-performance Change Data Capture (CDC) engine built in Rust. Streams database changes into downstream systems like Kafka, Redis, NATS and etc, giving you full control over routing, tr",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Aiomx/Gisyit-Shop",
+   "url": "https://github.com/Aiomx/Gisyit-Shop",
+   "stars": 23,
+   "lang": "TypeScript",
+   "desc": "A high-performance, enterprise-ready full-stack e-commerce storefront built on React Router v7, Tailwind CSS v4, and Supabase, featuring idempotent Stripe payments, dynamic guest-to-member cart sync,",
+   "pushed": "2026-05-31"
+  },
+  {
+   "full_name": "RenatoMaynard/Routing-Problems-using-Google-Maps",
+   "url": "https://github.com/RenatoMaynard/Routing-Problems-using-Google-Maps",
+   "stars": 22,
+   "lang": "Jupyter Notebook",
+   "desc": "Optimal routing and delivery solutions using Google Maps and Python.",
+   "pushed": "2025-03-16"
+  },
+  {
+   "full_name": "ideas4u/Trading-Platform",
+   "url": "https://github.com/ideas4u/Trading-Platform",
+   "stars": 22,
+   "lang": null,
+   "desc": "This project is the most awaited project in open source community where every user who belongs to Stock Trading always wanted to develop its own software. This project has been developed specifically",
+   "pushed": "2014-01-25"
+  },
+  {
+   "full_name": "Trinkle23897/URBER",
+   "url": "https://github.com/Trinkle23897/URBER",
+   "stars": 21,
+   "lang": "Python",
+   "desc": "Code for URBER: Ultrafast Rule-Based Escape Routing Method for Large-Scale Sample Delivery Biochips",
+   "pushed": "2026-09-09"
+  },
+  {
+   "full_name": "ZainJavaid/AlertNotify",
+   "url": "https://github.com/ZainJavaid/AlertNotify",
+   "stars": 21,
+   "lang": "JavaScript",
+   "desc": "Self-Healing Adaptive Notification Framework leveraging multi-threaded delivery and load-balanced routing for a scalable intelligent Engine.",
+   "pushed": "2026-01-20"
+  },
+  {
+   "full_name": "meydanipamungkas/MATLAB_Code",
+   "url": "https://github.com/meydanipamungkas/MATLAB_Code",
+   "stars": 20,
+   "lang": "MATLAB",
+   "desc": "Code ini adalah Code Tugas Akhir berjudul \"Multi-Objective Vehicle Routing Problem with Time Window and Drones (MO-VRPTW-D) Menggunakan Algoritma Simulated Annealing dan Ant Colony Optimization untuk",
+   "pushed": "2022-02-21"
+  }
+ ]
+}

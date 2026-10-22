@@ -1,0 +1,134 @@
+{
+ "query": "email+marketing+automation",
+ "total_count": 791,
+ "items": [
+  {
+   "full_name": "vitorfs/colossus",
+   "url": "https://github.com/vitorfs/colossus",
+   "stars": 574,
+   "lang": "Python",
+   "desc": "Self-hosted email marketing solution",
+   "pushed": "2024-01-03"
+  },
+  {
+   "full_name": "ElliotKillick/rss2newsletter",
+   "url": "https://github.com/ElliotKillick/rss2newsletter",
+   "stars": 282,
+   "lang": "Python",
+   "desc": "Convert RSS/Atom feed to email newsletters",
+   "pushed": "2024-08-17"
+  },
+  {
+   "full_name": "Sfedfcv/redesigned-pancake",
+   "url": "https://github.com/Sfedfcv/redesigned-pancake",
+   "stars": 268,
+   "lang": null,
+   "desc": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration",
+   "pushed": "2021-05-16"
+  },
+  {
+   "full_name": "agnitas-org/openemm",
+   "url": "https://github.com/agnitas-org/openemm",
+   "stars": 169,
+   "lang": "JavaScript",
+   "desc": "Web-based software for email automation and marketing (newsletters, multi-stage mail campaigns, transaction mails, autoresponder, etc.)",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "mailchimp/mc-magento2",
+   "url": "https://github.com/mailchimp/mc-magento2",
+   "stars": 159,
+   "lang": "PHP",
+   "desc": "MailChimp for Magento 2. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "AgriciDaniel/claude-email",
+   "url": "https://github.com/AgriciDaniel/claude-email",
+   "stars": 132,
+   "lang": "Python",
+   "desc": "AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.",
+   "pushed": "2026-05-23"
+  },
+  {
+   "full_name": "mailchimp/mc-magento",
+   "url": "https://github.com/mailchimp/mc-magento",
+   "stars": 120,
+   "lang": "PHP",
+   "desc": "Mailchimp for Magento 1 Integration. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.",
+   "pushed": "2026-04-18"
+  },
+  {
+   "full_name": "mailchimp/mc-woocommerce",
+   "url": "https://github.com/mailchimp/mc-woocommerce",
+   "stars": 84,
+   "lang": "PHP",
+   "desc": "MailChimp for Woocommerce Integration. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "marketinguys/awesome-email-marketing",
+   "url": "https://github.com/marketinguys/awesome-email-marketing",
+   "stars": 61,
+   "lang": null,
+   "desc": "A curated list of tools, templates, platforms, and resources for email marketing, covering newsletter creation, automation, analytics, deliverability, AI copywriting, and more.",
+   "pushed": "2025-06-08"
+  },
+  {
+   "full_name": "sequence-so/sequence",
+   "url": "https://github.com/sequence-so/sequence",
+   "stars": 55,
+   "lang": "TypeScript",
+   "desc": "Sequence is an open source email marketing automation tool.",
+   "pushed": "2021-07-23"
+  },
+  {
+   "full_name": "krishna-build/claude-coach-kit",
+   "url": "https://github.com/krishna-build/claude-coach-kit",
+   "stars": 46,
+   "lang": "TypeScript",
+   "desc": "\ud83d\ude80 Open-source marketing automation toolkit for coaches & solopreneurs \u2014 built entirely with Claude. Email sequences, payment tracking, UTM attribution, analytics dashboard. Supabase + React.",
+   "pushed": "2026-03-16"
+  },
+  {
+   "full_name": "mailxem/mail",
+   "url": "https://github.com/mailxem/mail",
+   "stars": 43,
+   "lang": "Go",
+   "desc": "A thoughtful home for your email marketing. Open-source campaigns, automations, and APIs. Self-host with Docker Swarm.",
+   "pushed": "2026-10-07"
+  },
+  {
+   "full_name": "inboundnow/inbound-pro",
+   "url": "https://github.com/inboundnow/inbound-pro",
+   "stars": 30,
+   "lang": "PHP",
+   "desc": "Inbound Pro Plugin for WordPress - Landing Page Framework, Calls to Action Framework, Visitor Analytics & List Segmentation, Email Campaigns & Marketing Automation",
+   "pushed": "2021-06-21"
+  },
+  {
+   "full_name": "Mr-Asante/AI-Automations",
+   "url": "https://github.com/Mr-Asante/AI-Automations",
+   "stars": 27,
+   "lang": null,
+   "desc": "A collection of Make.com AI automation blueprints for marketing, sales, and productivity \u2014 featuring automated workflows for content generation, email, social media, lead management, and more.",
+   "pushed": "2025-05-04"
+  },
+  {
+   "full_name": "gh-ost00/SQL_Injection",
+   "url": "https://github.com/gh-ost00/SQL_Injection",
+   "stars": 22,
+   "lang": null,
+   "desc": "Icegram Express - Email Subscribers, Newsletters and Marketing Automation Plugin <= 5.7.14 - Unauthenticated SQL Injection",
+   "pushed": "2024-09-15"
+  },
+  {
+   "full_name": "achref-soua/helio",
+   "url": "https://github.com/achref-soua/helio",
+   "stars": 20,
+   "lang": "TypeScript",
+   "desc": "The open-source growth platform \u2014 AI-native marketing automation: CDP, segmentation, cross-channel journeys, email, analytics. Self-hostable, data-sovereign.",
+   "pushed": "2026-06-29"
+  }
+ ]
+}

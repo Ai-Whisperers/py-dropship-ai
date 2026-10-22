@@ -1,0 +1,54 @@
+{
+ "query": "ocr+invoice+receipt",
+ "total_count": 234,
+ "items": [
+  {
+   "full_name": "ReceiptManager/receipt-parser-legacy",
+   "url": "https://github.com/ReceiptManager/receipt-parser-legacy",
+   "stars": 853,
+   "lang": "Python",
+   "desc": "A supermarket receipt parser written in Python using tesseract OCR",
+   "pushed": "2024-08-28"
+  },
+  {
+   "full_name": "knotsberryofficial-hash/n8n-node-billflux-invoice-receipt-ocr",
+   "url": "https://github.com/knotsberryofficial-hash/n8n-node-billflux-invoice-receipt-ocr",
+   "stars": 81,
+   "lang": "TypeScript",
+   "desc": "",
+   "pushed": "2026-03-23"
+  },
+  {
+   "full_name": "veryfi/veryfi-nodejs",
+   "url": "https://github.com/veryfi/veryfi-nodejs",
+   "stars": 32,
+   "lang": "JavaScript",
+   "desc": "Node.js module for communicating with the Veryfi OCR API. || read: https://veryfi.com/nodejs",
+   "pushed": "2026-09-21"
+  },
+  {
+   "full_name": "veryfi/veryfi-python",
+   "url": "https://github.com/veryfi/veryfi-python",
+   "stars": 31,
+   "lang": "Python",
+   "desc": "Python module for communicating with the Veryfi OCR API.",
+   "pushed": "2026-05-14"
+  },
+  {
+   "full_name": "veryfi/veryfi-go",
+   "url": "https://github.com/veryfi/veryfi-go",
+   "stars": 24,
+   "lang": "Go",
+   "desc": "Go module for communicating with the Veryfi OCR API.",
+   "pushed": "2026-07-24"
+  },
+  {
+   "full_name": "agrawalamod/Receipt-Scanner-in-OpenCV",
+   "url": "https://github.com/agrawalamod/Receipt-Scanner-in-OpenCV",
+   "stars": 21,
+   "lang": "C++",
+   "desc": "Image Analysis Project: Built a system to take images of receipts or invoices as input and segment the text on the receipt. Using Tesseract OCR, we extracted the text from the receipts and stored it i",
+   "pushed": "2015-12-03"
+  }
+ ]
+}

@@ -1,0 +1,798 @@
+{
+ "query": "llm+gateway",
+ "total_count": 11376,
+ "items": [
+  {
+   "full_name": "bytedance/deer-flow",
+   "url": "https://github.com/bytedance/deer-flow",
+   "stars": 84258,
+   "lang": "Python",
+   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "BerriAI/litellm",
+   "url": "https://github.com/BerriAI/litellm",
+   "stars": 61758,
+   "lang": "Python",
+   "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "QuantumNous/new-api",
+   "url": "https://github.com/QuantumNous/new-api",
+   "stars": 50421,
+   "lang": "Go",
+   "desc": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "casdoor/casdoor",
+   "url": "https://github.com/casdoor/casdoor",
+   "stars": 14629,
+   "lang": "Go",
+   "desc": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA,",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Portkey-AI/gateway",
+   "url": "https://github.com/Portkey-AI/gateway",
+   "stars": 13245,
+   "lang": "TypeScript",
+   "desc": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+   "pushed": "2026-05-25"
+  },
+  {
+   "full_name": "TykTechnologies/tyk",
+   "url": "https://github.com/TykTechnologies/tyk",
+   "stars": 10868,
+   "lang": "Go",
+   "desc": "Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "coaidev/coai",
+   "url": "https://github.com/coaidev/coai",
+   "stars": 9333,
+   "lang": "TypeScript",
+   "desc": "\ud83d\ude80 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co",
+   "pushed": "2026-03-12"
+  },
+  {
+   "full_name": "maximhq/bifrost",
+   "url": "https://github.com/maximhq/bifrost",
+   "stars": 9004,
+   "lang": "Go",
+   "desc": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, v",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "mnfst/llm-gateway",
+   "url": "https://github.com/mnfst/llm-gateway",
+   "stars": 7595,
+   "lang": "TypeScript",
+   "desc": "Open Source LLM Gateway \ud83e\udd9a",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "tbphp/gpt-load",
+   "url": "https://github.com/tbphp/gpt-load",
+   "stars": 7163,
+   "lang": "Go",
+   "desc": "Self-hosted AI gateway for multi-channel, multi-credential setups \u2014 API keys and subscription accounts, scheduling, failover, request logs and usage. \u81ea\u6258\u7ba1 AI \u7f51\u5173\uff1a\u591a\u6e20\u9053\u591a\u51ed\u636e\u7edf\u4e00\u63a5\u5165\uff0c\u542b\u5bc6\u94a5\u4e0e\u8ba2\u9605\u8d26\u53f7\u3001\u8c03\u5ea6\u5bb9\u9519\u3001\u65e5\u5fd7\u4e0e\u7528\u91cf\u3002",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "katanemo/plano",
+   "url": "https://github.com/katanemo/plano",
+   "stars": 7097,
+   "lang": "Rust",
+   "desc": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
+   "pushed": "2026-10-07"
+  },
+  {
+   "full_name": "looplj/axonhub",
+   "url": "https://github.com/looplj/axonhub",
+   "stars": 5378,
+   "lang": "Go",
+   "desc": "\u26a1\ufe0f Open-source AI Gateway \u2014 Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "yvgude/lean-ctx",
+   "url": "https://github.com/yvgude/lean-ctx",
+   "stars": 3898,
+   "lang": "Rust",
+   "desc": "LeanCTX is the Context Gateway for AI Systems. Select task-relevant context, apply supported controls, connect local knowledge and inspect recorded evidence. Open-source Engine: CLI, MCP, hooks and su",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "jwadow/kiro-gateway",
+   "url": "https://github.com/jwadow/kiro-gateway",
+   "stars": 2327,
+   "lang": "Python",
+   "desc": "\ud83d\udc7b Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.",
+   "pushed": "2026-05-18"
+  },
+  {
+   "full_name": "theagentrouter/agent-router",
+   "url": "https://github.com/theagentrouter/agent-router",
+   "stars": 2261,
+   "lang": "Go",
+   "desc": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "future-agi/future-agi",
+   "url": "https://github.com/future-agi/future-agi",
+   "stars": 2187,
+   "lang": "Python",
+   "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "APIParkLab/APIPark",
+   "url": "https://github.com/APIParkLab/APIPark",
+   "stars": 1822,
+   "lang": "TypeScript",
+   "desc": "Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.\ud83e\udd84\u4e91\u539f\u751f\u3001\u8d85\u9ad8\u6027\u80fd AI&API\u7f51\u5173\uff0cLLM API \u7ba1\u7406\u3001\u5206\u53d1\u7cfb\u7edf\u3001\u5f00\u653e\u5e73\u53f0\uff0c\u652f\u6301\u6240\u6709AI API\uff0c\u4e0d\u9650\u4e8eOpenAI\u3001Azure\u3001A",
+   "pushed": "2026-09-09"
+  },
+  {
+   "full_name": "ENTERPILOT/GoModel",
+   "url": "https://github.com/ENTERPILOT/GoModel",
+   "stars": 1266,
+   "lang": "Go",
+   "desc": "AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative wi",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "bricks-cloud/BricksLLM",
+   "url": "https://github.com/bricks-cloud/BricksLLM",
+   "stars": 1230,
+   "lang": "Go",
+   "desc": "\ud83d\udd12 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,",
+   "pushed": "2025-01-05"
+  },
+  {
+   "full_name": "ASCIT31/Dark-Moon",
+   "url": "https://github.com/ASCIT31/Dark-Moon",
+   "stars": 1126,
+   "lang": "Python",
+   "desc": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gate",
+   "pushed": "2026-10-01"
+  },
+  {
+   "full_name": "kittors/CliRelay",
+   "url": "https://github.com/kittors/CliRelay",
+   "stars": 1039,
+   "lang": "Go",
+   "desc": "Self-hosted AI gateway for coding CLIs \u2014 one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "microsoft/mcp-gateway",
+   "url": "https://github.com/microsoft/mcp-gateway",
+   "stars": 890,
+   "lang": "C#",
+   "desc": "MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "HelpCode-ai/anythingmcp",
+   "url": "https://github.com/HelpCode-ai/anythingmcp",
+   "stars": 775,
+   "lang": "TypeScript",
+   "desc": "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 517 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "myccarl/ai-shortVideo-pipeline",
+   "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+   "stars": 763,
+   "lang": "Python",
+   "desc": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt",
+   "pushed": "2026-09-02"
+  },
+  {
+   "full_name": "mozilla-ai/otari",
+   "url": "https://github.com/mozilla-ai/otari",
+   "stars": 719,
+   "lang": "Python",
+   "desc": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "smg-project/smg",
+   "url": "https://github.com/smg-project/smg",
+   "stars": 659,
+   "lang": "Rust",
+   "desc": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, ch",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "apache/casbin-gateway",
+   "url": "https://github.com/apache/casbin-gateway",
+   "stars": 643,
+   "lang": "Go",
+   "desc": "See what every AI coding agent on your machine is doing, and whether the API behind it is the one you paid for. Claude Code, Codex, Cursor, Gemini CLI and more: one endpoint for 44 model vendors, A\u2013F",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Helicone/ai-gateway",
+   "url": "https://github.com/Helicone/ai-gateway",
+   "stars": 638,
+   "lang": "Rust",
+   "desc": "The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.",
+   "pushed": "2025-11-21"
+  },
+  {
+   "full_name": "sdcb/chats",
+   "url": "https://github.com/sdcb/chats",
+   "stars": 613,
+   "lang": "C#",
+   "desc": "A powerful and flexible frontend & AI gateway for large language models, supporting 21+ mainstream AI model providers.",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "adaline/gateway",
+   "url": "https://github.com/adaline/gateway",
+   "stars": 607,
+   "lang": "TypeScript",
+   "desc": "The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.",
+   "pushed": "2026-07-29"
+  },
+  {
+   "full_name": "DemonDamon/AgenticX",
+   "url": "https://github.com/DemonDamon/AgenticX",
+   "stars": 592,
+   "lang": "Python",
+   "desc": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical m",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "zengxiao-he/tessera",
+   "url": "https://github.com/zengxiao-he/tessera",
+   "stars": 560,
+   "lang": "Python",
+   "desc": "From teacher to tiles \u2014 a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracl",
+   "pushed": "2026-10-09"
+  },
+  {
+   "full_name": "Mirrowel/LLM-API-Key-Proxy",
+   "url": "https://github.com/Mirrowel/LLM-API-Key-Proxy",
+   "stars": 557,
+   "lang": "Python",
+   "desc": "Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing.",
+   "pushed": "2026-09-23"
+  },
+  {
+   "full_name": "centralmind/gateway",
+   "url": "https://github.com/centralmind/gateway",
+   "stars": 548,
+   "lang": "Go",
+   "desc": "Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.",
+   "pushed": "2025-07-18"
+  },
+  {
+   "full_name": "pasky/claude.vim",
+   "url": "https://github.com/pasky/claude.vim",
+   "stars": 470,
+   "lang": "Vim Script",
+   "desc": "Claude vim plugin for AI pair programming - a hacker's gateway to LLMs",
+   "pushed": "2025-05-22"
+  },
+  {
+   "full_name": "TokenFlux/TokenRouter",
+   "url": "https://github.com/TokenFlux/TokenRouter",
+   "stars": 385,
+   "lang": "Go",
+   "desc": "tokenrouter is the next generation llm gateway",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "schmitech/orbit",
+   "url": "https://github.com/schmitech/orbit",
+   "stars": 355,
+   "lang": "Python",
+   "desc": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "tingly-dev/tingly-box",
+   "url": "https://github.com/tingly-dev/tingly-box",
+   "stars": 353,
+   "lang": "Go",
+   "desc": "Your Intelligence, Orchestrated. Any Model, Any Agent, Any One.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "packyme/privacy-filter",
+   "url": "https://github.com/packyme/privacy-filter",
+   "stars": 338,
+   "lang": "Go",
+   "desc": "LLM privacy gateway in Go \u2014 millisecond-latency PII and secret redaction. Used in production by PackyCode.",
+   "pushed": "2026-06-09"
+  },
+  {
+   "full_name": "mfoud444/ollamafreeapi",
+   "url": "https://github.com/mfoud444/ollamafreeapi",
+   "stars": 323,
+   "lang": "Python",
+   "desc": "OllamaFreeAPI: Free Distributed API for Ollama LLMs  Public gateway to our managed Ollama servers with: - Zero-configuration access to 50+ models - Auto load-balanced across global nodes - Free tier w",
+   "pushed": "2026-10-06"
+  },
+  {
+   "full_name": "atopos31/llmio",
+   "url": "https://github.com/atopos31/llmio",
+   "stars": 321,
+   "lang": "Go",
+   "desc": "Unified LLM gateway with weighted load balancing, observability & cost tracking. \u7edf\u4e00\u7684 LLM \u7f51\u5173\uff0c\u63d0\u4f9b\u6743\u91cd\u8d1f\u8f7d\u5747\u8861\u3001\u53ef\u89c2\u6d4b\u6027\u4e0e\u8d39\u7528\u8ffd\u8e2a\u3002",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "GautamVhavle/CatGPT-Gateway",
+   "url": "https://github.com/GautamVhavle/CatGPT-Gateway",
+   "stars": 305,
+   "lang": "Python",
+   "desc": "Turn your ChatGPT or Claude account into a fully working OpenAI-compatible API. No API keys needed. Supports tool calling, vision, file attachments, and image generation.",
+   "pushed": "2026-09-14"
+  },
+  {
+   "full_name": "finch-xu/cc-router",
+   "url": "https://github.com/finch-xu/cc-router",
+   "stars": 285,
+   "lang": "Rust",
+   "desc": "\u672c\u5730\u8fd0\u884c\u7684\u5927\u6a21\u578b\u805a\u5408\u7f51\u5173\uff0cGUI\u684c\u9762\u7aefapp\uff0c\u96f6\u4ee3\u7801\u90e8\u7f72\uff0c\u628aCoding Plan\u3001\u5927\u6a21\u578b API \u989d\u5ea6\u805a\u5408\u6210\u4e00\u4e2a\u865a\u62df Plan\uff0c\u4e00\u952e\u63a5\u5165 Claude Code\u3001Claude Desktop App\u3001OpenClaw\u3001OpenCode \u7b49\u5de5\u5177\u3002Bundle your scattered Token Plan, Coding Plan, and LLM API quotas into a sing",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "ferro-labs/ai-gateway",
+   "url": "https://github.com/ferro-labs/ai-gateway",
+   "stars": 272,
+   "lang": "Go",
+   "desc": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost controls. Go-native Fastest & Scalable AI Gateway LiteLLM & Kong AI Gateway alternativ",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "aws-solutions-library-samples/guidance-for-multi-provider-generative-ai-gateway-on-aws",
+   "url": "https://github.com/aws-solutions-library-samples/guidance-for-multi-provider-generative-ai-gateway-on-aws",
+   "stars": 268,
+   "lang": "HCL",
+   "desc": "This Guidance demonstrates how to streamline access to numerous large language models (LLMs) through a unified, industry-standard API gateway based on OpenAI API standards",
+   "pushed": "2026-10-06"
+  },
+  {
+   "full_name": "LeenHawk/gproxy",
+   "url": "https://github.com/LeenHawk/gproxy",
+   "stars": 262,
+   "lang": "Rust",
+   "desc": "gproxy is a Rust-based multi-channel LLM proxy that exposes OpenAI / Claude / Gemini-style APIs through a unified gateway, with a built-in admin console, user/key management, and request/usage auditin",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "chigwell/llm7.io",
+   "url": "https://github.com/chigwell/llm7.io",
+   "stars": 245,
+   "lang": "TypeScript",
+   "desc": "LLM7.io offers a single API gateway that connects you to a wide array of leading AI models from various providers.",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "btsouth/toolport",
+   "url": "https://github.com/btsouth/toolport",
+   "stars": 235,
+   "lang": "Rust",
+   "desc": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and quarantine, and on-demand tool search for clients that load",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "traceloop/hub",
+   "url": "https://github.com/traceloop/hub",
+   "stars": 232,
+   "lang": "Rust",
+   "desc": "High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included",
+   "pushed": "2026-07-16"
+  },
+  {
+   "full_name": "inference-gateway/inference-gateway",
+   "url": "https://github.com/inference-gateway/inference-gateway",
+   "stars": 217,
+   "lang": "Go",
+   "desc": "An open-source, cloud-native, high-performance gateway unifying multiple LLM providers, from local solutions like Ollama to major cloud providers such as OpenAI, Groq, Cohere, Anthropic, Cloudflare an",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "luqman-v1/9router-go",
+   "url": "https://github.com/luqman-v1/9router-go",
+   "stars": 216,
+   "lang": "Go",
+   "desc": "High-performance Go proxy gateway for 9Router LLM routing \u2014 32K RPS, 42MB RAM, CGO-free",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "yolorouter/yolorouter",
+   "url": "https://github.com/yolorouter/yolorouter",
+   "stars": 216,
+   "lang": "Go",
+   "desc": "A self-hosted, OpenAI-compatible LLM gateway with multi-provider failover, key rotation, and a built-in admin console.",
+   "pushed": "2026-10-11"
+  },
+  {
+   "full_name": "ailinone/collective-intelligence",
+   "url": "https://github.com/ailinone/collective-intelligence",
+   "stars": 214,
+   "lang": "TypeScript",
+   "desc": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reason",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "mos1128/ccg-gateway",
+   "url": "https://github.com/mos1128/ccg-gateway",
+   "stars": 203,
+   "lang": "Rust",
+   "desc": "\u591aAgent\u517c\u5bb9LLM\u667a\u80fd\u7f51\u5173\u4e0e\u6548\u7387\u5de5\u5177",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "zhixiangxue/chak-ai",
+   "url": "https://github.com/zhixiangxue/chak-ai",
+   "stars": 201,
+   "lang": "Python",
+   "desc": "A simple, yet handy, LLM gateway.",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "api7/aisix",
+   "url": "https://github.com/api7/aisix",
+   "stars": 201,
+   "lang": "Rust",
+   "desc": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock & more \u2014 routing, guardrails, caching, rate limits, observability.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "gebruder/wirken",
+   "url": "https://github.com/gebruder/wirken",
+   "stars": 191,
+   "lang": "Rust",
+   "desc": "The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "coddy-project/coddy-agent",
+   "url": "https://github.com/coddy-project/coddy-agent",
+   "stars": 183,
+   "lang": "Go",
+   "desc": "General-purpose agent in one static Go binary: console TUI, ACP server for editors, OpenAI-compatible API with embedded web UI, Telegram gateway, cron scheduler, swarm relay, remote mode. Rules, skill",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "aipotheosis-labs/gate22",
+   "url": "https://github.com/aipotheosis-labs/gate22",
+   "stars": 180,
+   "lang": "TypeScript",
+   "desc": "Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it\u2019s audited\u2014across agentic IDEs like Cursor, or other agents and AI tools.",
+   "pushed": "2025-12-12"
+  },
+  {
+   "full_name": "trylonai/gateway",
+   "url": "https://github.com/trylonai/gateway",
+   "stars": 179,
+   "lang": "Python",
+   "desc": "The Open Source Firewall for LLMs. A self-hosted gateway to secure and control AI applications with powerful guardrails.",
+   "pushed": "2025-06-25"
+  },
+  {
+   "full_name": "garan0613/pawwake",
+   "url": "https://github.com/garan0613/pawwake",
+   "stars": 162,
+   "lang": "Python",
+   "desc": "\ud83d\udc3e \u7ed9AI\u52a0\u957f\u671f\u8bb0\u5fc6\u7684\u8f7b\u91cf\u7f51\u5173 / A lightweight gateway that adds long-term memory to any LLM",
+   "pushed": "2026-10-13"
+  },
+  {
+   "full_name": "EinStack/glide",
+   "url": "https://github.com/EinStack/glide",
+   "stars": 160,
+   "lang": "Go",
+   "desc": "\ud83d\udc26 A open blazing-fast simple model gateway for rapid development of production GenAI apps",
+   "pushed": "2024-08-12"
+  },
+  {
+   "full_name": "Nayjest/lm-proxy",
+   "url": "https://github.com/Nayjest/lm-proxy",
+   "stars": 157,
+   "lang": "Python",
+   "desc": "OpenAI-compatible HTTP LLM proxy / gateway for multi-provider inference (Google, Anthropic, OpenAI, PyTorch). Lightweight, extensible Python/FastAPI\u2014use as library or standalone service.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "apimart001a/llm-gateway-comparison",
+   "url": "https://github.com/apimart001a/llm-gateway-comparison",
+   "stars": 155,
+   "lang": "Python",
+   "desc": "LLM gateway comparison: self-hosted and managed AI API gateways compared on protocol compatibility, billing units, timeout and retry semantics, idempotency, quotas and observability.",
+   "pushed": "2026-09-20"
+  },
+  {
+   "full_name": "peva3/SmarterRouter",
+   "url": "https://github.com/peva3/SmarterRouter",
+   "stars": 154,
+   "lang": "Python",
+   "desc": "SmarterRouter: An intelligent LLM gateway and VRAM-aware router for Ollama, llama.cpp, and OpenAI. Features semantic caching, model profiling, and automatic failover for local AI labs.",
+   "pushed": "2026-05-10"
+  },
+  {
+   "full_name": "eliasbiondo/antirion",
+   "url": "https://github.com/eliasbiondo/antirion",
+   "stars": 154,
+   "lang": "Rust",
+   "desc": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "langfuse/oss-llmops-stack",
+   "url": "https://github.com/langfuse/oss-llmops-stack",
+   "stars": 153,
+   "lang": null,
+   "desc": "Modular, open source LLMOps stack that separates concerns: LiteLLM unifies LLM APIs, manages routing and cost controls, and ensures high-availability, while Langfuse focuses on detailed observability,",
+   "pushed": "2026-07-28"
+  },
+  {
+   "full_name": "tiylabs/tiygate",
+   "url": "https://github.com/tiylabs/tiygate",
+   "stars": 146,
+   "lang": "Rust",
+   "desc": "TiyGate is a lightweight gateway for highly available LLM services. \u4e00\u6b3e\u81f4\u529b\u4e8e\u63d0\u4f9b\u9ad8\u53ef\u7528 LLM \u670d\u52a1\u7684\u8f7b\u91cf\u7ea7\u7f51\u5173\u3002",
+   "pushed": "2026-10-07"
+  },
+  {
+   "full_name": "Portkey-AI/models",
+   "url": "https://github.com/Portkey-AI/models",
+   "stars": 143,
+   "lang": "JavaScript",
+   "desc": "This repository contains comprehensive pricing and configuration data for LLMs. It powers cost attribution for 200+ enterprises running 400B+ tokens through Portkey AI Gateway every day.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "voidmind-io/voidllm",
+   "url": "https://github.com/voidmind-io/voidllm",
+   "stars": 143,
+   "lang": "Go",
+   "desc": "Privacy-first LLM proxy and AI gateway - load balancing, multi-provider routing, API key management, usage tracking, rate limiting. Self-hosted. Zero knowledge of your prompts.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "HsienW/chat-gun",
+   "url": "https://github.com/HsienW/chat-gun",
+   "stars": 143,
+   "lang": "TypeScript",
+   "desc": "\ud83e\udd16 Full-stack Agent chat runtime built with React, TypeScript and LangGraph JS. Streaming, multimodal input, human-in-the-loop, native + MCP tools, Qwen/OpenAI-compatible LLM gateway, BFF with trusted",
+   "pushed": "2026-10-17"
+  },
+  {
+   "full_name": "AprilNEA/BYOKEY",
+   "url": "https://github.com/AprilNEA/BYOKEY",
+   "stars": 138,
+   "lang": "Rust",
+   "desc": "Turn AI subscriptions into standard API endpoints. OpenAI & Anthropic compatible gateway \u2014 for Amp Code, Cursor, Factory CLI, and more.",
+   "pushed": "2026-10-11"
+  },
+  {
+   "full_name": "esinecan/skynet-agent",
+   "url": "https://github.com/esinecan/skynet-agent",
+   "stars": 135,
+   "lang": "TypeScript",
+   "desc": "An Open Source, Claude Code Like Tool, With RAG + Graph RAG + MCP Integration, and Supports Most LLMs (Incomplete But Functional & Usable)Autonomous LLM agent: ChromaDB semantic RAG + Neo4j knowledge-",
+   "pushed": "2026-04-24"
+  },
+  {
+   "full_name": "cuihuan/awesome-ai-gateway",
+   "url": "https://github.com/cuihuan/awesome-ai-gateway",
+   "stars": 134,
+   "lang": "HTML",
+   "desc": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actual",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Felix-au/OmniKey-AI-Unified-Key-Manager",
+   "url": "https://github.com/Felix-au/OmniKey-AI-Unified-Key-Manager",
+   "stars": 133,
+   "lang": "TypeScript",
+   "desc": "A self-hosted LLM proxy and failover gateway supporting OpenAI & Gemini compatible endpoints. Routes requests dynamically across 12+ LLM platforms with automatic fallback, key scheduling, rate-limit t",
+   "pushed": "2026-10-13"
+  },
+  {
+   "full_name": "aitechnav/Sentinel_Guard",
+   "url": "https://github.com/aitechnav/Sentinel_Guard",
+   "stars": 130,
+   "lang": "Python",
+   "desc": "Security first LLM gateway and guardrails for AI applications, agents and AI powered IDEs",
+   "pushed": "2026-09-01"
+  },
+  {
+   "full_name": "0xzr/freellmpool",
+   "url": "https://github.com/0xzr/freellmpool",
+   "stars": 129,
+   "lang": "Python",
+   "desc": "Free LLM gateway: 22 LLM providers, 178 enabled chat routes, 431 cataloged chat models; keyless start when available.",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "sina2266/Gozar",
+   "url": "https://github.com/sina2266/Gozar",
+   "stars": 129,
+   "lang": "Python",
+   "desc": "Self-hosted, Docker-first OpenAI-compatible LLM gateway with provider routing, fallbacks, API keys, and usage controls.",
+   "pushed": "2026-08-05"
+  },
+  {
+   "full_name": "MoyuFamily/ai-relay",
+   "url": "https://github.com/MoyuFamily/ai-relay",
+   "stars": 128,
+   "lang": "TypeScript",
+   "desc": "Open-source AI API Gateway | Serverless & VPS Self-hosted | Vercel, Cloudflare & Local | Multi-Provider, Smart Routing, Key Rotation & Failover",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "VkRainB/ccMesh",
+   "url": "https://github.com/VkRainB/ccMesh",
+   "stars": 127,
+   "lang": "Rust",
+   "desc": "Claude Code / Codex local AI proxy gateway desktop app (Tauri). Anthropic Messages <-> OpenAI-compatible protocol transform, model mapping, endpoint rotation/failover. \u672c\u5730\u684c\u9762\u4ee3\u7406\u7f51\u5173\uff1a\u534f\u8bae\u8f6c\u6362\u3001\u6a21\u578b\u6620\u5c04\u3001\u591a\u7aef\u70b9\u8f6e\u6362/\u7194\u65ad\uff0c\u5bf9\u63a5\u5b98\u65b9",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "respanai/respan-gateway",
+   "url": "https://github.com/respanai/respan-gateway",
+   "stars": 126,
+   "lang": "Rust",
+   "desc": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "seuros/action_mcp",
+   "url": "https://github.com/seuros/action_mcp",
+   "stars": 122,
+   "lang": "Ruby",
+   "desc": "Rails Engine with MCP compliant Spec.",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "majiayu000/litellm-rs",
+   "url": "https://github.com/majiayu000/litellm-rs",
+   "stars": 121,
+   "lang": "Rust",
+   "desc": "Self-hosted Rust LLM gateway with OpenAI-compatible APIs, load balancing, failover, and a reusable Rust kernel.",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "aayushgames19-hash/claude-gateway-manager",
+   "url": "https://github.com/aayushgames19-hash/claude-gateway-manager",
+   "stars": 119,
+   "lang": "HTML",
+   "desc": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "modelpointer/modelpointer",
+   "url": "https://github.com/modelpointer/modelpointer",
+   "stars": 117,
+   "lang": "Rust",
+   "desc": "A high-performance AI gateway written in Rust. It sits in front of your LLM backends and exposes a unified API surface to clients, handling routing, load balancing, rate limiting, and observability.",
+   "pushed": "2026-08-24"
+  },
+  {
+   "full_name": "khankamraan2006-crypto/fabric-router-core",
+   "url": "https://github.com/khankamraan2006-crypto/fabric-router-core",
+   "stars": 116,
+   "lang": "HTML",
+   "desc": "Smart Factory LLM Routing & OAuth Gateway Plugin 2026",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "AlephantAI/AIephant-AI-Agent-Gateway",
+   "url": "https://github.com/AlephantAI/AIephant-AI-Agent-Gateway",
+   "stars": 114,
+   "lang": "Rust",
+   "desc": "Alephant is an open-source AI Agent Gateway for routing, tracking, and controlling LLM usage across AI agents, members, and workflows, and for publishing agent capabilities as paid endpoints with x402",
+   "pushed": "2026-06-12"
+  },
+  {
+   "full_name": "aliang-one/aliangboard",
+   "url": "https://github.com/aliang-one/aliangboard",
+   "stars": 113,
+   "lang": "JavaScript",
+   "desc": "An open-source, AI-native Kubernetes panel \u2014 full multi-cluster management via a Vue 3 + Node gateway, with a built-in Agent workbench and MCP server that lets LLMs read, write, and operate your clust",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "hwttop5/tabbit2api",
+   "url": "https://github.com/hwttop5/tabbit2api",
+   "stars": 110,
+   "lang": "JavaScript",
+   "desc": "\u4e00\u4e2a\u672c\u5730\u7f51\u5173\uff0c\u628a Tabbit Web Chat \u80fd\u529b\u6865\u63a5\u6210 API \u7ed9\u5916\u90e8\u8c03\u7528\uff0c\u767d\u5ad6\u6700\u65b0\u7684\u5927\u6a21\u578b GPT-5.5\u3001 Opus-4.8 \u7b49\u3002|  A local gateway that turns Tabbit into an API, letting you freeload the latest LLMs \u2014 GPT-5.5, Opus 4.8, and more.",
+   "pushed": "2026-08-18"
+  },
+  {
+   "full_name": "wink-run/tokenbank",
+   "url": "https://github.com/wink-run/tokenbank",
+   "stars": 109,
+   "lang": "JavaScript",
+   "desc": "Token Bank \u2014 the local LLM gateway that sits between your AI agents and every provider.  Know where tokens go \u00b7 Spend less with smart routing to Ollama, Groq, GitHub Models \u00b7 Earn by sharing idle quot",
+   "pushed": "2026-10-01"
+  },
+  {
+   "full_name": "TomLeeLive/openclaw-unity-plugin",
+   "url": "https://github.com/TomLeeLive/openclaw-unity-plugin",
+   "stars": 107,
+   "lang": "C#",
+   "desc": "55 MCP tools to drive the Unity Editor from any MCP-compatible AI agent \u2014 scenes, GameObjects, prefabs, assets, tests, and builds. OpenClaw gateway included for remote and chat access.",
+   "pushed": "2026-09-08"
+  },
+  {
+   "full_name": "ShadowSafin/Synapass",
+   "url": "https://github.com/ShadowSafin/Synapass",
+   "stars": 106,
+   "lang": "Go",
+   "desc": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "BkashJEE/hermes-bot-forge",
+   "url": "https://github.com/BkashJEE/hermes-bot-forge",
+   "stars": 105,
+   "lang": "Python",
+   "desc": "Hermes Agent plugin: say 'make me a <role>' and your agent builds a complete, working Bot \u2014 name, face, SOUL.md, memory, tools, skills, routines, gateway.",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "CassiopeiaCode/CosyRedactGateway",
+   "url": "https://github.com/CassiopeiaCode/CosyRedactGateway",
+   "stars": 104,
+   "lang": "JavaScript",
+   "desc": "Lightweight, stateless privacy gateway for LLM APIs \u2014 redact secrets before OpenAI/Anthropic upstreams and restore them transparently in SSE and tool calls.",
+   "pushed": "2026-10-10"
+  },
+  {
+   "full_name": "Inebrio/Routerly",
+   "url": "https://github.com/Inebrio/Routerly",
+   "stars": 104,
+   "lang": "TypeScript",
+   "desc": "Self-hosted LLM gateway that routes requests across AI providers (OpenAI, Anthropic, Gemini, Mistral, Ollama) using intelligent multi-policy scoring \u2014 including an LLM-native routing policy. Drop-in c",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "liyueyuan123/llm-api-gateway",
+   "url": "https://github.com/liyueyuan123/llm-api-gateway",
+   "stars": 101,
+   "lang": "Python",
+   "desc": "Self-hosted AI API gateway: OpenAI-compatible reverse proxies + aggregation gateway + tooling on your own VPS",
+   "pushed": "2026-06-08"
+  },
+  {
+   "full_name": "aw3703/batchin-public",
+   "url": "https://github.com/aw3703/batchin-public",
+   "stars": 101,
+   "lang": "Python",
+   "desc": "\u26a1 Ultra-Reliable AI Inference Gateway & Verifiable Agent Control Plane. Dual-Dispatch, Zero-Token JSON Auto-Healer, VaaS On-Chain Attestation, FastMCP & Vercel AI SDK.",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "openziti/llm-gateway",
+   "url": "https://github.com/openziti/llm-gateway",
+   "stars": 100,
+   "lang": "Go",
+   "desc": "Zero trust LLM gateway. OpenAI-compatible proxy with semantic routing and load balancing across OpenAI, Anthropic, Ollama, vLLM, and any            compatible backend. Identity-based access, virtual A",
+   "pushed": "2026-10-14"
+  },
+  {
+   "full_name": "klarkxy/open-console-gateway",
+   "url": "https://github.com/klarkxy/open-console-gateway",
+   "stars": 100,
+   "lang": "Rust",
+   "desc": "\u672c\u5730 AI \u8ba2\u9605\u4e0e API \u7f51\u5173\uff1a\u7edf\u4e00\u7ba1\u7406\u591a\u5bb6\u670d\u52a1\u5546\u8d26\u53f7\uff0c\u4e3a\u684c\u9762\u5e94\u7528\u548c\u7f16\u7a0b\u5de5\u5177\u63d0\u4f9b\u63a5\u53e3\u3002",
+   "pushed": "2026-10-09"
+  }
+ ]
+}

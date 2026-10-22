@@ -1,0 +1,294 @@
+{
+ "query": "commerce+mcp",
+ "total_count": 1220,
+ "items": [
+  {
+   "full_name": "apify/apify-mcp-server",
+   "url": "https://github.com/apify/apify-mcp-server",
+   "stars": 12474,
+   "lang": "TypeScript",
+   "desc": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automa",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "xixihhhh/clipforge",
+   "url": "https://github.com/xixihhhh/clipforge",
+   "stars": 1052,
+   "lang": "TypeScript",
+   "desc": "ClipForge\uff08\u539f\u300e\u5e26\u8d27\u526a\u624b\u300f/ daihuo-jianshou\uff09\uff1a\u5f00\u6e90 AI \u5e26\u8d27\u77ed\u89c6\u9891\u795e\u5668\u2014\u2014\u4e0a\u4f20\u4e00\u5f20\u5546\u54c1\u56fe\uff0cAI \u81ea\u52a8\u63d0\u70bc\u5356\u70b9 + \u5199\u79cd\u8349\u811a\u672c + \u9501\u5b9a\u5546\u54c1\u539f\u56fe\u4e0d\u53d8\u5f62 + \u914d\u753b\u9762/\u914d\u97f3/\u5b57\u5e55\uff0c\u4e00\u952e\u4ea7\u51fa\u6296\u97f3\u5c0f\u5e97 / \u5feb\u624b / \u5c0f\u7ea2\u4e66 / TikTok Shop \u5356\u8d27\u77ed\u89c6\u9891\u30020 \u6210\u672c\u6279\u91cf\u51fa\u7247\u3001\u5f00\u6e90\u65e0\u6c34\u5370\u3001\u672c\u5730\u81ea\u90e8\u7f72\u3002\u4e5f\u652f\u6301\u4e00\u53e5\u8bdd\u4e3b\u9898\u6210\u7247\u3002Open-source AI e-commerce/U",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "HelpCode-ai/anythingmcp",
+   "url": "https://github.com/HelpCode-ai/anythingmcp",
+   "stars": 775,
+   "lang": "TypeScript",
+   "desc": "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 517 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "innocommerce/innoshop",
+   "url": "https://github.com/innocommerce/innoshop",
+   "stars": 664,
+   "lang": "PHP",
+   "desc": "InnoShop is an AI-powered open source e-commerce system built on Laravel 13. It supports multiple AI models and native MCP (Model Context Protocol) for intelligent automation, with multi-language and",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "daydreamsai/daydreams",
+   "url": "https://github.com/daydreamsai/daydreams",
+   "stars": 621,
+   "lang": "TypeScript",
+   "desc": "Daydreams is a set of tools for building agents for commerce",
+   "pushed": "2026-10-09"
+  },
+  {
+   "full_name": "Lifecycle-Innovations-Limited/claude-ops",
+   "url": "https://github.com/Lifecycle-Innovations-Limited/claude-ops",
+   "stars": 547,
+   "lang": "Shell",
+   "desc": "Business operating system for Claude Code \u2014 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "bighadj22/codflow",
+   "url": "https://github.com/bighadj22/codflow",
+   "stars": 377,
+   "lang": "TypeScript",
+   "desc": "The open-source, COD-first e-commerce + delivery platform for Algeria  built agentic-ready.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "codespar/mcp-dev-latam",
+   "url": "https://github.com/codespar/mcp-dev-latam",
+   "stars": 274,
+   "lang": "TypeScript",
+   "desc": "Open-source MCP servers for Latin American commerce \u2014 Pix, NF-e, banking, fiscal, logistics, and messaging across Brazil, Mexico, Argentina, Colombia, Chile, and Peru. MIT, on npm.",
+   "pushed": "2026-09-27"
+  },
+  {
+   "full_name": "darjeeling/awesome-mcp-korea",
+   "url": "https://github.com/darjeeling/awesome-mcp-korea",
+   "stars": 252,
+   "lang": null,
+   "desc": "A curated list of MCP servers for the Korean market, including legal, commerce, public data, and local services integrations.",
+   "pushed": "2026-05-13"
+  },
+  {
+   "full_name": "0xNyk/awesome-agent-cortex",
+   "url": "https://github.com/0xNyk/awesome-agent-cortex",
+   "stars": 226,
+   "lang": "JavaScript",
+   "desc": "Curated map of AI agent frameworks, protocols, runtimes, skills, memory, identity, security, evaluation, and commerce.",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "daydreamsai/lucid-agents",
+   "url": "https://github.com/daydreamsai/lucid-agents",
+   "stars": 199,
+   "lang": "TypeScript",
+   "desc": "Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in agentic commerce supply chains. Our protocol agnostic SDK provides CLI-generated templates and drop-",
+   "pushed": "2026-07-26"
+  },
+  {
+   "full_name": "cporter202/coreclaw-api-directory",
+   "url": "https://github.com/cporter202/coreclaw-api-directory",
+   "stars": 179,
+   "lang": "Python",
+   "desc": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Eleven617/mall-ai-after-sales-platform",
+   "url": "https://github.com/Eleven617/mall-ai-after-sales-platform",
+   "stars": 111,
+   "lang": "Java",
+   "desc": "Trusted e-commerce AI after-sales platform \u2014 RAG, controlled tools, human confirmation, Java-authoritative writes, and observable workflows.",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "kangise/ecommerce-ai-skills",
+   "url": "https://github.com/kangise/ecommerce-ai-skills",
+   "stars": 103,
+   "lang": "Python",
+   "desc": "Cross-border e-commerce AI knowledge base, read by people and installed by agents: 69 trilingual guides, 878 prompts, a 100-entity / 322-constraint ontology, and 9 skills as a Claude Code plugin or ov",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "TonyWang-hub/mcp-cn-commerce",
+   "url": "https://github.com/TonyWang-hub/mcp-cn-commerce",
+   "stars": 87,
+   "lang": "Python",
+   "desc": "\u4e2d\u56fd\u7535\u5546 MCP \u8fde\u63a5\u5668\uff1a8 \u4e2a\u5e73\u53f0\u3001155 \u4e2a\u5df2\u6ce8\u518c\u5de5\u5177\u3002\u5f00\u6e90\u6807\u51c6\u7248\uff0c\u542b\u80fd\u529b\u77e9\u9635\u4e0e\u5b9e\u9645\u5de5\u7a0b\u9a8c\u6536\u8bb0\u5f55\uff1b\u771f\u5b9e\u5546\u5bb6\u8054\u8c03\u72b6\u6001\u9010\u9879\u516c\u5f00\u3002Chinese commerce MCP connectors with documented capabilities and validation status.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "gnuboard/g7",
+   "url": "https://github.com/gnuboard/g7",
+   "stars": 87,
+   "lang": "PHP",
+   "desc": "Gnuboard7(\uadf8\ub204\ubcf4\ub4dc7) - Open-source CMS & e-commerce platform built with Laravel 12 + React",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "NVIDIA-AI-Blueprints/Retail-Agentic-Commerce",
+   "url": "https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce",
+   "stars": 81,
+   "lang": "Python",
+   "desc": "Reference implementation of the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP)- enabling AI-powered checkout   negotiation while maintaining merchant control.",
+   "pushed": "2026-10-14"
+  },
+  {
+   "full_name": "SerendipityOneInc/ZooData-Skills",
+   "url": "https://github.com/SerendipityOneInc/ZooData-Skills",
+   "stars": 77,
+   "lang": "Python",
+   "desc": "ZooData Skills - AI Agent skills for e-commerce data intelligence across Amazon, TikTok & beyond, plus open-web extraction",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "MentionNetwork/awesome-agentic-commerce",
+   "url": "https://github.com/MentionNetwork/awesome-agentic-commerce",
+   "stars": 65,
+   "lang": null,
+   "desc": "A curated list of awesome agentic commerce resources \u2014 protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and mar",
+   "pushed": "2026-07-20"
+  },
+  {
+   "full_name": "devlab-group/agent-commerce",
+   "url": "https://github.com/devlab-group/agent-commerce",
+   "stars": 63,
+   "lang": "TypeScript",
+   "desc": "Self-hosted, non-custodial gateway between the API you already run and the protocols AI agents use to discover, call and pay for it",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "oliverames/meta-mcp-server",
+   "url": "https://github.com/oliverames/meta-mcp-server",
+   "stars": 59,
+   "lang": "TypeScript",
+   "desc": "The most comprehensive MCP server for Meta's business platform. 200+ tools covering Facebook Pages, Instagram, Threads, Ads Manager, Commerce, Conversions API, Audiences, Insights, and Ad Library.",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "SalesforceCommerceCloud/b2c-developer-tooling",
+   "url": "https://github.com/SalesforceCommerceCloud/b2c-developer-tooling",
+   "stars": 56,
+   "lang": "TypeScript",
+   "desc": "B2C CLI, VSCode Extension, Skills+MCP, and Tooling SDK for Salesforce Agentforce Commerce B2C",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "zeptonow/mcp",
+   "url": "https://github.com/zeptonow/mcp",
+   "stars": 50,
+   "lang": null,
+   "desc": "Your favourite quick commerce app, now available as a MCP \ud83d\ude80",
+   "pushed": "2026-02-18"
+  },
+  {
+   "full_name": "visa/ai",
+   "url": "https://github.com/visa/ai",
+   "stars": 45,
+   "lang": "TypeScript",
+   "desc": "Integration toolkit for connecting AI agents to the Visa Intelligent Commerce platform.",
+   "pushed": "2026-09-30"
+  },
+  {
+   "full_name": "rhein1/agoragentic-integrations",
+   "url": "https://github.com/rhein1/agoragentic-integrations",
+   "stars": 41,
+   "lang": "JavaScript",
+   "desc": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, wallets, SDKs, and examples for execute-first routing, governed handoffs, and rec",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "OrcaQubits/agentic-commerce-skills-plugins",
+   "url": "https://github.com/OrcaQubits/agentic-commerce-skills-plugins",
+   "stars": 39,
+   "lang": "Python",
+   "desc": "Skills & plugins for agentic commerce : UCP, ACP, AP2, A2A, WebMCP, Magento 2, BigCommerce, WooCommerce",
+   "pushed": "2026-09-14"
+  },
+  {
+   "full_name": "mguozhen/voc-amazon-reviews",
+   "url": "https://github.com/mguozhen/voc-amazon-reviews",
+   "stars": 37,
+   "lang": "Python",
+   "desc": "Review Analyzer \u2014 agent-native VOC for e-commerce. 6 MCP tools, ASIN or CSV input, black-gold dashboard. Backed by Shulex VOC OpenAPI (10 markets).",
+   "pushed": "2026-05-25"
+  },
+  {
+   "full_name": "elsahafy/ux-mcp-server",
+   "url": "https://github.com/elsahafy/ux-mcp-server",
+   "stars": 35,
+   "lang": "JavaScript",
+   "desc": "MCP server providing 28 UX knowledge resources, 23 analysis tools & 4 workflow prompts. Works with Claude, Cursor, Continue.dev, Cline, Zed & any MCP client. WCAG, Nielsen heuristics, design systems,",
+   "pushed": "2026-04-01"
+  },
+  {
+   "full_name": "orylite/lindyson-ai",
+   "url": "https://github.com/orylite/lindyson-ai",
+   "stars": 33,
+   "lang": "TypeScript",
+   "desc": "AI video & image generation workspace for e-commerce teams, built on Volcengine Seedance / Seedream, with MCP for ChatGPT & Codex \u00b7 \u9762\u5411\u7535\u5546\u56e2\u961f\u7684 AI \u89c6\u9891\u4e0e\u56fe\u7247\u751f\u6210\u5de5\u4f5c\u53f0",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "nguyennguyenit/pancake-pos-mcp",
+   "url": "https://github.com/nguyennguyenit/pancake-pos-mcp",
+   "stars": 32,
+   "lang": "TypeScript",
+   "desc": "MCP server for Pancake POS \u2014 23 tools across orders, inventory, CRM, multi-channel commerce. Bun + TypeScript, runs on stdio / HTTP / Cloudflare Workers.",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "taurgis/sfcc-dev-mcp",
+   "url": "https://github.com/taurgis/sfcc-dev-mcp",
+   "stars": 28,
+   "lang": "TypeScript",
+   "desc": "Supercharge your Salesforce B2C Commerce Cloud development with AI-powered documentation access, real-time log analysis, and intelligent best practices guidance",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "damientilman/mailchimp-mcp-server",
+   "url": "https://github.com/damientilman/mailchimp-mcp-server",
+   "stars": 24,
+   "lang": "Python",
+   "desc": "The most complete Mailchimp Marketing API MCP server: 227 tools across campaigns, audiences, reports, segments, automations and full e-commerce, with multi-account support and runtime-security guardra",
+   "pushed": "2026-08-04"
+  },
+  {
+   "full_name": "scszcoder/eCan.ai",
+   "url": "https://github.com/scszcoder/eCan.ai",
+   "stars": 22,
+   "lang": "Python",
+   "desc": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "pluginmd/Haravan-MCP",
+   "url": "https://github.com/pluginmd/Haravan-MCP",
+   "stars": 21,
+   "lang": "TypeScript",
+   "desc": "Haravan E-commerce MCP Server \u2014 Connect AI assistants (Claude, Cursor, Trae) to Haravan stores. 70 tools: orders, products, customers, inventory, RFM segmentation, smart analytics.",
+   "pushed": "2026-04-06"
+  },
+  {
+   "full_name": "harrylabsj/kiwi",
+   "url": "https://github.com/harrylabsj/kiwi",
+   "stars": 21,
+   "lang": "TypeScript",
+   "desc": "A2A commerce negotiation runtime + DeepSeek Harness (dsh) plugin. \u5b89\u88c5 Kiwi\uff0c\u8ba9 AI \u4e70\u5bb6\u627e\u5230\u4f60\u7684\u5546\u54c1\u3001\u5411\u4f60\u8be2\u4ef7\uff1b\u5e93\u5b58\u3001\u5e95\u4ef7\u548c\u5ba2\u6237\u6570\u636e\u4ecd\u7559\u5728\u4f60\u7684\u7cfb\u7edf\u4e2d\u3002",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "asgard-ai-platform/mcp-shopline",
+   "url": "https://github.com/asgard-ai-platform/mcp-shopline",
+   "stars": 20,
+   "lang": "Python",
+   "desc": "MCP server wrapping the Shopline Open API into 143 AI-callable tools (75 read + 68 write) for e-commerce operations. Built for Claude Code, Claude Desktop, and any MCP-compatible AI client.",
+   "pushed": "2026-05-07"
+  }
+ ]
+}

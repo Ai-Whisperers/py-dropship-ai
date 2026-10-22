@@ -1,0 +1,766 @@
+{
+ "query": "crm",
+ "total_count": 272887,
+ "items": [
+  {
+   "full_name": "twentyhq/twenty",
+   "url": "https://github.com/twentyhq/twenty",
+   "stars": 59219,
+   "lang": "TypeScript",
+   "desc": "The open alternative to Salesforce, designed for AI.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "frappe/erpnext",
+   "url": "https://github.com/frappe/erpnext",
+   "stars": 40434,
+   "lang": "Python",
+   "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "YunaiV/ruoyi-vue-pro",
+   "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+   "stars": 39967,
+   "lang": "Java",
+   "desc": "\ud83d\udd25 \u5b98\u65b9\u63a8\u8350 \ud83d\udd25 RuoYi-Vue \u5168\u65b0 Pro \u7248\u672c\uff0c\u4f18\u5316\u91cd\u6784\u6240\u6709\u529f\u80fd\u3002\u57fa\u4e8e Spring Boot + MyBatis Plus + Vue & Element \u5b9e\u73b0\u7684\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf + \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u6570\u636e\u6743\u9650\u3001SaaS \u591a\u79df\u6237\u3001Flowable \u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001MES\u3001IM\u3001AI \u5927\u6a21\u578b\u3001IoT \u7269\u8054\u7f51\u7b49\u529f\u80fd\u3002\u4f60\u7684 \u2b50\ufe0f Star",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "hcengineering/platform",
+   "url": "https://github.com/hcengineering/platform",
+   "stars": 27958,
+   "lang": "TypeScript",
+   "desc": "Huly \u2014 All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "monicahq/monica",
+   "url": "https://github.com/monicahq/monica",
+   "stars": 25513,
+   "lang": "PHP",
+   "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+   "pushed": "2026-09-24"
+  },
+  {
+   "full_name": "nocobase/nocobase",
+   "url": "https://github.com/nocobase/nocobase",
+   "stars": 24660,
+   "lang": "TypeScript",
+   "desc": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "krayin/laravel-crm",
+   "url": "https://github.com/krayin/laravel-crm",
+   "stars": 24043,
+   "lang": "PHP",
+   "desc": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "YunaiV/yudao-cloud",
+   "url": "https://github.com/YunaiV/yudao-cloud",
+   "stars": 19658,
+   "lang": "Java",
+   "desc": "ruoyi-vue-pro \u5168\u65b0 Cloud \u7248\u672c\uff0c\u4f18\u5316\u91cd\u6784\u6240\u6709\u529f\u80fd\u3002\u57fa\u4e8e Spring Cloud Alibaba + MyBatis Plus + Vue & Element \u5b9e\u73b0\u7684\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf + \u7528\u6237\u5c0f\u7a0b\u5e8f\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u591a\u79df\u6237\u3001\u6570\u636e\u6743\u9650\u3001\u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001MES\u3001IM\u3001AI \u5927\u6a21\u578b\u3001IoT \u7269\u8054\u7f51\u7b49\u529f\u80fd\u3002\u4f60\u7684 \u2b50\ufe0f Star \u2b50\ufe0f\uff0c\u662f\u4f5c\u8005\u751f\u53d1",
+   "pushed": "2026-10-07"
+  },
+  {
+   "full_name": "illacloud/illa-builder",
+   "url": "https://github.com/illacloud/illa-builder",
+   "stars": 12334,
+   "lang": "TypeScript",
+   "desc": "Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL",
+   "pushed": "2026-05-27"
+  },
+  {
+   "full_name": "trycompai/crm",
+   "url": "https://github.com/trycompai/crm",
+   "stars": 11588,
+   "lang": "TypeScript",
+   "desc": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "akaunting/akaunting",
+   "url": "https://github.com/akaunting/akaunting",
+   "stars": 10200,
+   "lang": "PHP",
+   "desc": "Online Accounting Software",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "crmeb/CRMEB",
+   "url": "https://github.com/crmeb/CRMEB",
+   "stars": 9430,
+   "lang": "Vue",
+   "desc": "\ud83d\udd25CRMEB\u5f00\u6e90\u5546\u57ce\u514d\u8d39\u5f00\u6e90\u591a\u8bed\u8a00\u5546\u57ce\u7cfb\u7edf\uff0cTp6\u6846\u67b6\u5546\u57ce\uff0c\u7cfb\u7edf\u53ef\u5546\u7528\uff1b\u5305\u542b\u5c0f\u7a0b\u5e8f\u5546\u57ce\u3001H5\u5546\u57ce\u3001\u516c\u4f17\u53f7\u5546\u57ce\u3001PC\u5546\u57ce\u3001App\uff0c\u652f\u6301\u5206\u9500\u3001\u62fc\u56e2\u3001\u780d\u4ef7\u3001\u79d2\u6740\u3001\u4f18\u60e0\u5238\u3001\u79ef\u5206\u3001\u4f1a\u5458\u7b49\u7ea7\u3001\u5c0f\u7a0b\u5e8f\u76f4\u64ad\u3001\u9875\u9762DIY\uff0c\u524d\u540e\u7aef\u5206\u79bb\uff0c\u65b9\u4fbf\u4e8c\u5f00\uff0c\u66f4\u6709\u8be6\u7ec6\u4f7f\u7528\u6587\u6863\u3001\u63a5\u53e3\u6587\u6863\u3001\u6570\u636e\u5b57\u5178\u3001\u4e8c\u5f00\u6587\u6863/\u89c6\u9891\u6559\u7a0b\uff0c\u6b22\u8fce\u5927\u5bb6\u63d0\u51fa\u5b9d\u8d35\u610f\u89c1\u548c\u5efa\u8bae",
+   "pushed": "2026-09-05"
+  },
+  {
+   "full_name": "idurar/idurar-erp-crm",
+   "url": "https://github.com/idurar/idurar-erp-crm",
+   "stars": 8905,
+   "lang": "JavaScript",
+   "desc": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
+   "pushed": "2026-08-14"
+  },
+  {
+   "full_name": "ever-co/ever-gauzy",
+   "url": "https://github.com/ever-co/ever-gauzy",
+   "stars": 8412,
+   "lang": "TypeScript",
+   "desc": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "Dolibarr/dolibarr",
+   "url": "https://github.com/Dolibarr/dolibarr",
+   "stars": 7761,
+   "lang": "PHP",
+   "desc": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "openblocks-dev/openblocks",
+   "url": "https://github.com/openblocks-dev/openblocks",
+   "stars": 6238,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 The Open Source Retool Alternative",
+   "pushed": "2023-10-19"
+  },
+  {
+   "full_name": "SuiteCRM/SuiteCRM",
+   "url": "https://github.com/SuiteCRM/SuiteCRM",
+   "stars": 5806,
+   "lang": "PHP",
+   "desc": "SuiteCRM - Open source CRM for the world",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "macro-inc/macro",
+   "url": "https://github.com/macro-inc/macro",
+   "stars": 4810,
+   "lang": "Rust",
+   "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "melgarafael/DeskcommCRM",
+   "url": "https://github.com/melgarafael/DeskcommCRM",
+   "stars": 4786,
+   "lang": "TypeScript",
+   "desc": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Volmarg/personal-management-system",
+   "url": "https://github.com/Volmarg/personal-management-system",
+   "stars": 4182,
+   "lang": "PHP",
+   "desc": "Your web application for managing personal data.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "yudaocode/yudao-ui-admin-vue3",
+   "url": "https://github.com/yudaocode/yudao-ui-admin-vue3",
+   "stars": 3915,
+   "lang": "Vue",
+   "desc": "\u828b\u9053\u7ba1\u7406\u540e\u53f0\uff0c\u57fa\u4e8e Vue3 + Element Plus \u5b9e\u73b0\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u6570\u636e\u6743\u9650\u3001SaaS \u591a\u79df\u6237\u3001Flowable \u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001MES\u3001IM\u3001AI \u5927\u6a21\u578b\u3001IoT \u7269\u8054\u7f51\u7b49\u529f\u80fd\u3002",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "frappe/crm",
+   "url": "https://github.com/frappe/crm",
+   "stars": 3841,
+   "lang": "Vue",
+   "desc": "Fully featured, open source CRM",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "fatfreecrm/fat_free_crm",
+   "url": "https://github.com/fatfreecrm/fat_free_crm",
+   "stars": 3635,
+   "lang": "Ruby",
+   "desc": "Ruby on Rails CRM platform",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "espocrm/espocrm",
+   "url": "https://github.com/espocrm/espocrm",
+   "stars": 3508,
+   "lang": "PHP",
+   "desc": "EspoCRM \u2013 Open Source CRM Application",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "cirosantilli/china-dictatorship",
+   "url": "https://github.com/cirosantilli/china-dictatorship",
+   "stars": 3285,
+   "lang": "HTML",
+   "desc": "\u53cd\u4e2d\u5171\u653f\u6cbb\u5ba3\u4f20\u5e93\u3002Anti Chinese government propaganda. \u4f4f\u5728\u4e2d\u56fd\u771f\u540d\u7528\u6237\u7684\u7f51\u53cb\u8bf7\u522b\u7ed9\u661f\u661f\uff0c\u4e0d\u7136\u4f60\u8981\u88ab\u8b66\u5bdf\u8bf7\u559d\u8336\u3002\u5e38\u89c1\u95ee\u7b54\u96c6\uff0c\u65b0\u95fb\u96c6\u548c\u996d\u5e97\u548c\u97f3\u4e50\u5efa\u8bae\u3002\u5350\u4e60\u4e07\u5c81\u5350\u3002\u51a0\u72b6\u75c5\u6bd2\u5ba1\u67e5\u90dd\u6d77\u4e1c\u65b0\u7586\u6539\u9020\u4e2d\u5fc3\u516d\u56db\u4e8b\u4ef6\u6cd5\u8f6e\u529f 996.ICU709\u5927\u6293\u6355\u5df4\u62ff\u9a6c\u6587\u4ef6\u9093\u5bb6\u8d35\u4f4e\u7aef\u4eba\u53e3\u897f\u85cf\u9a9a\u4e71\u3002Friends who live in China and have real name on ac",
+   "pushed": "2026-02-05"
+  },
+  {
+   "full_name": "InvoicePlane/InvoicePlane",
+   "url": "https://github.com/InvoicePlane/InvoicePlane",
+   "stars": 3221,
+   "lang": "PHP",
+   "desc": "A self-hosted open source application for managing your invoices, clients and payments.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "ONLYOFFICE/CommunityServer",
+   "url": "https://github.com/ONLYOFFICE/CommunityServer",
+   "stars": 3170,
+   "lang": "C#",
+   "desc": "Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.",
+   "pushed": "2026-05-05"
+  },
+  {
+   "full_name": "crmeb/crmeb_java",
+   "url": "https://github.com/crmeb/crmeb_java",
+   "stars": 3078,
+   "lang": "Vue",
+   "desc": "Java\u5546\u57ce \u514d\u8d39 \u5f00\u6e90 CRMEB\u5546\u57ceJAVA\u7248\uff0cSpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI \u5305\u542b\u79fb\u52a8\u7aef\u3001\u5c0f\u7a0b\u5e8f\u3001PC\u540e\u53f0\u3001Api\u63a5\u53e3\uff1b\u6709\u4ea7\u54c1\u3001\u7528\u6237\u3001\u8d2d\u7269\u8f66\u3001\u8ba2\u5355\u3001\u79ef\u5206\u3001\u4f18\u60e0\u5238\u3001\u8425\u9500\u3001\u4f59\u989d\u3001\u6743\u9650\u3001\u89d2\u8272\u3001\u7cfb\u7edf\u8bbe\u7f6e\u3001\u7ec4\u5408\u6570\u636e\u3001\u53ef\u62d6\u62c9\u62fd\u7684form\u8868\u5355\u7b49\u6a21\u5757\uff0c\u5927\u91cf\u7684\u51cf\u5c11\u4e86\u4e8c\u5f00\u7684\u6210\u672c\u3002",
+   "pushed": "2026-09-11"
+  },
+  {
+   "full_name": "1Panel-dev/CordysCRM",
+   "url": "https://github.com/1Panel-dev/CordysCRM",
+   "stars": 2804,
+   "lang": "Java",
+   "desc": "\ud83d\udd25 Cordys \u662f\u7531\u98de\u81f4\u4e91\u5320\u5fc3\u6253\u9020\u7684\u65b0\u4e00\u4ee3\u7684\u5f00\u6e90 AI CRM \u7cfb\u7edf\uff0c\u6df1\u5ea6\u878d\u5408\u4fe1\u606f\u5316\u3001\u6570\u5b57\u5316\u4e0e\u667a\u80fd\u5316\u80fd\u529b\uff0c\u652f\u6301\u79c1\u6709\u5316\u90e8\u7f72\uff0c\u5168\u9762\u4fdd\u969c\u4f01\u4e1a\u6570\u636e\u5b89\u5168\u4e0e\u4e3b\u6743\u3002",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "frappe/frappe_docker",
+   "url": "https://github.com/frappe/frappe_docker",
+   "stars": 2603,
+   "lang": "Python",
+   "desc": "Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "ArnasDon/wacrm",
+   "url": "https://github.com/ArnasDon/wacrm",
+   "stars": 2595,
+   "lang": "TypeScript",
+   "desc": "Self-hostable CRM template for WhatsApp \u2014 shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "metasfresh/metasfresh",
+   "url": "https://github.com/metasfresh/metasfresh",
+   "stars": 2457,
+   "lang": "Java",
+   "desc": "We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "Django-CRM/Django-CRM",
+   "url": "https://github.com/Django-CRM/Django-CRM",
+   "stars": 2456,
+   "lang": "Python",
+   "desc": "BottleCRM: free, open-source (MIT) CRM with sales, support tickets and invoicing in one app. Unlimited users; self-host or use the hosted app.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "WuKongOpenSource/WukongCRM-11.0-JAVA",
+   "url": "https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA",
+   "stars": 2447,
+   "lang": "Java",
+   "desc": "\u609f\u7a7aCRM-\u57fa\u4e8eSpring Cloud Alibaba\u5fae\u670d\u52a1\u67b6\u6784 +vue ElementUI\u7684\u524d\u540e\u7aef\u5206\u79bbCRM\u7cfb\u7edf",
+   "pushed": "2021-08-27"
+  },
+  {
+   "full_name": "Bottelet/DaybydayCRM",
+   "url": "https://github.com/Bottelet/DaybydayCRM",
+   "stars": 2330,
+   "lang": "JavaScript",
+   "desc": "DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.",
+   "pushed": "2026-08-31"
+  },
+  {
+   "full_name": "WuKongOpenSource/Wukong-AICRM",
+   "url": "https://github.com/WuKongOpenSource/Wukong-AICRM",
+   "stars": 2274,
+   "lang": "Java",
+   "desc": "\u5f00\u6e90 AI CRM\uff0cSalesforce \u5f00\u6e90\u66ff\u4ee3 + ChatGPT \u5f0f AI \u52a9\u624b\uff1a\u5ba2\u6237\u7ba1\u7406\u3001\u77e5\u8bc6\u5e93\u67e5\u8be2\u3001\u4efb\u52a1\u6267\u884c\uff0c\u5168\u7a0b\u5bf9\u8bdd\u5b8c\u6210\u3002Open-source AI CRM and Salesforce alternative powered by conversational AI.",
+   "pushed": "2026-10-09"
+  },
+  {
+   "full_name": "gege-circle/.github",
+   "url": "https://github.com/gege-circle/.github",
+   "stars": 2058,
+   "lang": null,
+   "desc": "\u8fd9\u91cc\u662fGitHub\u7684\u8349\u573a\uff0c\u4e5f\u662f\u6208\u6208\u5708\u7231\u597d\u8005\u7684\u4ea4\u6d41\u5730\uff0c\u4e3b\u8981\u8ba8\u8bba\u52a8\u6f2b\u3001\u6e38\u620f\u3001\u79d1\u6280\u3001\u4eba\u6587\u3001\u751f\u6d3b\u7b49\u6240\u6709\u8bdd\u9898\uff0c\u6b22\u8fce\u5404\u4f4d\u5c0f\u4f19\u4f34\u4eec\u5728\u6b64\u8ba8\u8bba\u8da3\u4e8b\u3002This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t",
+   "pushed": "2025-10-04"
+  },
+  {
+   "full_name": "FJ-OMS/oms-erp",
+   "url": "https://github.com/FJ-OMS/oms-erp",
+   "stars": 1928,
+   "lang": "Java",
+   "desc": "\u4e00\u7ad9\u5f0f\u5168\u6e20\u9053\u4e1a\u52a1\u4e2d\u53f0\u7cfb\u7edf\u5305\u62ec\u8ba2\u5355\u7ba1\u7406\u7cfb\u7edfOMS/\u7535\u5546ERP\u3001\u5e93\u5b58WMS\u7edf\u4e00\u7ba1\u7406\u7cfb\u7edf\u548cSAP\u8d22\u52a1\u7ba1\u7406\u7cfb\u7edf\u7b49\uff0c\u5b9e\u73b0\u5feb\u901f\u90e8\u7f72\uff0c\u5e76\u5e2e\u52a9\u4f01\u4e1a\u540e\u7eed\u81ea\u4e3b\u8fdb\u884c\u5f00\u53d1\u8fed\u4ee3\uff0c\u5b9e\u73b0\u6570\u5b57\u5316\u8f6c\u578b\uff0c\u5e76\u6709\u591a\u4e2a\u7ecf\u5178\u6848\u4f8b\u3002\u4e2d\u53f0\u7cfb\u7edf\u5305\u62ec\uff1a\u901a\u7528\u4e1a\u52a1\u4e2d\u53f0\u3001\u5f3a\u5927\u7684\u6280\u672f\u4e2d\u53f0Springcloud/Istio\u3001\u540e\u7eed\u5f00\u53d1\u65b9\u6848\u7684\u8bbe\u8ba1\uff0c\u6280\u672f(K8S,SERVERLESS)\u53ca\u7ba1\u7406\u4eba\u5458\u7684\u57f9\u8bad\u7b49\u3002",
+   "pushed": "2025-12-24"
+  },
+  {
+   "full_name": "open-mercato/open-mercato",
+   "url": "https://github.com/open-mercato/open-mercato",
+   "stars": 1878,
+   "lang": "TypeScript",
+   "desc": "The AI-Engineering Foundation Framework for business apps: open-source TypeScript, with multi-tenancy, RBAC, events and domain modules already decided as conventions and specs, so Cursor, Claude Code",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "guchengwuyue/yshop-crm",
+   "url": "https://github.com/guchengwuyue/yshop-crm",
+   "stars": 1864,
+   "lang": "Java",
+   "desc": "yshop-crm\u610f\u8c61CRM\u7cfb\u7edf(\u652f\u6301\u4f01\u4e1a\u5fae\u4fe1)\uff0c\u4e13\u95e8\u4e3a\u4f01\u4e1a\u9500\u552e\u56e2\u961f\u91cf\u8eab\u5b9a\u5236\u7684\u5de5\u5177(\u4e14\u652f\u6301\u591a\u79df\u6237\u4e0eSCRM\u4f01\u4e1a\u5fae\u4fe1)\uff0c\u5168\u9762\u89e3\u51b3\u4f01\u4e1a\u9500\u552e\u56e2\u961f\u7684\u5168\u6d41\u7a0b\u5ba2\u6237\u670d\u52a1\u96be\u9898\u65e8\u5728\u52a9\u529b\u4f01\u4e1a\u9500\u552e\u5168\u6d41\u7a0b\u7cbe\u7ec6\u5316\u3001\u6570\u5b57\u5316\u7ba1\u7406\uff0c\u5168\u9762\u89e3\u51b3\u4f01\u4e1a\u9500\u552e\u56e2\u7ee9\u3002",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "avo-hq/avo",
+   "url": "https://github.com/avo-hq/avo",
+   "stars": 1811,
+   "lang": "Ruby",
+   "desc": "The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "relaticle/relaticle",
+   "url": "https://github.com/relaticle/relaticle",
+   "stars": 1776,
+   "lang": "PHP",
+   "desc": "Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel & Filament",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "kargulstudio/sales-crm",
+   "url": "https://github.com/kargulstudio/sales-crm",
+   "stars": 1762,
+   "lang": "TypeScript",
+   "desc": "",
+   "pushed": "2026-10-06"
+  },
+  {
+   "full_name": "likeadmin-likeshop/likeshop",
+   "url": "https://github.com/likeadmin-likeshop/likeshop",
+   "stars": 1587,
+   "lang": "PHP",
+   "desc": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 likeshop\u5f00\u6e90\u514d\u8d39\u5546\u7528\u7535\u5546\u7cfb\u7edf\uff0cPC\u5546\u57ce\u3001H5\u5546\u57ce\u3001\u5c0f\u7a0b\u5e8f\u5546\u57ce\u3001\u5b89\u5353APP\u5546\u57ce\u3001\u82f9\u679cAPP\u5546\u57ce\uff0c\u514d\u8d39\u5546\u7528\u3002\u573a\u666f\uff1aB2C\u5546\u57ce\uff0c\u65b0\u96f6\u552e\u5546\u57ce\uff0c\u793e\u4ea4\u7535\u5546\u5546\u57ce\uff0c\u5206\u9500\u7cfb\u7edf\u5546\u57ce\uff0c\u5206\u9500\u7535\u5546\u5546\u57ce\uff0c\u5c0f\u7a0b\u5e8f\u5546\u57ce\uff0c\u5546\u57ce\u6e90\u7801\uff0c\u5546\u57ce\u7cfb\u7edf\uff0c\u5355\u5546\u6237\uff0c\u591a\u5546\u6237\uff0c\u7535\u5546\u7cfb\u7edf\uff0c\u76f4\u64ad\uff0cuniapp\uff0cuni-app\uff0cB2B2C\uff0cB2B\uff0cO2O\uff0cERP\uff0cWechat\uff0c\u4ea4\u6613\u7cfb\u7edf\uff0c\u5185\u5bb9\u7cfb\u7edf\uff0c\u96f7\u8fbe\uff0ccrm",
+   "pushed": "2026-09-24"
+  },
+  {
+   "full_name": "dwijitsolutions/laraadmin",
+   "url": "https://github.com/dwijitsolutions/laraadmin",
+   "stars": 1583,
+   "lang": "JavaScript",
+   "desc": "LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager",
+   "pushed": "2024-01-05"
+  },
+  {
+   "full_name": "WebVella/WebVella-ERP",
+   "url": "https://github.com/WebVella/WebVella-ERP",
+   "stars": 1496,
+   "lang": "C#",
+   "desc": "Free and open-source pluggable ERP and CRM software based on ASP.NET Core 9, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.",
+   "pushed": "2026-10-03"
+  },
+  {
+   "full_name": "andrewdwallo/erpsaas",
+   "url": "https://github.com/andrewdwallo/erpsaas",
+   "stars": 1478,
+   "lang": "PHP",
+   "desc": "A Laravel and Filament-powered accounting platform featuring full double-entry accrual accounting, delivering modern automation for professional financial management.",
+   "pushed": "2026-03-05"
+  },
+  {
+   "full_name": "marmelab/atomic-crm",
+   "url": "https://github.com/marmelab/atomic-crm",
+   "stars": 1394,
+   "lang": "TypeScript",
+   "desc": "A full-featured CRM built with React, shadcn/ui, and Supabase.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "huytieu/COG-second-brain",
+   "url": "https://github.com/huytieu/COG-second-brain",
+   "stars": 1309,
+   "lang": "Python",
+   "desc": "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop des",
+   "pushed": "2026-10-02"
+  },
+  {
+   "full_name": "moonshine-software/moonshine",
+   "url": "https://github.com/moonshine-software/moonshine",
+   "stars": 1305,
+   "lang": "PHP",
+   "desc": "Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "asyraffff/Open-Source-Ruby-and-Rails-Apps",
+   "url": "https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps",
+   "stars": 1264,
+   "lang": null,
+   "desc": "Awesome Ruby and Rails Open Source applications \ud83c\udf08",
+   "pushed": "2024-12-30"
+  },
+  {
+   "full_name": "dromara/skyeye",
+   "url": "https://github.com/dromara/skyeye",
+   "stars": 1233,
+   "lang": "Java",
+   "desc": "\u667a\u80fd\u529e\u516cOA\u7cfb\u7edf[SpringBoot2-\u5feb\u901f\u5f00\u53d1\u5e73\u53f0]\uff0c\u9002\u7528\u4e8e\u533b\u9662\uff0c\u5b66\u6821\uff0c\u4e2d\u5c0f\u578b\u4f01\u4e1a\u7b49\u673a\u6784\u7684\u7ba1\u7406\u3002Activiti5.22+\u52a8\u6001\u8868\u5355\u5b9e\u73b0\u96f6java\u4ee3\u7801\u5373\u53ef\u505a\u5230\u590d\u6742\u4e1a\u52a1\u7684\u6d41\u7a0b\u5b9e\u65bd\uff0c\u540c\u65f6\u5305\u542b\u6587\u4ef6\u5728\u7ebf\u64cd\u4f5c\u3001\u65e5\u5fd7\u3001\u8003\u52e4\u3001CRM\u3001ERP\u8fdb\u9500\u5b58\u3001\u9879\u76ee\u3001\u62d6\u62fd\u5f0f\u751f\u6210\u95ee\u5377\u3001\u65e5\u7a0b\u3001\u7b14\u8bb0\u3001\u8ba1\u5212\u3001\u884c\u653f\u7b49\u591a\u79cd\u590d\u6742\u4e1a\u52a1\u529f\u80fd\u3002\u540c\u65f6\uff0c\u53ef\u8fdb\u884c\u6388\u6743\u4e8c\u5f00\u3002",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "apache/ofbiz-framework",
+   "url": "https://github.com/apache/ofbiz-framework",
+   "stars": 1137,
+   "lang": "Java",
+   "desc": "Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Manageme",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "geesondog/rhaphp",
+   "url": "https://github.com/geesondog/rhaphp",
+   "stars": 1119,
+   "lang": "PHP",
+   "desc": "RhaPHP\u662f\u5fae\u4fe1\u7b2c\u4e09\u65b9\u7ba1\u7406\u5e73\u53f0\uff0c\u5fae\u4fe1\u516c\u4f17\u53f7\u7ba1\u7406\u7cfb\u7edf\uff0c\u652f\u6301\u591a\u516c\u4f17\u53f7\u7ba1\u7406\uff0cCRM\u4f1a\u5458\u7ba1\u7406\uff0c\u5c0f\u7a0b\u5e8f\u5f00\u53d1\uff0cAPP\u63a5\u53e3\u5f00\u53d1\u3001\u51e0\u4e4e\u96c6\u5408\u5fae\u4fe1\u529f\u80fd\uff0c\u7b80\u6d01\u3001\u5feb\u901f\u4e0a\u624b\u3001\u5feb\u901f\u5f00\u53d1\u5fae\u4fe1\u5404\u79cd\u5404\u6837\u5e94\u7528\u3002\u7b80\u6d01\u3001\u597d\u7528\u3001\u5feb\u901f\u3001\u9879\u76ee\u5f00\u53d1\u5feb\u51e0\u500d \u3002",
+   "pushed": "2024-02-09"
+  },
+  {
+   "full_name": "tegojs/tego",
+   "url": "https://github.com/tegojs/tego",
+   "stars": 1105,
+   "lang": "TypeScript",
+   "desc": "Tego is a pluggable Node.js framework for building customizable development platforms. It enables developers to create their own no-code/low-code systems or event-driven applications, while the core f",
+   "pushed": "2026-09-24"
+  },
+  {
+   "full_name": "Ibexoft/awesome-startup-tools-list",
+   "url": "https://github.com/Ibexoft/awesome-startup-tools-list",
+   "stars": 1089,
+   "lang": null,
+   "desc": "List of all tools (apps, services) that startups should use.",
+   "pushed": "2026-10-14"
+  },
+  {
+   "full_name": "getrebuild/rebuild",
+   "url": "https://github.com/getrebuild/rebuild",
+   "stars": 1088,
+   "lang": "Java",
+   "desc": "\u6700\u65b0\u7248\u5168\u9762\u652f\u6301AI\u667a\u80fd\uff01\u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u64cd\u4f5c\u4e1a\u52a1\u6570\u636e\uff0c\u652f\u6301 Skills/\u5de5\u5177/\u77e5\u8bc6\u5e93/MCP\u3002\u9ad8\u5ea6\u53ef\u914d\u7f6e\u5316\u7684\u56fd\u4ea7\u4f01\u4e1a\u7ba1\u7406\u7cfb\u7edf\uff0c\u4f01\u4e1a\u5185\u90e8\u53ef\u514d\u8d39\u5546\u7528\uff01\u96f6\u4ee3\u7801/\u4f4e\u4ee3\u7801\u5feb\u901f\u642d\u5efaWMS\u5e93\u5b58\u7ba1\u7406\u3001MES\u751f\u4ea7\u62a5\u5de5\u3001CRM\u5ba2\u6237\u7ba1\u7406\u3001HRM\u4eba\u4e8b\u7ba1\u7406\uff0c\u4ee5\u53ca TMS/ERP \u7b49",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "itflow-org/itflow",
+   "url": "https://github.com/itflow-org/itflow",
+   "stars": 1029,
+   "lang": "PHP",
+   "desc": "All in One PSA for MSPs, which Unifies client, contact, vendor, asset, license, domain, ssl certificate, password, documentation, file, network and location management with ticketing and billing capab",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "oroinc/crm-application",
+   "url": "https://github.com/oroinc/crm-application",
+   "stars": 1015,
+   "lang": "PHP",
+   "desc": "OroCRM - an open-source Customer Relationship Management application.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "directus-labs/agency-os",
+   "url": "https://github.com/directus-labs/agency-os",
+   "stars": 983,
+   "lang": "Vue",
+   "desc": "The open source operating system for digital agencies. Built with Directus and Nuxt.",
+   "pushed": "2026-03-06"
+  },
+  {
+   "full_name": "ChurchCRM/CRM",
+   "url": "https://github.com/ChurchCRM/CRM",
+   "stars": 971,
+   "lang": "PHP",
+   "desc": "Free, open-source church management software for people, families, groups, events, attendance, giving, volunteers, and more. No subscription. Your data is yours.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "w8123/EnterpriseAgentFramework",
+   "url": "https://github.com/w8123/EnterpriseAgentFramework",
+   "stars": 953,
+   "lang": "Java",
+   "desc": "ReachAI\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5f00\u53d1\u5e73\u53f0\uff1a\u5feb\u901f\u3001\u5b89\u5168\u5b8c\u6210\u5df2\u6709\u4e1a\u52a1\u7cfb\u7edf\u667a\u80fd\u5316\u6539\u9020\uff0c\u8ba9 AI \u5728 OA\u3001ERP\u3001CRM \u7b49\u539f\u7cfb\u7edf\u4e2d\u67e5\u6570\u636e\u3001\u586b\u8868\u5355\u3001\u529e\u4e1a\u52a1\u3002ReachAI: Quickly and securely bring AI to existing enterprise systems, enabling AI to query data, fill out forms, and execute bu",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "elm1nst3r/GHOST-osint-crm",
+   "url": "https://github.com/elm1nst3r/GHOST-osint-crm",
+   "stars": 913,
+   "lang": "JavaScript",
+   "desc": "GHOST - Global Human Operations & Surveillance Tracking:  Open-source investigation management platform for tracking people, connections, and intelligence data. Because Excel spreadsheets are for acco",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "indranilbanerjee/digital-marketing-pro",
+   "url": "https://github.com/indranilbanerjee/digital-marketing-pro",
+   "stars": 903,
+   "lang": "Python",
+   "desc": "An open-source AI based digital marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - grounded in brand context, human approval, and verifiable outputs. Best",
+   "pushed": "2026-10-11"
+  },
+  {
+   "full_name": "JacobEvelyn/friends",
+   "url": "https://github.com/JacobEvelyn/friends",
+   "stars": 894,
+   "lang": "Ruby",
+   "desc": "Spend time with the people you care about. Introvert-tested. Extrovert-approved.",
+   "pushed": "2021-07-25"
+  },
+  {
+   "full_name": "adempiere/adempiere",
+   "url": "https://github.com/adempiere/adempiere",
+   "stars": 888,
+   "lang": "Java",
+   "desc": "ADempiere Business Suite ERP/CRM/MFG/SCM/POS done the Bazaar way in an open and unabated fashion. Focus is on the Community that includes Subject Matter Specialists, Implementors and End-Users.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "wuliaokankan/WeChat.CRM.SDK",
+   "url": "https://github.com/wuliaokankan/WeChat.CRM.SDK",
+   "stars": 879,
+   "lang": "Java",
+   "desc": "\u5fae\u4fe1\u5f00\u53d1sdk\uff0c\u5fae\u4fe1\u4e8c\u6b21\u5f00\u53d1SDK\uff0c\u5fae\u4fe1\u5f00\u53d1API\u63a5\u53e3\u534f\u8bae\u3002\u975e\u5fae\u4fe1ipad\u534f\u8bae\u3001\u975emac\u534f\u8bae,\u975e\u5b89\u5353\u534f\u8bae\uff0capi\u53ef\u5b9e\u73b0\u5fae\u4fe199%\u529f\u80fd\uff1b \u65e0\u9700\u626b\u7801\u767b\u5f55\u3001\u53ef\u6536\u53d1\u670b\u53cb\u5708\u3001\u67e5\u770b\u670b\u53cb\u5708\u3001\u670b\u53cb\u5708\u4e92\u52a8\u70b9\u8d5e\u3001\u8bc4\u8bba\u3001 \u597d\u53cb\u5217\u8868\u3001\u5fae\u4fe1\u6d88\u606f\u6536\u53d1\u3001\u53d1\u6587\u672c\u6d88\u606f\u3001\u56fe\u7247\u6d88\u606f\u3001\u540d\u7247\u6d88\u606f\u3001\u52a8\u56fe\u8868\u60c5\u3001\u53d1\u6587\u4ef6\u3001\u5220\u597d\u53cb \u6dfb\u52a0\u597d\u53cb\u3001\u5fae\u4fe1\u8f6c\u8d26\u3001\u5fae\u4fe1\u7ea2\u5305\u63a5\u6536\u3001\u5206\u4eab\u5c0f\u7a0b\u5e8f\u3001\u5206\u4eab\u540d\u7247\u3001\u52a0\u901a\u8baf\u5f55\u597d\u53cb\u3001\u5fae\u4fe1\u6536\u85cf\u3001\u5fae\u4fe1\u6807\u7b7e\u7b49\uff01 \u6e05\u7406\u50f5\u5c38\u7c89\u3001\u6d88\u606f\u7fa4\u53d1\u3001\u901a",
+   "pushed": "2023-01-13"
+  },
+  {
+   "full_name": "what-crud/vue-crud",
+   "url": "https://github.com/what-crud/vue-crud",
+   "stars": 836,
+   "lang": "Vue",
+   "desc": "Vue.js based REST-ful CRUD system",
+   "pushed": "2022-12-10"
+  },
+  {
+   "full_name": "liorocks/pingcrm-react",
+   "url": "https://github.com/liorocks/pingcrm-react",
+   "stars": 779,
+   "lang": "TypeScript",
+   "desc": "\u269b\ufe0f Ping CRM React - A demo app to illustrate how Inertia.js works with Laravel and React.",
+   "pushed": "2025-05-06"
+  },
+  {
+   "full_name": "mdbootstrap/Black-Friday-2025",
+   "url": "https://github.com/mdbootstrap/Black-Friday-2025",
+   "stars": 774,
+   "lang": null,
+   "desc": "Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.",
+   "pushed": "2025-11-28"
+  },
+  {
+   "full_name": "opencats/OpenCATS",
+   "url": "https://github.com/opencats/OpenCATS",
+   "stars": 760,
+   "lang": "PHP",
+   "desc": "Open-source applicant tracking system (ATS) and recruitment CRM for staffing agencies and hiring teams.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "christianroman/CRMotionView",
+   "url": "https://github.com/christianroman/CRMotionView",
+   "stars": 757,
+   "lang": "Objective-C",
+   "desc": "A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.",
+   "pushed": "2015-09-12"
+  },
+  {
+   "full_name": "agno-agi/scout",
+   "url": "https://github.com/agno-agi/scout",
+   "stars": 751,
+   "lang": "Python",
+   "desc": "Open Source Company Brain",
+   "pushed": "2026-07-10"
+  },
+  {
+   "full_name": "BootstrapDash/PurpleAdmin-Free-Admin-Template",
+   "url": "https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template",
+   "stars": 725,
+   "lang": "HTML",
+   "desc": "Purple Admin is one of the most stylish Bootstrap admin dashboard you can get hands on. With its beautifully crafted captivating design and well-structured code.",
+   "pushed": "2021-12-17"
+  },
+  {
+   "full_name": "pdovhomilja/nextcrm-app",
+   "url": "https://github.com/pdovhomilja/nextcrm-app",
+   "stars": 724,
+   "lang": "TypeScript",
+   "desc": "NextCRM \u2014 Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "WuKongOpenSource/WukongCRM-9.0-JAVA",
+   "url": "https://github.com/WuKongOpenSource/WukongCRM-9.0-JAVA",
+   "stars": 713,
+   "lang": "Java",
+   "desc": "\u609f\u7a7aCRM-\u57fa\u4e8ejfinal+vue+ElementUI\u7684\u524d\u540e\u7aef\u5206\u79bbCRM\u7cfb\u7edf",
+   "pushed": "2022-06-21"
+  },
+  {
+   "full_name": "thu-ml/CRM",
+   "url": "https://github.com/thu-ml/CRM",
+   "stars": 702,
+   "lang": "Python",
+   "desc": "[ECCV 2024] Single Image to 3D Textured Mesh in 10 seconds with Convolutional Reconstruction Model.",
+   "pushed": "2024-11-28"
+  },
+  {
+   "full_name": "wp-erp/wp-erp",
+   "url": "https://github.com/wp-erp/wp-erp",
+   "stars": 700,
+   "lang": "PHP",
+   "desc": "An open-source ERP (Enterprise Resource Planning) solution for WordPress",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "WuKongOpenSource/WukongCRM-9.0-PHP",
+   "url": "https://github.com/WuKongOpenSource/WukongCRM-9.0-PHP",
+   "stars": 689,
+   "lang": "PHP",
+   "desc": "\u609f\u7a7aCRM-\u57fa\u4e8eTP5.0+vue+ElementUI\u7684\u524d\u540e\u7aef\u5206\u79bbCRM\u7cfb\u7edf",
+   "pushed": "2023-11-10"
+  },
+  {
+   "full_name": "oroinc/crm",
+   "url": "https://github.com/oroinc/crm",
+   "stars": 687,
+   "lang": "PHP",
+   "desc": "Main OroCRM package with core functionality.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "ishanvyas22/awesome-open-source-systems",
+   "url": "https://github.com/ishanvyas22/awesome-open-source-systems",
+   "stars": 673,
+   "lang": null,
+   "desc": ":sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).",
+   "pushed": "2026-06-04"
+  },
+  {
+   "full_name": "idempiere/idempiere",
+   "url": "https://github.com/idempiere/idempiere",
+   "stars": 670,
+   "lang": "Java",
+   "desc": "iDempiere. Community Powered Enterprise.  Full Open Source Business Suite ERP/CRM/MFG/SCM/POS",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "MscrmTools/XrmToolBox",
+   "url": "https://github.com/MscrmTools/XrmToolBox",
+   "stars": 653,
+   "lang": "C#",
+   "desc": "An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps",
+   "pushed": "2026-09-30"
+  },
+  {
+   "full_name": "weizhiqiang1995/erp-pro",
+   "url": "https://github.com/weizhiqiang1995/erp-pro",
+   "stars": 652,
+   "lang": "Java",
+   "desc": "Skyeye\u4e91\u96f6\u4ee3\u7801\uff0c\u91c7\u7528Springboot + UNI-APP + Ant Design Vue\u7684\u6846\u67b6\u7684\u5feb\u901f\u5f00\u53d1\u5e73\u53f0\u3002\u5305\u542b50\u591a\u79cd\u7535\u5b50\u6d41\u7a0b\uff0cCRM\u3001PM\u3001ERP\u3001MES\u3001ADM\u3001OA\u3001EHR\u3001AI\u3001\u9879\u76ee\u3001\u5546\u57ce\u3001\u8d22\u52a1\u3001\u591a\u73ed\u6b21\u8003\u52e4\u3001\u85aa\u8d44\u3001\u62db\u8058\u3001\u4e91\u552e\u540e\u3001\u8bba\u575b\u3001\u95ee\u5377\u3001\u62a5\u8868\u8bbe\u8ba1\u3001\u5de5\u4f5c\u6d41\u3001Saas\u7b49\u529f\u80fd\u3002\u6253\u9020\u5168\u7f51\u9996\u5957\u96f6\u4ee3\u7801\u3001\u529f\u80fd\u6700\u5168\u3001\u4ef7\u683c\u6700\u4f18\u60e0\u7684\u667a\u80fd\u5236\u9020\u884c\u4e1a\u4f9b\u5e94\u94fe\u4e00\u4f53\u5316\u7ba1\u7406\u8f6f\u4ef6\u3002",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "etewiah/property_web_builder",
+   "url": "https://github.com/etewiah/property_web_builder",
+   "stars": 647,
+   "lang": "Ruby",
+   "desc": "Create a fully featured real estate website on Rails in minutes! \u26fa",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "DjangoCRM/django-crm",
+   "url": "https://github.com/DjangoCRM/django-crm",
+   "stars": 642,
+   "lang": "Python",
+   "desc": "CRM and Task management software, Email marketing and many more. Django CRM software app is built for individual use by businesses of any size or freelancers and is designed to provide easy customizat",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Shudesu/line-harness-oss",
+   "url": "https://github.com/Shudesu/line-harness-oss",
+   "stars": 603,
+   "lang": "TypeScript",
+   "desc": "L Harness \u2014 self-hosted LINE Official Account CRM: step messaging, broadcasts, forms and reservations, with MCP and TypeScript SDK. By Shudesu (\u91ce\u7530\u4fee\u4e00).",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "harryho/vue-crm",
+   "url": "https://github.com/harryho/vue-crm",
+   "stars": 600,
+   "lang": "Vue",
+   "desc": "Simple reusable CRM built on Vue and Vuetify UI",
+   "pushed": "2026-07-14"
+  },
+  {
+   "full_name": "KoalixSwitzerland/koalixcrm",
+   "url": "https://github.com/KoalixSwitzerland/koalixcrm",
+   "stars": 587,
+   "lang": "Python",
+   "desc": "koalixcrm is an Open Source Python CRM and ERP based on django",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "dennisivy/crash-course-CRM",
+   "url": "https://github.com/dennisivy/crash-course-CRM",
+   "stars": 583,
+   "lang": "Python",
+   "desc": "Django customer management platform",
+   "pushed": "2026-01-29"
+  },
+  {
+   "full_name": "nysenate/OpenLegislation",
+   "url": "https://github.com/nysenate/OpenLegislation",
+   "stars": 553,
+   "lang": "Java",
+   "desc": "OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time.  It is used internally to serve up legislative data",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "aspnetrun/run-aspnetcore-cqrs",
+   "url": "https://github.com/aspnetrun/run-aspnetcore-cqrs",
+   "stars": 550,
+   "lang": "C#",
+   "desc": "Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered appli",
+   "pushed": "2023-01-09"
+  },
+  {
+   "full_name": "WuKongOpenSource/Wukong_CRM_15",
+   "url": "https://github.com/WuKongOpenSource/Wukong_CRM_15",
+   "stars": 533,
+   "lang": "Shell",
+   "desc": "Wukong CRM 15 is a comprehensive customer relationship management system that supports the entire business process from lead acquisition to payment collection, providing enterprises with intelligent a",
+   "pushed": "2026-07-03"
+  },
+  {
+   "full_name": "harryho/react-crm",
+   "url": "https://github.com/harryho/react-crm",
+   "stars": 524,
+   "lang": "TypeScript",
+   "desc": "A reusable CRM project for real-world business based on React, Redux & Material-UI",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "ritik-prog/n8n-automation-templates-5000",
+   "url": "https://github.com/ritik-prog/n8n-automation-templates-5000",
+   "stars": 522,
+   "lang": null,
+   "desc": "5000+ real-world, production-ready n8n workflow templates with AI, CRM, finance, e-commerce, marketing, and RAG automation. Free and open source.",
+   "pushed": "2026-07-10"
+  }
+ ]
+}

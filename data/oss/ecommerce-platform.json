@@ -1,0 +1,843 @@
+{
+ "query": "ecommerce+platform",
+ "total_count": 27443,
+ "items": [
+  {
+   "full_name": "medusajs/medusa",
+   "url": "https://github.com/medusajs/medusa",
+   "stars": 36845,
+   "lang": "TypeScript",
+   "desc": "The world's most flexible commerce platform for agents and developers",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "bagisto/bagisto",
+   "url": "https://github.com/bagisto/bagisto",
+   "stars": 28270,
+   "lang": "PHP",
+   "desc": "Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "bagisto/opensource-ecommerce-mobile-app",
+   "url": "https://github.com/bagisto/opensource-ecommerce-mobile-app",
+   "stars": 16074,
+   "lang": "Dart",
+   "desc": "This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "spree/spree",
+   "url": "https://github.com/spree/spree",
+   "stars": 15769,
+   "lang": "Ruby",
+   "desc": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platfo",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "reactioncommerce/reaction",
+   "url": "https://github.com/reactioncommerce/reaction",
+   "stars": 12399,
+   "lang": "JavaScript",
+   "desc": "Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.",
+   "pushed": "2026-03-01",
+   "archived": false
+  },
+  {
+   "full_name": "woocommerce/woocommerce",
+   "url": "https://github.com/woocommerce/woocommerce",
+   "stars": 10561,
+   "lang": "PHP",
+   "desc": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "evershopcommerce/evershop",
+   "url": "https://github.com/evershopcommerce/evershop",
+   "stars": 10519,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udecd\ufe0f Typescript E-commerce Platform",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "PrestaShop/PrestaShop",
+   "url": "https://github.com/PrestaShop/PrestaShop",
+   "stars": 9229,
+   "lang": "PHP",
+   "desc": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Sylius/Sylius",
+   "url": "https://github.com/Sylius/Sylius",
+   "stars": 8560,
+   "lang": "PHP",
+   "desc": "Headless open-source eCommerce platform on top of PHP/Symfony/API Platform",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "vendurehq/vendure",
+   "url": "https://github.com/vendurehq/vendure",
+   "stars": 8529,
+   "lang": "TypeScript",
+   "desc": "Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "simplcommerce/SimplCommerce",
+   "url": "https://github.com/simplcommerce/SimplCommerce",
+   "stars": 4413,
+   "lang": "C#",
+   "desc": "A simple, cross platform, modulith ecommerce system built on .NET",
+   "pushed": "2026-06-08",
+   "archived": false
+  },
+  {
+   "full_name": "pimcore/pimcore",
+   "url": "https://github.com/pimcore/pimcore",
+   "stars": 3879,
+   "lang": "PHP",
+   "desc": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "shopware/shopware",
+   "url": "https://github.com/shopware/shopware",
+   "stars": 3453,
+   "lang": "PHP",
+   "desc": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "shuup/shuup",
+   "url": "https://github.com/shuup/shuup",
+   "stars": 2404,
+   "lang": "Python",
+   "desc": "E-Commerce Platform",
+   "pushed": "2024-03-13",
+   "archived": false
+  },
+  {
+   "full_name": "beikeshop/beikeshop",
+   "url": "https://github.com/beikeshop/beikeshop",
+   "stars": 1980,
+   "lang": "PHP",
+   "desc": "Free and Open-Source, Easy-to-Use Laravel eCommerce Platform,It supports multiple languages and currencies, Integrates AI agents and MCP.The platform features customizable visual design and a rich plu",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "ever-co/ever-demand",
+   "url": "https://github.com/ever-co/ever-demand",
+   "stars": 1867,
+   "lang": "TypeScript",
+   "desc": "Ever\u00ae Demand\u2122 - Open Commerce Platform - https://everdemand.co",
+   "pushed": "2026-09-27",
+   "archived": false
+  },
+  {
+   "full_name": "mercurjs/mercur",
+   "url": "https://github.com/mercurjs/mercur",
+   "stars": 1861,
+   "lang": "TypeScript",
+   "desc": "The complete open source platform to run your entire marketplace. Storefront, vendor panel, admin console, and integrations in one enterprise-grade platform you own.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "smartstore/Smartstore",
+   "url": "https://github.com/smartstore/Smartstore",
+   "stars": 1736,
+   "lang": "C#",
+   "desc": "A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 10",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "netlify/gocommerce",
+   "url": "https://github.com/netlify/gocommerce",
+   "stars": 1616,
+   "lang": "Go",
+   "desc": "A headless e-commerce for JAMstack sites.",
+   "pushed": "2025-07-11",
+   "archived": false
+  },
+  {
+   "full_name": "kirilkirkov/Ecommerce-CodeIgniter-Bootstrap",
+   "url": "https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap",
+   "stars": 1436,
+   "lang": "PHP",
+   "desc": "Responsive, Multi-Vendor, MultiLanguage Online Store Platform (shopping cart solution)",
+   "pushed": "2026-08-11",
+   "archived": false
+  },
+  {
+   "full_name": "grandnode/grandnode2",
+   "url": "https://github.com/grandnode/grandnode2",
+   "stars": 1336,
+   "lang": "C#",
+   "desc": "Open-source eCommerce platform for C# and ASP.NET Core 10 with MongoDB. Build multi-store shops and multi-vendor marketplaces with B2B/B2C, REST API, plugins, Vue 3 and Docker.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "VirtoCommerce/vc-platform",
+   "url": "https://github.com/VirtoCommerce/vc-platform",
+   "stars": 1314,
+   "lang": "C#",
+   "desc": "Virto's Commerce Innovation Platform. Source-available, modular .NET commerce backend built on Virto Atomic Architecture\u2122.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "nexscope-ai/eCommerce-Skills",
+   "url": "https://github.com/nexscope-ai/eCommerce-Skills",
+   "stars": 1215,
+   "lang": "Python",
+   "desc": "E-commerce skills for AI agents \u2014 product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platfo",
+   "pushed": "2026-08-26",
+   "archived": false
+  },
+  {
+   "full_name": "drhenner/ror_ecommerce",
+   "url": "https://github.com/drhenner/ror_ecommerce",
+   "stars": 1208,
+   "lang": "Ruby",
+   "desc": "Ruby on Rails Ecommerce platform, perfect for your small business solution.",
+   "pushed": "2026-03-14",
+   "archived": false
+  },
+  {
+   "full_name": "thelia/thelia",
+   "url": "https://github.com/thelia/thelia",
+   "stars": 882,
+   "lang": "PHP",
+   "desc": "Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "storefront-foundation/react-storefront",
+   "url": "https://github.com/storefront-foundation/react-storefront",
+   "stars": 839,
+   "lang": "JavaScript",
+   "desc": "React Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, Apache-2.0 license. Join us as contributor (contributors@reactstorefront.io).",
+   "pushed": "2023-03-06",
+   "archived": false
+  },
+  {
+   "full_name": "olivrg/Awesome-Open-Source-eCommerce-Platforms",
+   "url": "https://github.com/olivrg/Awesome-Open-Source-eCommerce-Platforms",
+   "stars": 545,
+   "lang": null,
+   "desc": "Awesome list of open source e-commerce platforms",
+   "pushed": "2026-07-24",
+   "archived": false
+  },
+  {
+   "full_name": "strangerstudios/paid-memberships-pro",
+   "url": "https://github.com/strangerstudios/paid-memberships-pro",
+   "stars": 532,
+   "lang": "PHP",
+   "desc": "The Trusted Membership Platform That Grows with You: Restrict access to content and charge recurring subscriptions using Stripe, PayPal, and more. Fully open source. 100% GPL.",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "buluslan/gpt-image2-ecommerce",
+   "url": "https://github.com/buluslan/gpt-image2-ecommerce",
+   "stars": 425,
+   "lang": "Shell",
+   "desc": "E-commerce product image generator skill \u2014 39 scenario templates, GPT-Image-2/2.5 (Flare/Sunburst) model routing, campaign consistency lock, platform compliance. \u7535\u5546\u505a\u56fe Skill\uff1a39 \u573a\u666f\u6a21\u677f\u00d7\u53cc\u6a21\u578b\u8def\u7531\u00d7\u5957\u56fe\u4e00\u81f4\u6027\u00d7\u5e73\u53f0\u5408\u89c4\u3002",
+   "pushed": "2026-09-17",
+   "archived": false
+  },
+  {
+   "full_name": "dennisivy/proshop_django",
+   "url": "https://github.com/dennisivy/proshop_django",
+   "stars": 422,
+   "lang": "JavaScript",
+   "desc": "Full-stack eCommerce platform built with Django REST Framework and React/Redux",
+   "pushed": "2026-01-29",
+   "archived": false
+  },
+  {
+   "full_name": "oc-shopaholic/oc-shopaholic-plugin",
+   "url": "https://github.com/oc-shopaholic/oc-shopaholic-plugin",
+   "stars": 421,
+   "lang": "PHP",
+   "desc": "\ud83d\udecd\ufe0f No. 1 e-commerce platform for October CMS",
+   "pushed": "2025-11-27",
+   "archived": false
+  },
+  {
+   "full_name": "bighadj22/codflow",
+   "url": "https://github.com/bighadj22/codflow",
+   "stars": 377,
+   "lang": "TypeScript",
+   "desc": "The open-source, COD-first e-commerce + delivery platform for Algeria  built agentic-ready.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "shopnex-ai/shopnex",
+   "url": "https://github.com/shopnex-ai/shopnex",
+   "stars": 361,
+   "lang": "TypeScript",
+   "desc": "Open-source Shopify alternative built with Payload CMS.",
+   "pushed": "2026-02-27",
+   "archived": false
+  },
+  {
+   "full_name": "Cezerin2/Cezerin2",
+   "url": "https://github.com/Cezerin2/Cezerin2",
+   "stars": 360,
+   "lang": "TypeScript",
+   "desc": "Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart. \"All In One\" App: Cezerin API + Cezerin Storefront + Cezerin Dashboard.",
+   "pushed": "2024-12-14",
+   "archived": false
+  },
+  {
+   "full_name": "Cezerin2/Server",
+   "url": "https://github.com/Cezerin2/Server",
+   "stars": 354,
+   "lang": "JavaScript",
+   "desc": "Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.",
+   "pushed": "2024-10-02",
+   "archived": false
+  },
+  {
+   "full_name": "bradtraversy/prostore",
+   "url": "https://github.com/bradtraversy/prostore",
+   "stars": 333,
+   "lang": "TypeScript",
+   "desc": "A modern ecommerce platform built with Next.js, TypeScript, Postgres, Prisma & ShadCN",
+   "pushed": "2025-08-22",
+   "archived": false
+  },
+  {
+   "full_name": "workarea-commerce/workarea",
+   "url": "https://github.com/workarea-commerce/workarea",
+   "stars": 324,
+   "lang": "Ruby",
+   "desc": "Workarea is an enterprise-grade Ruby on Rails commerce platform",
+   "pushed": "2026-03-22",
+   "archived": false
+  },
+  {
+   "full_name": "shyam999/Django-ecommerce",
+   "url": "https://github.com/shyam999/Django-ecommerce",
+   "stars": 315,
+   "lang": "Python",
+   "desc": "Django-ecommerce is a fully open-source E-commerce platform built using Django Web Framework, designed with Bootstrap4...",
+   "pushed": "2024-06-20",
+   "archived": false
+  },
+  {
+   "full_name": "alexabbott/firebase-cms",
+   "url": "https://github.com/alexabbott/firebase-cms",
+   "stars": 310,
+   "lang": "TypeScript",
+   "desc": "A CMS + E-commerce platform built with Angular and Firebase",
+   "pushed": "2023-01-12",
+   "archived": false
+  },
+  {
+   "full_name": "getdokan/dokan",
+   "url": "https://github.com/getdokan/dokan",
+   "stars": 287,
+   "lang": "TypeScript",
+   "desc": "Multivendor marketplace platform for WordPress",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "medusajs/medusa-eats",
+   "url": "https://github.com/medusajs/medusa-eats",
+   "stars": 269,
+   "lang": "TypeScript",
+   "desc": "An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14.",
+   "pushed": "2025-09-23",
+   "archived": false
+  },
+  {
+   "full_name": "kirilkirkov/Ecommerce-Laravel-Bootstrap",
+   "url": "https://github.com/kirilkirkov/Ecommerce-Laravel-Bootstrap",
+   "stars": 265,
+   "lang": "JavaScript",
+   "desc": "Responsive, Multi-Vendor, MultiLanguage Online Store Platform (shopping cart solution)",
+   "pushed": "2026-01-11",
+   "archived": false
+  },
+  {
+   "full_name": "BitBagCommerce/SyliusCmsPlugin",
+   "url": "https://github.com/BitBagCommerce/SyliusCmsPlugin",
+   "stars": 244,
+   "lang": "PHP",
+   "desc": "Content management system for eCommerce apps created on Sylius platform. Built with Sylius code quality, flexibility, BDD.",
+   "pushed": "2025-05-22",
+   "archived": false
+  },
+  {
+   "full_name": "wp-e-commerce/WP-e-Commerce",
+   "url": "https://github.com/wp-e-commerce/WP-e-Commerce",
+   "stars": 225,
+   "lang": "PHP",
+   "desc": "WP eCommerce - The most popular independent eCommerce platform for WordPress",
+   "pushed": "2025-09-02",
+   "archived": false
+  },
+  {
+   "full_name": "eCommWar/eCommWar",
+   "url": "https://github.com/eCommWar/eCommWar",
+   "stars": 224,
+   "lang": "JavaScript",
+   "desc": "A leaderboard of the top open-source e-commerce platforms. Promoting the bests for building reliable stores.",
+   "pushed": "2023-11-27",
+   "archived": false
+  },
+  {
+   "full_name": "manjurulhoque/wowy",
+   "url": "https://github.com/manjurulhoque/wowy",
+   "stars": 219,
+   "lang": "Jinja",
+   "desc": "WOWY is a modern, full-featured e-commerce platform built with Django 4.x, designed to provide a seamless shopping experience for both customers and administrators. This comprehensive solution offers",
+   "pushed": "2025-02-23",
+   "archived": false
+  },
+  {
+   "full_name": "amasen02/freshcart-backend",
+   "url": "https://github.com/amasen02/freshcart-backend",
+   "stars": 216,
+   "lang": "C#",
+   "desc": "FreshCart \u2014 .NET 10 + Aspire microservices reference e-commerce platform with an Angular 20 SPA",
+   "pushed": "2026-09-12",
+   "archived": false
+  },
+  {
+   "full_name": "Loydtafireyi/ZimCart-Laravel-Ecommerce",
+   "url": "https://github.com/Loydtafireyi/ZimCart-Laravel-Ecommerce",
+   "stars": 210,
+   "lang": "PHP",
+   "desc": "ZimCart is an Open Source eCommerce platform by Loyd Tafireyi using Laravel and it is available as a free and paid version.",
+   "pushed": "2026-06-23",
+   "archived": false
+  },
+  {
+   "full_name": "frappe/webshop",
+   "url": "https://github.com/frappe/webshop",
+   "stars": 209,
+   "lang": "Python",
+   "desc": "Open Source eCommerce Platform",
+   "pushed": "2026-09-15",
+   "archived": false
+  },
+  {
+   "full_name": "clonglam/HiyoRi-Ecommerce-Nextjs-Supabase",
+   "url": "https://github.com/clonglam/HiyoRi-Ecommerce-Nextjs-Supabase",
+   "stars": 188,
+   "lang": "TypeScript",
+   "desc": "Hiyori is an e-commerce platform equipped with a custom Content Management System (CMS), designed to provide an exceptional online shopping experience. Built using the latest web technologies such as",
+   "pushed": "2025-12-15",
+   "archived": false
+  },
+  {
+   "full_name": "MehraDevesh2022/mern-ecommerce-CricketWeapon-Store",
+   "url": "https://github.com/MehraDevesh2022/mern-ecommerce-CricketWeapon-Store",
+   "stars": 179,
+   "lang": "JavaScript",
+   "desc": "Experience top-tier online shopping with CricketWeapon, an advanced MERN stack e-commerce platform. Explore a diverse product catalog, streamline user profiles, track orders, and harness comprehensive",
+   "pushed": "2026-02-27",
+   "archived": false
+  },
+  {
+   "full_name": "vespolina/vespolina-sandbox",
+   "url": "https://github.com/vespolina/vespolina-sandbox",
+   "stars": 179,
+   "lang": "PHP",
+   "desc": "The purpose of this project is to create an expandable PHP based ecommerce platform, built on interchangeable libraries that can be used independently of Vespolina, all managed by configurable process",
+   "pushed": "2014-06-25",
+   "archived": false
+  },
+  {
+   "full_name": "mobazha/mobazha",
+   "url": "https://github.com/mobazha/mobazha",
+   "stars": 173,
+   "lang": "Go",
+   "desc": "Open-source peer-to-peer commerce platform for storefronts, marketplaces, orders, and crypto payments.",
+   "pushed": "2026-09-14",
+   "archived": false
+  },
+  {
+   "full_name": "Mandala-Software-House/payload-ecommerce-template",
+   "url": "https://github.com/Mandala-Software-House/payload-ecommerce-template",
+   "stars": 172,
+   "lang": "TypeScript",
+   "desc": "E-commerce platform template using PayloadCMS, Next.js, TypeScript and TailwindCSS for modern online stores. Includes payment and delivery integrations",
+   "pushed": "2026-01-27",
+   "archived": false
+  },
+  {
+   "full_name": "intershop/intershop-pwa",
+   "url": "https://github.com/intershop/intershop-pwa",
+   "stars": 171,
+   "lang": "TypeScript",
+   "desc": "The Intershop PWA is an Angular based progressive web app storefront for the Intershop Commerce Platform.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ajaybor0/MERN-eCommerce",
+   "url": "https://github.com/ajaybor0/MERN-eCommerce",
+   "stars": 160,
+   "lang": "JavaScript",
+   "desc": "Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various funct",
+   "pushed": "2025-07-25",
+   "archived": false
+  },
+  {
+   "full_name": "MahoCommerce/maho",
+   "url": "https://github.com/MahoCommerce/maho",
+   "stars": 155,
+   "lang": "PHP",
+   "desc": "Modern PHP 8.3+ ecommerce platform built on Symfony, Doctrine DBAL, Laminas, 100% vanilla JS. Drop-in replacement for Magento 1 projects with full compatibility. Complete toolchain: Composer/PHPStan p",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "SajeebChakraborty/Restaurant_Ecommerce_System_Laravel",
+   "url": "https://github.com/SajeebChakraborty/Restaurant_Ecommerce_System_Laravel",
+   "stars": 154,
+   "lang": "Blade",
+   "desc": "A platform that is a collective term for software that helps to manage food business operations.",
+   "pushed": "2024-04-28",
+   "archived": false
+  },
+  {
+   "full_name": "michaelparkadze/angular-ecommerce-app",
+   "url": "https://github.com/michaelparkadze/angular-ecommerce-app",
+   "stars": 153,
+   "lang": "TypeScript",
+   "desc": "This is an e-commerce web application based on other popular e-commerce platforms. Built with Angular, Node.js, and MySQL",
+   "pushed": "2024-01-08",
+   "archived": false
+  },
+  {
+   "full_name": "Jellyfishboy/trado",
+   "url": "https://github.com/Jellyfishboy/trado",
+   "stars": 152,
+   "lang": "Ruby",
+   "desc": "Trado is a lightweight, easy to use ecommerce platform; designed to allow developers to quickly deploy a premium ecommerce store for their business",
+   "pushed": "2024-07-18",
+   "archived": false
+  },
+  {
+   "full_name": "abantecart/abantecart-src",
+   "url": "https://github.com/abantecart/abantecart-src",
+   "stars": 151,
+   "lang": "PHP",
+   "desc": "AbanteCart is a free PHP based eCommerce solution for merchants to provide ability creating online business and sell products online quick and efficient.  AbanteCart application is built and supported",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "buildlabs-io/next-ecommerce",
+   "url": "https://github.com/buildlabs-io/next-ecommerce",
+   "stars": 151,
+   "lang": "TypeScript",
+   "desc": "Free, modern, and accessible e-commerce platform built with Next.js 16 and Payload CMS. Features a dynamic storefront, flexible content management, and a production-ready commerce flow.",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "NightClover-code/modern-ecommerce",
+   "url": "https://github.com/NightClover-code/modern-ecommerce",
+   "stars": 141,
+   "lang": "TypeScript",
+   "desc": "Full-stack eCommerce platform built with Next.js, Nest.js, and MongoDB, featuring AI-powered product creation using Vercel AI SDK.",
+   "pushed": "2025-01-16",
+   "archived": false
+  },
+  {
+   "full_name": "ionutbalosin/ecommerce-app",
+   "url": "https://github.com/ionutbalosin/ecommerce-app",
+   "stars": 134,
+   "lang": "Java",
+   "desc": "eCommerce application is a platform where customers can find products, shop around using a cart, check out the products and initiate payments. It is used for the didactic purpose only, as a support pr",
+   "pushed": "2025-12-29",
+   "archived": false
+  },
+  {
+   "full_name": "DivanteLtd/storefront-integration-sdk",
+   "url": "https://github.com/DivanteLtd/storefront-integration-sdk",
+   "stars": 134,
+   "lang": "JavaScript",
+   "desc": "If You like to integrate Vue Storefront - PWA for eCommerce with 3rd party platform, use this SDK",
+   "pushed": "2023-01-07",
+   "archived": false
+  },
+  {
+   "full_name": "Swastika-IO/sio.core",
+   "url": "https://github.com/Swastika-IO/sio.core",
+   "stars": 133,
+   "lang": "C#",
+   "desc": "\u2714 [ SIOC ] Swastika I/O Core is an all in one platform (e.g CMS, eCommerce, Forum, Q&A, CRM...) ASP.NET Core / Dotnet Core System based on SIOH Framework.",
+   "pushed": "2022-09-14",
+   "archived": false
+  },
+  {
+   "full_name": "zetapath/80cents",
+   "url": "https://github.com/zetapath/80cents",
+   "stars": 117,
+   "lang": "JavaScript",
+   "desc": "A real and easy NodeJS service for create ecommerce platforms.",
+   "pushed": "2016-02-11",
+   "archived": false
+  },
+  {
+   "full_name": "bagisto/headless-ecommerce",
+   "url": "https://github.com/bagisto/headless-ecommerce",
+   "stars": 111,
+   "lang": "PHP",
+   "desc": "Laravel Headless eCommerce APIs allow you to experience seamless and easily scalable storefront performance. An open-source and GraphQL based Rest API Laravel platform delivering ultra-fast, dynamic,",
+   "pushed": "2026-07-21",
+   "archived": false
+  },
+  {
+   "full_name": "endless-commerce/endless",
+   "url": "https://github.com/endless-commerce/endless",
+   "stars": 111,
+   "lang": "JavaScript",
+   "desc": "Open Source Ecommerce Platform based on Serverless Framework",
+   "pushed": "2016-12-13",
+   "archived": false
+  },
+  {
+   "full_name": "carina0074/sellertransparencyhub",
+   "url": "https://github.com/carina0074/sellertransparencyhub",
+   "stars": 111,
+   "lang": "TypeScript",
+   "desc": "Independent research platform tracking marketplace fees, seller policies, and transparency across major e-commerce platforms.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Eleven617/mall-ai-after-sales-platform",
+   "url": "https://github.com/Eleven617/mall-ai-after-sales-platform",
+   "stars": 111,
+   "lang": "Java",
+   "desc": "Trusted e-commerce AI after-sales platform \u2014 RAG, controlled tools, human confirmation, Java-authoritative writes, and observable workflows.",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "UsamaSarwar/reactnative-ecommerce-charlie",
+   "url": "https://github.com/UsamaSarwar/reactnative-ecommerce-charlie",
+   "stars": 99,
+   "lang": "JavaScript",
+   "desc": "Open-Source React Native Ecommerce Cross Platform Mobile App",
+   "pushed": "2025-08-16",
+   "archived": false
+  },
+  {
+   "full_name": "thebuggeddev/modkeys",
+   "url": "https://github.com/thebuggeddev/modkeys",
+   "stars": 95,
+   "lang": "HTML",
+   "desc": "A 3D keyboard ecommerce platform developed using Claude Fable 5",
+   "pushed": "2026-07-06",
+   "archived": false
+  },
+  {
+   "full_name": "firesale/firesale",
+   "url": "https://github.com/firesale/firesale",
+   "stars": 94,
+   "lang": "PHP",
+   "desc": "The lightweight eCommerce platform for PyroCMS",
+   "pushed": "2015-06-16",
+   "archived": false
+  },
+  {
+   "full_name": "amacgregor/crimson_commerce",
+   "url": "https://github.com/amacgregor/crimson_commerce",
+   "stars": 94,
+   "lang": "Elixir",
+   "desc": "An OpenSource Ecommerce platform on the Elixir/Phoenix stack, which aims to leverage the power of functional programming for ecommerce.",
+   "pushed": "2023-01-25",
+   "archived": false
+  },
+  {
+   "full_name": "harshalhonde21/EcommerceSpectastyle",
+   "url": "https://github.com/harshalhonde21/EcommerceSpectastyle",
+   "stars": 93,
+   "lang": "JavaScript",
+   "desc": "Through this project, we aim to not only learn but also innovate, leveraging the power of the MERN stack to create scalable and efficient solutions. By incorporating cutting-edge warehouse management",
+   "pushed": "2024-10-31",
+   "archived": false
+  },
+  {
+   "full_name": "surgieboi/backendless-ecommerce-platform",
+   "url": "https://github.com/surgieboi/backendless-ecommerce-platform",
+   "stars": 92,
+   "lang": "TypeScript",
+   "desc": "BEP is short for \u201cBackendless Ecommerce Platform,\u201d and it turns any website into a shop with just 1-line of code. There's no backend or CMS to manage. Just add our snippet and you're in business!",
+   "pushed": "2021-07-12",
+   "archived": false
+  },
+  {
+   "full_name": "AmirBayat0/ShopZilla",
+   "url": "https://github.com/AmirBayat0/ShopZilla",
+   "stars": 92,
+   "lang": null,
+   "desc": "ShopZilla is a comprehensive shopping application developed with Flutter \ud83d\udecd\ufe0f. It offers a user-friendly interface \ud83d\udda5\ufe0f, cross-platform compatibility \ud83c\udf10, and simulated payment integration \ud83d\udcb3. Explore a wide",
+   "pushed": "2025-03-30",
+   "archived": false
+  },
+  {
+   "full_name": "CozyCommerce/cozycommerce-lite",
+   "url": "https://github.com/CozyCommerce/cozycommerce-lite",
+   "stars": 88,
+   "lang": "TypeScript",
+   "desc": "Next.js Full-Stack Complete eCommerce solution. Featuring one-click deployment, this platform offers seamless scalability, custom CMS integration, and secure payments - perfect for creating and managi",
+   "pushed": "2026-05-20",
+   "archived": false
+  },
+  {
+   "full_name": "thuongtruong1009/e-shopee",
+   "url": "https://github.com/thuongtruong1009/e-shopee",
+   "stars": 88,
+   "lang": "Vue",
+   "desc": "\ud83d\udcb3 Online shopping application and e-commerce trading platform.",
+   "pushed": "2022-06-19",
+   "archived": false
+  },
+  {
+   "full_name": "gnuboard/g7",
+   "url": "https://github.com/gnuboard/g7",
+   "stars": 87,
+   "lang": "PHP",
+   "desc": "Gnuboard7(\uadf8\ub204\ubcf4\ub4dc7) - Open-source CMS & e-commerce platform built with Laravel 12 + React",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "stefandoorn/sitemap-plugin",
+   "url": "https://github.com/stefandoorn/sitemap-plugin",
+   "stars": 84,
+   "lang": "PHP",
+   "desc": "Sitemap Plugin for Sylius eCommerce platform",
+   "pushed": "2026-10-07",
+   "archived": false
+  },
+  {
+   "full_name": "ShoeSafari-Org/ShoeSafari",
+   "url": "https://github.com/ShoeSafari-Org/ShoeSafari",
+   "stars": 84,
+   "lang": "TypeScript",
+   "desc": "E-commerce platform showcasing Stellar/Soroban blockchain payments - USDC checkout, escrow contracts, and Freighter wallet integration",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "zachary/awesome-ecommerce",
+   "url": "https://github.com/zachary/awesome-ecommerce",
+   "stars": 78,
+   "lang": null,
+   "desc": "Collect and develop Open Source or Free Projects for building ecommerce platform easy and fast and free",
+   "pushed": "2024-01-08",
+   "archived": false
+  },
+  {
+   "full_name": "commercetools/nodejs",
+   "url": "https://github.com/commercetools/nodejs",
+   "stars": 78,
+   "lang": "JavaScript",
+   "desc": "Everything related to the Node.js ecosystem for the commercetools platform.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "surgieboi/zyla",
+   "url": "https://github.com/surgieboi/zyla",
+   "stars": 78,
+   "lang": null,
+   "desc": "The fastest full-stack headless commerce platform in the world.",
+   "pushed": "2022-10-02",
+   "archived": false
+  },
+  {
+   "full_name": "Unicode01/auralogic",
+   "url": "https://github.com/Unicode01/auralogic",
+   "stars": 77,
+   "lang": "TypeScript",
+   "desc": "Self-hosted e-commerce platform with Go, Next.js, plugin runtime, virtual inventory, orders, payments, and admin analytics.",
+   "pushed": "2026-05-15",
+   "archived": false
+  },
+  {
+   "full_name": "cubecart/v6",
+   "url": "https://github.com/cubecart/v6",
+   "stars": 74,
+   "lang": "PHP",
+   "desc": "Free, self-hosted ecommerce platform written in PHP. Run an online store on your own server; CubeCart never takes a percentage of your sales.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "coralsio/laraship",
+   "url": "https://github.com/coralsio/laraship",
+   "stars": 74,
+   "lang": "PHP",
+   "desc": "Laraship is a Platform built on Laravel for Rapid Development, it helps Agents, Startups, and even individuals to save time building their Web Applications and websites using well-structured code.",
+   "pushed": "2026-09-29",
+   "archived": false
+  },
+  {
+   "full_name": "BitBagCommerce/SyliusWishlistPlugin",
+   "url": "https://github.com/BitBagCommerce/SyliusWishlistPlugin",
+   "stars": 69,
+   "lang": "PHP",
+   "desc": "This plugin allows you to integrate wishlist features with Sylius platform app.",
+   "pushed": "2025-05-22",
+   "archived": false
+  },
+  {
+   "full_name": "rastmob/ionic-ecommerce",
+   "url": "https://github.com/rastmob/ionic-ecommerce",
+   "stars": 68,
+   "lang": "TypeScript",
+   "desc": "eCommerce client for IOS, Android and Windows Platform with Ionic",
+   "pushed": "2023-01-07",
+   "archived": false
+  },
+  {
+   "full_name": "thasup/microservices-ecommerce",
+   "url": "https://github.com/thasup/microservices-ecommerce",
+   "stars": 67,
+   "lang": "JavaScript",
+   "desc": "Aurapan is a beautiful women's clothes e-commerce website built with microservices architecture, perform server-side rendering by Next.js, developing on Google Cloud Platform environment, running auto",
+   "pushed": "2026-09-30",
+   "archived": false
+  },
+  {
+   "full_name": "nxtbn-com/nxtbn",
+   "url": "https://github.com/nxtbn-com/nxtbn",
+   "stars": 63,
+   "lang": "Python",
+   "desc": "A scalable and customizable eCommerce platform with robust features, top-tier security, and community-driven support for businesses and developers.",
+   "pushed": "2025-04-22",
+   "archived": false
+  }
+ ]
+}

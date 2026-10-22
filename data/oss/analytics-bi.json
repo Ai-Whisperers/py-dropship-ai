@@ -1,0 +1,294 @@
+{
+ "query": "analytics+bi+dashboard",
+ "total_count": 50622,
+ "items": [
+  {
+   "full_name": "metabase/metabase",
+   "url": "https://github.com/metabase/metabase",
+   "stars": 49789,
+   "lang": "Clojure",
+   "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "getredash/redash",
+   "url": "https://github.com/getredash/redash",
+   "stars": 28843,
+   "lang": "Python",
+   "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "perspective-dev/perspective",
+   "url": "https://github.com/perspective-dev/perspective",
+   "stars": 11333,
+   "lang": "Rust",
+   "desc": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "briefercloud/briefer",
+   "url": "https://github.com/briefercloud/briefer",
+   "stars": 4326,
+   "lang": "TypeScript",
+   "desc": "Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.",
+   "pushed": "2025-08-07"
+  },
+  {
+   "full_name": "running-elephant/datart",
+   "url": "https://github.com/running-elephant/datart",
+   "stars": 2308,
+   "lang": "TypeScript",
+   "desc": "Datart is a next generation Data Visualization Open Platform",
+   "pushed": "2025-02-10"
+  },
+  {
+   "full_name": "helicalinsight/helicalinsight",
+   "url": "https://github.com/helicalinsight/helicalinsight",
+   "stars": 1097,
+   "lang": "JavaScript",
+   "desc": "Free, open source BI platform with AI conversational analytics (BYO-LLM), pixel-perfect paginated reports, interactive dashboards, SSO, embedding, multi-tenancy & row-level security. Every feature fre",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "frappe/insights",
+   "url": "https://github.com/frappe/insights",
+   "stars": 1028,
+   "lang": "Python",
+   "desc": "Open Source Business Intelligence Tool",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "sy-vendor/Gobi",
+   "url": "https://github.com/sy-vendor/Gobi",
+   "stars": 276,
+   "lang": "Go",
+   "desc": "\ud83d\ude80 Modern Go-Native Business Intelligence (BI) Engine \u2013 API-first, lightweight BI for analytics, charting, and automated reporting with 3D visualization.",
+   "pushed": "2025-10-21"
+  },
+  {
+   "full_name": "nbrown02/FlowViz",
+   "url": "https://github.com/nbrown02/FlowViz",
+   "stars": 246,
+   "lang": "TypeScript",
+   "desc": "A Power BI template that provides easy to understand, actionable flow metrics and predictive analytics for your agile teams using Azure DevOps, Azure DevOps Server and/or TFS.",
+   "pushed": "2026-08-08"
+  },
+  {
+   "full_name": "virajbhutada/InsightForge",
+   "url": "https://github.com/virajbhutada/InsightForge",
+   "stars": 175,
+   "lang": null,
+   "desc": "Discover a curated collection of dynamic Power BI dashboards covering financial analytics, HR metrics, streaming service trends, real estate dynamics, and more. Meticulously designed for comprehensive",
+   "pushed": "2024-10-30"
+  },
+  {
+   "full_name": "xxiaouw/SteamSmartBuy",
+   "url": "https://github.com/xxiaouw/SteamSmartBuy",
+   "stars": 156,
+   "lang": "Jupyter Notebook",
+   "desc": "An intelligent Steam deal analytics dashboard leveraging Python, MySQL, and Power BI to surface the most worthwhile discounts.",
+   "pushed": "2025-07-08"
+  },
+  {
+   "full_name": "tushar2704/PowerBI-Portfolio",
+   "url": "https://github.com/tushar2704/PowerBI-Portfolio",
+   "stars": 128,
+   "lang": null,
+   "desc": "Welcome to my Old Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligen",
+   "pushed": "2023-09-18"
+  },
+  {
+   "full_name": "apiko-dev/Databazel",
+   "url": "https://github.com/apiko-dev/Databazel",
+   "stars": 125,
+   "lang": "JavaScript",
+   "desc": "The analytical and reporting solution for MongoDB",
+   "pushed": "2018-12-17"
+  },
+  {
+   "full_name": "datainsider-co/rocket-bi",
+   "url": "https://github.com/datainsider-co/rocket-bi",
+   "stars": 124,
+   "lang": "TypeScript",
+   "desc": "A free, open-source,  web-based self-service BI tailor-made for clickhouse, google bigquery, mysql, postgresql, vertica",
+   "pushed": "2024-11-21"
+  },
+  {
+   "full_name": "MahbubNibir/power-bi-retail-analytics-viz",
+   "url": "https://github.com/MahbubNibir/power-bi-retail-analytics-viz",
+   "stars": 119,
+   "lang": "HTML",
+   "desc": "Top Power BI Sales Dashboard 2026 for Profit & Regional Analysis",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI",
+   "url": "https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI",
+   "stars": 118,
+   "lang": "HTML",
+   "desc": "Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "dchainapp2021/cosmetics-retail-finance-optimizer",
+   "url": "https://github.com/dchainapp2021/cosmetics-retail-finance-optimizer",
+   "stars": 117,
+   "lang": "HTML",
+   "desc": "Power BI Cosmetics Revenue Analytics Dashboard 2026: Sales Quality & Asset Performance",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer",
+   "url": "https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer",
+   "stars": 115,
+   "lang": "HTML",
+   "desc": "PhonePe Transaction Trends & User Analytics Dashboard 2026 \u2013 Power BI Guide",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "visivo-io/visivo",
+   "url": "https://github.com/visivo-io/visivo",
+   "stars": 104,
+   "lang": "JavaScript",
+   "desc": "\u2728 Build dashboards with end-to-end version control. \ud83d\udd0b CLI w/ batteries included, no infra required. Develop on your laptop for instant results, deploy changes safely (with automated checks), and keep",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "microsoft/AI-in-One-Dashboard",
+   "url": "https://github.com/microsoft/AI-in-One-Dashboard",
+   "stars": 93,
+   "lang": "PowerShell",
+   "desc": "Free Power BI dashboard for Microsoft 365 Copilot, Copilot Chat and agent adoption. Nearly 20 report pages on usage, adoption, habits, agent health and licensing, with row-level security and privacy c",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Humphrey4data/tableau-to-hex-skill",
+   "url": "https://github.com/Humphrey4data/tableau-to-hex-skill",
+   "stars": 91,
+   "lang": null,
+   "desc": "Agent skill for migrating Tableau, Looker, and Power BI dashboards to Hex apps: extract specs, rebuild with Hex AI, verify parity",
+   "pushed": "2026-07-30"
+  },
+  {
+   "full_name": "flowkraft/datapallas",
+   "url": "https://github.com/flowkraft/datapallas",
+   "stars": 80,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udd25One modern BI and data platform. AI data exploration, dashboards, and pixel-perfect report generation \u2014 replacing Qlik, Tableau and Crystal Reports.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "bonfirer/LingxiBI",
+   "url": "https://github.com/bonfirer/LingxiBI",
+   "stars": 48,
+   "lang": "TypeScript",
+   "desc": "AI-powered data analytics & reporting platform. Connect databases, ask questions in natural language, and auto-generate interactive dashboards.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "Pandey-Adarsh/HR-Analytics-PowerBI",
+   "url": "https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI",
+   "stars": 47,
+   "lang": null,
+   "desc": "HR Data Analytics portfolio project on a dataset of 80K records that deals with HR KPIs like Performance tracking, attrition rate. Project involved cleaning, transforming data and visualizing it to cr",
+   "pushed": "2022-11-10"
+  },
+  {
+   "full_name": "Suraj-G-Rao/Complete_Data_Analysis",
+   "url": "https://github.com/Suraj-G-Rao/Complete_Data_Analysis",
+   "stars": 46,
+   "lang": "Jupyter Notebook",
+   "desc": "A comprehensive Data Analysis repository covering the complete learning path from Python fundamentals to advanced analytics, SQL, statistics, EDA, and Power BI dashboards.",
+   "pushed": "2026-05-11"
+  },
+  {
+   "full_name": "nbrown02/FlowViz-Jira",
+   "url": "https://github.com/nbrown02/FlowViz-Jira",
+   "stars": 44,
+   "lang": "TypeScript",
+   "desc": "A Power BI template that provides easy to understand, actionable flow metrics and predictive analytics for your agile teams using Jira (Cloud or Server/Data Center).",
+   "pushed": "2026-08-10"
+  },
+  {
+   "full_name": "parlhad/Uber_Power-BI_Project",
+   "url": "https://github.com/parlhad/Uber_Power-BI_Project",
+   "stars": 39,
+   "lang": null,
+   "desc": "This repository contains a Power BI analytics dashboard built to explore Uber ride booking data and extract business insights. The dashboard analyzes operational performance, financial trends, custome",
+   "pushed": "2026-06-27"
+  },
+  {
+   "full_name": "pvn-ptl/AdventureWorks-Analytics",
+   "url": "https://github.com/pvn-ptl/AdventureWorks-Analytics",
+   "stars": 34,
+   "lang": null,
+   "desc": "Analyzing Manufacturing and Inventory Operations of the AdventureWorks Database using Power BI",
+   "pushed": "2021-12-06"
+  },
+  {
+   "full_name": "Nivetha0310/HR_Analytics_PowerBi-dashboard",
+   "url": "https://github.com/Nivetha0310/HR_Analytics_PowerBi-dashboard",
+   "stars": 34,
+   "lang": null,
+   "desc": "Visualisation of employee details in Excel file in a interactive way using  Microsoft Power Bi tool.                                 Here I have attached my dashboard link",
+   "pushed": "2024-05-16"
+  },
+  {
+   "full_name": "Dashboard-Design/Power-BI-UDF-Library",
+   "url": "https://github.com/Dashboard-Design/Power-BI-UDF-Library",
+   "stars": 33,
+   "lang": null,
+   "desc": "A curated library of reusable User Defined Functions UDFs  for Power BI analytics, reporting, and dashboards.",
+   "pushed": "2026-07-17"
+  },
+  {
+   "full_name": "Anibl-1/DataTeaCup",
+   "url": "https://github.com/Anibl-1/DataTeaCup",
+   "stars": 29,
+   "lang": "Vue",
+   "desc": "Open-source data integration and intelligent BI platform for data collection, DataX sync, reporting, dashboards and AI analytics.",
+   "pushed": "2026-06-30"
+  },
+  {
+   "full_name": "DataVisualizationExpert/HR-Analytics-KPI-Dashboard-using-Power-BI",
+   "url": "https://github.com/DataVisualizationExpert/HR-Analytics-KPI-Dashboard-using-Power-BI",
+   "stars": 28,
+   "lang": null,
+   "desc": "This project leverages data analytics to gain insights into gender diversity and inclusion within the company. The Power BI dashboard and KPIs allow HR and management to track important metrics, ident",
+   "pushed": "2024-03-14"
+  },
+  {
+   "full_name": "vipulsystems/enterprise-supply-chain-logistics-analysis",
+   "url": "https://github.com/vipulsystems/enterprise-supply-chain-logistics-analysis",
+   "stars": 26,
+   "lang": null,
+   "desc": "Production grade Supply Chain & Logistics Optimization platform handling 100,000+ records. Built with Star Schema, Advanced DAX, and AI Root Cause Analytics in Power BI.",
+   "pushed": "2026-06-21"
+  },
+  {
+   "full_name": "AmirhosseinHonardoust/The-Analysts-Mirror-Reflective-Dashboards",
+   "url": "https://github.com/AmirhosseinHonardoust/The-Analysts-Mirror-Reflective-Dashboards",
+   "stars": 23,
+   "lang": null,
+   "desc": "A professional exploration of reflective analytics, dashboards that evolve through user interaction. This project reimagines BI systems as adaptive, cognitive mirrors that learn analyst behavior, anti",
+   "pushed": "2025-11-05"
+  },
+  {
+   "full_name": "datafor123/datafor-free",
+   "url": "https://github.com/datafor123/datafor-free",
+   "stars": 22,
+   "lang": "Java",
+   "desc": "Datafor is a data visualization and analytics platform.",
+   "pushed": "2024-08-11"
+  },
+  {
+   "full_name": "SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery",
+   "url": "https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery",
+   "stars": 20,
+   "lang": null,
+   "desc": "The HR-Analytics Attendance Dashboard uses Power Query, DAX Query and Power BI to analyze employee attendance data and provide insights into attendance patterns. The data is cleaned and transformed us",
+   "pushed": "2023-03-16"
+  }
+ ]
+}

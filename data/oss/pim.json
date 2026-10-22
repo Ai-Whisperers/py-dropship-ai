@@ -1,0 +1,278 @@
+{
+ "query": "product+information+management",
+ "total_count": 1690,
+ "items": [
+  {
+   "full_name": "unopim/unopim",
+   "url": "https://github.com/unopim/unopim",
+   "stars": 11042,
+   "lang": "PHP",
+   "desc": "Open source Product Information Management (PIM) and Digital Asset Management (DAM) platform built on Laravel \u2014 manage, enrich, and scale product data and digital assets beyond 10 million products. Fr",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "akeneo/pim-community-dev",
+   "url": "https://github.com/akeneo/pim-community-dev",
+   "stars": 1046,
+   "lang": "PHP",
+   "desc": "[Community Development Repository] The open source Product Information Management (PIM)",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "akeneo/pim-community-standard",
+   "url": "https://github.com/akeneo/pim-community-standard",
+   "stars": 436,
+   "lang": null,
+   "desc": "[Community Standard Edition] The open source Product Information Management (PIM) - please raise issues in https://github.com/akeneo/pim-community-dev/issues",
+   "pushed": "2026-09-28"
+  },
+  {
+   "full_name": "sajxraj/InventoryManagementSystem",
+   "url": "https://github.com/sajxraj/InventoryManagementSystem",
+   "stars": 344,
+   "lang": "Java",
+   "desc": "A software developed using Java SE which provides as easy way to track the products, suppliers, customers as well as purchase and sales information. It also records the stock currently available in th",
+   "pushed": "2024-05-30"
+  },
+  {
+   "full_name": "Sfedfcv/redesigned-pancake",
+   "url": "https://github.com/Sfedfcv/redesigned-pancake",
+   "stars": 268,
+   "lang": null,
+   "desc": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration",
+   "pushed": "2021-05-16"
+  },
+  {
+   "full_name": "ManojKumarPatnaik/Major-project-list",
+   "url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+   "stars": 259,
+   "lang": null,
+   "desc": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get start",
+   "pushed": "2025-07-29"
+  },
+  {
+   "full_name": "atrocore/atrocore",
+   "url": "https://github.com/atrocore/atrocore",
+   "stars": 240,
+   "lang": "JavaScript",
+   "desc": "AtroCore is an enterprise-ready, highly configurable Business Application Platform for managing complex data, integrating systems, and building custom business applications. It provides ready-made sol",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "atrocore/atropim",
+   "url": "https://github.com/atrocore/atropim",
+   "stars": 210,
+   "lang": "PHP",
+   "desc": "AtroPIM is a flexible, highly configurable, modular, open-source product information management (PIM) system that extends the AtroCore data management and system integration platform.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "justdoinc/justdo",
+   "url": "https://github.com/justdoinc/justdo",
+   "stars": 171,
+   "lang": null,
+   "desc": "Enterprise project and portfolio management. Official product information, demos and resources.",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "jettbrains/-L-",
+   "url": "https://github.com/jettbrains/-L-",
+   "stars": 166,
+   "lang": null,
+   "desc": "W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet \u2014 September 2019. For th",
+   "pushed": "2021-08-18"
+  },
+  {
+   "full_name": "Rastaman4e/-1",
+   "url": "https://github.com/Rastaman4e/-1",
+   "stars": 78,
+   "lang": null,
+   "desc": "NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE   PLEASE READ THESE NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE (\u201cTerms\u201d) CAREFULLY BEFORE USING THE THE PLA",
+   "pushed": "2021-04-16"
+  },
+  {
+   "full_name": "akeneo/pim-docs",
+   "url": "https://github.com/akeneo/pim-docs",
+   "stars": 62,
+   "lang": "CSS",
+   "desc": "[Community Documentation Repository] The open source Product Information Management (PIM)",
+   "pushed": "2025-03-26"
+  },
+  {
+   "full_name": "tmjeee/fuyuko",
+   "url": "https://github.com/tmjeee/fuyuko",
+   "stars": 54,
+   "lang": "TypeScript",
+   "desc": "An open source Master Data Management / Product Information Management application. Contributions are welcomed.   :-)",
+   "pushed": "2023-03-06"
+  },
+  {
+   "full_name": "Abhishekkt15/Pharmacy-Management-System",
+   "url": "https://github.com/Abhishekkt15/Pharmacy-Management-System",
+   "stars": 53,
+   "lang": "CSS",
+   "desc": "The main aim of the project is the management of the database of the pharmaceutical shop. This project is insight into the design and implementation of a Pharmacy Management System. This is done by cr",
+   "pushed": "2024-03-18"
+  },
+  {
+   "full_name": "hector-jewell/react-native-based-food-delivery-app",
+   "url": "https://github.com/hector-jewell/react-native-based-food-delivery-app",
+   "stars": 46,
+   "lang": "JavaScript",
+   "desc": "React Native based food delivery app is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. Visit our product page for mor",
+   "pushed": "2026-05-18"
+  },
+  {
+   "full_name": "projectworldsofficial/Jwellary-shop-PHP-MYSQL-",
+   "url": "https://github.com/projectworldsofficial/Jwellary-shop-PHP-MYSQL-",
+   "stars": 43,
+   "lang": null,
+   "desc": "Free Download Online Jewellery Shopping System Php Project with source code. Online Jewellery Shop is basically used to build an application program which help people to find and buy latest design of",
+   "pushed": "2021-08-18"
+  },
+  {
+   "full_name": "Mdshobu/Liberty-House-Club-Whitepaper",
+   "url": "https://github.com/Mdshobu/Liberty-House-Club-Whitepaper",
+   "stars": 35,
+   "lang": null,
+   "desc": "# Liberty House Club **A Parallel Binance Chain to Enable Smart Contracts**  _NOTE: This document is under development. Please check regularly for updates!_  ## Table of Contents - [Motivation](#motiv",
+   "pushed": "2022-04-22"
+  },
+  {
+   "full_name": "VirtoCommerce/vc-module-catalog",
+   "url": "https://github.com/VirtoCommerce/vc-module-catalog",
+   "stars": 34,
+   "lang": "C#",
+   "desc": "Product information management module",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "3scale-labs/3scale_ws_api_for_php",
+   "url": "https://github.com/3scale-labs/3scale_ws_api_for_php",
+   "stars": 32,
+   "lang": "PHP",
+   "desc": "3scale integration plugin for PHP applications. 3scale is an API Infrastructure service which handles API Keys, Rate Limiting, Analytics, Billing Payments and Developer Management. Includes a configur",
+   "pushed": "2017-05-10"
+  },
+  {
+   "full_name": "marthaegrimaldi/food-ordering-app-react-native",
+   "url": "https://github.com/marthaegrimaldi/food-ordering-app-react-native",
+   "stars": 31,
+   "lang": "JavaScript",
+   "desc": "Food ordering app react native is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. Visit our product page for more info",
+   "pushed": "2026-09-28"
+  },
+  {
+   "full_name": "3scale-labs/3scale_ws_api_for_java",
+   "url": "https://github.com/3scale-labs/3scale_ws_api_for_java",
+   "stars": 28,
+   "lang": "Java",
+   "desc": "3scale integration plugin for Java applications. 3scale is an API Infrastructure service which handles API Keys, Rate Limiting, Analytics, Billing Payments and Developer Management. Includes a configu",
+   "pushed": "2022-04-10"
+  },
+  {
+   "full_name": "yqmark/agreement",
+   "url": "https://github.com/yqmark/agreement",
+   "stars": 27,
+   "lang": null,
+   "desc": "Privacy Policy introduction We understand the importance of personal information to you and will do our utmost to protect your personal information. We are committed to maintaining your trust in us an",
+   "pushed": "2019-10-10"
+  },
+  {
+   "full_name": "glennneiger/Magento-2-affiliate-pro",
+   "url": "https://github.com/glennneiger/Magento-2-affiliate-pro",
+   "stars": 26,
+   "lang": null,
+   "desc": "# MAGENTO 2 AFFILIATE PRO  This is a perfect extension for you to create your affiliate program. As you may know, affiliate marketing is one of the most important marketing tools for selling online. I",
+   "pushed": "2018-01-29"
+  },
+  {
+   "full_name": "denman2328/Help",
+   "url": "https://github.com/denman2328/Help",
+   "stars": 26,
+   "lang": null,
+   "desc": "------------------ System Information ------------------ Time of this report: 8/10/2013, 08:36:20        Machine name: BRYCE-PC    Operating System: Windows 8 Pro 64-bit (6.2, Build 9200) (9200.win8_r",
+   "pushed": "2013-08-10"
+  },
+  {
+   "full_name": "PaulVerhoeven1/grocy-dutch-supermarket",
+   "url": "https://github.com/PaulVerhoeven1/grocy-dutch-supermarket",
+   "stars": 24,
+   "lang": "Python",
+   "desc": "Python application that searches for product infromation with the Jumbo.com or AH.nl api to download product information and posting those information to the self-hosted grocery management solution Gr",
+   "pushed": "2020-12-07"
+  },
+  {
+   "full_name": "TanayGhanshyam/crispy-octo-guide",
+   "url": "https://github.com/TanayGhanshyam/crispy-octo-guide",
+   "stars": 24,
+   "lang": null,
+   "desc": "We have come a long way since I was a child in the 1960s when all I wanted for Christmas was a slinky and some Rock\u2019Em \u2013 Sock\u2019Em Robots. Now imagine we have traveled ten years into the future, and it",
+   "pushed": "2022-05-10"
+  },
+  {
+   "full_name": "pimify/pimify",
+   "url": "https://github.com/pimify/pimify",
+   "stars": 23,
+   "lang": "Python",
+   "desc": "Pimify is an open-source product information management software built on the simple stack of Django and SQLite.",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "Mario-Kart-Felix/solar-wind-hacker-book",
+   "url": "https://github.com/Mario-Kart-Felix/solar-wind-hacker-book",
+   "stars": 23,
+   "lang": null,
+   "desc": "2020 was a roller coaster of major, world-shaking events. We all couldn't wait for the year to end. But just as 2020 was about to close, it pulled another fast one on us: the SolarWinds hack, one of t",
+   "pushed": "2022-03-26"
+  },
+  {
+   "full_name": "3scale-labs/3scale_ws_api_for_nodejs",
+   "url": "https://github.com/3scale-labs/3scale_ws_api_for_nodejs",
+   "stars": 22,
+   "lang": "CoffeeScript",
+   "desc": "3scale is an API Infrastructure service which handles API Keys, Rate Limiting, Analytics, Billing Payments and Developer Management. Includes a configurable API dashboard and developer portal CMS. Mor",
+   "pushed": "2017-03-17"
+  },
+  {
+   "full_name": "Poovizhi-Muthusamy/Stock-management-and-bill-handling",
+   "url": "https://github.com/Poovizhi-Muthusamy/Stock-management-and-bill-handling",
+   "stars": 21,
+   "lang": null,
+   "desc": "File handling is used to record the stock\u2019s  information like name, code, quantity and rate. Products can be added, edited,  sorted, searched and displayed using the details. This system can also gen",
+   "pushed": "2023-09-13"
+  },
+  {
+   "full_name": "herrardo/state-of-product",
+   "url": "https://github.com/herrardo/state-of-product",
+   "stars": 20,
+   "lang": null,
+   "desc": "Information about Product Management events, certifications, and more built on Vitepress",
+   "pushed": "2024-06-10"
+  },
+  {
+   "full_name": "timothyjacque/oshop",
+   "url": "https://github.com/timothyjacque/oshop",
+   "stars": 20,
+   "lang": "TypeScript",
+   "desc": "Online organic eCommerce website using Angular and Bootstrap. Includes sliding carousel, font awesome, bootstrap tabs, dark overlay of images, angular material cards, angular material tables, sorting",
+   "pushed": "2018-04-15"
+  },
+  {
+   "full_name": "dhanushnayak/Django_project",
+   "url": "https://github.com/dhanushnayak/Django_project",
+   "stars": 20,
+   "lang": "CSS",
+   "desc": "# django_dbms_project My project Natural Disaster Management System  involves distribution of foods, cloths properly to natural disaster caused places. India\u2019s size and diversity makes it one of the t",
+   "pushed": "2021-01-31"
+  },
+  {
+   "full_name": "PhongPham101190/Red-C-SDK",
+   "url": "https://github.com/PhongPham101190/Red-C-SDK",
+   "stars": 20,
+   "lang": null,
+   "desc": "MEGA SDK - Client Access Engine Coverity Scan Build Status MEGA --- The Privacy Company --- is a Secure Cloud Storage provider that protects your data thanks to end-to-end encryption. We call it User",
+   "pushed": "2015-12-13"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "unique_repos": 1710,
+ "entries_per_topic": {
+  "ai-agent-framework": 97,
+  "analytics-bi": 36,
+  "commerce-mcp": 36,
+  "crm": 95,
+  "delivery-routing": 27,
+  "document-ocr": 6,
+  "ecommerce-platform": 93,
+  "email-marketing": 16,
+  "erp": 98,
+  "facebook-ads": 74,
+  "headless-storefront": 36,
+  "inventory-management": 94,
+  "invoicing": 97,
+  "llm-gateway": 99,
+  "marketplace-software": 98,
+  "mcp-servers": 94,
+  "pim": 34,
+  "pos": 91,
+  "price-tracking": 98,
+  "product-search": 93,
+  "rag-knowledge": 97,
+  "search-crawl": 22,
+  "web-scraping": 97,
+  "whatsapp": 92,
+  "workflow-automation": 96
+ }
+}

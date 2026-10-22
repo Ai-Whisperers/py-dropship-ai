@@ -1,0 +1,758 @@
+{
+ "query": "model+context+protocol+server",
+ "total_count": 15140,
+ "items": [
+  {
+   "full_name": "modelcontextprotocol/servers",
+   "url": "https://github.com/modelcontextprotocol/servers",
+   "stars": 91459,
+   "lang": "TypeScript",
+   "desc": "Model Context Protocol Servers",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "modelcontextprotocol/python-sdk",
+   "url": "https://github.com/modelcontextprotocol/python-sdk",
+   "stars": 24636,
+   "lang": "Python",
+   "desc": "The official Python SDK for Model Context Protocol servers and clients",
+   "pushed": "2026-10-17"
+  },
+  {
+   "full_name": "modelcontextprotocol/typescript-sdk",
+   "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+   "stars": 13636,
+   "lang": "TypeScript",
+   "desc": "The official TypeScript SDK for Model Context Protocol servers and clients",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "hangwin/mcp-chrome",
+   "url": "https://github.com/hangwin/mcp-chrome",
+   "stars": 12501,
+   "lang": "TypeScript",
+   "desc": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont",
+   "pushed": "2026-01-06"
+  },
+  {
+   "full_name": "mobile-next/mobile-mcp",
+   "url": "https://github.com/mobile-next/mobile-mcp",
+   "stars": 9863,
+   "lang": "TypeScript",
+   "desc": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "modelcontextprotocol/registry",
+   "url": "https://github.com/modelcontextprotocol/registry",
+   "stars": 7393,
+   "lang": "Go",
+   "desc": "A community driven registry service for Model Context Protocol (MCP) servers.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "getsentry/MobileBuildMCP",
+   "url": "https://github.com/getsentry/MobileBuildMCP",
+   "stars": 6497,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "jacob-bd/gemini-notebook-mcp-cli",
+   "url": "https://github.com/jacob-bd/gemini-notebook-mcp-cli",
+   "stars": 6374,
+   "lang": "Python",
+   "desc": "Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.",
+   "pushed": "2026-10-17"
+  },
+  {
+   "full_name": "executeautomation/mcp-playwright",
+   "url": "https://github.com/executeautomation/mcp-playwright",
+   "stars": 5669,
+   "lang": "TypeScript",
+   "desc": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More \ud83d\udd0c",
+   "pushed": "2025-12-13"
+  },
+  {
+   "full_name": "nanbingxyz/5ire",
+   "url": "https://github.com/nanbingxyz/5ire",
+   "stars": 5373,
+   "lang": "TypeScript",
+   "desc": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .",
+   "pushed": "2026-09-14"
+  },
+  {
+   "full_name": "modelcontextprotocol/go-sdk",
+   "url": "https://github.com/modelcontextprotocol/go-sdk",
+   "stars": 5256,
+   "lang": "Go",
+   "desc": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "modelcontextprotocol/csharp-sdk",
+   "url": "https://github.com/modelcontextprotocol/csharp-sdk",
+   "stars": 4595,
+   "lang": "C#",
+   "desc": "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "wong2/awesome-mcp-servers",
+   "url": "https://github.com/wong2/awesome-mcp-servers",
+   "stars": 4378,
+   "lang": null,
+   "desc": "A curated list of Model Context Protocol (MCP) servers",
+   "pushed": "2026-07-13"
+  },
+  {
+   "full_name": "Pimzino/spec-workflow-mcp",
+   "url": "https://github.com/Pimzino/spec-workflow-mcp",
+   "stars": 4303,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for",
+   "pushed": "2026-07-03"
+  },
+  {
+   "full_name": "microsoft/mcp",
+   "url": "https://github.com/microsoft/mcp",
+   "stars": 3790,
+   "lang": "C#",
+   "desc": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "modelcontextprotocol/java-sdk",
+   "url": "https://github.com/modelcontextprotocol/java-sdk",
+   "stars": 3733,
+   "lang": "Java",
+   "desc": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "opensumi/core",
+   "url": "https://github.com/opensumi/core",
+   "stars": 3660,
+   "lang": "TypeScript",
+   "desc": "A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "coddingtonbear/obsidian-local-rest-api",
+   "url": "https://github.com/coddingtonbear/obsidian-local-rest-api",
+   "stars": 3053,
+   "lang": "TypeScript",
+   "desc": "A secure REST API and Model Context Protocol (MCP) server for your vault.",
+   "pushed": "2026-10-17"
+  },
+  {
+   "full_name": "neka-nat/freecad-mcp",
+   "url": "https://github.com/neka-nat/freecad-mcp",
+   "stars": 2996,
+   "lang": "Python",
+   "desc": "FreeCAD MCP(Model Context Protocol) server",
+   "pushed": "2026-10-13"
+  },
+  {
+   "full_name": "zcaceres/markdownify-mcp",
+   "url": "https://github.com/zcaceres/markdownify-mcp",
+   "stars": 2996,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol server for converting almost anything to Markdown",
+   "pushed": "2026-09-25"
+  },
+  {
+   "full_name": "mixelpixx/KiCAD-MCP-Server",
+   "url": "https://github.com/mixelpixx/KiCAD-MCP-Server",
+   "stars": 2894,
+   "lang": "Python",
+   "desc": "KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.",
+   "pushed": "2026-10-01"
+  },
+  {
+   "full_name": "brightdata/brightdata-mcp",
+   "url": "https://github.com/brightdata/brightdata-mcp",
+   "stars": 2685,
+   "lang": "JavaScript",
+   "desc": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "duty1g/x64dbg-mcp-server",
+   "url": "https://github.com/duty1g/x64dbg-mcp-server",
+   "stars": 2584,
+   "lang": "Zig",
+   "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "Joooook/12306-mcp",
+   "url": "https://github.com/Joooook/12306-mcp",
+   "stars": 2397,
+   "lang": "JavaScript",
+   "desc": "This is a 12306 ticket search server based on the Model Context Protocol (MCP).",
+   "pushed": "2026-07-31"
+  },
+  {
+   "full_name": "stacklok/toolhive",
+   "url": "https://github.com/stacklok/toolhive",
+   "stars": 2304,
+   "lang": "Go",
+   "desc": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "containers/kubernetes-mcp-server",
+   "url": "https://github.com/containers/kubernetes-mcp-server",
+   "stars": 2175,
+   "lang": "Go",
+   "desc": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "benborla/mcp-server-mysql",
+   "url": "https://github.com/benborla/mcp-server-mysql",
+   "stars": 2169,
+   "lang": "JavaScript",
+   "desc": "A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.",
+   "pushed": "2026-07-27"
+  },
+  {
+   "full_name": "bitbonsai/mcpvault",
+   "url": "https://github.com/bitbonsai/mcpvault",
+   "stars": 1697,
+   "lang": "TypeScript",
+   "desc": "A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "modelcontextprotocol/php-sdk",
+   "url": "https://github.com/modelcontextprotocol/php-sdk",
+   "stars": 1635,
+   "lang": "PHP",
+   "desc": "The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "f/mcptools",
+   "url": "https://github.com/f/mcptools",
+   "stars": 1630,
+   "lang": "Go",
+   "desc": "A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.",
+   "pushed": "2025-12-18"
+  },
+  {
+   "full_name": "datagouv/datagouv-mcp",
+   "url": "https://github.com/datagouv/datagouv-mcp",
+   "stars": 1602,
+   "lang": "Python",
+   "desc": "Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "MiniMax-AI/MiniMax-MCP",
+   "url": "https://github.com/MiniMax-AI/MiniMax-MCP",
+   "stars": 1594,
+   "lang": "Python",
+   "desc": "Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs.",
+   "pushed": "2026-08-20"
+  },
+  {
+   "full_name": "qdrant/mcp-server-qdrant",
+   "url": "https://github.com/qdrant/mcp-server-qdrant",
+   "stars": 1551,
+   "lang": "Python",
+   "desc": "An official Qdrant Model Context Protocol (MCP) server implementation",
+   "pushed": "2026-09-04"
+  },
+  {
+   "full_name": "nickclyde/duckduckgo-mcp-server",
+   "url": "https://github.com/nickclyde/duckduckgo-mcp-server",
+   "stars": 1549,
+   "lang": "Python",
+   "desc": "A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.",
+   "pushed": "2026-09-04"
+  },
+  {
+   "full_name": "modelcontextprotocol/swift-sdk",
+   "url": "https://github.com/modelcontextprotocol/swift-sdk",
+   "stars": 1512,
+   "lang": "Swift",
+   "desc": "The official Swift SDK for Model Context Protocol servers and clients. Maintained in collaboration with Apple",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "nduckmink/arkon",
+   "url": "https://github.com/nduckmink/arkon",
+   "stars": 1495,
+   "lang": "Python",
+   "desc": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (",
+   "pushed": "2026-06-03"
+  },
+  {
+   "full_name": "lgazo/drawio-mcp-server",
+   "url": "https://github.com/lgazo/drawio-mcp-server",
+   "stars": 1491,
+   "lang": "TypeScript",
+   "desc": "Draw.io Model Context Protocol (MCP) Server",
+   "pushed": "2026-10-13"
+  },
+  {
+   "full_name": "modelcontextprotocol/kotlin-sdk",
+   "url": "https://github.com/modelcontextprotocol/kotlin-sdk",
+   "stars": 1475,
+   "lang": "Kotlin",
+   "desc": "The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "designcomputer/mysql_mcp_server",
+   "url": "https://github.com/designcomputer/mysql_mcp_server",
+   "stars": 1400,
+   "lang": "Python",
+   "desc": "A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases",
+   "pushed": "2026-08-02"
+  },
+  {
+   "full_name": "datalayer/jupyter-mcp-server",
+   "url": "https://github.com/datalayer/jupyter-mcp-server",
+   "stars": 1310,
+   "lang": "Python",
+   "desc": "\ud83e\ude90 \ud83d\udd27 Model Context Protocol (MCP) Server for Jupyter.",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "metoro-io/mcp-golang",
+   "url": "https://github.com/metoro-io/mcp-golang",
+   "stars": 1228,
+   "lang": "Go",
+   "desc": "Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io",
+   "pushed": "2026-02-25"
+  },
+  {
+   "full_name": "modelcontextprotocol/quickstart-resources",
+   "url": "https://github.com/modelcontextprotocol/quickstart-resources",
+   "stars": 1221,
+   "lang": "TypeScript",
+   "desc": "A repository of servers and clients from the Model Context Protocol tutorials",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "mongodb-js/mongodb-mcp-server",
+   "url": "https://github.com/mongodb-js/mongodb-mcp-server",
+   "stars": 1147,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "YuzeHao2023/Awesome-MCP-Servers",
+   "url": "https://github.com/YuzeHao2023/Awesome-MCP-Servers",
+   "stars": 1077,
+   "lang": null,
+   "desc": "A curated list of Model Context Protocol (MCP) servers",
+   "pushed": "2026-08-07"
+  },
+  {
+   "full_name": "Softeria/ms-365-mcp-server",
+   "url": "https://github.com/Softeria/ms-365-mcp-server",
+   "stars": 1066,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server for interacting with Microsoft 365 and Microsoft Office services through the Graph API",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "negokaz/excel-mcp-server",
+   "url": "https://github.com/negokaz/excel-mcp-server",
+   "stars": 1044,
+   "lang": "Go",
+   "desc": "A Model Context Protocol (MCP) server that reads and writes MS Excel data",
+   "pushed": "2025-07-19"
+  },
+  {
+   "full_name": "johnhuang316/code-index-mcp",
+   "url": "https://github.com/johnhuang316/code-index-mcp",
+   "stars": 1003,
+   "lang": "Python",
+   "desc": "A Model Context Protocol (MCP) server that helps large language models index, search, and analyze code repositories with minimal setup",
+   "pushed": "2026-07-27"
+  },
+  {
+   "full_name": "neo4j-contrib/mcp-neo4j",
+   "url": "https://github.com/neo4j-contrib/mcp-neo4j",
+   "stars": 989,
+   "lang": "Python",
+   "desc": "Neo4j Labs Model Context Protocol servers",
+   "pushed": "2026-09-09"
+  },
+  {
+   "full_name": "patruff/ollama-mcp-bridge",
+   "url": "https://github.com/patruff/ollama-mcp-bridge",
+   "stars": 985,
+   "lang": "TypeScript",
+   "desc": "Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools",
+   "pushed": "2025-04-20"
+  },
+  {
+   "full_name": "ChiR24/Unreal_mcp",
+   "url": "https://github.com/ChiR24/Unreal_mcp",
+   "stars": 967,
+   "lang": "C++",
+   "desc": "A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "JetBrains/mcp-jetbrains",
+   "url": "https://github.com/JetBrains/mcp-jetbrains",
+   "stars": 963,
+   "lang": "JavaScript",
+   "desc": "A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio",
+   "pushed": "2026-01-07"
+  },
+  {
+   "full_name": "TensorBlock/awesome-mcp-servers",
+   "url": "https://github.com/TensorBlock/awesome-mcp-servers",
+   "stars": 938,
+   "lang": "TypeScript",
+   "desc": "A comprehensive collection of Model Context Protocol (MCP) servers",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "modelcontextprotocol/ruby-sdk",
+   "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+   "stars": 937,
+   "lang": "Ruby",
+   "desc": "The official Ruby SDK for the Model Context Protocol servers and clients.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "suekou/mcp-notion-server",
+   "url": "https://github.com/suekou/mcp-notion-server",
+   "stars": 923,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol server for connecting Notion to MCP-compatible clients",
+   "pushed": "2026-07-31"
+  },
+  {
+   "full_name": "alioshr/memory-bank-mcp",
+   "url": "https://github.com/alioshr/memory-bank-mcp",
+   "stars": 921,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank.",
+   "pushed": "2025-08-20"
+  },
+  {
+   "full_name": "php-mcp/server",
+   "url": "https://github.com/php-mcp/server",
+   "stars": 874,
+   "lang": "PHP",
+   "desc": "Core PHP implementation for the Model Context Protocol (MCP) server",
+   "pushed": "2025-08-09"
+  },
+  {
+   "full_name": "utensils/mcp-nixos",
+   "url": "https://github.com/utensils/mcp-nixos",
+   "stars": 864,
+   "lang": "Python",
+   "desc": "MCP-NixOS - Model Context Protocol Server for NixOS resources",
+   "pushed": "2026-09-05"
+  },
+  {
+   "full_name": "ariadng/metatrader-mcp-server",
+   "url": "https://github.com/ariadng/metatrader-mcp-server",
+   "stars": 832,
+   "lang": "Python",
+   "desc": "Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform",
+   "pushed": "2026-03-28"
+  },
+  {
+   "full_name": "zcaceres/fetch-mcp",
+   "url": "https://github.com/zcaceres/fetch-mcp",
+   "stars": 830,
+   "lang": "TypeScript",
+   "desc": "A flexible HTTP fetching Model Context Protocol server.",
+   "pushed": "2026-03-12"
+  },
+  {
+   "full_name": "tufantunc/ssh-mcp",
+   "url": "https://github.com/tufantunc/ssh-mcp",
+   "stars": 818,
+   "lang": "TypeScript",
+   "desc": "MCP server exposing SSH control for Linux servers via Model Context Protocol.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Dakkshin/after-effects-mcp",
+   "url": "https://github.com/Dakkshin/after-effects-mcp",
+   "stars": 774,
+   "lang": "JavaScript",
+   "desc": "MCP Server for Adobe After Effects. Enables remote control (compositions, text, shapes, solids, properties) via the Model Context Protocol using ExtendScript.",
+   "pushed": "2026-04-01"
+  },
+  {
+   "full_name": "rekog-labs/MCP-Nest",
+   "url": "https://github.com/rekog-labs/MCP-Nest",
+   "stars": 719,
+   "lang": "TypeScript",
+   "desc": "A NestJS module to effortlessly create Model Context Protocol (MCP) servers for exposing AI tools, resources, and prompts.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "mark3labs/mcp-filesystem-server",
+   "url": "https://github.com/mark3labs/mcp-filesystem-server",
+   "stars": 692,
+   "lang": "Go",
+   "desc": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
+   "pushed": "2025-11-24"
+  },
+  {
+   "full_name": "SixHq/Overture",
+   "url": "https://github.com/SixHq/Overture",
+   "stars": 641,
+   "lang": "TypeScript",
+   "desc": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowcha",
+   "pushed": "2026-03-08"
+  },
+  {
+   "full_name": "dbt-labs/dbt-mcp",
+   "url": "https://github.com/dbt-labs/dbt-mcp",
+   "stars": 612,
+   "lang": "Python",
+   "desc": "A MCP (Model Context Protocol) server for interacting with dbt.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "chroma-core/chroma-mcp",
+   "url": "https://github.com/chroma-core/chroma-mcp",
+   "stars": 601,
+   "lang": "Python",
+   "desc": "A Model Context Protocol (MCP) server implementation that provides database capabilities for Chroma",
+   "pushed": "2025-09-17"
+  },
+  {
+   "full_name": "DevnorsAI/devnors-data-mcp",
+   "url": "https://github.com/DevnorsAI/devnors-data-mcp",
+   "stars": 594,
+   "lang": "Python",
+   "desc": "Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,\u63a5\u53e3,\u6570\u636eAPI,\u88c1\u5224\u6587\u4e66,Legal Case,\u6cd5\u5f8b\u6cd5\u89c4,\u6cd5\u6761,Law Article,\u4f01\u4e1a\u5de5\u5546,Company Registry,\u4f01\u4e1a\u5e74\u62a5,Annual Report,\u7a0e\u53f7\u5f00\u7968,Tax Invoice,\u5931\u4fe1\u6838\u67e5,\u88ab\u6267\u884c\u4eba,\u5173\u952e\u8bcd\u6307\u6570,\u5fae\u4fe1\u6307",
+   "pushed": "2026-09-15"
+  },
+  {
+   "full_name": "argoproj-labs/mcp-for-argocd",
+   "url": "https://github.com/argoproj-labs/mcp-for-argocd",
+   "stars": 592,
+   "lang": "TypeScript",
+   "desc": "An implementation of Model Context Protocol (MCP) server for Argo CD.",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "graygnatconsole/mcp-audit-tool",
+   "url": "https://github.com/graygnatconsole/mcp-audit-tool",
+   "stars": 580,
+   "lang": "Python",
+   "desc": "\ud83d\udee1\ufe0f Security audit CLI for Model Context Protocol (MCP) servers \u2014 scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI",
+   "pushed": "2026-09-26"
+  },
+  {
+   "full_name": "maquina-app/rails-mcp-server",
+   "url": "https://github.com/maquina-app/rails-mcp-server",
+   "stars": 573,
+   "lang": "Ruby",
+   "desc": "A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protoco",
+   "pushed": "2026-10-14"
+  },
+  {
+   "full_name": "ferrislucas/iterm-mcp",
+   "url": "https://github.com/ferrislucas/iterm-mcp",
+   "stars": 570,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance",
+   "pushed": "2025-09-20"
+  },
+  {
+   "full_name": "anaisbetts/mcp-youtube",
+   "url": "https://github.com/anaisbetts/mcp-youtube",
+   "stars": 552,
+   "lang": "TypeScript",
+   "desc": "A Model-Context Protocol Server for YouTube",
+   "pushed": "2026-08-16"
+  },
+  {
+   "full_name": "kagisearch/kagimcp",
+   "url": "https://github.com/kagisearch/kagimcp",
+   "stars": 546,
+   "lang": "Python",
+   "desc": "The Official Model Context Protocol (MCP) server for Kagi Search & other tools.",
+   "pushed": "2026-07-07"
+  },
+  {
+   "full_name": "barry-ran/QuickDesk",
+   "url": "https://github.com/barry-ran/QuickDesk",
+   "stars": 530,
+   "lang": "QML",
+   "desc": "QuickDesk is the first AI-native remote desktop \u2014 an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "lamaalrajih/kicad-mcp",
+   "url": "https://github.com/lamaalrajih/kicad-mcp",
+   "stars": 528,
+   "lang": "Python",
+   "desc": "Model Context Protocol server for KiCad on Mac, Windows, and Linux",
+   "pushed": "2025-10-17"
+  },
+  {
+   "full_name": "ankimcp/anki-mcp-server",
+   "url": "https://github.com/ankimcp/anki-mcp-server",
+   "stars": 526,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application.",
+   "pushed": "2026-10-11"
+  },
+  {
+   "full_name": "1mcp-app/agent",
+   "url": "https://github.com/1mcp-app/agent",
+   "stars": 522,
+   "lang": "TypeScript",
+   "desc": "A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "ravitemer/mcp-hub",
+   "url": "https://github.com/ravitemer/mcp-hub",
+   "stars": 522,
+   "lang": "JavaScript",
+   "desc": "A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring",
+   "pushed": "2025-10-24"
+  },
+  {
+   "full_name": "pab1it0/prometheus-mcp-server",
+   "url": "https://github.com/pab1it0/prometheus-mcp-server",
+   "stars": 519,
+   "lang": "Python",
+   "desc": "A Model Context Protocol (MCP) server that enables AI agents and LLMs to query and analyze Prometheus metrics through standardized interfaces.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "muthuishere/mcp-server-bash-sdk",
+   "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
+   "stars": 515,
+   "lang": "Shell",
+   "desc": "MCP server SDK/example implemented entirely in bash \u2014 build a Model Context Protocol server with no runtime dependency beyond a POSIX shell.",
+   "pushed": "2026-09-09"
+  },
+  {
+   "full_name": "mozilla/firefox-devtools-mcp",
+   "url": "https://github.com/mozilla/firefox-devtools-mcp",
+   "stars": 514,
+   "lang": "TypeScript",
+   "desc": "Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through WebDriver BiDi",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "freee/freee-mcp",
+   "url": "https://github.com/freee/freee-mcp",
+   "stars": 509,
+   "lang": "TypeScript",
+   "desc": "Model Context Protocol (MCP) server for freee API integration",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "r-huijts/strava-mcp",
+   "url": "https://github.com/r-huijts/strava-mcp",
+   "stars": 500,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs",
+   "pushed": "2026-06-13"
+  },
+  {
+   "full_name": "punkpeye/awesome-mcp-devtools",
+   "url": "https://github.com/punkpeye/awesome-mcp-devtools",
+   "stars": 489,
+   "lang": null,
+   "desc": "A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development.",
+   "pushed": "2026-08-04"
+  },
+  {
+   "full_name": "okx/agent-trade-kit",
+   "url": "https://github.com/okx/agent-trade-kit",
+   "stars": 483,
+   "lang": "TypeScript",
+   "desc": "OKX trading MCP server \u2014 connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "cyanheads/atlas-mcp-server",
+   "url": "https://github.com/cyanheads/atlas-mcp-server",
+   "stars": 477,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex workflows",
+   "pushed": "2025-07-22"
+  },
+  {
+   "full_name": "FreePeak/db-mcp-server",
+   "url": "https://github.com/FreePeak/db-mcp-server",
+   "stars": 470,
+   "lang": "Go",
+   "desc": "A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.",
+   "pushed": "2026-10-17"
+  },
+  {
+   "full_name": "aaronsb/obsidian-mcp-plugin",
+   "url": "https://github.com/aaronsb/obsidian-mcp-plugin",
+   "stars": 466,
+   "lang": "TypeScript",
+   "desc": "High-performance Model Context Protocol (MCP) server for Obsidian that provides AI tools with direct vault access through semantic operations and HTTP transport.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "oracle/mcp",
+   "url": "https://github.com/oracle/mcp",
+   "stars": 465,
+   "lang": "Python",
+   "desc": "Repository containing MCP (Model Context Protocol) servers that provides a suite of tools for managing and interacting with Oracle products.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "domdomegg/airtable-mcp-server",
+   "url": "https://github.com/domdomegg/airtable-mcp-server",
+   "stars": 455,
+   "lang": "TypeScript",
+   "desc": "\ud83d\uddc2\ufe0f\ud83e\udd16 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "InditexTech/mcp-teams-server",
+   "url": "https://github.com/InditexTech/mcp-teams-server",
+   "stars": 448,
+   "lang": "Python",
+   "desc": "An MCP (Model Context Protocol) server implementation for Microsoft Teams integration, providing capabilities to read messages, create messages, reply to messages, mention members.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "delorenj/mcp-server-trello",
+   "url": "https://github.com/delorenj/mcp-server-trello",
+   "stars": 446,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server that provides tools for interacting with Trello boards.",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "intuit/quickbooks-online-mcp-server",
+   "url": "https://github.com/intuit/quickbooks-online-mcp-server",
+   "stars": 432,
+   "lang": "TypeScript",
+   "desc": "The QuickBooks MCP Server lets AI assistants access QuickBooks data via a standard interface. It uses the Model Context Protocol to expose QBO features as callable tools, enabling developers to build",
+   "pushed": "2026-09-15"
+  },
+  {
+   "full_name": "adhikasp/mcp-reddit",
+   "url": "https://github.com/adhikasp/mcp-reddit",
+   "stars": 430,
+   "lang": "Python",
+   "desc": "A Model Context Protocol (MCP) server that provides tools for fetching and analyzing Reddit content.",
+   "pushed": "2025-05-11"
+  }
+ ]
+}

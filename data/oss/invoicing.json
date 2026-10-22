@@ -1,0 +1,879 @@
+{
+ "query": "invoicing",
+ "total_count": 72818,
+ "items": [
+  {
+   "full_name": "midday-ai/midday",
+   "url": "https://github.com/midday-ai/midday",
+   "stars": 15087,
+   "lang": "TypeScript",
+   "desc": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+   "pushed": "2026-06-13",
+   "archived": false
+  },
+  {
+   "full_name": "invoiceninja/invoiceninja",
+   "url": "https://github.com/invoiceninja/invoiceninja",
+   "stars": 10312,
+   "lang": "PHP",
+   "desc": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "akaunting/akaunting",
+   "url": "https://github.com/akaunting/akaunting",
+   "stars": 10200,
+   "lang": "PHP",
+   "desc": "Online Accounting Software",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "idurar/idurar-erp-crm",
+   "url": "https://github.com/idurar/idurar-erp-crm",
+   "stars": 8905,
+   "lang": "JavaScript",
+   "desc": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
+   "pushed": "2026-08-14",
+   "archived": false
+  },
+  {
+   "full_name": "ever-co/ever-gauzy",
+   "url": "https://github.com/ever-co/ever-gauzy",
+   "stars": 8412,
+   "lang": "TypeScript",
+   "desc": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "crater-invoice-inc/crater",
+   "url": "https://github.com/crater-invoice-inc/crater",
+   "stars": 8354,
+   "lang": "PHP",
+   "desc": "Open Source Invoicing Solution for Individuals & Businesses",
+   "pushed": "2024-08-10",
+   "archived": false
+  },
+  {
+   "full_name": "Dolibarr/dolibarr",
+   "url": "https://github.com/Dolibarr/dolibarr",
+   "stars": 7761,
+   "lang": "PHP",
+   "desc": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "alvarcarto/url-to-pdf-api",
+   "url": "https://github.com/alvarcarto/url-to-pdf-api",
+   "stars": 7106,
+   "lang": "HTML",
+   "desc": "Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.",
+   "pushed": "2024-01-18",
+   "archived": false
+  },
+  {
+   "full_name": "vas3k/TaxHacker",
+   "url": "https://github.com/vas3k/TaxHacker",
+   "stars": 6755,
+   "lang": "TypeScript",
+   "desc": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+   "pushed": "2026-09-28",
+   "archived": false
+  },
+  {
+   "full_name": "al1abb/invoify",
+   "url": "https://github.com/al1abb/invoify",
+   "stars": 6379,
+   "lang": "TypeScript",
+   "desc": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+   "pushed": "2026-08-24",
+   "archived": false
+  },
+  {
+   "full_name": "hql287/Manta",
+   "url": "https://github.com/hql287/Manta",
+   "stars": 5486,
+   "lang": "JavaScript",
+   "desc": "\ud83c\udf89 Flexible invoicing desktop app with beautiful & customizable templates.",
+   "pushed": "2025-02-02",
+   "archived": false
+  },
+  {
+   "full_name": "kimai/kimai",
+   "url": "https://github.com/kimai/kimai",
+   "stars": 5087,
+   "lang": "PHP",
+   "desc": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "bigcapitalhq/bigcapital",
+   "url": "https://github.com/bigcapitalhq/bigcapital",
+   "stars": 3950,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udcb5 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "InvoicePlane/InvoicePlane",
+   "url": "https://github.com/InvoicePlane/InvoicePlane",
+   "stars": 3221,
+   "lang": "PHP",
+   "desc": "A self-hosted open source application for managing your invoices, clients and payments.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "naiveHobo/InvoiceNet",
+   "url": "https://github.com/naiveHobo/InvoiceNet",
+   "stars": 2699,
+   "lang": "Python",
+   "desc": "Deep neural network to extract intelligent information from invoice documents.",
+   "pushed": "2024-05-03",
+   "archived": false
+  },
+  {
+   "full_name": "OnedocLabs/react-print-pdf",
+   "url": "https://github.com/OnedocLabs/react-print-pdf",
+   "stars": 2559,
+   "lang": "TypeScript",
+   "desc": "Build and generate PDF using React \ud83d\udcc4 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea",
+   "pushed": "2024-09-12",
+   "archived": false
+  },
+  {
+   "full_name": "Django-CRM/Django-CRM",
+   "url": "https://github.com/Django-CRM/Django-CRM",
+   "stars": 2456,
+   "lang": "Python",
+   "desc": "BottleCRM: free, open-source (MIT) CRM with sales, support tickets and invoicing in one app. Unlimited users; self-host or use the hosted app.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "invoice-x/invoice2data",
+   "url": "https://github.com/invoice-x/invoice2data",
+   "stars": 2236,
+   "lang": "Python",
+   "desc": "Extract structured data from PDF invoices",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Hasnayeen/invobook",
+   "url": "https://github.com/Hasnayeen/invobook",
+   "stars": 2234,
+   "lang": "PHP",
+   "desc": "Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.",
+   "pushed": "2025-11-12",
+   "archived": false
+  },
+  {
+   "full_name": "maaslalani/invoice",
+   "url": "https://github.com/maaslalani/invoice",
+   "stars": 2197,
+   "lang": "Go",
+   "desc": "Command line invoice generator",
+   "pushed": "2024-06-18",
+   "archived": false
+  },
+  {
+   "full_name": "InvoiceShelf/InvoiceShelf",
+   "url": "https://github.com/InvoiceShelf/InvoiceShelf",
+   "stars": 1865,
+   "lang": "PHP",
+   "desc": "Open Source Invoicing Solution for Individuals & Businesses",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "invoiceninja/admin-portal",
+   "url": "https://github.com/invoiceninja/admin-portal",
+   "stars": 1755,
+   "lang": "Dart",
+   "desc": "Invoice Ninja: Desktop/mobile admin portal built with Flutter",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "sparksuite/simple-html-invoice-template",
+   "url": "https://github.com/sparksuite/simple-html-invoice-template",
+   "stars": 1726,
+   "lang": "HTML",
+   "desc": "A modern, clean, and very simple responsive HTML invoice template",
+   "pushed": "2024-07-19",
+   "archived": false
+  },
+  {
+   "full_name": "panshak/accountill",
+   "url": "https://github.com/panshak/accountill",
+   "stars": 1698,
+   "lang": "JavaScript",
+   "desc": "Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)",
+   "pushed": "2024-07-30",
+   "archived": false
+  },
+  {
+   "full_name": "LaravelDaily/laravel-invoices",
+   "url": "https://github.com/LaravelDaily/laravel-invoices",
+   "stars": 1549,
+   "lang": "PHP",
+   "desc": "Laravel package to generate PDF invoices from various customizable parameters",
+   "pushed": "2026-03-19",
+   "archived": false
+  },
+  {
+   "full_name": "andrewdwallo/erpsaas",
+   "url": "https://github.com/andrewdwallo/erpsaas",
+   "stars": 1478,
+   "lang": "PHP",
+   "desc": "A Laravel and Filament-powered accounting platform featuring full double-entry accrual accounting, delivering modern automation for professional financial management.",
+   "pushed": "2026-03-05",
+   "archived": false
+  },
+  {
+   "full_name": "kdeldycke/awesome-billing",
+   "url": "https://github.com/kdeldycke/awesome-billing",
+   "stars": 1359,
+   "lang": null,
+   "desc": "\ud83d\udcb0 Billing & Payments knowledge for cloud platforms",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "meteroid-oss/meteroid",
+   "url": "https://github.com/meteroid-oss/meteroid",
+   "stars": 1338,
+   "lang": "Rust",
+   "desc": "Open-source Pricing and Billing Infrastructure \ud83d\ude80 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "piratuks/invoice-builder",
+   "url": "https://github.com/piratuks/invoice-builder",
+   "stars": 1319,
+   "lang": "TypeScript",
+   "desc": "Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-ba",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "cmichi/latex-template-collection",
+   "url": "https://github.com/cmichi/latex-template-collection",
+   "stars": 1265,
+   "lang": "TeX",
+   "desc": "Collection of different LaTeX/XeTeX templates (cv, invoices, timesheets, letters, etc.).",
+   "pushed": "2020-04-26",
+   "archived": false
+  },
+  {
+   "full_name": "delight-im/HTML-Sheets-of-Paper",
+   "url": "https://github.com/delight-im/HTML-Sheets-of-Paper",
+   "stars": 1231,
+   "lang": "CSS",
+   "desc": "Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)",
+   "pushed": "2022-03-27",
+   "archived": false
+  },
+  {
+   "full_name": "kittendevv/Invio",
+   "url": "https://github.com/kittendevv/Invio",
+   "stars": 1193,
+   "lang": "TypeScript",
+   "desc": "Self-hosted invoicing without the bloat.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "VladSez/easy-invoice-pdf",
+   "url": "https://github.com/VladSez/easy-invoice-pdf",
+   "stars": 1117,
+   "lang": "TypeScript",
+   "desc": "Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and Fully Customizable Templates. \u2b50 Star the repo if you like it",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "itflow-org/itflow",
+   "url": "https://github.com/itflow-org/itflow",
+   "stars": 1029,
+   "lang": "PHP",
+   "desc": "All in One PSA for MSPs, which Unifies client, contact, vendor, asset, license, domain, ssl certificate, password, documentation, file, network and location management with ticketing and billing capab",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "SolidInvoice/SolidInvoice",
+   "url": "https://github.com/SolidInvoice/SolidInvoice",
+   "stars": 979,
+   "lang": "PHP",
+   "desc": "Simple and elegant invoicing solution.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ad-on-is/rachoon",
+   "url": "https://github.com/ad-on-is/rachoon",
+   "stars": 979,
+   "lang": "TypeScript",
+   "desc": "\ud83e\udd9d Rachoon \u2014 A self-hostable way to handle invoices",
+   "pushed": "2026-05-31",
+   "archived": false
+  },
+  {
+   "full_name": "strzibny/invoice_printer",
+   "url": "https://github.com/strzibny/invoice_printer",
+   "stars": 978,
+   "lang": "Ruby",
+   "desc": "Super simple PDF invoicing",
+   "pushed": "2026-05-06",
+   "archived": false
+  },
+  {
+   "full_name": "legions-developer/invoicely",
+   "url": "https://github.com/legions-developer/invoicely",
+   "stars": 925,
+   "lang": "TypeScript",
+   "desc": "Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS",
+   "pushed": "2026-10-05",
+   "archived": false
+  },
+  {
+   "full_name": "VonHoltenCodes/SlowBooks-Pro-2026",
+   "url": "https://github.com/VonHoltenCodes/SlowBooks-Pro-2026",
+   "stars": 804,
+   "lang": "Python",
+   "desc": "Free, source-available accounting: double-entry bookkeeping, invoicing, US payroll, inventory, bank feeds - desktop app with built-in multi-user Server Edition (no Docker needed). A QuickBooks replace",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "vteams/open-source-billing",
+   "url": "https://github.com/vteams/open-source-billing",
+   "stars": 774,
+   "lang": "HTML",
+   "desc": "Open Source Billing a super simple way to create and send invoices and receive payments online.",
+   "pushed": "2026-05-06",
+   "archived": false
+  },
+  {
+   "full_name": "invoicerr-app/invoicerr",
+   "url": "https://github.com/invoicerr-app/invoicerr",
+   "stars": 733,
+   "lang": "TypeScript",
+   "desc": "Invoicerr is a freelance-focused invoicing app that lets you create quotes, generate invoices, track payments, and collect secure signatures.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "mrzool/invoice-boilerplate",
+   "url": "https://github.com/mrzool/invoice-boilerplate",
+   "stars": 725,
+   "lang": "TeX",
+   "desc": "Simple automated LaTeX invoicing system",
+   "pushed": "2024-07-31",
+   "archived": false
+  },
+  {
+   "full_name": "pdovhomilja/nextcrm-app",
+   "url": "https://github.com/pdovhomilja/nextcrm-app",
+   "stars": 724,
+   "lang": "TypeScript",
+   "desc": "NextCRM \u2014 Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "LaniJ/invoice-dragon",
+   "url": "https://github.com/LaniJ/invoice-dragon",
+   "stars": 711,
+   "lang": "JavaScript",
+   "desc": "Open source application for creating free invoices and receipts",
+   "pushed": "2023-09-26",
+   "archived": false
+  },
+  {
+   "full_name": "excid3/receipts",
+   "url": "https://github.com/excid3/receipts",
+   "stars": 696,
+   "lang": "Ruby",
+   "desc": "Easy receipts and invoices for your Ruby on Rails applications",
+   "pushed": "2026-10-06",
+   "archived": false
+  },
+  {
+   "full_name": "tuanpham-dev/react-invoice-generator",
+   "url": "https://github.com/tuanpham-dev/react-invoice-generator",
+   "stars": 678,
+   "lang": "TypeScript",
+   "desc": "React Invoice Generator allows you quickly make invoices and export them as PDF",
+   "pushed": "2024-05-27",
+   "archived": false
+  },
+  {
+   "full_name": "DevnorsAI/devnors-data-python",
+   "url": "https://github.com/DevnorsAI/devnors-data-python",
+   "stars": 665,
+   "lang": "Python",
+   "desc": "Devnors Data - Python SDK: \u63a5\u53e3,\u6570\u636eAPI,\u88c1\u5224\u6587\u4e66,Legal Case,\u6cd5\u5f8b\u6cd5\u89c4,\u6cd5\u6761,Law Article,\u4f01\u4e1a\u5de5\u5546,Company Registry,\u4f01\u4e1a\u5e74\u62a5,Annual Report,\u7a0e\u53f7\u5f00\u7968,Tax Invoice,\u5931\u4fe1\u6838\u67e5,Dishonest Judgment Debtor,\u88ab\u6267\u884c\u4eba,Enforcement Debtor,\u5173\u952e\u8bcd\u6307\u6570,Keyword I",
+   "pushed": "2026-09-15",
+   "archived": false
+  },
+  {
+   "full_name": "metaware/angular-invoicing",
+   "url": "https://github.com/metaware/angular-invoicing",
+   "stars": 659,
+   "lang": "HTML",
+   "desc": "Create free and unlimited one off invoices using this little Invoicing app made with Angular JS",
+   "pushed": "2022-08-01",
+   "archived": false
+  },
+  {
+   "full_name": "DRYTRIX/TimeTracker",
+   "url": "https://github.com/DRYTRIX/TimeTracker",
+   "stars": 635,
+   "lang": "Python",
+   "desc": "Self-hosted time tracking & invoicing for freelancers and teams: timers, projects, PDF and Peppol e-invoicing. Open-source Toggl/Clockify alternative.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "invoiceninja/dockerfiles",
+   "url": "https://github.com/invoiceninja/dockerfiles",
+   "stars": 623,
+   "lang": "Go Template",
+   "desc": "Docker files for Invoice Ninja",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "DevnorsAI/devnors-data-mcp",
+   "url": "https://github.com/DevnorsAI/devnors-data-mcp",
+   "stars": 594,
+   "lang": "Python",
+   "desc": "Devnors Data - MCP Server: MCP,Model Context Protocol,Claude,Cursor,WorkBuddy,\u63a5\u53e3,\u6570\u636eAPI,\u88c1\u5224\u6587\u4e66,Legal Case,\u6cd5\u5f8b\u6cd5\u89c4,\u6cd5\u6761,Law Article,\u4f01\u4e1a\u5de5\u5546,Company Registry,\u4f01\u4e1a\u5e74\u62a5,Annual Report,\u7a0e\u53f7\u5f00\u7968,Tax Invoice,\u5931\u4fe1\u6838\u67e5,\u88ab\u6267\u884c\u4eba,\u5173\u952e\u8bcd\u6307\u6570,\u5fae\u4fe1\u6307",
+   "pushed": "2026-09-15",
+   "archived": false
+  },
+  {
+   "full_name": "ledgersmb/LedgerSMB",
+   "url": "https://github.com/ledgersmb/LedgerSMB",
+   "stars": 571,
+   "lang": "Perl",
+   "desc": "Double-entry accounting & ERP for the web",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "mokuappio/serverless-invoices",
+   "url": "https://github.com/mokuappio/serverless-invoices",
+   "stars": 546,
+   "lang": "Vue",
+   "desc": "Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.",
+   "pushed": "2025-09-27",
+   "archived": false
+  },
+  {
+   "full_name": "shyamsitaula/samarium",
+   "url": "https://github.com/shyamsitaula/samarium",
+   "stars": 506,
+   "lang": "Blade",
+   "desc": "Open-source business management system with ERP, POS, invoicing, and CMS features. Laravel-based, Docker-ready. Still in active development.",
+   "pushed": "2026-05-20",
+   "archived": false
+  },
+  {
+   "full_name": "ZUGFeRD/mustangproject",
+   "url": "https://github.com/ZUGFeRD/mustangproject",
+   "stars": 483,
+   "lang": "XSLT",
+   "desc": "Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "ConsoleTVs/Invoices",
+   "url": "https://github.com/ConsoleTVs/Invoices",
+   "stars": 452,
+   "lang": "PHP",
+   "desc": "Generate PDF invoices for your customers in laravel",
+   "pushed": "2024-03-13",
+   "archived": false
+  },
+  {
+   "full_name": "unlayer/elements",
+   "url": "https://github.com/unlayer/elements",
+   "stars": 424,
+   "lang": "TypeScript",
+   "desc": "React components for transactional emails, landing pages, invoices and PDFs: email-safe HTML, responsive web HTML, and print-ready PDF HTML from one component tree.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "open-condo-software/condo",
+   "url": "https://github.com/open-condo-software/condo",
+   "stars": 424,
+   "lang": "JavaScript",
+   "desc": "Condo is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while off",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "namespace-ee/upcount",
+   "url": "https://github.com/namespace-ee/upcount",
+   "stars": 401,
+   "lang": "TypeScript",
+   "desc": "Invoicing for freelancers & small businesses",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "stephanstapel/ZUGFeRD-csharp",
+   "url": "https://github.com/stephanstapel/ZUGFeRD-csharp",
+   "stars": 396,
+   "lang": "C#",
+   "desc": "Open source C# e-invoicing library. Enables creating and reading ZUGFeRD invoices.",
+   "pushed": "2026-10-09",
+   "archived": false
+  },
+  {
+   "full_name": "usgraphics/usgc-invoice",
+   "url": "https://github.com/usgraphics/usgc-invoice",
+   "stars": 368,
+   "lang": "TeX",
+   "desc": "Invoice LaTeX template",
+   "pushed": "2025-12-18",
+   "archived": false
+  },
+  {
+   "full_name": "gflohr/e-invoice-eu",
+   "url": "https://github.com/gflohr/e-invoice-eu",
+   "stars": 364,
+   "lang": "TypeScript",
+   "desc": "\ud83c\uddea\ud83c\uddfa \ud83d\udcb6 Generate e-invoices (E-Rechnung in German) conforming to EN16931 (Factur-X/ZUGFeRD, UBL, CII, XRechnung aka X-Rechnung) from LibreOffice Calc/Excel data or JSON.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ComPDFKit/compdf-generation",
+   "url": "https://github.com/ComPDFKit/compdf-generation",
+   "stars": 362,
+   "lang": "TypeScript",
+   "desc": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with e",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "lsfusion-solutions/mycompany",
+   "url": "https://github.com/lsfusion-solutions/mycompany",
+   "stars": 360,
+   "lang": "JavaScript",
+   "desc": "Free, open-source, self-hosted ERP and CRM for small businesses: inventory, invoicing, manufacturing, sales, projects, HR and POS. Built on lsFusion.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "crater-invoice-inc/crater-mobile",
+   "url": "https://github.com/crater-invoice-inc/crater-mobile",
+   "stars": 356,
+   "lang": "JavaScript",
+   "desc": "Crater Invoice Mobile to manage your invoices on the go.",
+   "pushed": "2023-03-04",
+   "archived": false
+  },
+  {
+   "full_name": "pranavp10/invoice-generator",
+   "url": "https://github.com/pranavp10/invoice-generator",
+   "stars": 340,
+   "lang": "TypeScript",
+   "desc": "This project provides a user-friendly invoice generation tool for freelancers, small businesses, and contractors. Create professional, customized invoices quickly and easily to ensure you get paid on",
+   "pushed": "2024-09-06",
+   "archived": false
+  },
+  {
+   "full_name": "PunitGr/QuickBill",
+   "url": "https://github.com/PunitGr/QuickBill",
+   "stars": 327,
+   "lang": "SCSS",
+   "desc": "Create unlimited invoices for free.",
+   "pushed": "2022-01-26",
+   "archived": false
+  },
+  {
+   "full_name": "siwapp/siwapp-ror",
+   "url": "https://github.com/siwapp/siwapp-ror",
+   "stars": 325,
+   "lang": "Ruby",
+   "desc": "Online Invoice Management in Ruby On Rails.",
+   "pushed": "2023-07-04",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/account-invoicing",
+   "url": "https://github.com/OCA/account-invoicing",
+   "stars": 313,
+   "lang": "HTML",
+   "desc": "Odoo Invoicing Extension Addons",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "akretion/factur-x",
+   "url": "https://github.com/akretion/factur-x",
+   "stars": 312,
+   "lang": "XSLT",
+   "desc": "Python lib for Factur-X, the e-invoicing standard for France and Germany",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "tony-landis/agilebill",
+   "url": "https://github.com/tony-landis/agilebill",
+   "stars": 310,
+   "lang": "SQL",
+   "desc": "Open source billing and invoicing",
+   "pushed": "2014-05-18",
+   "archived": false
+  },
+  {
+   "full_name": "DoliCloud/SellYourSaas",
+   "url": "https://github.com/DoliCloud/SellYourSaas",
+   "stars": 296,
+   "lang": "PHP",
+   "desc": "Sell-Your-Saas is an Open Source solution to automate and sell any Web application as a SaaS service. Solution supports the deployment/undeployment of any application, customer dashboard, automatic in",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "johnuberbacher/invoice-generator",
+   "url": "https://github.com/johnuberbacher/invoice-generator",
+   "stars": 295,
+   "lang": "JavaScript",
+   "desc": "An Invoice creator project built with React. Uses jspdf-react to capture the data from the modal and convert it from canvas -> pdf.",
+   "pushed": "2024-06-30",
+   "archived": false
+  },
+  {
+   "full_name": "stemword/php-inventory-management-system",
+   "url": "https://github.com/stemword/php-inventory-management-system",
+   "stars": 292,
+   "lang": "PHP",
+   "desc": "Open source inventory management system with php and mysql Invoice generation and easy to download invoice in PDF format Lightweight and easy to use Order management and product management can be done",
+   "pushed": "2022-01-29",
+   "archived": false
+  },
+  {
+   "full_name": "TheWebFosters/project-camp",
+   "url": "https://github.com/TheWebFosters/project-camp",
+   "stars": 276,
+   "lang": "PHP",
+   "desc": "Open source Project Management, CRM, Support & Invoicing application. Developed using Laravel PHP framework, Vuetify VueJS",
+   "pushed": "2023-01-05",
+   "archived": false
+  },
+  {
+   "full_name": "poowf/invoiceneko",
+   "url": "https://github.com/poowf/invoiceneko",
+   "stars": 270,
+   "lang": "PHP",
+   "desc": "An Open Sourced Invoice System developed for anyone who needs to generate out an invoice and manage clients",
+   "pushed": "2021-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "saeloun/miru-web",
+   "url": "https://github.com/saeloun/miru-web",
+   "stars": 268,
+   "lang": "TypeScript",
+   "desc": "Miru | Time Tracking and Invoicing and Employee Benefits. Built using Ruby On Rails and ReactJS",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "ConnectingEurope/eInvoicing-EN16931",
+   "url": "https://github.com/ConnectingEurope/eInvoicing-EN16931",
+   "stars": 262,
+   "lang": "XSLT",
+   "desc": "Validation artefacts for the European eInvoicing standard EN 16931",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "inshop/inshop-crm-api",
+   "url": "https://github.com/inshop/inshop-crm-api",
+   "stars": 261,
+   "lang": "PHP",
+   "desc": "Inshop CRM / ERP API. It's powerful framework allows to build systems for business with different workflows. It has on board multi language support, clients management, projects & tasks, documents, si",
+   "pushed": "2025-11-02",
+   "archived": false
+  },
+  {
+   "full_name": "sleede/fab-manager",
+   "url": "https://github.com/sleede/fab-manager",
+   "stars": 257,
+   "lang": "Ruby",
+   "desc": "Fab-Manager is the FabLab management solution.  It provides a comprehensive, web-based, open-source tool to simplify your administrative tasks and your marker's projects.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "faveosuite/faveo-invoicing-community",
+   "url": "https://github.com/faveosuite/faveo-invoicing-community",
+   "stars": 243,
+   "lang": "PHP",
+   "desc": "Faveo Invoicing is an open-source platform for SaaS billing and license management, tailored to meet the needs of software companies.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ElegantEngineeringTech/laravel-invoices",
+   "url": "https://github.com/ElegantEngineeringTech/laravel-invoices",
+   "stars": 237,
+   "lang": "PHP",
+   "desc": "\ud83d\udcd1 Store and generate beautiful PDF invoices in Laravel",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "simpleinvoices/simpleinvoices",
+   "url": "https://github.com/simpleinvoices/simpleinvoices",
+   "stars": 236,
+   "lang": "PHP",
+   "desc": "Making invoicing rock since '05.",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "PSPDFKit-labs/pdfkit-invoice",
+   "url": "https://github.com/PSPDFKit-labs/pdfkit-invoice",
+   "stars": 231,
+   "lang": "JavaScript",
+   "desc": "Generate PDF Invoices with PDFKit",
+   "pushed": "2023-10-25",
+   "archived": false
+  },
+  {
+   "full_name": "SMEWebify/WebErpMesv2",
+   "url": "https://github.com/SMEWebify/WebErpMesv2",
+   "stars": 224,
+   "lang": "PHP",
+   "desc": "Open-source ERP/MES for sheet metal, machining and mold shops. From quote to invoice: routings, BOMs, shop-floor tracking, finite-capacity planning, stock by dimensions, quality and Factur-X e-invoici",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "tophermade/sprInvoice",
+   "url": "https://github.com/tophermade/sprInvoice",
+   "stars": 224,
+   "lang": "CSS",
+   "desc": "A simple, fully responsive, & easy to use static invoice template.",
+   "pushed": "2014-06-18",
+   "archived": false
+  },
+  {
+   "full_name": "samber/invoice-as-a-service",
+   "url": "https://github.com/samber/invoice-as-a-service",
+   "stars": 218,
+   "lang": "PHP",
+   "desc": "\ud83d\udcb0 Simple invoicing service (REST API): from JSON to PDF",
+   "pushed": "2026-08-04",
+   "archived": false
+  },
+  {
+   "full_name": "mkropat/dapper-invoice",
+   "url": "https://github.com/mkropat/dapper-invoice",
+   "stars": 210,
+   "lang": "TeX",
+   "desc": "A billable-time invoice featuring style over substance",
+   "pushed": "2023-08-24",
+   "archived": false
+  },
+  {
+   "full_name": "kirilkirkov/Electronic-Invoicing-And-Warehouse-Management-System",
+   "url": "https://github.com/kirilkirkov/Electronic-Invoicing-And-Warehouse-Management-System",
+   "stars": 207,
+   "lang": "PHP",
+   "desc": "A self-hosted open-source application built with CodeIgniter and Bootstrap. Features include electronic invoicing, PDF generation, invoice status tracking, client and item management, employee permiss",
+   "pushed": "2026-09-28",
+   "archived": false
+  },
+  {
+   "full_name": "inshop/inshop-crm-admin",
+   "url": "https://github.com/inshop/inshop-crm-admin",
+   "stars": 205,
+   "lang": "Vue",
+   "desc": "Inshop CRM / ERP Client. It's powerful framework allows to build systems for business with different workflows. It has on board multi language support, clients management, projects & tasks, documents,",
+   "pushed": "2025-11-02",
+   "archived": false
+  },
+  {
+   "full_name": "ZUGFeRD/quba-viewer",
+   "url": "https://github.com/ZUGFeRD/quba-viewer",
+   "stars": 204,
+   "lang": "XSLT",
+   "desc": "Quba is a viewer for electronic invoices",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ept/invoicing",
+   "url": "https://github.com/ept/invoicing",
+   "stars": 201,
+   "lang": "Ruby",
+   "desc": "Ruby invoicing framework gem",
+   "pushed": "2015-04-13",
+   "archived": false
+  },
+  {
+   "full_name": "Goncafer47/Stablecoin-Payment-Gateway",
+   "url": "https://github.com/Goncafer47/Stablecoin-Payment-Gateway",
+   "stars": 197,
+   "lang": "Python",
+   "desc": "Self-hosted, non-custodial stablecoin payment gateway with x402 and invoice checkout. Accepts USDC, USDT, PYUSD and DAI across 8 networks with QR payments, payment links, settlement tracking and signe",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "JohannesMilke/generate_pdf_invoice_example",
+   "url": "https://github.com/JohannesMilke/generate_pdf_invoice_example",
+   "stars": 192,
+   "lang": "Dart",
+   "desc": "Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.",
+   "pushed": "2024-01-05",
+   "archived": false
+  },
+  {
+   "full_name": "xendit/xendit-php",
+   "url": "https://github.com/xendit/xendit-php",
+   "stars": 192,
+   "lang": "PHP",
+   "desc": "Xendit REST API Client for PHP - Card, Virtual Account, Invoice, Disbursement, Recurring Payments, Payout, EWallet, Balance, Retail Outlets Services, xenPlatforms",
+   "pushed": "2025-10-01",
+   "archived": false
+  },
+  {
+   "full_name": "simonluijk/django-invoice",
+   "url": "https://github.com/simonluijk/django-invoice",
+   "stars": 190,
+   "lang": "Python",
+   "desc": "Django invoicing app",
+   "pushed": "2014-12-11",
+   "archived": false
+  },
+  {
+   "full_name": "huerlisi/bookyt",
+   "url": "https://github.com/huerlisi/bookyt",
+   "stars": 187,
+   "lang": "Ruby",
+   "desc": "Bookyt is a bookkeeping/ERP application designed for small-to-medium-sized companies. It can handle debit invoices, credit invoices, projects with timelogs, swiss salary management, and much more.",
+   "pushed": "2022-11-02",
+   "archived": false
+  }
+ ]
+}

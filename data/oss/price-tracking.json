@@ -1,0 +1,888 @@
+{
+ "query": "price+tracking",
+ "total_count": 28953,
+ "items": [
+  {
+   "full_name": "dgtlmoon/changedetection.io",
+   "url": "https://github.com/dgtlmoon/changedetection.io",
+   "stars": 35195,
+   "lang": "Python",
+   "desc": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "Open-Dev-Society/OpenStock",
+   "url": "https://github.com/Open-Dev-Society/OpenStock",
+   "stars": 20731,
+   "lang": "TypeScript",
+   "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "getlago/lago",
+   "url": "https://github.com/getlago/lago",
+   "stars": 10705,
+   "lang": "Go",
+   "desc": "Open Source Metering and Usage Based Billing API \u2b50\ufe0f Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "achannarasappa/ticker",
+   "url": "https://github.com/achannarasappa/ticker",
+   "stars": 6248,
+   "lang": "Go",
+   "desc": "Track stocks, crypto, and derivatives prices and positions in real time from your terminal",
+   "pushed": "2026-06-28",
+   "archived": false
+  },
+  {
+   "full_name": "jez500/pricebuddy",
+   "url": "https://github.com/jez500/pricebuddy",
+   "stars": 1432,
+   "lang": "PHP",
+   "desc": "A self hostable app that tracks prices and sends you notifications when prices match your preferences",
+   "pushed": "2026-10-11",
+   "archived": false
+  },
+  {
+   "full_name": "techwithtim/Price-Tracking-Web-Scraper",
+   "url": "https://github.com/techwithtim/Price-Tracking-Web-Scraper",
+   "stars": 1294,
+   "lang": "Python",
+   "desc": "An automated price tracker that uses bright data, playwright, react and flask.",
+   "pushed": "2024-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "clucraft/PriceGhost",
+   "url": "https://github.com/clucraft/PriceGhost",
+   "stars": 1128,
+   "lang": "TypeScript",
+   "desc": "A self-hosted price tracking application that monitors product prices from any website.",
+   "pushed": "2026-02-03",
+   "archived": false
+  },
+  {
+   "full_name": "Cybrarist/Discount-Bandit",
+   "url": "https://github.com/Cybrarist/Discount-Bandit",
+   "stars": 754,
+   "lang": "PHP",
+   "desc": "A Multi-User Selfhosted price tracker for Amazon, Aliexpress, ebay and many more along with custom stores.  Get notified when price matches one or more criterias set by the user",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "adrianhajdin/pricewise",
+   "url": "https://github.com/adrianhajdin/pricewise",
+   "stars": 634,
+   "lang": "TypeScript",
+   "desc": "Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.",
+   "pushed": "2024-07-06",
+   "archived": false
+  },
+  {
+   "full_name": "druv5319/Sneaks-API",
+   "url": "https://github.com/druv5319/Sneaks-API",
+   "stars": 498,
+   "lang": "JavaScript",
+   "desc": "A StockX, FlightClub, Goat, and Stadium Goods API all in one. This sneaker API allows users to search sneakers and track and compare prices while providing additional info such as product links and im",
+   "pushed": "2023-02-12",
+   "archived": false
+  },
+  {
+   "full_name": "adrianhajdin/signalist_stock-tracker-app",
+   "url": "https://github.com/adrianhajdin/signalist_stock-tracker-app",
+   "stars": 486,
+   "lang": "TypeScript",
+   "desc": "Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.",
+   "pushed": "2025-09-24",
+   "archived": false
+  },
+  {
+   "full_name": "EthVentures/CryptoTracker",
+   "url": "https://github.com/EthVentures/CryptoTracker",
+   "stars": 433,
+   "lang": "Python",
+   "desc": "A complete open source system for tracking and visualizing cryptocurrency price movements on leading exchanges",
+   "pushed": "2022-12-07",
+   "archived": false
+  },
+  {
+   "full_name": "elsbrock/hetzner-radar",
+   "url": "https://github.com/elsbrock/hetzner-radar",
+   "stars": 403,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udd75\ufe0fTrack prices of the Hetzner dedicated server auction",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "walkingddd/CPA-Helper",
+   "url": "https://github.com/walkingddd/CPA-Helper",
+   "stars": 311,
+   "lang": "Go",
+   "desc": "CPA-Helper is a local, self-hosted multi-user management panel designed for CLIProxyAPI users. It features independent API keys per user, isolated usage statistics, detailed request tracking, model pr",
+   "pushed": "2026-10-10",
+   "archived": false
+  },
+  {
+   "full_name": "Sfedfcv/redesigned-pancake",
+   "url": "https://github.com/Sfedfcv/redesigned-pancake",
+   "stars": 268,
+   "lang": null,
+   "desc": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration",
+   "pushed": "2021-05-16",
+   "archived": false
+  },
+  {
+   "full_name": "ManojKumarPatnaik/Major-project-list",
+   "url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+   "stars": 259,
+   "lang": null,
+   "desc": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get start",
+   "pushed": "2025-07-29",
+   "archived": false
+  },
+  {
+   "full_name": "Crinibus/scraper",
+   "url": "https://github.com/Crinibus/scraper",
+   "stars": 249,
+   "lang": "Python",
+   "desc": "Web scraper for scraping, tracking and visualizing prices of products on various websites.",
+   "pushed": "2025-01-29",
+   "archived": false
+  },
+  {
+   "full_name": "cmoog/traderjoes",
+   "url": "https://github.com/cmoog/traderjoes",
+   "stars": 244,
+   "lang": "Haskell",
+   "desc": "Price tracking program and website for Trader Joe's, updated daily.",
+   "pushed": "2026-08-02",
+   "archived": false
+  },
+  {
+   "full_name": "the-hideout/tarkov-dev",
+   "url": "https://github.com/the-hideout/tarkov-dev",
+   "stars": 236,
+   "lang": "JavaScript",
+   "desc": "The official site for tarkov.dev - A web app to track item prices, view trader barters, quests, maps, and much more!",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "uhussain/WebCrawlerForInflation",
+   "url": "https://github.com/uhussain/WebCrawlerForInflation",
+   "stars": 206,
+   "lang": "Python",
+   "desc": "Price Crawler - Tracking Price Inflation",
+   "pushed": "2020-06-23",
+   "archived": false
+  },
+  {
+   "full_name": "martinarva/dynamic_energy_cost",
+   "url": "https://github.com/martinarva/dynamic_energy_cost",
+   "stars": 203,
+   "lang": "Python",
+   "desc": "A Home Assistant integration to provide real-time and cumulative energy cost tracking, optimized for dynamic electricity prices like Nord Pool.",
+   "pushed": "2026-09-06",
+   "archived": false
+  },
+  {
+   "full_name": "polyrabbit/my-token",
+   "url": "https://github.com/polyrabbit/my-token",
+   "stars": 193,
+   "lang": "Go",
+   "desc": "\ud83d\udcc8Track token prices in your terminal",
+   "pushed": "2023-03-13",
+   "archived": false
+  },
+  {
+   "full_name": "jeancsil/flight-spy",
+   "url": "https://github.com/jeancsil/flight-spy",
+   "stars": 184,
+   "lang": "PHP",
+   "desc": "Looking for the cheapest flights and don't have enough time to track all the prices?",
+   "pushed": "2017-04-10",
+   "archived": false
+  },
+  {
+   "full_name": "affromero/flight-finder",
+   "url": "https://github.com/affromero/flight-finder",
+   "stars": 173,
+   "lang": "TypeScript",
+   "desc": "Self-hosted flight, hotel, and car rental price tracking with alerts, price history, and web and CLI interfaces.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "valmi-io/value",
+   "url": "https://github.com/valmi-io/value",
+   "stars": 170,
+   "lang": "Python",
+   "desc": "\u26a1 \"Value\"  - https://value.valmi.io . Valmi Value is Outcome-based billing and payments infrastructure for AI agents. Meter usage, configure flexible pricing, and track costs & profitability - so you",
+   "pushed": "2025-12-22",
+   "archived": false
+  },
+  {
+   "full_name": "brianleect/binance-pump-alerts",
+   "url": "https://github.com/brianleect/binance-pump-alerts",
+   "stars": 156,
+   "lang": "Python",
+   "desc": "Tracks prices of pairs on binance and notifies when price movements based on pre-defined parameters are met.",
+   "pushed": "2024-12-13",
+   "archived": false
+  },
+  {
+   "full_name": "duyet/pricetrack",
+   "url": "https://github.com/duyet/pricetrack",
+   "stars": 140,
+   "lang": "JavaScript",
+   "desc": "Price tracker monitors of products and alerts you when prices drop. Supported tiki.vn, shopee, lotte.vn, ... Built with firebase https://pricetrack.web.app",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "Bananefre/Stock-Market-app",
+   "url": "https://github.com/Bananefre/Stock-Market-app",
+   "stars": 140,
+   "lang": "TypeScript",
+   "desc": "Stock Market app which track prices and automate workflows",
+   "pushed": "2026-09-14",
+   "archived": false
+  },
+  {
+   "full_name": "adomi-io/listing-lab",
+   "url": "https://github.com/adomi-io/listing-lab",
+   "stars": 133,
+   "lang": "Python",
+   "desc": "A simple workspace for keeping track of homes you\u2019re considering. Save listings, add notes, and share them with others. Listing Lab stays on top of changes, like price cuts and updates, so you always",
+   "pushed": "2025-12-19",
+   "archived": false
+  },
+  {
+   "full_name": "dylanleigh/PriceAndNutritionTrackingSystem",
+   "url": "https://github.com/dylanleigh/PriceAndNutritionTrackingSystem",
+   "stars": 132,
+   "lang": "Python",
+   "desc": "PANTS is a self-hosted, open-source nutrition tracker and tool for nutritional data analysis of ingredients and recipes.",
+   "pushed": "2025-09-27",
+   "archived": false
+  },
+  {
+   "full_name": "taoteh1221/Open_Crypto_Tracker",
+   "url": "https://github.com/taoteh1221/Open_Crypto_Tracker",
+   "stars": 124,
+   "lang": "PHP",
+   "desc": "Bitcoin / Alts private portfolio tracker, with email / text / alexa / telegram price alerts, charts, leverage support and much more.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "Den4200/amazon-price-tracker",
+   "url": "https://github.com/Den4200/amazon-price-tracker",
+   "stars": 120,
+   "lang": "Python",
+   "desc": "An amazon price tracker that will send you alerts when an item goes below your target price.",
+   "pushed": "2023-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "hminaya/moneda-cli",
+   "url": "https://github.com/hminaya/moneda-cli",
+   "stars": 118,
+   "lang": "JavaScript",
+   "desc": "Command line to track cryptocurrency prices",
+   "pushed": "2026-03-21",
+   "archived": false
+  },
+  {
+   "full_name": "LenaBarinova/PriceTracker",
+   "url": "https://github.com/LenaBarinova/PriceTracker",
+   "stars": 114,
+   "lang": "JavaScript",
+   "desc": "Price tracking and notification",
+   "pushed": "2016-01-22",
+   "archived": false
+  },
+  {
+   "full_name": "DangerAcorn/pumpfun-tools",
+   "url": "https://github.com/DangerAcorn/pumpfun-tools",
+   "stars": 111,
+   "lang": "TypeScript",
+   "desc": "All-in-one PumpFun Bundler suite featuring PumpFun Bundler (20+ wallets), MEV bot protection, high-frequency trading bot, Solana token creator, jito bundle, multi wallet management, live price trackin",
+   "pushed": "2025-10-02",
+   "archived": false
+  },
+  {
+   "full_name": "ThasianX/DivRise",
+   "url": "https://github.com/ThasianX/DivRise",
+   "stars": 102,
+   "lang": "Swift",
+   "desc": "Visualize your dividend growth. DivRise tracks dividend prices of your stocks, gives you in-depth information about dividend paying stocks like the next dividend date and allows you to log your monthl",
+   "pushed": "2020-04-04",
+   "archived": false
+  },
+  {
+   "full_name": "GaryniL/Amazon-Price-Alert",
+   "url": "https://github.com/GaryniL/Amazon-Price-Alert",
+   "stars": 91,
+   "lang": "Python",
+   "desc": "Price tracker of Amazon",
+   "pushed": "2019-01-21",
+   "archived": false
+  },
+  {
+   "full_name": "nathanp/crypto-price-widget",
+   "url": "https://github.com/nathanp/crypto-price-widget",
+   "stars": 89,
+   "lang": "JavaScript",
+   "desc": "Easily track the price of your favorite crypto in an attractive desktop widget",
+   "pushed": "2023-01-06",
+   "archived": false
+  },
+  {
+   "full_name": "DAILtech/PriceDive",
+   "url": "https://github.com/DAILtech/PriceDive",
+   "stars": 88,
+   "lang": "Python",
+   "desc": "PriceDive: \u4e00\u4e2a\u57fa\u4e8e Python \u7684\u7535\u5546\u4ef7\u683c\u8ffd\u8e2a\u795e\u5668\u3002\u81ea\u52a8\u76d1\u63a7\u6dd8\u5b9d\u3001\u4eac\u4e1c\u3001\u62fc\u591a\u591a\u5546\u54c1\u4ef7\u683c\uff0c\u63ed\u9732\u201c\u5148\u6da8\u540e\u964d\u201d\u7684\u4fc3\u9500\u5957\u8def\u3002#Python #\u722c\u866b #\u6570\u636e\u53ef\u89c6\u5316 #\u7535\u5546 PriceDive: An e-commerce price tracker powered by Python. Automatically monitors prices on Taobao, JD.com, etc.,",
+   "pushed": "2025-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "siddiquiaffan/price-tracker",
+   "url": "https://github.com/siddiquiaffan/price-tracker",
+   "stars": 87,
+   "lang": "JavaScript",
+   "desc": "Telegram bot including API, which can track product prices & ping you on any changes.",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "MercadoTrack/extension-local",
+   "url": "https://github.com/MercadoTrack/extension-local",
+   "stars": 87,
+   "lang": "TypeScript",
+   "desc": "Chrome extension to track products in MercadoLibre and visualize their price over time.",
+   "pushed": "2023-11-15",
+   "archived": false
+  },
+  {
+   "full_name": "cryptosignalorg/crypto-signal-dashboard",
+   "url": "https://github.com/cryptosignalorg/crypto-signal-dashboard",
+   "stars": 86,
+   "lang": "TypeScript",
+   "desc": "crypto signal dashboard with live crypto price tracking, coin explorer, interactive charts",
+   "pushed": "2026-06-15",
+   "archived": false
+  },
+  {
+   "full_name": "jdeath/CheckRoyalCaribbeanPrice",
+   "url": "https://github.com/jdeath/CheckRoyalCaribbeanPrice",
+   "stars": 86,
+   "lang": "Python",
+   "desc": "A price tracker script that checks if you have cheapest price for beverage package, excursions, etc on Royal Caribbean or Celebrity cruises. Python, Windows Binary, or docker",
+   "pushed": "2026-10-10",
+   "archived": false
+  },
+  {
+   "full_name": "savepopulation/price-tracker",
+   "url": "https://github.com/savepopulation/price-tracker",
+   "stars": 79,
+   "lang": "Kotlin",
+   "desc": "Price Tracking Application - An experimental Kotlin Android project with complex android app requirements.",
+   "pushed": "2018-01-26",
+   "archived": false
+  },
+  {
+   "full_name": "chrisunderdown/bitdock",
+   "url": "https://github.com/chrisunderdown/bitdock",
+   "stars": 79,
+   "lang": "JavaScript",
+   "desc": "A lightweight Mac OSX app to track the prices of cryptocurrency",
+   "pushed": "2017-12-10",
+   "archived": false
+  },
+  {
+   "full_name": "GiuseppeDM98/net-worth-tracker",
+   "url": "https://github.com/GiuseppeDM98/net-worth-tracker",
+   "stars": 78,
+   "lang": "TypeScript",
+   "desc": "Track your net worth and investment portfolio with automatic price updates, asset allocation, expense tracking, and FIRE calculator. Modern alternative to spreadsheets. Next.js + Firebase + TypeScript",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Ryan-Gordon/Crypto-Touchbar",
+   "url": "https://github.com/Ryan-Gordon/Crypto-Touchbar",
+   "stars": 76,
+   "lang": "Python",
+   "desc": "A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.",
+   "pushed": "2019-04-14",
+   "archived": false
+  },
+  {
+   "full_name": "chikitang/A",
+   "url": "https://github.com/chikitang/A",
+   "stars": 76,
+   "lang": null,
+   "desc": "!DOCTYPE html> <html lang=\"en\" data-color-mode=\"auto\" data-light-theme=\"light\" data-dark-theme=\"dark\" data-a11y-animated-images=\"system\">   <head>     <meta charset=\"utf-8\">   <link rel=\"dns-prefetch\"",
+   "pushed": "2022-06-08",
+   "archived": false
+  },
+  {
+   "full_name": "flightclaw/agents",
+   "url": "https://github.com/flightclaw/agents",
+   "stars": 75,
+   "lang": "Python",
+   "desc": "Flight search, price tracking and booking for AI agents. Hosted MCP server (mcp.flightclaw.com) + open-source skill.",
+   "pushed": "2026-10-05",
+   "archived": false
+  },
+  {
+   "full_name": "Git-Romer/pokecollector",
+   "url": "https://github.com/Git-Romer/pokecollector",
+   "stars": 71,
+   "lang": "JavaScript",
+   "desc": "A self\u2011hosted Pok\u00e9mon TCG collection manager to track cards, prices, binders, and portfolio analytics. Syncs free data from TCGdex, pulls Cardmarket/TCGPlayer prices, supports DE/EN variants, wishlist",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Werisixx/oil-empire-screen-sentinel",
+   "url": "https://github.com/Werisixx/oil-empire-screen-sentinel",
+   "stars": 70,
+   "lang": "HTML",
+   "desc": "Best Roblox Oil Empire Price Tracker with OCR Alerts 2026",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Yitaek/kafka-crypto-questdb",
+   "url": "https://github.com/Yitaek/kafka-crypto-questdb",
+   "stars": 68,
+   "lang": "Python",
+   "desc": "Using Kafka to track cryptocurrency price trends",
+   "pushed": "2023-04-17",
+   "archived": false
+  },
+  {
+   "full_name": "Jackiebibili/ticket_tracker_api",
+   "url": "https://github.com/Jackiebibili/ticket_tracker_api",
+   "stars": 68,
+   "lang": "Python",
+   "desc": "Concert ticket price tracking based on Ticketmaster real-time best seats",
+   "pushed": "2023-08-03",
+   "archived": false
+  },
+  {
+   "full_name": "firstof9/ha-gasbuddy",
+   "url": "https://github.com/firstof9/ha-gasbuddy",
+   "stars": 68,
+   "lang": "Python",
+   "desc": "Component to integrate with GasBuddy fuel price tracker.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "EthyMoney/TsukiBot",
+   "url": "https://github.com/EthyMoney/TsukiBot",
+   "stars": 68,
+   "lang": "JavaScript",
+   "desc": "Discord CryptoBot for spot prices, charts, coin details, market statistics, personalized coin tracking tools, and so much more!",
+   "pushed": "2026-09-22",
+   "archived": false
+  },
+  {
+   "full_name": "Cassandra-fox/dlTracker",
+   "url": "https://github.com/Cassandra-fox/dlTracker",
+   "stars": 68,
+   "lang": "TypeScript",
+   "desc": "\u5728 DLsite \u6d4f\u89c8\u4f5c\u54c1\u65f6\u67e5\u770b\u5386\u53f2\u6700\u4f4e\u4ef7\uff0c\u628a\u60f3\u4e70\u7684\u4f5c\u54c1\u6574\u7406\u6210\u81ea\u5df1\u7684\u672c\u5730\u8ffd\u8e2a\u6e05\u5355\u3002DLsite price history tracker & Chrome/Edge extension",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "azhartalha/Traffic-Survalance-with-Computer-Vision-and-Deep-Learning",
+   "url": "https://github.com/azhartalha/Traffic-Survalance-with-Computer-Vision-and-Deep-Learning",
+   "stars": 63,
+   "lang": "Python",
+   "desc": "The system takes video footage of a highway as input and provides statistics like the count of vehicles and an average estimated speed of vehicles on the highway. The statistics provided by the system",
+   "pushed": "2019-04-07",
+   "archived": false
+  },
+  {
+   "full_name": "briancodex/react-api-project-v1",
+   "url": "https://github.com/briancodex/react-api-project-v1",
+   "stars": 60,
+   "lang": "JavaScript",
+   "desc": "Cryptocurrency price tracker app made with React",
+   "pushed": "2020-08-26",
+   "archived": false
+  },
+  {
+   "full_name": "jpawlowski/hass.tibber_prices",
+   "url": "https://github.com/jpawlowski/hass.tibber_prices",
+   "stars": 60,
+   "lang": "Python",
+   "desc": "The most comprehensive Tibber price integration for Home Assistant. Get 100+ sensors with quarter-hourly precision, intelligent best/peak price period detection, price forecasts, trend analysis, volat",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ZonCon/Ecommerce-Retronight-Android",
+   "url": "https://github.com/ZonCon/Ecommerce-Retronight-Android",
+   "stars": 60,
+   "lang": "Java",
+   "desc": "Native Android Application for Ecommerce (online shopping). Features - Product Catalogue Builder, Product Categories & Product Items, Secure Shopping Cart, Payment Gateway, Comprehensive pricing, avai",
+   "pushed": "2016-04-19",
+   "archived": false
+  },
+  {
+   "full_name": "igoropaniuk/stonks-cli",
+   "url": "https://github.com/igoropaniuk/stonks-cli",
+   "stars": 60,
+   "lang": "Python",
+   "desc": "A terminal investment portfolio tracker with live prices, P&L, stock financials, candlestick charts, news feed and AI chat bot",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "yashpatel7025/PriceTracker",
+   "url": "https://github.com/yashpatel7025/PriceTracker",
+   "stars": 57,
+   "lang": "Python",
+   "desc": "Amazon Price tracker using Python, Django, Celery Task Queue and Scrapy Frameworks. Front end is developed using HTML, CSS and Bootstrap",
+   "pushed": "2022-12-08",
+   "archived": false
+  },
+  {
+   "full_name": "alipirpiran/Crypto-Price-Tracker-for-Gnome-Shell",
+   "url": "https://github.com/alipirpiran/Crypto-Price-Tracker-for-Gnome-Shell",
+   "stars": 57,
+   "lang": "JavaScript",
+   "desc": "An extension for Gnome-Shell to track price of crypto-currencies",
+   "pushed": "2026-10-11",
+   "archived": false
+  },
+  {
+   "full_name": "aicoincom/coinos-skills",
+   "url": "https://github.com/aicoincom/coinos-skills",
+   "stars": 57,
+   "lang": "JavaScript",
+   "desc": "AiCoin crypto toolkit for AI agents \u2014 40+ tools for real-time prices, K-lines, AI analysis, funding rates, whale tracking, Hyperliquid on-chain analytics, exchange trading (CCXT),   and Freqtrade bot",
+   "pushed": "2026-08-29",
+   "archived": false
+  },
+  {
+   "full_name": "javonn13/AWS-Basic-for-Beginners",
+   "url": "https://github.com/javonn13/AWS-Basic-for-Beginners",
+   "stars": 55,
+   "lang": null,
+   "desc": "This course will teach you AWS basics right through to advanced cloud computing concepts.  Ideal for beginners - absolutely no cloud computing experience is required!  There are lots of hands-on exerc",
+   "pushed": "2021-09-04",
+   "archived": false
+  },
+  {
+   "full_name": "dstuecken/Amazon-WD-Alerts",
+   "url": "https://github.com/dstuecken/Amazon-WD-Alerts",
+   "stars": 54,
+   "lang": "PHP",
+   "desc": "Console utility that tracks Amazon Warehouse Deals and notifies you about price changes or if a new item pops up",
+   "pushed": "2018-04-20",
+   "archived": false
+  },
+  {
+   "full_name": "AleG94/Pricegram",
+   "url": "https://github.com/AleG94/Pricegram",
+   "stars": 50,
+   "lang": "JavaScript",
+   "desc": "A Telegram bot that tracks Amazon products and sends alerts about price and availabilty changes",
+   "pushed": "2022-02-15",
+   "archived": false
+  },
+  {
+   "full_name": "RohanDas28/Amazon-Price-Tracker",
+   "url": "https://github.com/RohanDas28/Amazon-Price-Tracker",
+   "stars": 50,
+   "lang": "Python",
+   "desc": "This is a simple python script which can be used to track a products prices on Amazon.com.",
+   "pushed": "2024-06-07",
+   "archived": false
+  },
+  {
+   "full_name": "josdemmers/NewWorldCompanion",
+   "url": "https://github.com/josdemmers/NewWorldCompanion",
+   "stars": 50,
+   "lang": "C#",
+   "desc": "A companion app for New World, to keep track of all your learned recipes and current trading post prices.",
+   "pushed": "2026-04-28",
+   "archived": false
+  },
+  {
+   "full_name": "beacoder/stock-tracker",
+   "url": "https://github.com/beacoder/stock-tracker",
+   "stars": 48,
+   "lang": "Emacs Lisp",
+   "desc": "Track stock price in Emacs",
+   "pushed": "2026-08-24",
+   "archived": false
+  },
+  {
+   "full_name": "skyfallwastaken/arcade-monitor",
+   "url": "https://github.com/skyfallwastaken/arcade-monitor",
+   "stars": 48,
+   "lang": "Rust",
+   "desc": "A tracker for the Hack Club Arcade Shop, that keeps track of new items, price updates, and stock depletions",
+   "pushed": "2024-09-06",
+   "archived": false
+  },
+  {
+   "full_name": "Krishna18062005/TechVaseegrah_Hackathon-ReactJS",
+   "url": "https://github.com/Krishna18062005/TechVaseegrah_Hackathon-ReactJS",
+   "stars": 48,
+   "lang": "TypeScript",
+   "desc": "Empowering Your Sales App is a gamified web app that boosts productivity with progress tracking and achievements. Built with React, Framer Motion, and Tailwind CSS, it offers a sleek, responsive desig",
+   "pushed": "2025-01-10",
+   "archived": false
+  },
+  {
+   "full_name": "BizShibe/openclaw-ai-polymarket-trading-bot",
+   "url": "https://github.com/BizShibe/openclaw-ai-polymarket-trading-bot",
+   "stars": 47,
+   "lang": "TypeScript",
+   "desc": "Openclaw AI Polymarket Trading Bot \u2014 TypeScript bot built with \ud83e\udd9e Openclaw AI agent. Predicts crypto price on Polymarket 5m BTC Up/Down markets and tracks results (paper or live) and automatically exec",
+   "pushed": "2026-05-04",
+   "archived": false
+  },
+  {
+   "full_name": "rittikbasu/trackrBot",
+   "url": "https://github.com/rittikbasu/trackrBot",
+   "stars": 46,
+   "lang": "Python",
+   "desc": "A chatbot that helps you set price alerts and track the price of products on amazon.",
+   "pushed": "2022-01-25",
+   "archived": false
+  },
+  {
+   "full_name": "kiinami/vfd",
+   "url": "https://github.com/kiinami/vfd",
+   "stars": 44,
+   "lang": "Python",
+   "desc": "A small flight price tracking script",
+   "pushed": "2025-03-08",
+   "archived": false
+  },
+  {
+   "full_name": "banzaicloud/spot-price-exporter",
+   "url": "https://github.com/banzaicloud/spot-price-exporter",
+   "stars": 43,
+   "lang": "Go",
+   "desc": "Prometheus exporter to track spot price history",
+   "pushed": "2022-02-11",
+   "archived": false
+  },
+  {
+   "full_name": "mobile-next/PriceyApp",
+   "url": "https://github.com/mobile-next/PriceyApp",
+   "stars": 43,
+   "lang": "Swift",
+   "desc": "MacOS Status bar app that tracks, monitors your Claude Code AI usage costs in real-time and compares them to human developer costs",
+   "pushed": "2026-05-11",
+   "archived": false
+  },
+  {
+   "full_name": "jiangdaolia/dlsite-best-deal",
+   "url": "https://github.com/jiangdaolia/dlsite-best-deal",
+   "stars": 43,
+   "lang": "JavaScript",
+   "desc": "DL Price Tracker + DLsite \u4f18\u60e0\u52a9\u624b \u4e3a DLsite \u8865\u5145\u53f2\u4f4e\u3001\u7406\u8bba\u4f18\u60e0\u4ef7\u3001\u8d2d\u7269\u8f66\u95e8\u69db\u3001\u4f18\u60e0\u5238/\u5e73\u53f0\u6d3b\u52a8\u7b5b\u9009\uff0c\u4ee5\u53ca\u591a\u8bed\u8a00\u7248\u672c\u6bd4\u8f83\u7684\u7528\u6237\u811a\u672c\u3002",
+   "pushed": "2026-09-22",
+   "archived": false
+  },
+  {
+   "full_name": "Hazrat-Ali9/BD-Food-Flow",
+   "url": "https://github.com/Hazrat-Ali9/BD-Food-Flow",
+   "stars": 43,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udc33BD Food \ud83e\udda5 Flow is a \ud83d\udc38 smart modern \ud83d\udc0a Bangladeshi \ud83d\udc1e food delivery \ud83d\udc1f and management \ud83d\udc32 platform \ud83d\udc0b that streamlines \ud83e\udeb0 the entire \ud83d\udc1d food ordering \ud83d\ude8b journey \u2708 from \ud83d\ude80 restaurant \ud83d\ude9f listings to real \ud83d\ude81 time de",
+   "pushed": "2025-07-21",
+   "archived": false
+  },
+  {
+   "full_name": "Hazrat-Ali9/Coin-Tracker",
+   "url": "https://github.com/Hazrat-Ali9/Coin-Tracker",
+   "stars": 41,
+   "lang": "JavaScript",
+   "desc": "\ud83d\udcb0 Coin Tracker \ud83d\ude81 Real Time \ud83d\udef8 Cryptocurrency \ud83d\udea2 Market Tracker \ud83d\ude80data Bitcoin \ud83d\ude9f Ethereum and \u26f4 Interactive charts \ud83d\udefc and graphs \u2602price volume \ud83c\udfb3 and market \ud83c\udfe9 cap analysis \ud83c\udfea Secure storage \ud83c\udff0 with local \ud83d\ude85 ca",
+   "pushed": "2025-05-29",
+   "archived": false
+  },
+  {
+   "full_name": "truss44/mcp-crypto-price",
+   "url": "https://github.com/truss44/mcp-crypto-price",
+   "stars": 39,
+   "lang": "TypeScript",
+   "desc": "A Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis via CoinCap's API. Enables Claude and other MCP clients to fetch crypto prices, analyze market trends, and track h",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "ds-sebastian/pricecious",
+   "url": "https://github.com/ds-sebastian/pricecious",
+   "stars": 38,
+   "lang": "Python",
+   "desc": "AI Price Tracker",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "egemenberk/PriceGetter",
+   "url": "https://github.com/egemenberk/PriceGetter",
+   "stars": 38,
+   "lang": "Python",
+   "desc": "Price scraper and tracker bot for various e-commerce sites.",
+   "pushed": "2019-11-10",
+   "archived": false
+  },
+  {
+   "full_name": "luuisotorres/polymarket-intelligence",
+   "url": "https://github.com/luuisotorres/polymarket-intelligence",
+   "stars": 38,
+   "lang": "Python",
+   "desc": "Real-time Polymarket tracker with news aggregation, large activity monitoring, price movement signals, top holder analysis, and AI Agents debate floor.",
+   "pushed": "2026-02-10",
+   "archived": false
+  },
+  {
+   "full_name": "ygoseo/VPN-Proxy-Master-Pro-Free-Fast-Connect-Unlimited-VPN-Proxy",
+   "url": "https://github.com/ygoseo/VPN-Proxy-Master-Pro-Free-Fast-Connect-Unlimited-VPN-Proxy",
+   "stars": 38,
+   "lang": null,
+   "desc": "VPN Proxy Master Pro application masks your true IP address and location, encrypt your internet traffic, secures you from public Wi-Fi and helps unblock sites and apps on your Android phone so that yo",
+   "pushed": "2021-07-12",
+   "archived": false
+  },
+  {
+   "full_name": "Herover/heissepreise",
+   "url": "https://github.com/Herover/heissepreise",
+   "stars": 36,
+   "lang": "JavaScript",
+   "desc": "Grocery price tracking DK edition",
+   "pushed": "2025-08-07",
+   "archived": false
+  },
+  {
+   "full_name": "mczachurski/vcoin",
+   "url": "https://github.com/mczachurski/vcoin",
+   "stars": 36,
+   "lang": "Swift",
+   "desc": "VCoin is lightweight application for keeping track of cryptocurrency prices.",
+   "pushed": "2024-06-26",
+   "archived": false
+  },
+  {
+   "full_name": "kadoa-org/food-price-monitor",
+   "url": "https://github.com/kadoa-org/food-price-monitor",
+   "stars": 36,
+   "lang": "JavaScript",
+   "desc": "Free website and open data project that tracks US food prices daily across 300+ commodities.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "jp-wright/nfl_betting_market_analysis",
+   "url": "https://github.com/jp-wright/nfl_betting_market_analysis",
+   "stars": 36,
+   "lang": null,
+   "desc": "Build an automated betting model to identify and predict games which are inefficiently priced and have my model simulate a real bettor over four seasons of games, visually tracking wins and losses, wi",
+   "pushed": "2017-05-20",
+   "archived": false
+  },
+  {
+   "full_name": "PillCrew/PillCrew",
+   "url": "https://github.com/PillCrew/PillCrew",
+   "stars": 36,
+   "lang": "JavaScript",
+   "desc": "Pilly - AI trading copilot for Solana memecoins. Live trending, crew verdicts, charts, price alerts, PnL tracking and a desktop pet that reacts to the market.",
+   "pushed": "2026-09-22",
+   "archived": false
+  },
+  {
+   "full_name": "benjamindean/observatory",
+   "url": "https://github.com/benjamindean/observatory",
+   "stars": 35,
+   "lang": "Dart",
+   "desc": "Your go-to for tracking PC game prices and discounts from legitimate resellers",
+   "pushed": "2026-08-23",
+   "archived": false
+  },
+  {
+   "full_name": "judemont/CryptoTracker",
+   "url": "https://github.com/judemont/CryptoTracker",
+   "stars": 35,
+   "lang": "Dart",
+   "desc": "Read-only mirror of https://codeberg.org/judemont/cryptotracker - \ud83d\udcc8 Track cryptocurrency prices in real-time with CryptoTracker",
+   "pushed": "2025-08-16",
+   "archived": false
+  },
+  {
+   "full_name": "shiquda/crypto-monitor",
+   "url": "https://github.com/shiquda/crypto-monitor",
+   "stars": 34,
+   "lang": "Python",
+   "desc": "\ud83d\ude80 A sleek, cross-platform cryptocurrency monitoring app with Fluent Design. Track real-time prices, visualize trends with mini charts, and stay informed with powerful alerts.",
+   "pushed": "2026-04-10",
+   "archived": false
+  },
+  {
+   "full_name": "serpbase-dev/serp-api-comparison",
+   "url": "https://github.com/serpbase-dev/serp-api-comparison",
+   "stars": 34,
+   "lang": null,
+   "desc": "Compare the best SERP APIs by pricing, latency, coverage, and use cases for SEO tools, AI agents, rank tracking, and search automation.",
+   "pushed": "2026-05-23",
+   "archived": false
+  },
+  {
+   "full_name": "KaranUnique/CryptoHub",
+   "url": "https://github.com/KaranUnique/CryptoHub",
+   "stars": 33,
+   "lang": "JavaScript",
+   "desc": "CryptoHub is a modern crypto tracking platform that lets users explore real-time cryptocurrency prices, view detailed coin analytics, and stay updated with market trends. With a simple and intuitive i",
+   "pushed": "2026-06-01",
+   "archived": false
+  },
+  {
+   "full_name": "katya201165/traker",
+   "url": "https://github.com/katya201165/traker",
+   "stars": 33,
+   "lang": null,
+   "desc": "A real-time cryptocurrency price tracker built with Node.js and WebSockets.",
+   "pushed": "2025-02-09",
+   "archived": false
+  },
+  {
+   "full_name": "fhl43211/StockBar",
+   "url": "https://github.com/fhl43211/StockBar",
+   "stars": 32,
+   "lang": "Swift",
+   "desc": "A menu bar app to track stock prices, currency exchange rates, and cryptocurrency prices.",
+   "pushed": "2026-03-20",
+   "archived": false
+  },
+  {
+   "full_name": "nirholas/crypto-data-aggregator",
+   "url": "https://github.com/nirholas/crypto-data-aggregator",
+   "stars": 32,
+   "lang": "TypeScript",
+   "desc": "Real-time cryptocurrency market data aggregator. Track 10,000+ coins, monitor 200+ DeFi protocols, manage portfolios, set price alerts, and analyze market sentiment, all in one place.",
+   "pushed": "2026-10-21",
+   "archived": false
+  }
+ ]
+}

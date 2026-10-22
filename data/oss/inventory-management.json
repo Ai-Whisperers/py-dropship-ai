@@ -1,0 +1,852 @@
+{
+ "query": "inventory+management",
+ "total_count": 139640,
+ "items": [
+  {
+   "full_name": "inventree/InvenTree",
+   "url": "https://github.com/inventree/InvenTree",
+   "stars": 7743,
+   "lang": "Python",
+   "desc": "Open Source Inventory Management System",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "cloudquery/cloudquery",
+   "url": "https://github.com/cloudquery/cloudquery",
+   "stars": 6543,
+   "lang": "Go",
+   "desc": "Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "glpi-project/glpi",
+   "url": "https://github.com/glpi-project/glpi",
+   "stars": 6488,
+   "lang": "PHP",
+   "desc": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "GreaterWMS/GreaterWMS",
+   "url": "https://github.com/GreaterWMS/GreaterWMS",
+   "stars": 4413,
+   "lang": "Python",
+   "desc": "This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant wareh",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "allegro/ralph",
+   "url": "https://github.com/allegro/ralph",
+   "stars": 2529,
+   "lang": "Python",
+   "desc": "Ralph is the CMDB / Asset Management system for data center and back office hardware.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "Part-DB/Part-DB-server",
+   "url": "https://github.com/Part-DB/Part-DB-server",
+   "stars": 1807,
+   "lang": "PHP",
+   "desc": "Part-DB is an Open source inventory management system for your electronic components",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "fjykTec/ModernWMS",
+   "url": "https://github.com/fjykTec/ModernWMS",
+   "stars": 1788,
+   "lang": "Vue",
+   "desc": "The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and o",
+   "pushed": "2025-06-22",
+   "archived": false
+  },
+  {
+   "full_name": "nornir-automation/nornir",
+   "url": "https://github.com/nornir-automation/nornir",
+   "stars": 1632,
+   "lang": "Python",
+   "desc": "Pluggable multi-threaded framework with inventory management to help operate collections of devices",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "fabriziosalmi/certmate",
+   "url": "https://github.com/fabriziosalmi/certmate",
+   "stars": 1474,
+   "lang": "Python",
+   "desc": "Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "go2ismail/Asp.Net-Core-Inventory-Order-Management-System",
+   "url": "https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System",
+   "stars": 1298,
+   "lang": "C#",
+   "desc": "Now upgraded to .NET 9, this project is a super-fast, completely headless API powered by Clean Architecture, CQRS, and MediatR. It includes an ASP.NET Core Razor Pages implementation for inventory ord",
+   "pushed": "2026-07-24",
+   "archived": false
+  },
+  {
+   "full_name": "Blair2004/NexoPOS",
+   "url": "https://github.com/Blair2004/NexoPOS",
+   "stars": 1289,
+   "lang": "PHP",
+   "desc": "Laravel-based web POS system with Vue.js, Tailwind CSS, inventory management, sales processing, customer records, reports, and modular extension support.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "bitbrain/pandora",
+   "url": "https://github.com/bitbrain/pandora",
+   "stars": 1128,
+   "lang": "GDScript",
+   "desc": "Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.",
+   "pushed": "2026-08-20",
+   "archived": false
+  },
+  {
+   "full_name": "openboxes/openboxes",
+   "url": "https://github.com/openboxes/openboxes",
+   "stars": 917,
+   "lang": "Groovy",
+   "desc": "OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "FahimAnzamDip/triangle-pos",
+   "url": "https://github.com/FahimAnzamDip/triangle-pos",
+   "stars": 874,
+   "lang": "Blade",
+   "desc": "Triangle POS is an open source Inventory Management with POS System. Developed with Laravel 10, Bootstrap 4 & Livewire 3. It's completely free to use.",
+   "pushed": "2024-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "rubyforgood/human-essentials",
+   "url": "https://github.com/rubyforgood/human-essentials",
+   "stars": 594,
+   "lang": "Ruby",
+   "desc": "Human Essentials is an inventory management system for diaper, incontinence, and period-supply banks. It supports them in distributing to partners, tracking inventory, and reporting stats and analytic",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "amirsanni/Mini-Inventory-and-Sales-Management-System",
+   "url": "https://github.com/amirsanni/Mini-Inventory-and-Sales-Management-System",
+   "stars": 561,
+   "lang": "PHP",
+   "desc": "An Inventory and Sales Management System written in PHP (codeIgniter) with support for MySQL and Sqlite3 databases",
+   "pushed": "2026-06-05",
+   "archived": false
+  },
+  {
+   "full_name": "fajarghifar/inventory-management-system",
+   "url": "https://github.com/fajarghifar/inventory-management-system",
+   "stars": 525,
+   "lang": "PHP",
+   "desc": "\u270dBuilding an Inventory Management System with Laravel 10.",
+   "pushed": "2026-09-07",
+   "archived": false
+  },
+  {
+   "full_name": "ronknight/InventorySystem",
+   "url": "https://github.com/ronknight/InventorySystem",
+   "stars": 469,
+   "lang": "PHP",
+   "desc": "\ud83d\udda5\ufe0fCreate an open-source Inventory Management System using CodeIgniter web framework, Php and MySQL. Original source code from an Online Inventory Management Software found on https://codersfolder.com/",
+   "pushed": "2026-03-03",
+   "archived": false
+  },
+  {
+   "full_name": "siamon123/warehouse-inventory-system",
+   "url": "https://github.com/siamon123/warehouse-inventory-system",
+   "stars": 466,
+   "lang": "PHP",
+   "desc": "Open source inventory management system with php and mysql",
+   "pushed": "2021-04-12",
+   "archived": false
+  },
+  {
+   "full_name": "ed-roh/inventory-management",
+   "url": "https://github.com/ed-roh/inventory-management",
+   "stars": 440,
+   "lang": "TypeScript",
+   "desc": "",
+   "pushed": "2024-08-01",
+   "archived": false
+  },
+  {
+   "full_name": "Zakarialabib/myStockMaster",
+   "url": "https://github.com/Zakarialabib/myStockMaster",
+   "stars": 440,
+   "lang": "PHP",
+   "desc": "Your All-in-One Inventory and ERP Management with Laravel TALLSTACK",
+   "pushed": "2026-08-15",
+   "archived": false
+  },
+  {
+   "full_name": "mauricecalhoun/inventory",
+   "url": "https://github.com/mauricecalhoun/inventory",
+   "stars": 432,
+   "lang": "PHP",
+   "desc": "Inventory Management for Laravel 4 / 5",
+   "pushed": "2022-10-27",
+   "archived": false
+  },
+  {
+   "full_name": "opendcim/openDCIM",
+   "url": "https://github.com/opendcim/openDCIM",
+   "stars": 367,
+   "lang": "PHP",
+   "desc": "An open source (GPL v3) Data Center Inventory Management (DCIM) application.",
+   "pushed": "2026-08-14",
+   "archived": false
+  },
+  {
+   "full_name": "zetavg/Inventory",
+   "url": "https://github.com/zetavg/Inventory",
+   "stars": 361,
+   "lang": "TypeScript",
+   "desc": "An RFID asset management app for home or businesses.",
+   "pushed": "2026-02-18",
+   "archived": false
+  },
+  {
+   "full_name": "harismuneer/Restaurant-Management-System",
+   "url": "https://github.com/harismuneer/Restaurant-Management-System",
+   "stars": 348,
+   "lang": "Java",
+   "desc": "\ud83d\udc68\u200d\ud83c\udf73  An Android based RMS that aims to digitalize the day to day processes of various restaurant operations including ordering, billing, kitchen, hall and inventory management.",
+   "pushed": "2025-01-30",
+   "archived": false
+  },
+  {
+   "full_name": "sajxraj/InventoryManagementSystem",
+   "url": "https://github.com/sajxraj/InventoryManagementSystem",
+   "stars": 344,
+   "lang": "Java",
+   "desc": "A software developed using Java SE which provides as easy way to track the products, suppliers, customers as well as purchase and sales information. It also records the stock currently available in th",
+   "pushed": "2024-05-30",
+   "archived": false
+  },
+  {
+   "full_name": "sadatrafsanjani/Point-of-Sales",
+   "url": "https://github.com/sadatrafsanjani/Point-of-Sales",
+   "stars": 313,
+   "lang": "Java",
+   "desc": "Point of Sales with inventory management system",
+   "pushed": "2026-09-08",
+   "archived": false
+  },
+  {
+   "full_name": "IndomaximTechID/storaji",
+   "url": "https://github.com/IndomaximTechID/storaji",
+   "stars": 307,
+   "lang": "PHP",
+   "desc": ":ledger: The light/responsive inventory management system available on Windows, macOS and Linux.",
+   "pushed": "2023-08-09",
+   "archived": false
+  },
+  {
+   "full_name": "stemword/php-inventory-management-system",
+   "url": "https://github.com/stemword/php-inventory-management-system",
+   "stars": 292,
+   "lang": "PHP",
+   "desc": "Open source inventory management system with php and mysql Invoice generation and easy to download invoice in PDF format Lightweight and easy to use Order management and product management can be done",
+   "pushed": "2022-01-29",
+   "archived": false
+  },
+  {
+   "full_name": "mamun724682/Inventory-Management-System-Laravel-SPA",
+   "url": "https://github.com/mamun724682/Inventory-Management-System-Laravel-SPA",
+   "stars": 271,
+   "lang": "PHP",
+   "desc": "An Inventory and Sales Management System using Laravel 10, Inertia, Vue js (SPA)",
+   "pushed": "2024-11-09",
+   "archived": false
+  },
+  {
+   "full_name": "inshop/inshop-crm-api",
+   "url": "https://github.com/inshop/inshop-crm-api",
+   "stars": 261,
+   "lang": "PHP",
+   "desc": "Inshop CRM / ERP API. It's powerful framework allows to build systems for business with different workflows. It has on board multi language support, clients management, projects & tasks, documents, si",
+   "pushed": "2025-11-02",
+   "archived": false
+  },
+  {
+   "full_name": "ManojKumarPatnaik/Major-project-list",
+   "url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+   "stars": 259,
+   "lang": null,
+   "desc": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get start",
+   "pushed": "2025-07-29",
+   "archived": false
+  },
+  {
+   "full_name": "leihs/leihs",
+   "url": "https://github.com/leihs/leihs",
+   "stars": 246,
+   "lang": "Shell",
+   "desc": "leihs is an inventory management, procurement and lending system",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "AsjadIqbal/InventoryManagementSystem",
+   "url": "https://github.com/AsjadIqbal/InventoryManagementSystem",
+   "stars": 234,
+   "lang": "Java",
+   "desc": "This is an inventory management software built in Java using MySQL database that can be used at any Point of Sale of a small to mid-sized store.",
+   "pushed": "2024-02-11",
+   "archived": false
+  },
+  {
+   "full_name": "HugeCH39/DIMS",
+   "url": "https://github.com/HugeCH39/DIMS",
+   "stars": 225,
+   "lang": "Java",
+   "desc": "\ud83d\udc1f \u6570\u636e\u5e93\u7cfb\u7edf\u539f\u7406\u8bfe\u7a0b\u8bbe\u8ba1\uff0cDrug Inventory Management System\uff0c\u57fa\u4e8e SSM \u6846\u67b6\u7684\u533b\u9662\u836f\u54c1\u5e93\u5b58\u7ba1\u7406\u7cfb\u7edf\u3002",
+   "pushed": "2021-03-20",
+   "archived": false
+  },
+  {
+   "full_name": "FireMarshmellow/Spotlight_Storage",
+   "url": "https://github.com/FireMarshmellow/Spotlight_Storage",
+   "stars": 223,
+   "lang": "JavaScript",
+   "desc": "MIMOSA - short for \"Mellow_Labs Inventory Management and Organization System Apparatus\". Just like a refreshing mimosa, this system will make your life brighter and more organized!",
+   "pushed": "2025-12-07",
+   "archived": false
+  },
+  {
+   "full_name": "YaLTeR/MouseTweaks",
+   "url": "https://github.com/YaLTeR/MouseTweaks",
+   "stars": 214,
+   "lang": "Java",
+   "desc": "A Minecraft mod that enhances inventory management.",
+   "pushed": "2026-09-20",
+   "archived": false
+  },
+  {
+   "full_name": "inshop/inshop-crm-admin",
+   "url": "https://github.com/inshop/inshop-crm-admin",
+   "stars": 205,
+   "lang": "Vue",
+   "desc": "Inshop CRM / ERP Client. It's powerful framework allows to build systems for business with different workflows. It has on board multi language support, clients management, projects & tasks, documents,",
+   "pushed": "2025-11-02",
+   "archived": false
+  },
+  {
+   "full_name": "phpcontrols/inventory-manager",
+   "url": "https://github.com/phpcontrols/inventory-manager",
+   "stars": 198,
+   "lang": "PHP",
+   "desc": "Making an Awesome Inventory Management Application with Barcode Reader in PHP and MySQL from Start to Finish",
+   "pushed": "2024-01-04",
+   "archived": false
+  },
+  {
+   "full_name": "fantasticjoe/cpa-warden",
+   "url": "https://github.com/fantasticjoe/cpa-warden",
+   "stars": 190,
+   "lang": "Python",
+   "desc": "Interactive CLI for CPA auth inventory scanning, usage probing, and account maintenance in known CPA management environments.",
+   "pushed": "2026-05-06",
+   "archived": false
+  },
+  {
+   "full_name": "ConsciousUniverse/simple-stock-management",
+   "url": "https://github.com/ConsciousUniverse/simple-stock-management",
+   "stars": 185,
+   "lang": "Python",
+   "desc": "Simpler Stock Management is a stock & inventory web app. Designed for small businesses, charities and non-profits.",
+   "pushed": "2026-09-29",
+   "archived": false
+  },
+  {
+   "full_name": "rgriebl/brickstore",
+   "url": "https://github.com/rgriebl/brickstore",
+   "stars": 173,
+   "lang": "C++",
+   "desc": "An offline BrickLink inventory management tool.",
+   "pushed": "2026-09-12",
+   "archived": false
+  },
+  {
+   "full_name": "lmmendes/attic",
+   "url": "https://github.com/lmmendes/attic",
+   "stars": 155,
+   "lang": "Go",
+   "desc": "Self-hosted home inventory management. Track everything. Lose nothing.",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "KenBroTech/Django-Inventory-Management-System",
+   "url": "https://github.com/KenBroTech/Django-Inventory-Management-System",
+   "stars": 149,
+   "lang": "JavaScript",
+   "desc": "This is a Django Inventory Management System Web Application. This course contains the basics of Django to intermediary and advanced concepts in Django, Web Development and Software Engineering as a w",
+   "pushed": "2021-03-22",
+   "archived": false
+  },
+  {
+   "full_name": "mhamzashaikh/React-Inventory-Management-System",
+   "url": "https://github.com/mhamzashaikh/React-Inventory-Management-System",
+   "stars": 143,
+   "lang": "JavaScript",
+   "desc": "Inventory Management Built with React JS, Node JS, Express JS, MongoDB and Tailwind CSS.",
+   "pushed": "2024-12-06",
+   "archived": false
+  },
+  {
+   "full_name": "DevJariwala5/Full_MERN_Stack_Ecommerce_Project",
+   "url": "https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project",
+   "stars": 140,
+   "lang": "JavaScript",
+   "desc": "Developed a MERN-based e-commerce website with secure payment gateways and real-time inventory management. Created an intuitive admin dashboard for streamlined product management. Collaborated cross-",
+   "pushed": "2023-08-07",
+   "archived": false
+  },
+  {
+   "full_name": "imran300/inventory",
+   "url": "https://github.com/imran300/inventory",
+   "stars": 136,
+   "lang": "PHP",
+   "desc": "Inventory Management System",
+   "pushed": "2023-12-01",
+   "archived": false
+  },
+  {
+   "full_name": "DirkJanJansen/Pandora-Enterprise_Resource_Planning",
+   "url": "https://github.com/DirkJanJansen/Pandora-Enterprise_Resource_Planning",
+   "stars": 127,
+   "lang": "Python",
+   "desc": "ERP Application in PyQt5 and PostgreSQL relational database system.  Python3 powered. Interface: Sqlalchemy-Core.  Modules: Inventory, Sales, Purchase, Manufactory, Employees, Calculation, Accountancy",
+   "pushed": "2026-09-14",
+   "archived": false
+  },
+  {
+   "full_name": "hassanrazadev/LaravelInventoryWithPOS",
+   "url": "https://github.com/hassanrazadev/LaravelInventoryWithPOS",
+   "stars": 114,
+   "lang": "PHP",
+   "desc": "Inventory Management System With POS in Laravel",
+   "pushed": "2023-12-29",
+   "archived": false
+  },
+  {
+   "full_name": "sajib1066/inventory-management",
+   "url": "https://github.com/sajib1066/inventory-management",
+   "stars": 113,
+   "lang": "HTML",
+   "desc": "This is a inventory management system",
+   "pushed": "2023-04-21",
+   "archived": false
+  },
+  {
+   "full_name": "akashroshan135/inventory-management",
+   "url": "https://github.com/akashroshan135/inventory-management",
+   "stars": 109,
+   "lang": "HTML",
+   "desc": "A simple inventory management system built with Django",
+   "pushed": "2023-07-28",
+   "archived": false
+  },
+  {
+   "full_name": "frenkowski/SCIMAI-Gym",
+   "url": "https://github.com/frenkowski/SCIMAI-Gym",
+   "stars": 108,
+   "lang": "Jupyter Notebook",
+   "desc": "A Python library for supply chain inventory management using deep reinforcement learning, inventory policies, and operations research methods.",
+   "pushed": "2024-01-16",
+   "archived": false
+  },
+  {
+   "full_name": "mhy20401/Inventory-Management-System-MERN-CRUD-App",
+   "url": "https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-App",
+   "stars": 107,
+   "lang": "JavaScript",
+   "desc": "Inventory Management System MERN CRUD App (MERN Stack Project). A simple MERN project that lets the user insert, update, delete & get products from the MongoDB.",
+   "pushed": "2023-07-16",
+   "archived": false
+  },
+  {
+   "full_name": "faizaldevs/RestoPOS",
+   "url": "https://github.com/faizaldevs/RestoPOS",
+   "stars": 104,
+   "lang": "Vue",
+   "desc": "RestoPOS is a cloud-based SaaS solution designed for restaurants, caf\u00e9s, and food businesses to streamline billing, order management, inventory tracking, and more. Built with Laravel and Vue.js, it su",
+   "pushed": "2025-03-10",
+   "archived": false
+  },
+  {
+   "full_name": "KinjalDas/Inventory-Management-System-Django",
+   "url": "https://github.com/KinjalDas/Inventory-Management-System-Django",
+   "stars": 103,
+   "lang": "Python",
+   "desc": "A Inventory management system written in DJango",
+   "pushed": "2022-10-31",
+   "archived": false
+  },
+  {
+   "full_name": "KryptonB/inventory-management-system",
+   "url": "https://github.com/KryptonB/inventory-management-system",
+   "stars": 102,
+   "lang": "PHP",
+   "desc": "Simple PHP, MySQL inventory control system",
+   "pushed": "2023-07-28",
+   "archived": false
+  },
+  {
+   "full_name": "vijaythapa333/anystore",
+   "url": "https://github.com/vijaythapa333/anystore",
+   "stars": 102,
+   "lang": "C#",
+   "desc": "Billing and Inventory Management System Build in C# and MS SQL Server 2014",
+   "pushed": "2020-12-03",
+   "archived": false
+  },
+  {
+   "full_name": "phamos-eu/it_management",
+   "url": "https://github.com/phamos-eu/it_management",
+   "stars": 100,
+   "lang": "Python",
+   "desc": "Management von IT-Bausteinen. Hierzu geh\u00f6ren IT-Ger\u00e4te und IT-L\u00f6sungen wie Server, Rechner, Netzwerke und E-Mailserver sowie auch Backups, Dienstleistungsvertr\u00e4ge, Accounts und Internetleistungen.",
+   "pushed": "2026-09-18",
+   "archived": false
+  },
+  {
+   "full_name": "ArpadGBondor/Red-Inventory-Management",
+   "url": "https://github.com/ArpadGBondor/Red-Inventory-Management",
+   "stars": 99,
+   "lang": "C#",
+   "desc": "C#, WPF, MVVM, MS SQL LocalDB, Inventory management, Entity Framework, log4net",
+   "pushed": "2024-11-25",
+   "archived": false
+  },
+  {
+   "full_name": "ekramasif/Inventory_Management_System",
+   "url": "https://github.com/ekramasif/Inventory_Management_System",
+   "stars": 99,
+   "lang": "Blade",
+   "desc": "Opensource Inventory Management System using Laravel 8.",
+   "pushed": "2026-09-22",
+   "archived": false
+  },
+  {
+   "full_name": "schorschii/OCO-Server",
+   "url": "https://github.com/schorschii/OCO-Server",
+   "stars": 99,
+   "lang": "PHP",
+   "desc": "Open Source Computer Orchestration Server - Endpoint Management Solution: Client & Server Inventory, Configuration & Policy Management, Automation and Software Rollout/Deployment/Distribution, Mobile",
+   "pushed": "2026-10-05",
+   "archived": false
+  },
+  {
+   "full_name": "code-boxx/Storage-Boxx-PHP-Inventory-Management-System",
+   "url": "https://github.com/code-boxx/Storage-Boxx-PHP-Inventory-Management-System",
+   "stars": 94,
+   "lang": "PHP",
+   "desc": "Open source PHP inventory management system, with built-in QR and NFC scanner.",
+   "pushed": "2024-03-07",
+   "archived": false
+  },
+  {
+   "full_name": "afifaniks/InventorySystem",
+   "url": "https://github.com/afifaniks/InventorySystem",
+   "stars": 92,
+   "lang": "Java",
+   "desc": "Inventory Management System with Java and MySQL",
+   "pushed": "2023-03-17",
+   "archived": false
+  },
+  {
+   "full_name": "viditgarg1999/Inventory-Management-System",
+   "url": "https://github.com/viditgarg1999/Inventory-Management-System",
+   "stars": 90,
+   "lang": null,
+   "desc": "Database Management System Project on the Inventory Management System using SQL",
+   "pushed": "2019-09-19",
+   "archived": false
+  },
+  {
+   "full_name": "polynimbus/polynimbus",
+   "url": "https://github.com/polynimbus/polynimbus",
+   "stars": 89,
+   "lang": "Python",
+   "desc": "Multi-cloud infrastructure inventory and management tool, supporting AWS, Google Cloud, Azure, Oracle Cloud, Rackspace Cloud, Hetzner Cloud, Alibaba Cloud, e24cloud.com, Linode, Cloudflare, GoDaddy an",
+   "pushed": "2024-03-22",
+   "archived": false
+  },
+  {
+   "full_name": "arnobt78/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack",
+   "url": "https://github.com/arnobt78/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack",
+   "stars": 87,
+   "lang": "TypeScript",
+   "desc": "A full-stack warehouse and stock inventory management system built with Next.js, React, Prisma, and MongoDB. It helps store owners, suppliers, and clients manage products, orders, invoices, warehouses",
+   "pushed": "2026-09-09",
+   "archived": false
+  },
+  {
+   "full_name": "krishkhinchi/Odoo_Clone",
+   "url": "https://github.com/krishkhinchi/Odoo_Clone",
+   "stars": 87,
+   "lang": "JavaScript",
+   "desc": "Odoo is a suite of open source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc.",
+   "pushed": "2026-08-03",
+   "archived": false
+  },
+  {
+   "full_name": "hemanta212/Flutter-Inventory-App",
+   "url": "https://github.com/hemanta212/Flutter-Inventory-App",
+   "stars": 86,
+   "lang": "Dart",
+   "desc": "A Flutter-firebase realtime inventory management App.",
+   "pushed": "2022-11-06",
+   "archived": false
+  },
+  {
+   "full_name": "GSA/resources.data.gov",
+   "url": "https://github.com/GSA/resources.data.gov",
+   "stars": 84,
+   "lang": "HTML",
+   "desc": "Resources for open data and enterprise data inventory management",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "munuhee/sales-and-inventory-management",
+   "url": "https://github.com/munuhee/sales-and-inventory-management",
+   "stars": 81,
+   "lang": "HTML",
+   "desc": "Sales and Inventory management system utilizing Django, designed for coordination among administrators and staff. Simplifying goods management, sales, purchases, billing, and invoice creation.",
+   "pushed": "2026-08-29",
+   "archived": false
+  },
+  {
+   "full_name": "pj28105/Sales-and-Inventory-Management-System",
+   "url": "https://github.com/pj28105/Sales-and-Inventory-Management-System",
+   "stars": 79,
+   "lang": "Python",
+   "desc": "Tkinter(Python Module) based GUI application",
+   "pushed": "2022-04-16",
+   "archived": false
+  },
+  {
+   "full_name": "Epic-Breakfast-Productions/OpenQuarterMaster",
+   "url": "https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster",
+   "stars": 77,
+   "lang": "Java",
+   "desc": "Open Quartermaster is an open source inventory management system, designed to be simple to use yet powerful and extendable. The last inventory management system you will ever need!",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Rizwan17/inventory-management-system",
+   "url": "https://github.com/Rizwan17/inventory-management-system",
+   "stars": 76,
+   "lang": "PHP",
+   "desc": "",
+   "pushed": "2022-01-29",
+   "archived": false
+  },
+  {
+   "full_name": "Rubonnek/inventory-manager",
+   "url": "https://github.com/Rubonnek/inventory-manager",
+   "stars": 76,
+   "lang": "GDScript",
+   "desc": "A comprehensive inventory management system for the Godot Game Engine",
+   "pushed": "2026-06-05",
+   "archived": false
+  },
+  {
+   "full_name": "flags/Reactor-3",
+   "url": "https://github.com/flags/Reactor-3",
+   "stars": 76,
+   "lang": "Python",
+   "desc": "Post-apocalyptic action roguelike with a focus on inventory management and gun-based combat.",
+   "pushed": "2021-08-23",
+   "archived": false
+  },
+  {
+   "full_name": "Cholopol/Cholopol-Tetris-Inventory-System",
+   "url": "https://github.com/Cholopol/Cholopol-Tetris-Inventory-System",
+   "stars": 75,
+   "lang": "C#",
+   "desc": "The excellent MVVM architecture Tarkov-like Tetris shaped items backpack management inventory system developed based on Godot 4.x. it supports complex grid logic including irregular item shapes, item",
+   "pushed": "2026-08-24",
+   "archived": false
+  },
+  {
+   "full_name": "Arjanpdl/Inventory-Management-Android-app",
+   "url": "https://github.com/Arjanpdl/Inventory-Management-Android-app",
+   "stars": 74,
+   "lang": "Java",
+   "desc": "Inventory Management System using android platform and firebase database. Using BarCode and Qrcode Scanner",
+   "pushed": "2022-01-25",
+   "archived": false
+  },
+  {
+   "full_name": "gavindsouza/inventory-management-system",
+   "url": "https://github.com/gavindsouza/inventory-management-system",
+   "stars": 73,
+   "lang": "Jinja",
+   "desc": "Insanely lightweight Inventory tracker",
+   "pushed": "2023-02-27",
+   "archived": false
+  },
+  {
+   "full_name": "Hrishikesh332/Inventory-Management-System",
+   "url": "https://github.com/Hrishikesh332/Inventory-Management-System",
+   "stars": 71,
+   "lang": "Python",
+   "desc": "",
+   "pushed": "2023-06-19",
+   "archived": false
+  },
+  {
+   "full_name": "avishekhbharati/PharmAssistant",
+   "url": "https://github.com/avishekhbharati/PharmAssistant",
+   "stars": 70,
+   "lang": "JavaScript",
+   "desc": "This is small and simple pharmacy store management system developed in ASP.NET MVC using Entity framework code first approach. The application has modules like: inventory management, transaction manag",
+   "pushed": "2022-08-31",
+   "archived": false
+  },
+  {
+   "full_name": "newtonmunene99/Inventory",
+   "url": "https://github.com/newtonmunene99/Inventory",
+   "stars": 69,
+   "lang": "Dart",
+   "desc": "Inventory Management System built with Flutter and Firebase",
+   "pushed": "2023-01-09",
+   "archived": false
+  },
+  {
+   "full_name": "sathishportfolio/LaravelInventry",
+   "url": "https://github.com/sathishportfolio/LaravelInventry",
+   "stars": 68,
+   "lang": "HTML",
+   "desc": "Stock management application using Laravel 5.4",
+   "pushed": "2017-03-13",
+   "archived": false
+  },
+  {
+   "full_name": "bislerium/BikeSparesInventorySystem",
+   "url": "https://github.com/bislerium/BikeSparesInventorySystem",
+   "stars": 68,
+   "lang": "C#",
+   "desc": "\ud83d\udeb5 A 1-tier multi-user/role based inventory management desktop application made using .NET MAUI Blazor framework to manage bike spare parts.",
+   "pushed": "2025-12-19",
+   "archived": false
+  },
+  {
+   "full_name": "marination/Inventory-Manager",
+   "url": "https://github.com/marination/Inventory-Manager",
+   "stars": 67,
+   "lang": "HTML",
+   "desc": "An inventory management system using Flask",
+   "pushed": "2023-05-01",
+   "archived": false
+  },
+  {
+   "full_name": "bitsandbots/inventory",
+   "url": "https://github.com/bitsandbots/inventory",
+   "stars": 67,
+   "lang": "PHP",
+   "desc": "Self-hosted inventory management system with sales orders, invoices, picklists, and reporting. PHP 8.x + MariaDB, offline-first, MIT-licensed.",
+   "pushed": "2026-05-26",
+   "archived": false
+  },
+  {
+   "full_name": "xiaotianliu01/Multi-Agent-Deep-Reinforcement-Learning-on-Multi-Echelon-Inventory-Management",
+   "url": "https://github.com/xiaotianliu01/Multi-Agent-Deep-Reinforcement-Learning-on-Multi-Echelon-Inventory-Management",
+   "stars": 67,
+   "lang": "Python",
+   "desc": "Official codes for \"Multi-Agent Deep Reinforcement Learning for Multi-Echelon Inventory Management: Reducing Costs and Alleviating Bullwhip Effect\"",
+   "pushed": "2022-11-08",
+   "archived": false
+  },
+  {
+   "full_name": "qtecsolution/qpos",
+   "url": "https://github.com/qtecsolution/qpos",
+   "stars": 67,
+   "lang": "JavaScript",
+   "desc": "Smart POS System \u2013 Built with Laravel, React, and Vue.js! Streamline your sales, inventory, and customer management with powerful features like real-time dashboards, bulk product import, low-stock ale",
+   "pushed": "2026-06-22",
+   "archived": false
+  },
+  {
+   "full_name": "tripatheea/inventory-management",
+   "url": "https://github.com/tripatheea/inventory-management",
+   "stars": 66,
+   "lang": "PHP",
+   "desc": "A simple web-based inventory management software written in PHP (MySQL) with CodeIgniter.",
+   "pushed": "2015-06-12",
+   "archived": false
+  },
+  {
+   "full_name": "mtallentb/react_inventory_manager",
+   "url": "https://github.com/mtallentb/react_inventory_manager",
+   "stars": 66,
+   "lang": "JavaScript",
+   "desc": "Inventory Management System built with React, Redux and Rails API",
+   "pushed": "2018-01-08",
+   "archived": false
+  },
+  {
+   "full_name": "FaroukOyekunle/Inventory-Order-Management-System",
+   "url": "https://github.com/FaroukOyekunle/Inventory-Order-Management-System",
+   "stars": 64,
+   "lang": "C#",
+   "desc": "Asp.Net Core Mvc implementation of inventory order management system. warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.",
+   "pushed": "2024-06-04",
+   "archived": false
+  },
+  {
+   "full_name": "stellarloop/Library-Management-System-JAVA",
+   "url": "https://github.com/stellarloop/Library-Management-System-JAVA",
+   "stars": 64,
+   "lang": "Java",
+   "desc": "A comprehensive Library Management System built using Java. This application features user-friendly interfaces for managing books, members, lending operations, and inventory tracking. Suitable for edu",
+   "pushed": "2025-11-20",
+   "archived": false
+  },
+  {
+   "full_name": "IMDADMI/inventory-management-system",
+   "url": "https://github.com/IMDADMI/inventory-management-system",
+   "stars": 63,
+   "lang": "JavaScript",
+   "desc": "Inventory management system based on react js",
+   "pushed": "2023-11-03",
+   "archived": false
+  },
+  {
+   "full_name": "BlondelSeumo/Inventory-Management-System-with-POS-HRM-Accounting",
+   "url": "https://github.com/BlondelSeumo/Inventory-Management-System-with-POS-HRM-Accounting",
+   "stars": 62,
+   "lang": "Blade",
+   "desc": "Inventory Management System with POS (Point of Sale) is a laravel(php) based stock/inventory management system that allows you to manage your inventory, sales, purchases, customers, invoices, take pay",
+   "pushed": "2020-12-12",
+   "archived": false
+  },
+  {
+   "full_name": "DirkJanJansen/Sales-Cashregister",
+   "url": "https://github.com/DirkJanJansen/Sales-Cashregister",
+   "stars": 62,
+   "lang": "Python",
+   "desc": "Cash Register Version 2.0 with barcode logon and to 8 buttongroups with each 23 programmable product buttons and equipped with inventory management system",
+   "pushed": "2026-09-14",
+   "archived": false
+  }
+ ]
+}

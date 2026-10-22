@@ -1,0 +1,834 @@
+{
+ "query": "whatsapp",
+ "total_count": 232760,
+ "items": [
+  {
+   "full_name": "chatwoot/chatwoot",
+   "url": "https://github.com/chatwoot/chatwoot",
+   "stars": 38074,
+   "lang": "Ruby",
+   "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "GorvGoyl/Clone-Wars",
+   "url": "https://github.com/GorvGoyl/Clone-Wars",
+   "stars": 37145,
+   "lang": null,
+   "desc": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+   "pushed": "2024-08-06",
+   "archived": false
+  },
+  {
+   "full_name": "nanocoai/nanoclaw",
+   "url": "https://github.com/nanocoai/nanoclaw",
+   "stars": 30977,
+   "lang": "TypeScript",
+   "desc": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "enescingoz/awesome-n8n-templates",
+   "url": "https://github.com/enescingoz/awesome-n8n-templates",
+   "stars": 26045,
+   "lang": null,
+   "desc": "280+ free n8n automation templates \u2014 ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m",
+   "pushed": "2026-09-12",
+   "archived": false
+  },
+  {
+   "full_name": "wechaty/wechaty",
+   "url": "https://github.com/wechaty/wechaty",
+   "stars": 23393,
+   "lang": "TypeScript",
+   "desc": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
+   "pushed": "2025-12-21",
+   "archived": false
+  },
+  {
+   "full_name": "wwebjs/whatsapp-web.js",
+   "url": "https://github.com/wwebjs/whatsapp-web.js",
+   "stars": 22772,
+   "lang": "JavaScript",
+   "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "rmyndharis/OpenWA",
+   "url": "https://github.com/rmyndharis/OpenWA",
+   "stars": 16079,
+   "lang": "TypeScript",
+   "desc": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "NanmiCoder/cc-haha",
+   "url": "https://github.com/NanmiCoder/cc-haha",
+   "stars": 15106,
+   "lang": "TypeScript",
+   "desc": "\u672c\u5730\u4f18\u5148\u7684\u8de8\u5e73\u53f0 Claude Code / AI Agent \u684c\u9762\u5de5\u4f5c\u53f0\uff1a\u591a Agent \u534f\u4f5c\u3001Git Worktree\u3001\u4ee3\u7801 Diff\u3001\u6280\u80fd\u5e02\u573a\u3001\u591a\u6a21\u578b\u3001Computer Use\u3001\u684c\u9762\u5ba0\u7269\uff1b\u652f\u6301\u5fae\u4fe1\u3001\u98de\u4e66\u3001\u9489\u9489\u53ca H5 \u7b49\u8fdc\u7a0b\u8bbf\u95ee\u3002 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git wo",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "tinode/chat",
+   "url": "https://github.com/tinode/chat",
+   "stars": 13528,
+   "lang": "Go",
+   "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "wangrongding/wechat-bot",
+   "url": "https://github.com/wangrongding/wechat-bot",
+   "stars": 11451,
+   "lang": "JavaScript",
+   "desc": "\ud83e\udd16 Multi-platform IM AI Agent for Telegram, WhatsApp, Lark, and WeChat. Connects ChatGPT / Claude / Kimi / DeepSeek / Ollama / Pi for auto-replies, community analysis, contact management, and inactive-",
+   "pushed": "2026-09-04",
+   "archived": false
+  },
+  {
+   "full_name": "WhiskeySockets/Baileys",
+   "url": "https://github.com/WhiskeySockets/Baileys",
+   "stars": 11415,
+   "lang": "JavaScript",
+   "desc": "Socket-based TS/JavaScript API for WhatsApp Web",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "evolution-foundation/evolution-api",
+   "url": "https://github.com/evolution-foundation/evolution-api",
+   "stars": 9916,
+   "lang": "TypeScript",
+   "desc": "Evolution API is an open-source WhatsApp integration API",
+   "pushed": "2026-07-14",
+   "archived": false
+  },
+  {
+   "full_name": "mruniquehacker/Knightbot-MD",
+   "url": "https://github.com/mruniquehacker/Knightbot-MD",
+   "stars": 8156,
+   "lang": "JavaScript",
+   "desc": "A simple WhatsApp bot to manage groups",
+   "pushed": "2026-05-11",
+   "archived": false
+  },
+  {
+   "full_name": "jev-chat/jev-chat-jarvis",
+   "url": "https://github.com/jev-chat/jev-chat-jarvis",
+   "stars": 7968,
+   "lang": "Kotlin",
+   "desc": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android \u00b7 Windows \u00b7 macOS \u00b7 iOS | \u804a\u5929\u8f85\u52a9\u51b3\u7b56\u5de5\u5177\uff1a\u5148\u770b\u61c2\u5bf9\u65b9",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "devlikeapro/waha",
+   "url": "https://github.com/devlikeapro/waha",
+   "stars": 7654,
+   "lang": "TypeScript",
+   "desc": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! Multiple engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go), WPP (browser)",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "tulir/whatsmeow",
+   "url": "https://github.com/tulir/whatsmeow",
+   "stars": 7630,
+   "lang": "Go",
+   "desc": "Go library for the WhatsApp web multidevice API",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "42wim/matterbridge",
+   "url": "https://github.com/42wim/matterbridge",
+   "stars": 7591,
+   "lang": "Go",
+   "desc": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m",
+   "pushed": "2024-12-12",
+   "archived": false
+  },
+  {
+   "full_name": "tgalal/yowsup",
+   "url": "https://github.com/tgalal/yowsup",
+   "stars": 7175,
+   "lang": "Python",
+   "desc": "The WhatsApp lib",
+   "pushed": "2024-08-08",
+   "archived": false
+  },
+  {
+   "full_name": "lharries/whatsapp-mcp",
+   "url": "https://github.com/lharries/whatsapp-mcp",
+   "stars": 6687,
+   "lang": "Go",
+   "desc": "WhatsApp MCP server",
+   "pushed": "2025-07-13",
+   "archived": false
+  },
+  {
+   "full_name": "vynect/venom",
+   "url": "https://github.com/vynect/venom",
+   "stars": 6596,
+   "lang": "TypeScript",
+   "desc": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on",
+   "pushed": "2026-09-09",
+   "archived": false
+  },
+  {
+   "full_name": "sigalor/whatsapp-web-reveng",
+   "url": "https://github.com/sigalor/whatsapp-web-reveng",
+   "stars": 6513,
+   "lang": "JavaScript",
+   "desc": "Reverse engineering WhatsApp Web.",
+   "pushed": "2024-04-22",
+   "archived": false
+  },
+  {
+   "full_name": "Prince-Mendiratta/BotsApp",
+   "url": "https://github.com/Prince-Mendiratta/BotsApp",
+   "stars": 5526,
+   "lang": "TypeScript",
+   "desc": "Your personal assistant, on WhatsApp! The most user friendly userbot for the platform!",
+   "pushed": "2026-06-01",
+   "archived": false
+  },
+  {
+   "full_name": "gommzystudio/device-activity-tracker",
+   "url": "https://github.com/gommzystudio/device-activity-tracker",
+   "stars": 5165,
+   "lang": "TypeScript",
+   "desc": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si",
+   "pushed": "2025-12-31",
+   "archived": false
+  },
+  {
+   "full_name": "aldinokemal/go-whatsapp-web-multidevice",
+   "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+   "stars": 4943,
+   "lang": "Go",
+   "desc": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "melgarafael/DeskcommCRM",
+   "url": "https://github.com/melgarafael/DeskcommCRM",
+   "stars": 4786,
+   "lang": "TypeScript",
+   "desc": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "meetfranz/franz",
+   "url": "https://github.com/meetfranz/franz",
+   "stars": 4728,
+   "lang": "JavaScript",
+   "desc": "Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.",
+   "pushed": "2026-06-12",
+   "archived": false
+  },
+  {
+   "full_name": "nikoksr/notify",
+   "url": "https://github.com/nikoksr/notify",
+   "stars": 3919,
+   "lang": "Go",
+   "desc": "A dead simple Go library for sending notifications to various messaging services.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "askrella/whatsapp-chatgpt",
+   "url": "https://github.com/askrella/whatsapp-chatgpt",
+   "stars": 3794,
+   "lang": "TypeScript",
+   "desc": "ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:",
+   "pushed": "2026-07-12",
+   "archived": false
+  },
+  {
+   "full_name": "1186258278/OpenClawChineseTranslation",
+   "url": "https://github.com/1186258278/OpenClawChineseTranslation",
+   "stars": 3790,
+   "lang": "JavaScript",
+   "desc": "\ud83e\udd9e OpenClaw (Clawdbot/Moltbot) \u6c49\u5316\u7248 - \u5f00\u6e90\u4e2a\u4eba AI \u52a9\u624b\u4e2d\u6587\u7248 | Claude/ChatGPT LLM \u63a5\u5165 | WhatsApp/Telegram/Discord \u591a\u5e73\u53f0 | \u6bcf\u5c0f\u65f6\u81ea\u52a8\u540c\u6b65 | CLI + Dashboard \u5168\u4e2d\u6587 | \u5168\u6d41\u7a0b\u642d\u5efa\u6559\u7a0b\uff0c\u4ee5\u53ca\u6392\u9519\u6307\u5357\uff01",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "ramonszo/zuck.js",
+   "url": "https://github.com/ramonszo/zuck.js",
+   "stars": 3730,
+   "lang": "TypeScript",
+   "desc": "A javascript library that lets you add stories EVERYWHERE.",
+   "pushed": "2025-04-16",
+   "archived": false
+  },
+  {
+   "full_name": "SmartToolFactory/Jetpack-Compose-Tutorials",
+   "url": "https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials",
+   "stars": 3664,
+   "lang": "Kotlin",
+   "desc": "\ud83d\ude80\ud83e\udde8\ud83d\udcdd Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects",
+   "pushed": "2026-09-10",
+   "archived": false
+  },
+  {
+   "full_name": "rockerhieu/emojicon",
+   "url": "https://github.com/rockerhieu/emojicon",
+   "stars": 3587,
+   "lang": "Java",
+   "desc": "A library to show emoji in TextView, EditText (like WhatsApp) for Android",
+   "pushed": "2020-06-13",
+   "archived": false
+  },
+  {
+   "full_name": "wppconnect-team/wppconnect",
+   "url": "https://github.com/wppconnect-team/wppconnect",
+   "stars": 3508,
+   "lang": "TypeScript",
+   "desc": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "keshavbhatt/whatsie",
+   "url": "https://github.com/keshavbhatt/whatsie",
+   "stars": 3462,
+   "lang": "C++",
+   "desc": "Feature rich WhatsApp Client for Desktop Linux",
+   "pushed": "2026-09-21",
+   "archived": false
+  },
+  {
+   "full_name": "Matt-Fontes/SendScriptWhatsApp",
+   "url": "https://github.com/Matt-Fontes/SendScriptWhatsApp",
+   "stars": 3456,
+   "lang": "JavaScript",
+   "desc": "Script para enviar o Roteiro do filme Shrek, linha por linha, no WhatsApp",
+   "pushed": "2024-08-02",
+   "archived": false
+  },
+  {
+   "full_name": "aleixrodriala/wa-tunnel",
+   "url": "https://github.com/aleixrodriala/wa-tunnel",
+   "stars": 3345,
+   "lang": "JavaScript",
+   "desc": "Tunneling Internet traffic over Whatsapp",
+   "pushed": "2022-11-27",
+   "archived": false
+  },
+  {
+   "full_name": "danielgross/whatsapp-gpt",
+   "url": "https://github.com/danielgross/whatsapp-gpt",
+   "stars": 3055,
+   "lang": "Go",
+   "desc": "",
+   "pushed": "2024-04-26",
+   "archived": false
+  },
+  {
+   "full_name": "dittofeed/dittofeed",
+   "url": "https://github.com/dittofeed/dittofeed",
+   "stars": 3016,
+   "lang": "TypeScript",
+   "desc": "Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more \ud83d\udce8",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "codigoencasa/builderbot",
+   "url": "https://github.com/codigoencasa/builderbot",
+   "stars": 2975,
+   "lang": "TypeScript",
+   "desc": "\ud83e\udd16 Crear Chatbot WhatsApp en minutos. \u00danete a este proyecto OpenSource",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "WhatsApp/stickers",
+   "url": "https://github.com/WhatsApp/stickers",
+   "stars": 2923,
+   "lang": "Java",
+   "desc": "This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.",
+   "pushed": "2025-11-07",
+   "archived": false
+  },
+  {
+   "full_name": "moltis-org/moltis",
+   "url": "https://github.com/moltis-org/moltis",
+   "stars": 2906,
+   "lang": "Rust",
+   "desc": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "openclaw/wacli",
+   "url": "https://github.com/openclaw/wacli",
+   "stars": 2832,
+   "lang": "Go",
+   "desc": "WhatsApp CLI: sync, search, send",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "venomous0x/WhatsAPI",
+   "url": "https://github.com/venomous0x/WhatsAPI",
+   "stars": 2620,
+   "lang": null,
+   "desc": "Interface to WhatsApp Messenger",
+   "pushed": "2023-05-27",
+   "archived": false
+  },
+  {
+   "full_name": "ArnasDon/wacrm",
+   "url": "https://github.com/ArnasDon/wacrm",
+   "stars": 2595,
+   "lang": "TypeScript",
+   "desc": "Self-hostable CRM template for WhatsApp \u2014 shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "WhatsApp/proxy",
+   "url": "https://github.com/WhatsApp/proxy",
+   "stars": 2382,
+   "lang": "Shell",
+   "desc": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)",
+   "pushed": "2026-08-20",
+   "archived": false
+  },
+  {
+   "full_name": "lyfe00011/levanter",
+   "url": "https://github.com/lyfe00011/levanter",
+   "stars": 2350,
+   "lang": "JavaScript",
+   "desc": "Feature-rich WhatsApp bot supporting multiple sessions",
+   "pushed": "2026-09-28",
+   "archived": false
+  },
+  {
+   "full_name": "xmanrui/dsh-im",
+   "url": "https://github.com/xmanrui/dsh-im",
+   "stars": 2282,
+   "lang": "JavaScript",
+   "desc": "\u901a\u8fc7\u626b\u7801\u6216\u673a\u5668\u4eba\u51ed\u636e\u628aIM\u673a\u5668\u4eba\u63a5\u5165DeepSeek Harness\uff08\u652f\u6301\u98de\u4e66\u3001\u5fae\u4fe1\u3001\u9489\u9489\u3001\u4f01\u4e1a\u5fae\u4fe1\u3001QQ\u3001Slack\u3001Telegram\u3001Discord\u548cWhatsApp\uff09\u3002 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "LiveHelperChat/livehelperchat",
+   "url": "https://github.com/LiveHelperChat/livehelperchat",
+   "stars": 2249,
+   "lang": "PHP",
+   "desc": "Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "Rhymen/go-whatsapp",
+   "url": "https://github.com/Rhymen/go-whatsapp",
+   "stars": 2246,
+   "lang": "Go",
+   "desc": "WhatsApp Web API",
+   "pushed": "2026-07-28",
+   "archived": false
+  },
+  {
+   "full_name": "Ainz-devs/OVL-MD-V2",
+   "url": "https://github.com/Ainz-devs/OVL-MD-V2",
+   "stars": 2199,
+   "lang": "JavaScript",
+   "desc": "OVL-MD-V2, d\u00e9velopp\u00e9 par Ainz, est un bot WhatsApp multi-device performant, offrant de nombreuses fonctionnalit\u00e9s.",
+   "pushed": "2026-09-13",
+   "archived": false
+  },
+  {
+   "full_name": "codersguild/System-Design",
+   "url": "https://github.com/codersguild/System-Design",
+   "stars": 2178,
+   "lang": null,
+   "desc": "It's just fascinating. How is modern software designed? \ud83e\udd14 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. \ud83d\udc68\u200d\ud83d\udcbb Interview Prep. \ud83d\udc68\u200d\ud83d\udcbb",
+   "pushed": "2024-02-21",
+   "archived": false
+  },
+  {
+   "full_name": "ellisonleao/sharer.js",
+   "url": "https://github.com/ellisonleao/sharer.js",
+   "stars": 2096,
+   "lang": "JavaScript",
+   "desc": ":on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS",
+   "pushed": "2026-10-14",
+   "archived": false
+  },
+  {
+   "full_name": "youpi-pg/YouPI-PG",
+   "url": "https://github.com/youpi-pg/YouPI-PG",
+   "stars": 2085,
+   "lang": "JavaScript",
+   "desc": "A self-hosted UPI & COD payment gateway with zero per-transaction platform fees, universal JavaScript checkout integration, dynamic QR payments, WhatsApp OTP authentication, and automated payment veri",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "mukulhase/WebWhatsapp-Wrapper",
+   "url": "https://github.com/mukulhase/WebWhatsapp-Wrapper",
+   "stars": 2082,
+   "lang": "Python",
+   "desc": "An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]",
+   "pushed": "2023-06-29",
+   "archived": false
+  },
+  {
+   "full_name": "crmne/zapfast",
+   "url": "https://github.com/crmne/zapfast",
+   "stars": 2081,
+   "lang": "Rust",
+   "desc": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "canove/whaticket-community",
+   "url": "https://github.com/canove/whaticket-community",
+   "stars": 2077,
+   "lang": "JavaScript",
+   "desc": "A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "FouadRaheb/Watusi-for-WhatsApp",
+   "url": "https://github.com/FouadRaheb/Watusi-for-WhatsApp",
+   "stars": 2000,
+   "lang": null,
+   "desc": "Your all-in-one tweak for WhatsApp Messenger!",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "d99kris/nchat",
+   "url": "https://github.com/d99kris/nchat",
+   "stars": 1997,
+   "lang": "C++",
+   "desc": "Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "mautrix/whatsapp",
+   "url": "https://github.com/mautrix/whatsapp",
+   "stars": 1910,
+   "lang": "Go",
+   "desc": "A Matrix-WhatsApp puppeting bridge",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "stonesam92/ChitChat",
+   "url": "https://github.com/stonesam92/ChitChat",
+   "stars": 1899,
+   "lang": "Objective-C",
+   "desc": "A native Mac app wrapper for WhatsApp Web",
+   "pushed": "2019-10-07",
+   "archived": false
+  },
+  {
+   "full_name": "wechaty/python-wechaty",
+   "url": "https://github.com/wechaty/python-wechaty",
+   "stars": 1825,
+   "lang": "Python",
+   "desc": "Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python",
+   "pushed": "2025-06-20",
+   "archived": false
+  },
+  {
+   "full_name": "Dev4Mod/WaEnhancer",
+   "url": "https://github.com/Dev4Mod/WaEnhancer",
+   "stars": 1797,
+   "lang": "Kotlin",
+   "desc": "WhatsApp tools for Android",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "iampawan/FlutterWhatsAppClone",
+   "url": "https://github.com/iampawan/FlutterWhatsAppClone",
+   "stars": 1759,
+   "lang": "Dart",
+   "desc": "Building a WhatsApp Clone in Flutter.",
+   "pushed": "2024-05-14",
+   "archived": false
+  },
+  {
+   "full_name": "shridarpatil/whatomate",
+   "url": "https://github.com/shridarpatil/whatomate",
+   "stars": 1744,
+   "lang": "Go",
+   "desc": "Whatomate is an open-source WhatsApp integration",
+   "pushed": "2026-10-14",
+   "archived": false
+  },
+  {
+   "full_name": "B16f00t/whapa",
+   "url": "https://github.com/B16f00t/whapa",
+   "stars": 1692,
+   "lang": "Python",
+   "desc": "WhatsApp Parser Toolset v1.59",
+   "pushed": "2026-08-02",
+   "archived": false
+  },
+  {
+   "full_name": "neural-maze/ava-whatsapp-agent-course",
+   "url": "https://github.com/neural-maze/ava-whatsapp-agent-course",
+   "stars": 1682,
+   "lang": "Python",
+   "desc": "Meet Ava, the WhatsApp Agent",
+   "pushed": "2025-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "Ankit404butfound/PyWhatKit",
+   "url": "https://github.com/Ankit404butfound/PyWhatKit",
+   "stars": 1674,
+   "lang": "Python",
+   "desc": "Send WhatsApp message at certain time and many other things.",
+   "pushed": "2025-04-25",
+   "archived": false
+  },
+  {
+   "full_name": "rafatosta/zapzap",
+   "url": "https://github.com/rafatosta/zapzap",
+   "stars": 1649,
+   "lang": "Python",
+   "desc": "WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "jasperan/whatsapp-osint",
+   "url": "https://github.com/jasperan/whatsapp-osint",
+   "stars": 1585,
+   "lang": "Python",
+   "desc": "WhatsApp spy - logs online/offline events from ANYONE in the world",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "MalvinTechInfo/MALVIN-XD",
+   "url": "https://github.com/MalvinTechInfo/MALVIN-XD",
+   "stars": 1584,
+   "lang": "JavaScript",
+   "desc": "MALVIN XD Whatsapp Bot | World Best Whatsapp Bot | Made In Zimbabwe \u0253y Malvin King",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "daveebbelaar/python-whatsapp-bot",
+   "url": "https://github.com/daveebbelaar/python-whatsapp-bot",
+   "stars": 1540,
+   "lang": "Python",
+   "desc": "Build AI WhatsApp Bots with Pure Python",
+   "pushed": "2024-08-07",
+   "archived": false
+  },
+  {
+   "full_name": "JawadTechYT/KHAN-MD",
+   "url": "https://github.com/JawadTechYT/KHAN-MD",
+   "stars": 1502,
+   "lang": "JavaScript",
+   "desc": "A simple WhatsApp bot to manage groups",
+   "pushed": "2026-09-05",
+   "archived": false
+  },
+  {
+   "full_name": "andreas-mausch/whatsapp-viewer",
+   "url": "https://github.com/andreas-mausch/whatsapp-viewer",
+   "stars": 1443,
+   "lang": "C",
+   "desc": "Small tool to display chats from the Android msgstore.db database (crypt12)",
+   "pushed": "2023-08-28",
+   "archived": false
+  },
+  {
+   "full_name": "GetStream/whatsApp-clone-compose",
+   "url": "https://github.com/GetStream/whatsApp-clone-compose",
+   "stars": 1388,
+   "lang": "Kotlin",
+   "desc": "\ud83d\udcf1 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat/Video SDK for Compose.",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "numandev1/react-native-compressor",
+   "url": "https://github.com/numandev1/react-native-compressor",
+   "stars": 1343,
+   "lang": "Kotlin",
+   "desc": "\ud83d\udddc\ufe0fCompress Image, Video, and Audio same like Whatsapp \ud83d\ude80\u2728",
+   "pushed": "2026-07-25",
+   "archived": false
+  },
+  {
+   "full_name": "danielcardeenas/sulla",
+   "url": "https://github.com/danielcardeenas/sulla",
+   "stars": 1308,
+   "lang": "JavaScript",
+   "desc": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udd2c Javascript Whatsapp api library for chatbots",
+   "pushed": "2023-05-24",
+   "archived": false
+  },
+  {
+   "full_name": "code-chat-br/whatsapp-api",
+   "url": "https://github.com/code-chat-br/whatsapp-api",
+   "stars": 1292,
+   "lang": "TypeScript",
+   "desc": "CodeChat - WhatsApp Api",
+   "pushed": "2026-07-11",
+   "archived": false
+  },
+  {
+   "full_name": "KnugiHK/WhatsApp-Chat-Exporter",
+   "url": "https://github.com/KnugiHK/WhatsApp-Chat-Exporter",
+   "stars": 1280,
+   "lang": "Python",
+   "desc": "A customizable, cross-platform tool for parsing WhatsApp chat databases from Android and iOS/iPadOS backups. Supports Android .crypt12, .crypt14, .crypt15, and the latest database formats. Outputs cha",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "kinghacker0/WhatsApp-OSINT",
+   "url": "https://github.com/kinghacker0/WhatsApp-OSINT",
+   "stars": 1233,
+   "lang": "Python",
+   "desc": "OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review privacy settings, and access complete da",
+   "pushed": "2025-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "mayuur/MJParallaxCollectionView",
+   "url": "https://github.com/mayuur/MJParallaxCollectionView",
+   "stars": 1233,
+   "lang": "Objective-C",
+   "desc": "This is a parallax for the cells inside UICollectionView. It gives us an effect just like scrolling the images in Whatsapp or scrolling through the Weather app for iOS",
+   "pushed": "2015-12-27",
+   "archived": false
+  },
+  {
+   "full_name": "ElDavoo/wa-crypt-tools",
+   "url": "https://github.com/ElDavoo/wa-crypt-tools",
+   "stars": 1192,
+   "lang": "Python",
+   "desc": "Manage WhatsApp .crypt12, .crypt14 and .crypt15 files.",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "danielcardeenas/whatsapp-framework",
+   "url": "https://github.com/danielcardeenas/whatsapp-framework",
+   "stars": 1186,
+   "lang": "Python",
+   "desc": "\u2697\ufe0fWhatsapp python api",
+   "pushed": "2020-04-10",
+   "archived": false
+  },
+  {
+   "full_name": "composio-community/secure-openclaw",
+   "url": "https://github.com/composio-community/secure-openclaw",
+   "stars": 1186,
+   "lang": "JavaScript",
+   "desc": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persist",
+   "pushed": "2026-07-25",
+   "archived": false
+  },
+  {
+   "full_name": "mlomb/chat-analytics",
+   "url": "https://github.com/mlomb/chat-analytics",
+   "stars": 1184,
+   "lang": "TypeScript",
+   "desc": "Generate interactive, beautiful and insightful chat analysis reports",
+   "pushed": "2025-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "souravkl11/raganork-md",
+   "url": "https://github.com/souravkl11/raganork-md",
+   "stars": 1144,
+   "lang": "JavaScript",
+   "desc": "A light-weight multi-functional WhatsApp bot framework.",
+   "pushed": "2026-09-06",
+   "archived": false
+  },
+  {
+   "full_name": "AvillaDaniel/AvillaForensics",
+   "url": "https://github.com/AvillaDaniel/AvillaForensics",
+   "stars": 1143,
+   "lang": "C#",
+   "desc": "Avilla Forensics FREE",
+   "pushed": "2026-04-04",
+   "archived": false
+  },
+  {
+   "full_name": "Bl4ckDr460n/HxWhatsApp",
+   "url": "https://github.com/Bl4ckDr460n/HxWhatsApp",
+   "stars": 1092,
+   "lang": null,
+   "desc": "Whatsapp Hacking",
+   "pushed": "2024-07-02",
+   "archived": false
+  },
+  {
+   "full_name": "normen/whatscli",
+   "url": "https://github.com/normen/whatscli",
+   "stars": 1070,
+   "lang": "Go",
+   "desc": "A command line interface for WhatsApp",
+   "pushed": "2026-08-08",
+   "archived": false
+  },
+  {
+   "full_name": "wppconnect-team/wppconnect-server",
+   "url": "https://github.com/wppconnect-team/wppconnect-server",
+   "stars": 1062,
+   "lang": "TypeScript",
+   "desc": "Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "The-Osint-Toolbox/Social-Media-OSINT",
+   "url": "https://github.com/The-Osint-Toolbox/Social-Media-OSINT",
+   "stars": 1054,
+   "lang": null,
+   "desc": "Social Media OSINT collection containing - tools, techniques & tradecraft.",
+   "pushed": "2026-07-12",
+   "archived": false
+  },
+  {
+   "full_name": "asternic/wuzapi",
+   "url": "https://github.com/asternic/wuzapi",
+   "stars": 1046,
+   "lang": "Go",
+   "desc": "Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "melandlabs/openloomi",
+   "url": "https://github.com/melandlabs/openloomi",
+   "stars": 1037,
+   "lang": "TypeScript",
+   "desc": "OpenLoomi is an open-source AI coworker. It connects your work tools, understands what you\u2019re working on, and tells you what needs your attention, why it matters, and what to do next. It\u2019s your open-s",
+   "pushed": "2026-09-24",
+   "archived": false
+  }
+ ]
+}

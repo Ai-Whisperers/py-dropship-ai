@@ -1,0 +1,870 @@
+{
+ "query": "workflow+automation",
+ "total_count": 54221,
+ "items": [
+  {
+   "full_name": "n8n-io/n8n",
+   "url": "https://github.com/n8n-io/n8n",
+   "stars": 208261,
+   "lang": "TypeScript",
+   "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "langgenius/dify",
+   "url": "https://github.com/langgenius/dify",
+   "stars": 159168,
+   "lang": "Python",
+   "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "ComposioHQ/awesome-claude-skills",
+   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+   "stars": 77626,
+   "lang": "Python",
+   "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+   "pushed": "2026-09-18",
+   "archived": false
+  },
+  {
+   "full_name": "HKUDS/nanobot",
+   "url": "https://github.com/HKUDS/nanobot",
+   "stars": 49259,
+   "lang": "Python",
+   "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "apache/airflow",
+   "url": "https://github.com/apache/airflow",
+   "stars": 47251,
+   "lang": "Python",
+   "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "kestra-io/kestra",
+   "url": "https://github.com/kestra-io/kestra",
+   "stars": 29941,
+   "lang": "Java",
+   "desc": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "simstudioai/sim",
+   "url": "https://github.com/simstudioai/sim",
+   "stars": 29864,
+   "lang": "TypeScript",
+   "desc": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "enescingoz/awesome-n8n-templates",
+   "url": "https://github.com/enescingoz/awesome-n8n-templates",
+   "stars": 26045,
+   "lang": null,
+   "desc": "280+ free n8n automation templates \u2014 ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m",
+   "pushed": "2026-09-12",
+   "archived": false
+  },
+  {
+   "full_name": "activepieces/activepieces",
+   "url": "https://github.com/activepieces/activepieces",
+   "stars": 25165,
+   "lang": "TypeScript",
+   "desc": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "PrefectHQ/prefect",
+   "url": "https://github.com/PrefectHQ/prefect",
+   "stars": 24058,
+   "lang": "Python",
+   "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "Skyvern-AI/skyvern",
+   "url": "https://github.com/Skyvern-AI/skyvern",
+   "stars": 23244,
+   "lang": "Python",
+   "desc": "Automate browser based workflows with AI",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "AutomaApp/automa",
+   "url": "https://github.com/AutomaApp/automa",
+   "stars": 21674,
+   "lang": "Vue",
+   "desc": "A browser extension for automating your browser by connecting blocks",
+   "pushed": "2026-03-02",
+   "archived": false
+  },
+  {
+   "full_name": "Avaiga/taipy",
+   "url": "https://github.com/Avaiga/taipy",
+   "stars": 19445,
+   "lang": "Python",
+   "desc": "Turns Data and AI algorithms into production-ready web applications in no time.",
+   "pushed": "2026-08-10",
+   "archived": false
+  },
+  {
+   "full_name": "triggerdotdev/trigger.dev",
+   "url": "https://github.com/triggerdotdev/trigger.dev",
+   "stars": 16593,
+   "lang": "TypeScript",
+   "desc": "Trigger.dev \u2013 build and deploy durable AI agents and workflows",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "waooAI/waoowaoo",
+   "url": "https://github.com/waooAI/waoowaoo",
+   "stars": 14645,
+   "lang": "TypeScript",
+   "desc": "\u9996\u5bb6\u5de5\u4e1a\u7ea7\u5168\u6d41\u7a0b AI \u5f71\u89c6\u751f\u4ea7\u5e73\u53f0\u3002Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+   "pushed": "2026-09-21",
+   "archived": false
+  },
+  {
+   "full_name": "automatisch/automatisch",
+   "url": "https://github.com/automatisch/automatisch",
+   "stars": 14002,
+   "lang": "JavaScript",
+   "desc": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+   "pushed": "2026-02-11",
+   "archived": false
+  },
+  {
+   "full_name": "google/artemis",
+   "url": "https://github.com/google/artemis",
+   "stars": 13603,
+   "lang": "Python",
+   "desc": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,",
+   "pushed": "2026-10-01",
+   "archived": false
+  },
+  {
+   "full_name": "PipedreamHQ/pipedream",
+   "url": "https://github.com/PipedreamHQ/pipedream",
+   "stars": 11758,
+   "lang": "JavaScript",
+   "desc": "Connect APIs, remarkably fast.  Free for developers.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "bytedance/flowgram.ai",
+   "url": "https://github.com/bytedance/flowgram.ai",
+   "stars": 8512,
+   "lang": "TypeScript",
+   "desc": "FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "refly-ai/refly",
+   "url": "https://github.com/refly-ai/refly",
+   "stars": 7536,
+   "lang": "TypeScript",
+   "desc": "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot \ud83e\udd9e\u00b7 APIs for Lovable \u00b7 Bots for Slack & Lark/Feishu \u00b7 Skills are inf",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "tradesdontlie/tradingview-mcp",
+   "url": "https://github.com/tradesdontlie/tradingview-mcp",
+   "stars": 6902,
+   "lang": "JavaScript",
+   "desc": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "StackStorm/st2",
+   "url": "https://github.com/StackStorm/st2",
+   "stars": 6550,
+   "lang": "Python",
+   "desc": "StackStorm (aka \"IFTTT for Ops\") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "muesli/beehive",
+   "url": "https://github.com/muesli/beehive",
+   "stars": 6489,
+   "lang": "Go",
+   "desc": "A flexible event/agent & automation system with lots of bees \ud83d\udc1d",
+   "pushed": "2023-02-25",
+   "archived": false
+  },
+  {
+   "full_name": "wassupjay/n8n-free-templates",
+   "url": "https://github.com/wassupjay/n8n-free-templates",
+   "stars": 6231,
+   "lang": null,
+   "desc": "A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today\u2019s AI stack\u2014vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you\u2019re live.",
+   "pushed": "2025-08-01",
+   "archived": false
+  },
+  {
+   "full_name": "MontFerret/ferret",
+   "url": "https://github.com/MontFerret/ferret",
+   "stars": 6013,
+   "lang": "Go",
+   "desc": "Declarative data automation language and Go runtime for structured extraction workflows.",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "ATH-MaaS/ComfyUI-Copilot",
+   "url": "https://github.com/ATH-MaaS/ComfyUI-Copilot",
+   "stars": 5554,
+   "lang": "TypeScript",
+   "desc": "An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance",
+   "pushed": "2026-09-11",
+   "archived": false
+  },
+  {
+   "full_name": "iflow-ai/iflow-cli",
+   "url": "https://github.com/iflow-ai/iflow-cli",
+   "stars": 5082,
+   "lang": "Shell",
+   "desc": "iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf",
+   "pushed": "2026-03-20",
+   "archived": false
+  },
+  {
+   "full_name": "totec448-spec/chat-on-steroids",
+   "url": "https://github.com/totec448-spec/chat-on-steroids",
+   "stars": 5057,
+   "lang": "TypeScript",
+   "desc": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "darrenhinde/OpenAgentsControl",
+   "url": "https://github.com/darrenhinde/OpenAgentsControl",
+   "stars": 4925,
+   "lang": "TypeScript",
+   "desc": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "golutra/golutra",
+   "url": "https://github.com/golutra/golutra",
+   "stars": 3860,
+   "lang": "Rust",
+   "desc": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch",
+   "pushed": "2026-09-28",
+   "archived": false
+  },
+  {
+   "full_name": "Netflix/maestro",
+   "url": "https://github.com/Netflix/maestro",
+   "stars": 3845,
+   "lang": "Java",
+   "desc": "Maestro: Netflix\u2019s Workflow Orchestrator",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "foryourhealth111-pixel/Vibe-Skills",
+   "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+   "stars": 3760,
+   "lang": "Python",
+   "desc": "Intelligent Skill routing and workflow orchestration for AI agents \u2014 +21.12 pp reward, \u221229.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "garden-io/garden",
+   "url": "https://github.com/garden-io/garden",
+   "stars": 3619,
+   "lang": "TypeScript",
+   "desc": "Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces",
+   "pushed": "2026-08-24",
+   "archived": false
+  },
+  {
+   "full_name": "AlephAITech/WorkBuddyGuide",
+   "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+   "stars": 3570,
+   "lang": "TypeScript",
+   "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.\u5f00\u6e90\u7684 WorkBuddy \u5b9e\u6218\u84dd\u76ae\u4e66\uff1a\u6559\u7a0b\u3001\u771f\u5b9e\u5de5\u4f5c\u6d41\u3001Skills\u3001MCP\u3001\u81ea\u52a8\u5316\u4e0e\u591a\u667a\u80fd\u4f53\u5b9e\u8df5\u3002",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "Forward-Future/loopy",
+   "url": "https://github.com/Forward-Future/loopy",
+   "stars": 3199,
+   "lang": "JavaScript",
+   "desc": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
+   "pushed": "2026-09-11",
+   "archived": false
+  },
+  {
+   "full_name": "open-rpa/openrpa",
+   "url": "https://github.com/open-rpa/openrpa",
+   "stars": 3100,
+   "lang": "C#",
+   "desc": "Free Open Source Enterprise Grade RPA",
+   "pushed": "2026-04-15",
+   "archived": false
+  },
+  {
+   "full_name": "peter-evans/create-pull-request",
+   "url": "https://github.com/peter-evans/create-pull-request",
+   "stars": 2868,
+   "lang": "TypeScript",
+   "desc": "A GitHub action to create a pull request for changes to your repository in the actions workspace",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "windingwind/zotero-actions-tags",
+   "url": "https://github.com/windingwind/zotero-actions-tags",
+   "stars": 2852,
+   "lang": "TypeScript",
+   "desc": "Customize your Zotero workflow.",
+   "pushed": "2026-10-10",
+   "archived": false
+  },
+  {
+   "full_name": "linsa-io/alfred-workflows",
+   "url": "https://github.com/linsa-io/alfred-workflows",
+   "stars": 2779,
+   "lang": null,
+   "desc": "Amazing Alfred Workflows",
+   "pushed": "2026-05-01",
+   "archived": false
+  },
+  {
+   "full_name": "Pinvou/pinvou-agent",
+   "url": "https://github.com/Pinvou/pinvou-agent",
+   "stars": 2645,
+   "lang": "Rust",
+   "desc": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "softaworks/agent-toolkit",
+   "url": "https://github.com/softaworks/agent-toolkit",
+   "stars": 2581,
+   "lang": "Python",
+   "desc": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows",
+   "pushed": "2026-03-05",
+   "archived": false
+  },
+  {
+   "full_name": "moazbuilds/CodeMachine-CLI",
+   "url": "https://github.com/moazbuilds/CodeMachine-CLI",
+   "stars": 2515,
+   "lang": "TypeScript",
+   "desc": "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. \u26a1\ufe0f",
+   "pushed": "2026-02-25",
+   "archived": false
+  },
+  {
+   "full_name": "0Chencc/CTFCrackTools",
+   "url": "https://github.com/0Chencc/CTFCrackTools",
+   "stars": 2164,
+   "lang": "Rust",
+   "desc": "The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor",
+   "pushed": "2026-05-05",
+   "archived": false
+  },
+  {
+   "full_name": "pydoit/doit",
+   "url": "https://github.com/pydoit/doit",
+   "stars": 2096,
+   "lang": "Python",
+   "desc": "CLI task management & automation tool",
+   "pushed": "2026-09-21",
+   "archived": false
+  },
+  {
+   "full_name": "blackholll/loonflow",
+   "url": "https://github.com/blackholll/loonflow",
+   "stars": 2094,
+   "lang": "TypeScript",
+   "desc": "A Intelligent and Visual Process Automation System,  ticket, workflow, MCP",
+   "pushed": "2026-09-20",
+   "archived": false
+  },
+  {
+   "full_name": "BetaStreetOmnis/xhs_ai_publisher",
+   "url": "https://github.com/BetaStreetOmnis/xhs_ai_publisher",
+   "stars": 2093,
+   "lang": "Python",
+   "desc": "AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state reuse, preview publish, and automated browser workflows.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "pmh1314520/WebRPA",
+   "url": "https://github.com/pmh1314520/WebRPA",
+   "stars": 1909,
+   "lang": "Python",
+   "desc": "A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing. | \u4e00\u6b3e\u529f\u80fd\u5f3a\u5927\u7684\u81ea\u52a8\u5316\u5de5\u5177\uff0c\u901a\u8fc7\u62d6\u62fd\u6a21\u5757\u7684\u65b9\u5f0f\u5feb\u901f\u6784\u5efa\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u65e0\u9700\u7f16\u5199\u4efb\u4f55\u4ee3\u7801\u5373\u53ef\u5b9e\u73b0\u7f51\u9875\u6570\u636e\u91c7\u96c6\u3001\u8868\u5355\u586b\u5199\u3001\u81ea\u52a8\u5316\u6d4b\u8bd5\u7b49\u4efb\u52a1\u3002",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "zakirkun/guardian-cli",
+   "url": "https://github.com/zakirkun/guardian-cli",
+   "stars": 1897,
+   "lang": "Python",
+   "desc": "Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows whil",
+   "pushed": "2026-06-27",
+   "archived": false
+  },
+  {
+   "full_name": "n8n-io/n8n-docs",
+   "url": "https://github.com/n8n-io/n8n-docs",
+   "stars": 1827,
+   "lang": null,
+   "desc": "Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Git-Agni/prod-FARM-IOS-Core",
+   "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+   "stars": 1755,
+   "lang": "TypeScript",
+   "desc": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+   "pushed": "2026-09-07",
+   "archived": false
+  },
+  {
+   "full_name": "ghostwright/ghost-os",
+   "url": "https://github.com/ghostwright/ghost-os",
+   "stars": 1679,
+   "lang": "Swift",
+   "desc": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
+   "pushed": "2026-03-23",
+   "archived": false
+  },
+  {
+   "full_name": "lucaswalter/n8n-ai-automations",
+   "url": "https://github.com/lucaswalter/n8n-ai-automations",
+   "stars": 1668,
+   "lang": null,
+   "desc": "Collection of n8n workflows, n8n templates, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community.",
+   "pushed": "2026-03-02",
+   "archived": false
+  },
+  {
+   "full_name": "rulego/rulego",
+   "url": "https://github.com/rulego/rulego",
+   "stars": 1626,
+   "lang": "Go",
+   "desc": "\u26d3\ufe0fRuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "patched-codes/patchwork",
+   "url": "https://github.com/patched-codes/patchwork",
+   "stars": 1579,
+   "lang": "Python",
+   "desc": "Agentic AI framework for enterprise workflow automation.",
+   "pushed": "2026-08-24",
+   "archived": false
+  },
+  {
+   "full_name": "jmathai/elodie",
+   "url": "https://github.com/jmathai/elodie",
+   "stars": 1507,
+   "lang": "Python",
+   "desc": "An EXIF-based photo assistant, organizer  and workflow automation tool.",
+   "pushed": "2026-02-15",
+   "archived": false
+  },
+  {
+   "full_name": "TheresAFewConors/Sooty",
+   "url": "https://github.com/TheresAFewConors/Sooty",
+   "stars": 1494,
+   "lang": "Python",
+   "desc": "The SOC Analysts all-in-one CLI tool to automate and speed up workflow.",
+   "pushed": "2024-09-25",
+   "archived": false
+  },
+  {
+   "full_name": "nocode-js/sequential-workflow-designer",
+   "url": "https://github.com/nocode-js/sequential-workflow-designer",
+   "stars": 1480,
+   "lang": "TypeScript",
+   "desc": "Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com",
+   "pushed": "2026-09-24",
+   "archived": false
+  },
+  {
+   "full_name": "ovh/utask",
+   "url": "https://github.com/ovh/utask",
+   "stars": 1412,
+   "lang": "Go",
+   "desc": "\u00b5Task is an automation engine that models and executes business processes declared in yaml. \u270f\ufe0f\ud83d\udccb",
+   "pushed": "2026-07-29",
+   "archived": false
+  },
+  {
+   "full_name": "cloudposse/atmos",
+   "url": "https://github.com/cloudposse/atmos",
+   "stars": 1407,
+   "lang": "Go",
+   "desc": "\ud83d\udc7d Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ChaoMixian/vFlow",
+   "url": "https://github.com/ChaoMixian/vFlow",
+   "stars": 1295,
+   "lang": "Kotlin",
+   "desc": "vFlow \u662f\u4e00\u6b3e\u4e3a Android \u5e73\u53f0\u8bbe\u8ba1\u7684\u3001\u5f3a\u5927\u4e14\u9ad8\u5ea6\u53ef\u6269\u5c55\u7684\u81ea\u52a8\u5316\u5de5\u5177\u3002\u5b83\u5141\u8bb8\u4f60\u901a\u8fc7\u56fe\u5f62\u5316\u754c\u9762\uff0c\u5c06\u4e00\u7cfb\u5217\u201c\u52a8\u4f5c\u6a21\u5757\u201d\u81ea\u7531\u7ec4\u5408\u6210\u5f3a\u5927\u7684\u201c\u5de5\u4f5c\u6d41\u201d\uff0c\u4ece\u800c\u81ea\u52a8\u5b8c\u6210\u5404\u79cd\u65e5\u5e38\u7684\u3001\u91cd\u590d\u6027\u7684\u5c4f\u5e55\u64cd\u4f5c\u4efb\u52a1\u3002",
+   "pushed": "2026-08-21",
+   "archived": false
+  },
+  {
+   "full_name": "EndBug/add-and-commit",
+   "url": "https://github.com/EndBug/add-and-commit",
+   "stars": 1293,
+   "lang": "TypeScript",
+   "desc": ":octocat: Automatically commit changes made in your workflow run directly to your repo",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "openclaw/lobster",
+   "url": "https://github.com/openclaw/lobster",
+   "stars": 1278,
+   "lang": "TypeScript",
+   "desc": "Lobster is a Openclaw-native workflow shell: a typed, local-first \u201cmacro engine\u201d that turns skills/tools into composable pipelines and safe automations\u2014and lets Openclaw call those workflows in one st",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "dariubs/awesome-workflow-automation",
+   "url": "https://github.com/dariubs/awesome-workflow-automation",
+   "stars": 1250,
+   "lang": null,
+   "desc": "A curated list of Workflow Automation  Software, Engines and Tools",
+   "pushed": "2026-04-28",
+   "archived": false
+  },
+  {
+   "full_name": "vercel-labs/workflow-builder-template",
+   "url": "https://github.com/vercel-labs/workflow-builder-template",
+   "stars": 1225,
+   "lang": "TypeScript",
+   "desc": "Visual AI workflow automation platform",
+   "pushed": "2026-08-05",
+   "archived": false
+  },
+  {
+   "full_name": "martinrusev/imbox",
+   "url": "https://github.com/martinrusev/imbox",
+   "stars": 1218,
+   "lang": "Python",
+   "desc": "Python IMAP for Agentic Workflows",
+   "pushed": "2026-06-23",
+   "archived": false
+  },
+  {
+   "full_name": "keinsaasforever/better-chatbot",
+   "url": "https://github.com/keinsaasforever/better-chatbot",
+   "stars": 1191,
+   "lang": "TypeScript",
+   "desc": "Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.",
+   "pushed": "2026-08-19",
+   "archived": false
+  },
+  {
+   "full_name": "Unity-Technologies/AssetGraph",
+   "url": "https://github.com/Unity-Technologies/AssetGraph",
+   "stars": 1164,
+   "lang": "C#",
+   "desc": "Visual Workflow Automation Tool for Unity.",
+   "pushed": "2021-06-03",
+   "archived": false
+  },
+  {
+   "full_name": "dropbox/dbxcli",
+   "url": "https://github.com/dropbox/dbxcli",
+   "stars": 1160,
+   "lang": "Go",
+   "desc": "A scriptable Dropbox CLI for files, shared links, teams, and automation workflows",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "hexabot-ai/Hexabot",
+   "url": "https://github.com/hexabot-ai/Hexabot",
+   "stars": 1157,
+   "lang": "TypeScript",
+   "desc": "Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime.",
+   "pushed": "2026-09-23",
+   "archived": false
+  },
+  {
+   "full_name": "VirtusLab/git-machete",
+   "url": "https://github.com/VirtusLab/git-machete",
+   "stars": 1146,
+   "lang": "Python",
+   "desc": "Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "bytechefhq/bytechef",
+   "url": "https://github.com/bytechefhq/bytechef",
+   "stars": 1043,
+   "lang": "Java",
+   "desc": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "agent-sh/agentsys",
+   "url": "https://github.com/agent-sh/agentsys",
+   "stars": 1005,
+   "lang": "JavaScript",
+   "desc": "AI writes code. This automates everything else \u00b7 24 plugins \u00b7 49 agents \u00b7 44 skills \u00b7 for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "komal-SkyNET/claude-skill-homeassistant",
+   "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
+   "stars": 974,
+   "lang": null,
+   "desc": "Claude Code skill to supercharge and manage all Home Assistant workflows",
+   "pushed": "2026-07-04",
+   "archived": false
+  },
+  {
+   "full_name": "Rheosoph/flow-like",
+   "url": "https://github.com/Rheosoph/flow-like",
+   "stars": 965,
+   "lang": "Rust",
+   "desc": "Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "alfredxw/denova",
+   "url": "https://github.com/alfredxw/denova",
+   "stars": 962,
+   "lang": "Go",
+   "desc": "An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "JoasASantos/n8n-CyberSecurity-Workflows",
+   "url": "https://github.com/JoasASantos/n8n-CyberSecurity-Workflows",
+   "stars": 961,
+   "lang": null,
+   "desc": "Security automation with n8n ideas: 100+ Red/Blue/AppSec workflows, integrations, and ready-to-run playbooks.",
+   "pushed": "2025-09-20",
+   "archived": false
+  },
+  {
+   "full_name": "yaojingang/yao-geo-skills",
+   "url": "https://github.com/yaojingang/yao-geo-skills",
+   "stars": 891,
+   "lang": "HTML",
+   "desc": "An open-source Skill collection for GEO content and workflows, continuously updated.",
+   "pushed": "2026-10-01",
+   "archived": false
+  },
+  {
+   "full_name": "mikepenz/release-changelog-builder-action",
+   "url": "https://github.com/mikepenz/release-changelog-builder-action",
+   "stars": 868,
+   "lang": "TypeScript",
+   "desc": "A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Dong90/oh-my-taiyiforge",
+   "url": "https://github.com/Dong90/oh-my-taiyiforge",
+   "stars": 864,
+   "lang": "TypeScript",
+   "desc": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "sangrokjung/claude-forge",
+   "url": "https://github.com/sangrokjung/claude-forge",
+   "stars": 862,
+   "lang": "Shell",
+   "desc": "oh-my-zsh for Claude Code \u2014 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.",
+   "pushed": "2026-09-03",
+   "archived": false
+  },
+  {
+   "full_name": "aelassas/wexflow",
+   "url": "https://github.com/aelassas/wexflow",
+   "stars": 844,
+   "lang": "C#",
+   "desc": "Workflow Automation Engine",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "tfriedel/claude-office-skills",
+   "url": "https://github.com/tfriedel/claude-office-skills",
+   "stars": 840,
+   "lang": "Python",
+   "desc": "Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support",
+   "pushed": "2026-04-01",
+   "archived": false
+  },
+  {
+   "full_name": "thesongzhu/Friday",
+   "url": "https://github.com/thesongzhu/Friday",
+   "stars": 836,
+   "lang": "TypeScript",
+   "desc": "Private control plane for AI agents",
+   "pushed": "2026-07-20",
+   "archived": false
+  },
+  {
+   "full_name": "figranium/figranium",
+   "url": "https://github.com/figranium/figranium",
+   "stars": 776,
+   "lang": "TypeScript",
+   "desc": "Stack blocks visually to build complex browser workflows and execute them via API",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "raystack/optimus",
+   "url": "https://github.com/raystack/optimus",
+   "stars": 768,
+   "lang": "Go",
+   "desc": "Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.",
+   "pushed": "2024-06-08",
+   "archived": false
+  },
+  {
+   "full_name": "rackerlabs/scantron",
+   "url": "https://github.com/rackerlabs/scantron",
+   "stars": 757,
+   "lang": "Python",
+   "desc": "A distributed nmap / masscan scanning framework complete with scan scheduling, engine pooling, subsequent scan port diff-ing, and an API client for automation workflows.",
+   "pushed": "2023-07-17",
+   "archived": false
+  },
+  {
+   "full_name": "zhinkgit/embeddedskills",
+   "url": "https://github.com/zhinkgit/embeddedskills",
+   "stars": 757,
+   "lang": "Python",
+   "desc": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
+   "url": "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform",
+   "stars": 731,
+   "lang": "PowerShell",
+   "desc": "Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow",
+   "pushed": "2026-05-21",
+   "archived": false
+  },
+  {
+   "full_name": "ScrapeGraphAI/scrapecraft",
+   "url": "https://github.com/ScrapeGraphAI/scrapecraft",
+   "stars": 723,
+   "lang": "Python",
+   "desc": "\ud83e\udd16 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.",
+   "pushed": "2025-12-26",
+   "archived": false
+  },
+  {
+   "full_name": "8gears/n8n-helm-chart",
+   "url": "https://github.com/8gears/n8n-helm-chart",
+   "stars": 708,
+   "lang": "Go Template",
+   "desc": "A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes",
+   "pushed": "2026-09-15",
+   "archived": false
+  },
+  {
+   "full_name": "eat-pray-ai/yutu",
+   "url": "https://github.com/eat-pray-ai/yutu",
+   "stars": 701,
+   "lang": "Go",
+   "desc": "CLI, MCP server, and AI agent to automate YouTube workflows",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Agenta-AI/awesome-ai-agent-platforms",
+   "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+   "stars": 700,
+   "lang": "Astro",
+   "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+   "pushed": "2026-10-01",
+   "archived": false
+  },
+  {
+   "full_name": "mhattingpete/claude-skills-marketplace",
+   "url": "https://github.com/mhattingpete/claude-skills-marketplace",
+   "stars": 687,
+   "lang": "HTML",
+   "desc": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+   "pushed": "2026-07-25",
+   "archived": false
+  },
+  {
+   "full_name": "prompt-engineering/chat-flow",
+   "url": "https://github.com/prompt-engineering/chat-flow",
+   "stars": 684,
+   "lang": "TypeScript",
+   "desc": "ChatFlow  - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation\u3002ChatFlow \u2014\u2014 \u6253\u9020\u4e2a\u6027\u5316 ChatGPT \u6d41\u7a0b\uff0c\u6784\u5efa\u81ea\u52a8\u5316\u4e4b\u8def",
+   "pushed": "2023-03-29",
+   "archived": false
+  },
+  {
+   "full_name": "henrydaum/second-brain",
+   "url": "https://github.com/henrydaum/second-brain",
+   "stars": 671,
+   "lang": "Python",
+   "desc": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messa",
+   "pushed": "2026-09-26",
+   "archived": false
+  },
+  {
+   "full_name": "mario-andreschak/FLUJO",
+   "url": "https://github.com/mario-andreschak/FLUJO",
+   "stars": 665,
+   "lang": "TypeScript",
+   "desc": "Multi-Agent + Automation Harness: Graph-based Workflows, MCP, Self-Improving Agents. NextJs+React",
+   "pushed": "2026-10-22",
+   "archived": false
+  }
+ ]
+}

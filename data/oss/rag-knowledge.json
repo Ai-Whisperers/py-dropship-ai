@@ -1,0 +1,782 @@
+{
+ "query": "rag+knowledge+base",
+ "total_count": 11588,
+ "items": [
+  {
+   "full_name": "chatchat-space/Langchain-Chatchat",
+   "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+   "stars": 38702,
+   "lang": "Python",
+   "desc": "Langchain-Chatchat\uff08\u539fLangchain-ChatGLM\uff09\u57fa\u4e8e Langchain \u4e0e ChatGLM, Qwen \u4e0e Llama \u7b49\u8bed\u8a00\u6a21\u578b\u7684 RAG \u4e0e Agent \u5e94\u7528 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll",
+   "pushed": "2025-11-10"
+  },
+  {
+   "full_name": "labring/FastGPT",
+   "url": "https://github.com/labring/FastGPT",
+   "stars": 29892,
+   "lang": "TypeScript",
+   "desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "nashsu/llm_wiki",
+   "url": "https://github.com/nashsu/llm_wiki",
+   "stars": 20866,
+   "lang": "TypeScript",
+   "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch e",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "OpenSPG/KAG",
+   "url": "https://github.com/OpenSPG/KAG",
+   "stars": 9117,
+   "lang": "Python",
+   "desc": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base",
+   "pushed": "2026-01-28"
+  },
+  {
+   "full_name": "VectifyAI/OpenKB",
+   "url": "https://github.com/VectifyAI/OpenKB",
+   "stars": 4801,
+   "lang": "Python",
+   "desc": "OpenKB: Open LLM Knowledge Base",
+   "pushed": "2026-07-22"
+  },
+  {
+   "full_name": "53AI/53AIHub",
+   "url": "https://github.com/53AI/53AIHub",
+   "stars": 4334,
+   "lang": "Go",
+   "desc": "53AI Hub is an open-source AI portal and knowledge base for managing enterprise knowledge, AI agents, prompts, and AI tools, seamlessly integrating with Coze, Dify, FastGPT, RAGFlow. \u4e00\u4e2aAI\u77e5\u8bc6\u5e93\u4e0eAgent\u95e8\u6237",
+   "pushed": "2026-10-09"
+  },
+  {
+   "full_name": "SamurAIGPT/llm-wiki-agent",
+   "url": "https://github.com/SamurAIGPT/llm-wiki-agent",
+   "stars": 3645,
+   "lang": "Python",
+   "desc": "A personal knowledge base that builds and maintains itself. Drop in sources \u2014 Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Co",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "pingcap/autoflow",
+   "url": "https://github.com/pingcap/autoflow",
+   "stars": 2979,
+   "lang": "TypeScript",
+   "desc": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai",
+   "pushed": "2026-04-27"
+  },
+  {
+   "full_name": "Zleap-AI/SAG",
+   "url": "https://github.com/Zleap-AI/SAG",
+   "stars": 2619,
+   "lang": "Python",
+   "desc": "A new SOTA for RAG \u2014 an original retrieval architecture and an open-source knowledge base for humans and agents.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "finic-ai/rag-stack",
+   "url": "https://github.com/finic-ai/rag-stack",
+   "stars": 1581,
+   "lang": "TypeScript",
+   "desc": "\ud83e\udd16 Deploy a private ChatGPT alternative hosted within your VPC. \ud83d\udd2e Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "nduckmink/arkon",
+   "url": "https://github.com/nduckmink/arkon",
+   "stars": 1495,
+   "lang": "Python",
+   "desc": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (",
+   "pushed": "2026-06-03"
+  },
+  {
+   "full_name": "shuyu-labs/AntSK",
+   "url": "https://github.com/shuyu-labs/AntSK",
+   "stars": 1327,
+   "lang": "CSS",
+   "desc": "An AI knowledge base/agent built with .Net 9, AntBlazor, Semantic Kernel, and Kernel Memory, supporting local offline AI large models. It can run offline without an internet connection. Supports Aspir",
+   "pushed": "2026-09-20"
+  },
+  {
+   "full_name": "IAAR-Shanghai/Awesome-AI-Memory",
+   "url": "https://github.com/IAAR-Shanghai/Awesome-AI-Memory",
+   "stars": 1283,
+   "lang": "Python",
+   "desc": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory \u662f\u4e00\u4e2a \u96c6\u4e2d\u5f0f",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "proinsight-io/crewmeld",
+   "url": "https://github.com/proinsight-io/crewmeld",
+   "stars": 995,
+   "lang": "TypeScript",
+   "desc": "CrewMeld \u2014 Enterprise AI Digital Workforce Platform. Manage AI employees like real team members. Visual SOP orchestration, 13 LLM providers (including China-native models), 8+ messaging channels(WeCom",
+   "pushed": "2026-08-28"
+  },
+  {
+   "full_name": "BaranziniLab/KG_RAG",
+   "url": "https://github.com/BaranziniLab/KG_RAG",
+   "stars": 947,
+   "lang": "Jupyter Notebook",
+   "desc": "Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks",
+   "pushed": "2024-11-09"
+  },
+  {
+   "full_name": "nuwax-ai/nuwax",
+   "url": "https://github.com/nuwax-ai/nuwax",
+   "stars": 895,
+   "lang": "TypeScript",
+   "desc": "Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory sys",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "swarmclawai/swarmvault",
+   "url": "https://github.com/swarmclawai/swarmvault",
+   "stars": 728,
+   "lang": "TypeScript",
+   "desc": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management",
+   "pushed": "2026-06-30"
+  },
+  {
+   "full_name": "ConardLi/rag-skill",
+   "url": "https://github.com/ConardLi/rag-skill",
+   "stars": 723,
+   "lang": "Python",
+   "desc": "A Skill dedicated to local knowledge base retrieval",
+   "pushed": "2026-04-25"
+  },
+  {
+   "full_name": "lycohana/BiliSum",
+   "url": "https://github.com/lycohana/BiliSum",
+   "stars": 641,
+   "lang": "Python",
+   "desc": "\u4e3a Bilibili\u3001YouTube \u53ca\u672c\u5730\u89c6\u9891\u63d0\u4f9b AI \u89c6\u9891\u6458\u8981\u548c\u77e5\u8bc6\u5e93.AI video summarizer and knowledge base for Bilibili, YouTube and local videos.",
+   "pushed": "2026-09-10"
+  },
+  {
+   "full_name": "tgoai/tgo",
+   "url": "https://github.com/tgoai/tgo",
+   "stars": 636,
+   "lang": "TypeScript",
+   "desc": "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.",
+   "pushed": "2026-04-28"
+  },
+  {
+   "full_name": "docsagent/docsagent",
+   "url": "https://github.com/docsagent/docsagent",
+   "stars": 576,
+   "lang": "TypeScript",
+   "desc": "\u26a1 DocsAgent \u2014 give your AI agents instant, private access to your personal knowledge base (Zotero, Obsidian, Apple Notes supported now, local docs on the road). Native C++ search core: BM25 + passage",
+   "pushed": "2026-09-28"
+  },
+  {
+   "full_name": "aws-samples/bedrock-engineer",
+   "url": "https://github.com/aws-samples/bedrock-engineer",
+   "stars": 484,
+   "lang": "TypeScript",
+   "desc": "Universal AI Agent using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more.",
+   "pushed": "2026-06-30"
+  },
+  {
+   "full_name": "Beever-AI/beever-atlas",
+   "url": "https://github.com/Beever-AI/beever-atlas",
+   "stars": 450,
+   "lang": "Python",
+   "desc": "Your First LLM-Wiki Conversation Knowledge Base",
+   "pushed": "2026-09-10"
+  },
+  {
+   "full_name": "ageerle/ruoyi-web",
+   "url": "https://github.com/ageerle/ruoyi-web",
+   "stars": 425,
+   "lang": "Vue",
+   "desc": "RuoYi-AI user frontend for AI conversations, agent interactions, and knowledge-base Q&A.",
+   "pushed": "2026-09-21"
+  },
+  {
+   "full_name": "2dogsandanerd/Knowledge-Base-Self-Hosting-Kit",
+   "url": "https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit",
+   "stars": 356,
+   "lang": "Python",
+   "desc": "A Docker-powered RAG system that understands the difference between code and prose. Ingest your codebase and documentation, then query them with full privacy and zero configuration.",
+   "pushed": "2026-03-14"
+  },
+  {
+   "full_name": "software-mansion-labs/react-native-rag",
+   "url": "https://github.com/software-mansion-labs/react-native-rag",
+   "stars": 348,
+   "lang": "TypeScript",
+   "desc": "Private, local RAGs. Supercharge LLMs with your own knowledge base.",
+   "pushed": "2026-10-05"
+  },
+  {
+   "full_name": "zhimaAi/ChatClaw",
+   "url": "https://github.com/zhimaAi/ChatClaw",
+   "stars": 309,
+   "lang": "Go",
+   "desc": "ChatClaw: Get OpenClaw-like knowledge base personal AI agent in 5 mins. Sandbox-secured, ultra-small 30MB installer for macOS & Windows (install in 1 min). Connects to WhatsApp, Telegram, Slack, Disco",
+   "pushed": "2026-05-13"
+  },
+  {
+   "full_name": "xuwei95/ezdata",
+   "url": "https://github.com/xuwei95/ezdata",
+   "stars": 294,
+   "lang": "Python",
+   "desc": "AI-native data platform: 60+ connectors, dlt-based ETL, DAG scheduling, per-source RAG knowledge bases, and sandboxed AI agents that query, chart, and analyze your data.",
+   "pushed": "2026-08-14"
+  },
+  {
+   "full_name": "lhh737/KnowledgeBase-RAG-LLM-System",
+   "url": "https://github.com/lhh737/KnowledgeBase-RAG-LLM-System",
+   "stars": 291,
+   "lang": "Python",
+   "desc": "\u8f7b\u91cf\u7ea7\u672c\u5730\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\u7cfb\u7edf \u00b7 Streamlit + LangChain + Chroma\uff0c\u652f\u6301\u77e5\u8bc6\u5e93\u4e0a\u4f20\u4e0e\u68c0\u7d22\u589e\u5f3a\u95ee\u7b54",
+   "pushed": "2026-10-14"
+  },
+  {
+   "full_name": "KnowledgeXLab/LeanRAG",
+   "url": "https://github.com/KnowledgeXLab/LeanRAG",
+   "stars": 260,
+   "lang": "Python",
+   "desc": "(AAAI 2026) Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval",
+   "pushed": "2026-07-07"
+  },
+  {
+   "full_name": "RapidAI/RapidRAG",
+   "url": "https://github.com/RapidAI/RapidRAG",
+   "stars": 252,
+   "lang": "Python",
+   "desc": "QA based on local knowledge and LLM.",
+   "pushed": "2026-01-16"
+  },
+  {
+   "full_name": "Xthebuilder/JRVS",
+   "url": "https://github.com/Xthebuilder/JRVS",
+   "stars": 241,
+   "lang": "Python",
+   "desc": "JRVS Local AI Assitant RAG knowledge base Powered by whatever local AI you choose.",
+   "pushed": "2026-08-18"
+  },
+  {
+   "full_name": "boluo2077/deep-rag",
+   "url": "https://github.com/boluo2077/deep-rag",
+   "stars": 217,
+   "lang": "Python",
+   "desc": "\ud83d\udd0d Deep RAG: Advanced Retrieval-Augmented Generation system that goes beyond vector search. Enables AI to perform multi-hop reasoning, negation queries, numerical comparisons & global aggregation on yo",
+   "pushed": "2025-11-17"
+  },
+  {
+   "full_name": "starcat-app/Starcat",
+   "url": "https://github.com/starcat-app/Starcat",
+   "stars": 211,
+   "lang": "Swift",
+   "desc": "A native macOS app that turns GitHub Stars into a searchable, organized, AI-powered personal knowledge base.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "alphapro-club/Launch",
+   "url": "https://github.com/alphapro-club/Launch",
+   "stars": 202,
+   "lang": "TypeScript",
+   "desc": "Launching the \"Agent Creation Toolkit\", providing developers with an intuitive and efficient Development Environment, supporting the rapid construction of intelligent agents. The toolkit will integrat",
+   "pushed": "2025-03-23"
+  },
+  {
+   "full_name": "bulolo/CatWiki",
+   "url": "https://github.com/bulolo/CatWiki",
+   "stars": 197,
+   "lang": "TypeScript",
+   "desc": "A fully functional knowledge base platform offering robust content management, AI-powered intelligent Q&A, and a modern user experience \u4e00\u4e2a\u529f\u80fd\u5b8c\u5584\u7684Agentic RAG\u77e5\u8bc6\u5e93\u5e73\u53f0\uff0c\u63d0\u4f9b\u5f3a\u5927\u7684\u5185\u5bb9\u7ba1\u7406\u3001AI \u667a\u80fd\u95ee\u7b54\u548c\u73b0\u4ee3\u5316\u7684\u7528\u6237\u4f53\u9a8c",
+   "pushed": "2026-09-11"
+  },
+  {
+   "full_name": "weaiw/trove-ai",
+   "url": "https://github.com/weaiw/trove-ai",
+   "stars": 187,
+   "lang": "Python",
+   "desc": "\u4e2d\u6587\u4e92\u8054\u7f51\u5185\u5bb9\u7684\u4e2a\u4eba AI \u7a0d\u540e\u8bfb + \u77e5\u8bc6\u5e93 \u00b7 Read-later + AI knowledge base for the Chinese internet",
+   "pushed": "2026-08-23"
+  },
+  {
+   "full_name": "Graph-COM/SubgraphRAG",
+   "url": "https://github.com/Graph-COM/SubgraphRAG",
+   "stars": 186,
+   "lang": "Python",
+   "desc": "[ICLR 2025] Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation",
+   "pushed": "2025-01-27"
+  },
+  {
+   "full_name": "AndrewNgo-ini/agentic_rag",
+   "url": "https://github.com/AndrewNgo-ini/agentic_rag",
+   "stars": 169,
+   "lang": "HTML",
+   "desc": "A fully custom chatbot built with Agentic RAG (Retrieval-Augmented Generation), combining Gemini models with a local knowledge base for accurate, context-aware, and explainable responses. Features a l",
+   "pushed": "2025-02-16"
+  },
+  {
+   "full_name": "ali-kamali/Axon.MCP.Server",
+   "url": "https://github.com/ali-kamali/Axon.MCP.Server",
+   "stars": 166,
+   "lang": "Python",
+   "desc": "Transform your codebase into an intelligent knowledge base for AI-powered development with Cursor IDE, Google AntiGravity, and MCP-enabled assistants",
+   "pushed": "2026-06-30"
+  },
+  {
+   "full_name": "haoyiyin/basjoo",
+   "url": "https://github.com/haoyiyin/basjoo",
+   "stars": 164,
+   "lang": "Python",
+   "desc": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector.",
+   "pushed": "2026-06-17"
+  },
+  {
+   "full_name": "bybit-exchange/kaas",
+   "url": "https://github.com/bybit-exchange/kaas",
+   "stars": 151,
+   "lang": "Python",
+   "desc": "Turn scattered notes, docs and transcripts into a queryable Markdown wiki \u2014 an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.",
+   "pushed": "2026-09-11"
+  },
+  {
+   "full_name": "Kkkirito-123/Mutil-Rag-Agent",
+   "url": "https://github.com/Kkkirito-123/Mutil-Rag-Agent",
+   "stars": 134,
+   "lang": "Python",
+   "desc": "An improved multi-agent AIOps and RAG platform for OnCall troubleshooting, featuring LangGraph-based diagnosis workflows, Milvus vector search, MCP tool integration, Prometheus alert knowledge from aw",
+   "pushed": "2026-07-20"
+  },
+  {
+   "full_name": "pasonk/ai-chatkit",
+   "url": "https://github.com/pasonk/ai-chatkit",
+   "stars": 128,
+   "lang": "Python",
+   "desc": "A full-stack ai agent chat project, built with langgraph+fastapi+nextjs, supporting tool invocation and RAG knowledge base",
+   "pushed": "2025-08-21"
+  },
+  {
+   "full_name": "praneybehl/llm-wiki-plugin",
+   "url": "https://github.com/praneybehl/llm-wiki-plugin",
+   "stars": 122,
+   "lang": "TypeScript",
+   "desc": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin \u2014 turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
+   "pushed": "2026-09-13"
+  },
+  {
+   "full_name": "moyangzhan/langchain4j-aideepin-admin",
+   "url": "https://github.com/moyangzhan/langchain4j-aideepin-admin",
+   "stars": 119,
+   "lang": "Vue",
+   "desc": "JAVA\u7248\u672c\u7684\u68c0\u7d22\u589e\u5f3a\u751f\u6210(RAG)\u9879\u76ee\uff0c\u5305\u62ec\u77e5\u8bc6\u5e93\u3001\u641c\u7d22 | JAVA version of retrieval enhancement generation(RAG) project ,including knowledge base, search",
+   "pushed": "2026-05-13"
+  },
+  {
+   "full_name": "HiAi-gg/docsmint",
+   "url": "https://github.com/HiAi-gg/docsmint",
+   "stars": 118,
+   "lang": "TypeScript",
+   "desc": "Open-source knowledge base for people and AI agents. Rich-text editing, hybrid search, GraphRAG, and MCP. Self-host with Docker or use DocsMint Cloud.",
+   "pushed": "2026-10-17"
+  },
+  {
+   "full_name": "Pengc-Sun/enterprise-rag-knowledge-base",
+   "url": "https://github.com/Pengc-Sun/enterprise-rag-knowledge-base",
+   "stars": 114,
+   "lang": "Python",
+   "desc": "Enterprise-oriented RAG knowledge base system",
+   "pushed": "2026-09-16"
+  },
+  {
+   "full_name": "drpwchen/textbook-to-note",
+   "url": "https://github.com/drpwchen/textbook-to-note",
+   "stars": 106,
+   "lang": "Python",
+   "desc": "Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes \u2014 figures included. Local-first, token-frugal.",
+   "pushed": "2026-08-26"
+  },
+  {
+   "full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
+   "url": "https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline",
+   "stars": 98,
+   "lang": "Jupyter Notebook",
+   "desc": "Optimizing Dynamic Knowledge Base Using AI Agent",
+   "pushed": "2025-08-13"
+  },
+  {
+   "full_name": "wanxueyao/MMGraphRAG",
+   "url": "https://github.com/wanxueyao/MMGraphRAG",
+   "stars": 94,
+   "lang": "Python",
+   "desc": "MMGraphRAG is a multi-modal knowledge graph-based framework designed to enhance complex reasoning tasks, such as multi-modal document question-answering. It integrates text and image data into a fine-",
+   "pushed": "2026-03-10"
+  },
+  {
+   "full_name": "jaikydota/BullFlow",
+   "url": "https://github.com/jaikydota/BullFlow",
+   "stars": 93,
+   "lang": "TypeScript",
+   "desc": "\u63a8\u91cf\u725b BullFlow \u2014 \u5f00\u6e90\u4f01\u4e1a\u7ea7 RAG \u89e3\u51b3\u65b9\u6848\uff1a\u4ece\u4f01\u4e1a\u77e5\u8bc6\u5e93\u3001\u8425\u9500\u5185\u5bb9\u81ea\u52a8\u5316\u751f\u4ea7\u5230\u5168\u57df\u5185\u5bb9\u5206\u53d1 | Open-source enterprise RAG solution: knowledge base \u2192 automated marketing content \u2192 omnichannel publishing. \u77e5\u8bc6\u5e93\u5168\u94fe\u8def\u672c\u5730\u5f00\u6e90\u6a21\u578b\uff0c\u65e0\u9700\u4ed8\u8d39\u6a21\u578b\uff1bAI Agent \u521b\u4f5c\u56fe\u6587 /",
+   "pushed": "2026-10-14"
+  },
+  {
+   "full_name": "arthurpanhku/DocSentinel",
+   "url": "https://github.com/arthurpanhku/DocSentinel",
+   "stars": 88,
+   "lang": "Python",
+   "desc": "MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format parsing, RAG knowledge base,Risks, compliance gaps, remediations.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "phoenix-zhou/logistics-industry-RAG",
+   "url": "https://github.com/phoenix-zhou/logistics-industry-RAG",
+   "stars": 85,
+   "lang": "Python",
+   "desc": "This project is a local knowledge base \"Logistics Industry\" question-answering system based on the **RAG (Retrieval-Augmented Generation) technology**.",
+   "pushed": "2026-07-01"
+  },
+  {
+   "full_name": "Soren-ABT/dsh-knowledge",
+   "url": "https://github.com/Soren-ABT/dsh-knowledge",
+   "stars": 81,
+   "lang": "TypeScript",
+   "desc": "Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "rav4nn/youtube-rag-scraper",
+   "url": "https://github.com/rav4nn/youtube-rag-scraper",
+   "stars": 78,
+   "lang": "Python",
+   "desc": "Scrape YouTube videos, extract transcripts, and build a semantic search AI knowledge base using RAG and FAISS.",
+   "pushed": "2026-04-23"
+  },
+  {
+   "full_name": "Loukie7/Datacapsule",
+   "url": "https://github.com/Loukie7/Datacapsule",
+   "stars": 70,
+   "lang": "Python",
+   "desc": "High precision industrial grade RAG solution based on knowledge graph multi-channel recall",
+   "pushed": "2026-03-07"
+  },
+  {
+   "full_name": "isaccanedo/lobe-chat",
+   "url": "https://github.com/isaccanedo/lobe-chat",
+   "stars": 69,
+   "lang": "TypeScript",
+   "desc": "\ud83e\udd2f Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management /",
+   "pushed": "2024-12-27"
+  },
+  {
+   "full_name": "SrsBlack/ict-knowledge-library",
+   "url": "https://github.com/SrsBlack/ict-knowledge-library",
+   "stars": 67,
+   "lang": "Python",
+   "desc": "Canonical, LLM-maintainable knowledge base of every Inner Circle Trader (ICT) concept 2016\u20132026. 226 concept files, machine-readable JSON blocks, follows Karpathy's LLM Wiki pattern.",
+   "pushed": "2026-10-09"
+  },
+  {
+   "full_name": "aws-samples/bedrock-kb-rag-workshop",
+   "url": "https://github.com/aws-samples/bedrock-kb-rag-workshop",
+   "stars": 66,
+   "lang": "HTML",
+   "desc": "Bedrock Knowledge Base and Agents for Retrieval Augmented Generation (RAG)",
+   "pushed": "2026-07-14"
+  },
+  {
+   "full_name": "dkedar7/embedchain-fastdash",
+   "url": "https://github.com/dkedar7/embedchain-fastdash",
+   "stars": 66,
+   "lang": "Python",
+   "desc": "Chat with your knowledge base \u2014 a conversational RAG agent (LangGraph + OpenRouter) built on Fast Dash's native chat mode. A modern rebuild of the original Embedchain demo.",
+   "pushed": "2026-07-05"
+  },
+  {
+   "full_name": "upupmake/general-rag-system",
+   "url": "https://github.com/upupmake/general-rag-system",
+   "stars": 65,
+   "lang": "Java",
+   "desc": "A RAG (Retrieval-Augmented Generation) knowledge base system with Vue.js frontend, Spring Boot backend, and FastAPI LLM service.",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "aws-samples/rag-workshop-amazon-bedrock-knowledge-bases",
+   "url": "https://github.com/aws-samples/rag-workshop-amazon-bedrock-knowledge-bases",
+   "stars": 64,
+   "lang": "Jupyter Notebook",
+   "desc": "",
+   "pushed": "2026-02-11"
+  },
+  {
+   "full_name": "nader0913/ocpp-rag",
+   "url": "https://github.com/nader0913/ocpp-rag",
+   "stars": 61,
+   "lang": "Python",
+   "desc": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards",
+   "pushed": "2026-06-09"
+  },
+  {
+   "full_name": "olafgeibig/knowledge-mcp",
+   "url": "https://github.com/olafgeibig/knowledge-mcp",
+   "stars": 59,
+   "lang": "Python",
+   "desc": "A MCP server that is a locally running knowledge base with a hybrid vector and graph RAG engine using LightRAG",
+   "pushed": "2026-02-13"
+  },
+  {
+   "full_name": "Azure-Samples/adaptive-rag-workbench",
+   "url": "https://github.com/Azure-Samples/adaptive-rag-workbench",
+   "stars": 55,
+   "lang": "Python",
+   "desc": "Sample for context-aware Agentic RaG, Q&A with multi-source verification, and self-curating knowledge base. Powered by Azure AI Foundry Agent Service, Azure AI Search with agentic retrieval and query",
+   "pushed": "2026-02-11"
+  },
+  {
+   "full_name": "nsrinidhibhat/gradio_RAG",
+   "url": "https://github.com/nsrinidhibhat/gradio_RAG",
+   "stars": 54,
+   "lang": "Python",
+   "desc": "Code and resources showcasing the Retrieval-Augmented Generation (RAG) technique, a solution for enhancing data freshness in Large Language Models (LLMs). Incorporate up-to-date external knowledge int",
+   "pushed": "2023-08-22"
+  },
+  {
+   "full_name": "lesteroliver911/contextual-chunking-graphpowered-rag",
+   "url": "https://github.com/lesteroliver911/contextual-chunking-graphpowered-rag",
+   "stars": 50,
+   "lang": "Python",
+   "desc": "An advanced retrieval system that combines semantic vector search with token-based search, using contextual chunking and knowledge graphs to improve accuracy. It ensures precise query responses with L",
+   "pushed": "2024-10-02"
+  },
+  {
+   "full_name": "dhicoc/wuyun-liuqi-skills",
+   "url": "https://github.com/dhicoc/wuyun-liuqi-skills",
+   "stars": 50,
+   "lang": "Python",
+   "desc": "\u4e94\u8fd0\u516d\u6c14\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u786e\u5b9a\u6027\u63a8\u7b97\u5f15\u64ce + RAG \u77e5\u8bc6\u5e93 + \u81ea\u8fdb\u5316\u7ecf\u9a8c\u5e93 | 32 asset / 2124 \u6761\u533b\u6848 / 53 \u7bc7\u6587\u732e | \u652f\u6301 Claude Code / Cursor / Codex CLI / Cline / OpenClaw | TCM Yunqi Skills Router - AI auto-routing + deterministic cal",
+   "pushed": "2026-08-16"
+  },
+  {
+   "full_name": "getsynkora/synkora-ai",
+   "url": "https://github.com/getsynkora/synkora-ai",
+   "stars": 48,
+   "lang": "Python",
+   "desc": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Support, Marketing) with custom tools, knowledge bases, and 50+ integrations. Self-ho",
+   "pushed": "2026-10-01"
+  },
+  {
+   "full_name": "RaspberryCola/AI-Cloud-Go",
+   "url": "https://github.com/RaspberryCola/AI-Cloud-Go",
+   "stars": 47,
+   "lang": "Go",
+   "desc": "A Golang-Based Cloud Drive & Knowledge Base System  \u4e00\u4e2a\u57fa\u4e8eGolang\u5f00\u53d1\u7684LLM\u5e94\u7528\u5e73\u53f0",
+   "pushed": "2026-03-21"
+  },
+  {
+   "full_name": "raphasouthall/neurostack",
+   "url": "https://github.com/raphasouthall/neurostack",
+   "stars": 47,
+   "lang": "Python",
+   "desc": "Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, stale-note detection, session harvesting into memories. Local-first.",
+   "pushed": "2026-10-10"
+  },
+  {
+   "full_name": "DarkNoah/aime-chat",
+   "url": "https://github.com/DarkNoah/aime-chat",
+   "stars": 46,
+   "lang": "TypeScript",
+   "desc": "A cross-platform AI desktop chat cowork app supporting 10+ LLM providers, RAG knowledge base, and MCP tools. Built with Electron + React + Mastra.",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "ranfysvalle02/Interactive-RAG",
+   "url": "https://github.com/ranfysvalle02/Interactive-RAG",
+   "stars": 43,
+   "lang": "JavaScript",
+   "desc": "An interactive RAG agent built with LangChain and MongoDB Atlas. Manage your knowledge base, switch embedding models, and tune retrieval parameters on-the-fly through a conversational interface.",
+   "pushed": "2025-12-19"
+  },
+  {
+   "full_name": "mominalix/ESG-Analysis-Using-Retrieval-Augmented-Generation-Engine",
+   "url": "https://github.com/mominalix/ESG-Analysis-Using-Retrieval-Augmented-Generation-Engine",
+   "stars": 43,
+   "lang": "Python",
+   "desc": "Analyse environmental, social, and governance policies for potential gaps using AI - powered by LLMs, RAG techniques, and a regulatory knowledge base using OpenAI API, LangChain, Pinecone and Streamli",
+   "pushed": "2026-09-02"
+  },
+  {
+   "full_name": "liut/morign",
+   "url": "https://github.com/liut/morign",
+   "stars": 42,
+   "lang": "Go",
+   "desc": "AI chat backend with knowledge base Q&A, MCP tools, and OAuth authentication.",
+   "pushed": "2026-10-12"
+  },
+  {
+   "full_name": "Connected-Data/cdkg-challenge",
+   "url": "https://github.com/Connected-Data/cdkg-challenge",
+   "stars": 41,
+   "lang": "Python",
+   "desc": "Let\u2019s build a curated Knowledge Graph based on the collective wisdom of 260+ experts",
+   "pushed": "2025-10-24"
+  },
+  {
+   "full_name": "SingggggYee/awesome-llm-knowledge-bases",
+   "url": "https://github.com/SingggggYee/awesome-llm-knowledge-bases",
+   "stars": 40,
+   "lang": null,
+   "desc": "A curated list of tools for building LLM-powered personal knowledge bases",
+   "pushed": "2026-04-09"
+  },
+  {
+   "full_name": "arturseo-geo/llm-knowledge-base",
+   "url": "https://github.com/arturseo-geo/llm-knowledge-base",
+   "stars": 40,
+   "lang": null,
+   "desc": "A schema standard for LLM-compiled personal knowledge bases. AGENTS.md spec, templates, worked example, spaced repetition learning layer.",
+   "pushed": "2026-04-06"
+  },
+  {
+   "full_name": "Sjay-Wang/K-ragrec",
+   "url": "https://github.com/Sjay-Wang/K-ragrec",
+   "stars": 39,
+   "lang": "Python",
+   "desc": "This is the pytorch implementation for our ACL paper Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation.",
+   "pushed": "2026-06-23"
+  },
+  {
+   "full_name": "ebongard/renfield",
+   "url": "https://github.com/ebongard/renfield",
+   "stars": 39,
+   "lang": "Python",
+   "desc": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability. Built with FastAPI + React + Ollama.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "nuwax-ai/nuwax-backend",
+   "url": "https://github.com/nuwax-ai/nuwax-backend",
+   "stars": 38,
+   "lang": "Java",
+   "desc": "Enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory system, and plugin ecos",
+   "pushed": "2026-07-14"
+  },
+  {
+   "full_name": "AlexLecu/LLMKGraph",
+   "url": "https://github.com/AlexLecu/LLMKGraph",
+   "stars": 37,
+   "lang": "Python",
+   "desc": "Knowledge graph-augmented retrieval for evidence-based AMD information: LLM-built causal KG, Graph-RAG chatbot, LLM comparison (IEEE Access 2025)",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "build-on-aws/rag-postgresql-agent-bedrock",
+   "url": "https://github.com/build-on-aws/rag-postgresql-agent-bedrock",
+   "stars": 36,
+   "lang": "Python",
+   "desc": "This application is built in four stages using infrastructure as code with CDK with Python to deploy. In the first stage, an Amazon Aurora PostgreSQL vector database is set up. In the second stage, th",
+   "pushed": "2026-03-10"
+  },
+  {
+   "full_name": "windfollowingheart/Zotero-RAG",
+   "url": "https://github.com/windfollowingheart/Zotero-RAG",
+   "stars": 36,
+   "lang": "JavaScript",
+   "desc": "Embedding Retrieval Augmented Generation into Zotero to build a local knowledge base and improve Zotero reading efficiency.",
+   "pushed": "2025-01-21"
+  },
+  {
+   "full_name": "VILA-Lab/DRAG",
+   "url": "https://github.com/VILA-Lab/DRAG",
+   "stars": 36,
+   "lang": "Python",
+   "desc": "(ACL 2025 Main) Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation",
+   "pushed": "2025-08-23"
+  },
+  {
+   "full_name": "superman1006/MeetMind",
+   "url": "https://github.com/superman1006/MeetMind",
+   "stars": 36,
+   "lang": "TypeScript",
+   "desc": "A team that debates > a model that answers. MeetMind turns one requirement into a live discussion among five role-playing agents \u2014 architect, backend, frontend, test, and PM \u2014 each with its own privat",
+   "pushed": "2026-06-11"
+  },
+  {
+   "full_name": "aws-samples/sample-chatbot-for-bedrock-knowledge-base-and-multimodal-llms",
+   "url": "https://github.com/aws-samples/sample-chatbot-for-bedrock-knowledge-base-and-multimodal-llms",
+   "stars": 35,
+   "lang": "Python",
+   "desc": "Multimodal Chatbot with Amazon Bedrock Knowledge Bases Integration",
+   "pushed": "2025-03-24"
+  },
+  {
+   "full_name": "ndpvt-web/deeptutor-claude-skill",
+   "url": "https://github.com/ndpvt-web/deeptutor-claude-skill",
+   "stars": 33,
+   "lang": "Python",
+   "desc": "Claude Code skill adapting DeepTutor's graph-enhanced RAG tutoring methodology. Knowledge graphs, dual-loop solving, research reports, adaptive questions. Based on HKUDS/DeepTutor.",
+   "pushed": "2026-03-12"
+  },
+  {
+   "full_name": "windinwing/mchat",
+   "url": "https://github.com/windinwing/mchat",
+   "stars": 33,
+   "lang": "Python",
+   "desc": "MChat is a lightweight, embeddable, multi-tenant AI customer service platform. It integrates a powerful Bot Engine, RAG knowledge base, Skill plugin system, and an embedded chat Widget \u2014 with support",
+   "pushed": "2026-09-01"
+  },
+  {
+   "full_name": "tvlnsiva/graphrag-engineering-pdfs",
+   "url": "https://github.com/tvlnsiva/graphrag-engineering-pdfs",
+   "stars": 32,
+   "lang": "Python",
+   "desc": "Ontology, and Knowledge graph based RAG that uses local LLM.",
+   "pushed": "2026-01-03"
+  },
+  {
+   "full_name": "MultiX0/last-archive",
+   "url": "https://github.com/MultiX0/last-archive",
+   "stars": 32,
+   "lang": "Go",
+   "desc": "A local-first RAG engine for web archival and semantic search. Crawl, embed, and query your own knowledge base entirely offline.",
+   "pushed": "2026-01-31"
+  },
+  {
+   "full_name": "gongsun947-jpg/pm-knowledge-qa",
+   "url": "https://github.com/gongsun947-jpg/pm-knowledge-qa",
+   "stars": 32,
+   "lang": "Python",
+   "desc": "Local AI Personal Knowledge Base Q&A \u00b7 Full\u2011Link RAG Practical Implementation (Hybrid Retrieval + Rerank Fine\u2011Ranking + Citation\u2011Enabled Generation)",
+   "pushed": "2026-08-15"
+  },
+  {
+   "full_name": "Electricitysheep/ai-agent-playbook",
+   "url": "https://github.com/Electricitysheep/ai-agent-playbook",
+   "stars": 32,
+   "lang": "Python",
+   "desc": "AI Agent engineering and quantitative finance knowledge base: source-level architecture analysis, Agent-to-Agent protocol research, runnable code experiments, industry insights. Obsidian vault, ready",
+   "pushed": "2026-08-13"
+  },
+  {
+   "full_name": "aimagelab/ReAG",
+   "url": "https://github.com/aimagelab/ReAG",
+   "stars": 32,
+   "lang": "Python",
+   "desc": "[CVPR 2026 Highlight] ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering",
+   "pushed": "2026-07-13"
+  },
+  {
+   "full_name": "akira399/poke-rag",
+   "url": "https://github.com/akira399/poke-rag",
+   "stars": 31,
+   "lang": "Python",
+   "desc": "RAG-based Pokemon competitive knowledge base QA system (dex/moves/abilities/items/type chart/meta/damage). Data from PokeAPI, Pokemon Showdown and Smogon.",
+   "pushed": "2026-09-13"
+  },
+  {
+   "full_name": "IHUI-INF-AI/IHUI-AI",
+   "url": "https://github.com/IHUI-INF-AI/IHUI-AI",
+   "stars": 31,
+   "lang": "TypeScript",
+   "desc": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 tables, RAG knowledge base, agent marketplace. Web/API/CLI/Desktop/Extension/Mobil",
+   "pushed": "2026-10-22"
+  }
+ ]
+}

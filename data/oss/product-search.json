@@ -1,0 +1,750 @@
+{
+ "query": "product+search",
+ "total_count": 30249,
+ "items": [
+  {
+   "full_name": "oxylabs/amazon-scraper",
+   "url": "https://github.com/oxylabs/amazon-scraper",
+   "stars": 3408,
+   "lang": "Python",
+   "desc": "Free Trial Amazon Scraper API for extracting search, product, offer listing, reviews, question and answers, best sellers and sellers data.",
+   "pushed": "2026-06-19"
+  },
+  {
+   "full_name": "ChenglongChen/kaggle-CrowdFlower",
+   "url": "https://github.com/ChenglongChen/kaggle-CrowdFlower",
+   "stars": 1770,
+   "lang": "C++",
+   "desc": "1st Place Solution for CrowdFlower Product Search Results Relevance Competition on Kaggle.",
+   "pushed": "2021-09-25"
+  },
+  {
+   "full_name": "C0nw0nk/Nginx-Lua-Anti-DDoS",
+   "url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+   "stars": 1664,
+   "lang": "Lua",
+   "desc": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "drawrowfly/amazon-product-api",
+   "url": "https://github.com/drawrowfly/amazon-product-api",
+   "stars": 778,
+   "lang": "JavaScript",
+   "desc": "Amazon Scraper. Scrape products from the amazon search result or reviews from the specific product",
+   "pushed": "2024-07-05"
+  },
+  {
+   "full_name": "druv5319/Sneaks-API",
+   "url": "https://github.com/druv5319/Sneaks-API",
+   "stars": 498,
+   "lang": "JavaScript",
+   "desc": "A StockX, FlightClub, Goat, and Stadium Goods API all in one. This sneaker API allows users to search sneakers and track and compare prices while providing additional info such as product links and im",
+   "pushed": "2023-02-12"
+  },
+  {
+   "full_name": "ChenglongChen/kaggle-HomeDepot",
+   "url": "https://github.com/ChenglongChen/kaggle-HomeDepot",
+   "stars": 469,
+   "lang": "Python",
+   "desc": "3rd Place Solution for HomeDepot Product Search Results Relevance Competition on Kaggle.",
+   "pushed": "2018-12-31"
+  },
+  {
+   "full_name": "projectdiscovery/awesome-search-queries",
+   "url": "https://github.com/projectdiscovery/awesome-search-queries",
+   "stars": 416,
+   "lang": "Go",
+   "desc": "Community curated list of search queries for various products across multiple search engines.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "amazon-science/esci-data",
+   "url": "https://github.com/amazon-science/esci-data",
+   "stars": 404,
+   "lang": "Python",
+   "desc": "Shopping Queries Dataset: A Large-Scale ESCI Benchmark for Improving Product Search",
+   "pushed": "2026-07-02"
+  },
+  {
+   "full_name": "kkapuria3/FREE-Amazon-BUY-Bot",
+   "url": "https://github.com/kkapuria3/FREE-Amazon-BUY-Bot",
+   "stars": 389,
+   "lang": "JavaScript",
+   "desc": "FREE Amazon BUY Bot is an Add to Cart and Auto Checkout Bot. This auto buying bot can search multiple item repeatedly on the item page using AMAZON_PRODUCT_ID. Once the desired item is available it ca",
+   "pushed": "2023-08-09"
+  },
+  {
+   "full_name": "s87343472/backlink-pilot",
+   "url": "https://github.com/s87343472/backlink-pilot",
+   "stars": 373,
+   "lang": "JavaScript",
+   "desc": "Automated backlink submission toolkit for indie hackers \u2014 submit your product to directory sites, awesome-lists, and search engines with one command",
+   "pushed": "2026-03-29"
+  },
+  {
+   "full_name": "matsui528/nanopq",
+   "url": "https://github.com/matsui528/nanopq",
+   "stars": 362,
+   "lang": "Python",
+   "desc": "Pure python implementation of product quantization for nearest neighbor search",
+   "pushed": "2025-06-07"
+  },
+  {
+   "full_name": "askaitools/askaitools-community-edition",
+   "url": "https://github.com/askaitools/askaitools-community-edition",
+   "stars": 354,
+   "lang": "TypeScript",
+   "desc": "A cutting-edge search engine project tailored specifically for the AI product",
+   "pushed": "2024-07-11"
+  },
+  {
+   "full_name": "ivorpad/mercadona-cli",
+   "url": "https://github.com/ivorpad/mercadona-cli",
+   "stars": 331,
+   "lang": "Go",
+   "desc": "Unofficial, agent-friendly Mercadona shopping CLI (Go) \u2014 search products, read prices, build a cart and prepare checkout from the terminal. BYO credentials.",
+   "pushed": "2026-10-06"
+  },
+  {
+   "full_name": "dwyl/learn-elasticsearch",
+   "url": "https://github.com/dwyl/learn-elasticsearch",
+   "stars": 268,
+   "lang": "Elixir",
+   "desc": ":mag: Learn how to use ElasticSearch to power a great search experience for your project/product/website.",
+   "pushed": "2020-12-22"
+  },
+  {
+   "full_name": "Sfedfcv/redesigned-pancake",
+   "url": "https://github.com/Sfedfcv/redesigned-pancake",
+   "stars": 268,
+   "lang": null,
+   "desc": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration",
+   "pushed": "2021-05-16"
+  },
+  {
+   "full_name": "ManojKumarPatnaik/Major-project-list",
+   "url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+   "stars": 259,
+   "lang": null,
+   "desc": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get start",
+   "pushed": "2025-07-29"
+  },
+  {
+   "full_name": "DeMoriarty/TorchPQ",
+   "url": "https://github.com/DeMoriarty/TorchPQ",
+   "stars": 236,
+   "lang": "Cuda",
+   "desc": "Approximate nearest neighbor search with product quantization on GPU in pytorch and cuda",
+   "pushed": "2023-12-12"
+  },
+  {
+   "full_name": "zach22-1999/amazon-skills",
+   "url": "https://github.com/zach22-1999/amazon-skills",
+   "stars": 232,
+   "lang": "Python",
+   "desc": "Open-source Agent Skills for Amazon sellers: product research, feature validation, listing audits, ads search-term analysis, and CVR diagnostics. \u4e9a\u9a6c\u900a\u8de8\u5883\u7535\u5546 Skills\u3002",
+   "pushed": "2026-10-15"
+  },
+  {
+   "full_name": "apiguru-app/amazon-scraper-v2",
+   "url": "https://github.com/apiguru-app/amazon-scraper-v2",
+   "stars": 221,
+   "lang": "Python",
+   "desc": "Agent-ready Amazon Scraper API: real-time product details (batch ASIN), offers & stock, reviews, search, best sellers, deals and seller data across 20 marketplaces. One pasted line for Claude Code / C",
+   "pushed": "2026-09-21"
+  },
+  {
+   "full_name": "piyushpathak03/Recommendation-systems",
+   "url": "https://github.com/piyushpathak03/Recommendation-systems",
+   "stars": 219,
+   "lang": "Jupyter Notebook",
+   "desc": "Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm  Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity, Bias",
+   "pushed": "2024-07-13"
+  },
+  {
+   "full_name": "Carmenliukang/1688_crawler-image_search_products",
+   "url": "https://github.com/Carmenliukang/1688_crawler-image_search_products",
+   "stars": 201,
+   "lang": "Python",
+   "desc": "\u901a\u8fc7 1688 PC \u7aef\u7f51\u5740\uff0c\u4e0a\u4f20\u56fe\u7247\u67e5\u8be2\u7c7b\u4f3c\u7684\u5546\u54c1",
+   "pushed": "2026-06-02"
+  },
+  {
+   "full_name": "sublay-io/monorepo",
+   "url": "https://github.com/sublay-io/monorepo",
+   "stars": 182,
+   "lang": "TypeScript",
+   "desc": "Infrastructure for user-powered products \u2014 pre-modeled bundles for comments, notifications, files, search, chat, and more, with SDKs for JavaScript, React, React Native, and Node.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "redis-developer/redis-product-search",
+   "url": "https://github.com/redis-developer/redis-product-search",
+   "stars": 177,
+   "lang": "TypeScript",
+   "desc": "Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.",
+   "pushed": "2025-02-25"
+  },
+  {
+   "full_name": "mmdju/digikala-mcp",
+   "url": "https://github.com/mmdju/digikala-mcp",
+   "stars": 160,
+   "lang": "JavaScript",
+   "desc": "MCP server for Digikala: search, compare and price-check products on Iran's largest marketplace. Read-only, no API key. 19 tools, hosted on Cloudflare Workers.",
+   "pushed": "2026-10-08"
+  },
+  {
+   "full_name": "JahidHasanCO/BuyNow.-The-E-commerce-App",
+   "url": "https://github.com/JahidHasanCO/BuyNow.-The-E-commerce-App",
+   "stars": 148,
+   "lang": "Kotlin",
+   "desc": "Buy Now is an e-commerce app. In this app I use Machine Learning Algorithm for users can search visually. Users upload or take a photo, and this Algorithm will search for a similar product.",
+   "pushed": "2025-02-18"
+  },
+  {
+   "full_name": "Shashank02051997/Shotang-App",
+   "url": "https://github.com/Shashank02051997/Shotang-App",
+   "stars": 144,
+   "lang": "Java",
+   "desc": "The New Home Screen is designed in a modular way with the core focus on product discovery. Search, Deals, Products everything has been brought upfront. The hamburger menu has been replaced with a bott",
+   "pushed": "2019-10-26"
+  },
+  {
+   "full_name": "sulasoft/Amacapy-Bot-Telegram-Amazon-Affiliates",
+   "url": "https://github.com/sulasoft/Amacapy-Bot-Telegram-Amazon-Affiliates",
+   "stars": 134,
+   "lang": "Python",
+   "desc": "Amacapy is a software that does web scraping to the Amazon website and publishes them on Telegram, searches the products by the keyword entered or the direct link of the product. Then you can publish",
+   "pushed": "2025-09-17"
+  },
+  {
+   "full_name": "lewpgs/migros-mcp",
+   "url": "https://github.com/lewpgs/migros-mcp",
+   "stars": 133,
+   "lang": "TypeScript",
+   "desc": "MCP server for Migros Switzerland product data - search products, nutrition info, store locations, and promotions",
+   "pushed": "2026-05-03"
+  },
+  {
+   "full_name": "LauraAddams/skincareAPI",
+   "url": "https://github.com/LauraAddams/skincareAPI",
+   "stars": 132,
+   "lang": "Ruby",
+   "desc": "An api of over 2,000 popular skincare products in the US, Korea, and Japan. Users can search by brand, product name, or any ingredient and receive a list of products matching. User can also add to the",
+   "pushed": "2018-01-03"
+  },
+  {
+   "full_name": "hoangsonww/MERN-Stack-Ecommerce-App",
+   "url": "https://github.com/hoangsonww/MERN-Stack-Ecommerce-App",
+   "stars": 127,
+   "lang": "JavaScript",
+   "desc": "\ud83d\uded2 Welcome to Fusion Electronics -  a sample full-stack, lightweight, and modern online e-commerce application, built with the MERN (MongoDB, Express, React, Node.js) stack! Also features a product rec",
+   "pushed": "2026-09-27"
+  },
+  {
+   "full_name": "tuhinpal/amazon-api",
+   "url": "https://github.com/tuhinpal/amazon-api",
+   "stars": 119,
+   "lang": "TypeScript",
+   "desc": "Serverless Amazon Search and Product API, runs on Cloudflare worker. Supports multiple country's amazon version.",
+   "pushed": "2026-07-07"
+  },
+  {
+   "full_name": "vinayakarannil/Deeplearning_Image_Similarity",
+   "url": "https://github.com/vinayakarannil/Deeplearning_Image_Similarity",
+   "stars": 117,
+   "lang": "Python",
+   "desc": "Deep learning based image similarity search for product recommendations",
+   "pushed": "2018-06-17"
+  },
+  {
+   "full_name": "hilmiazizi/tokopaedi",
+   "url": "https://github.com/hilmiazizi/tokopaedi",
+   "stars": 105,
+   "lang": "Python",
+   "desc": "A Python scraper for Tokopedia that supports filtered product search, detailed product information, and customer reviews with accurate mobile pricing and Jupyter Notebook compatibility.",
+   "pushed": "2025-08-16"
+  },
+  {
+   "full_name": "bcat95/shopee-aff",
+   "url": "https://github.com/bcat95/shopee-aff",
+   "stars": 102,
+   "lang": "PHP",
+   "desc": "T\u00e0i li\u1ec7u API Shopee Affiliate: Open API ch\u00ednh th\u1ed1ng (GraphQL) v\u00e0 Data API c\u1ee7a data.addlivetag.com \u2014 product data, offers, market search, l\u1ecbch s\u1eed   gi\u00e1/hoa h\u1ed3ng, shop live, TikTok Shop, Lazada, ShopeeF",
+   "pushed": "2026-09-24"
+  },
+  {
+   "full_name": "quanta-quest/quanta-quest",
+   "url": "https://github.com/quanta-quest/quanta-quest",
+   "stars": 102,
+   "lang": "TypeScript",
+   "desc": "AI-powered universal search for all your personal data, tailored just for you.  Goal:The world's first product with \"edge-side LLMs + consumer data localization\" as its core development direction.",
+   "pushed": "2024-10-15"
+  },
+  {
+   "full_name": "cgtuebingen/Product-Quantization-Tree",
+   "url": "https://github.com/cgtuebingen/Product-Quantization-Tree",
+   "stars": 92,
+   "lang": "Cuda",
+   "desc": "GPU-based large scale Approx. Nearest Neighbor Search, accepted at CVPR 2016",
+   "pushed": "2018-11-03"
+  },
+  {
+   "full_name": "AmirBayat0/ShopZilla",
+   "url": "https://github.com/AmirBayat0/ShopZilla",
+   "stars": 92,
+   "lang": null,
+   "desc": "ShopZilla is a comprehensive shopping application developed with Flutter \ud83d\udecd\ufe0f. It offers a user-friendly interface \ud83d\udda5\ufe0f, cross-platform compatibility \ud83c\udf10, and simulated payment integration \ud83d\udcb3. Explore a wide",
+   "pushed": "2025-03-30"
+  },
+  {
+   "full_name": "ian-kerins/amazon-python-scrapy-scraper",
+   "url": "https://github.com/ian-kerins/amazon-python-scrapy-scraper",
+   "stars": 90,
+   "lang": "Python",
+   "desc": "Python Scrapy spider that scrapes all Amazon products from a keyword search",
+   "pushed": "2022-09-20"
+  },
+  {
+   "full_name": "decodingai-magazine/tabular-semantic-search-tutorial",
+   "url": "https://github.com/decodingai-magazine/tabular-semantic-search-tutorial",
+   "stars": 90,
+   "lang": "Jupyter Notebook",
+   "desc": "\ud83d\udcda Tutorial on building a modern search app for Amazon e-commerce products leveraging tabular semantic search and natural language queries.",
+   "pushed": "2025-04-26"
+  },
+  {
+   "full_name": "lukabudik/alza-mcp-community",
+   "url": "https://github.com/lukabudik/alza-mcp-community",
+   "stars": 87,
+   "lang": "TypeScript",
+   "desc": "Unofficial, community-built MCP server for Alza.cz (not made or supported by Alza): product search, filters, deals, reviews, plus token-guarded cart and checkout.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "kareem983/Grocery-Shopping-System-App",
+   "url": "https://github.com/kareem983/Grocery-Shopping-System-App",
+   "stars": 85,
+   "lang": "Java",
+   "desc": "Full android Grocery Shopping System App. It consist of Admin and users: (Using online Firebase Database) Admin can login to the system. He also can to Add, Edit, Delete an Existence category/s  or cr",
+   "pushed": "2022-10-01"
+  },
+  {
+   "full_name": "dh-orko/Help-me-get-rid-of-unhumans",
+   "url": "https://github.com/dh-orko/Help-me-get-rid-of-unhumans",
+   "stars": 82,
+   "lang": null,
+   "desc": "/* JS */ gapi.loaded_0(function(_){var window=this; var ha,ia,ja,ma,sa,na,ta,ya,Ja;_.ea=function(a){return function(){return _.da[a].apply(this,arguments)}};_._DumpException=function(a){throw a;};_.da",
+   "pushed": "2023-08-20"
+  },
+  {
+   "full_name": "spinscale/elasticsearch-ecommerce-search-app",
+   "url": "https://github.com/spinscale/elasticsearch-ecommerce-search-app",
+   "stars": 80,
+   "lang": "Java",
+   "desc": "A small Micronaut based demo environment to show Elasticsearch as a product search engine",
+   "pushed": "2022-10-24"
+  },
+  {
+   "full_name": "Yogndrr/MERN-Ecommerce-Site",
+   "url": "https://github.com/Yogndrr/MERN-Ecommerce-Site",
+   "stars": 79,
+   "lang": "JavaScript",
+   "desc": "Seamless shopping, search and explore different product categories, add products to cart, and checkout swiftly. Become a seller and add products, monitor sales, and gather customer feedback.",
+   "pushed": "2024-04-20"
+  },
+  {
+   "full_name": "eduard256/ozon-mcp-server",
+   "url": "https://github.com/eduard256/ozon-mcp-server",
+   "stars": 78,
+   "lang": "JavaScript",
+   "desc": "MCP Server for Ozon marketplace - search products, get details, prices and delivery info",
+   "pushed": "2026-06-06"
+  },
+  {
+   "full_name": "dievskiy/feedapp",
+   "url": "https://github.com/dievskiy/feedapp",
+   "stars": 76,
+   "lang": "Kotlin",
+   "desc": "Calorie tracker for android that supports recipes and products search.",
+   "pushed": "2022-05-28"
+  },
+  {
+   "full_name": "CupOfOwls/kroger-mcp",
+   "url": "https://github.com/CupOfOwls/kroger-mcp",
+   "stars": 76,
+   "lang": "Python",
+   "desc": "A FastMCP server that provides AI assistants like Claude with access to Kroger's grocery shopping functionality through the Model Context Protocol (MCP). This server enables AI assistants to find stor",
+   "pushed": "2026-09-06"
+  },
+  {
+   "full_name": "srogatch/ProbQA",
+   "url": "https://github.com/srogatch/ProbQA",
+   "stars": 76,
+   "lang": "C++",
+   "desc": "Probabilistic question-asking system: the program asks, the users answer. The minimal goal of the program is to identify what the user needs (a target), even if the user is not aware of the existence",
+   "pushed": "2022-09-05"
+  },
+  {
+   "full_name": "nro111/Product_Discovery_Automation",
+   "url": "https://github.com/nro111/Product_Discovery_Automation",
+   "stars": 73,
+   "lang": "Python",
+   "desc": "This application is currently being built to automate the discovery of products for dropshipping. The tool makes a list of the latest top Amazon products (and their info) and searches for these produc",
+   "pushed": "2016-05-12"
+  },
+  {
+   "full_name": "jaibeermalik/searchanalytics-bigdata",
+   "url": "https://github.com/jaibeermalik/searchanalytics-bigdata",
+   "stars": 72,
+   "lang": "Java",
+   "desc": "Customer Product search clicks analytics using big data Hadoop, Hive, Oozie, ElasticSearch, Akka, Spring Data",
+   "pushed": "2022-10-05"
+  },
+  {
+   "full_name": "dvishal485/flipkart-scraper-api",
+   "url": "https://github.com/dvishal485/flipkart-scraper-api",
+   "stars": 70,
+   "lang": "Rust",
+   "desc": "API to scrape search result and product details from Flipkart",
+   "pushed": "2025-05-19"
+  },
+  {
+   "full_name": "Bhabishya-123/E-commerce",
+   "url": "https://github.com/Bhabishya-123/E-commerce",
+   "stars": 68,
+   "lang": "PHP",
+   "desc": "This is the dynamic e-commerce website where customer can visit page, search products, register, add to cart, purchase products with Stripe payment system and it also have admin panel where admin can",
+   "pushed": "2024-01-09"
+  },
+  {
+   "full_name": "mgwalkerjr95/texas-grocery-mcp",
+   "url": "https://github.com/mgwalkerjr95/texas-grocery-mcp",
+   "stars": 66,
+   "lang": "Python",
+   "desc": "MCP server for HEB grocery shopping - search products, manage cart, clip coupons",
+   "pushed": "2026-05-11"
+  },
+  {
+   "full_name": "janavipandole/Cara",
+   "url": "https://github.com/janavipandole/Cara",
+   "stars": 63,
+   "lang": "JavaScript",
+   "desc": "E-Commerce Website is a modern, responsive, and fully functional online shopping platform built to deliver a smooth and user-friendly experience. This project allows users to browse products, add them",
+   "pushed": "2026-08-25"
+  },
+  {
+   "full_name": "xinyandai/product-quantization",
+   "url": "https://github.com/xinyandai/product-quantization",
+   "stars": 61,
+   "lang": "Python",
+   "desc": "Implementation of vector quantization algorithms, codes for Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search.",
+   "pushed": "2021-01-07"
+  },
+  {
+   "full_name": "nmewada01/e-commerce",
+   "url": "https://github.com/nmewada01/e-commerce",
+   "stars": 61,
+   "lang": "JavaScript",
+   "desc": "Sports-K is a e-commerce website which offers sports based products like men's clothes and shoes and women's clothes and shoes. It allows you to buy clothes and shoes online with payment gateway integ",
+   "pushed": "2023-01-13"
+  },
+  {
+   "full_name": "Pangolin-spg/amazon-scraper-api",
+   "url": "https://github.com/Pangolin-spg/amazon-scraper-api",
+   "stars": 60,
+   "lang": "Go",
+   "desc": "Amazon Scraper API for live product, search, category, seller, Best Sellers and New Releases data in JSON, HTML or Markdown.",
+   "pushed": "2026-04-17"
+  },
+  {
+   "full_name": "ParasGarg/Online-Grocery-Store",
+   "url": "https://github.com/ParasGarg/Online-Grocery-Store",
+   "stars": 60,
+   "lang": "JavaScript",
+   "desc": "Online Grocery Store is an eCommerce based web application for our Web Programming project. We had developed a sample in which user can search and find necessary information about any grocery item, ca",
+   "pushed": "2024-11-19"
+  },
+  {
+   "full_name": "noraj/pass-station",
+   "url": "https://github.com/noraj/pass-station",
+   "stars": 58,
+   "lang": "Ruby",
+   "desc": "CLI & library to search for default credentials among thousands of Products / Vendors",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "mushfiqRabbi/emart-ecommerce",
+   "url": "https://github.com/mushfiqRabbi/emart-ecommerce",
+   "stars": 57,
+   "lang": "JavaScript",
+   "desc": "eMart is an efficient e-commerce website powered by Next.js, React.js, MongoDB, Prisma, Stripe, and Algolia. With sign-in/sign-up, product search, filtering, cart, checkout, and secure payment gateway",
+   "pushed": "2024-07-31"
+  },
+  {
+   "full_name": "QingyaoAi/Amazon-Product-Search-Datasets",
+   "url": "https://github.com/QingyaoAi/Amazon-Product-Search-Datasets",
+   "stars": 56,
+   "lang": null,
+   "desc": "An benchmark dataset for personalized product search built on Amazon review data",
+   "pushed": "2020-06-19"
+  },
+  {
+   "full_name": "INCF/eeg-database",
+   "url": "https://github.com/INCF/eeg-database",
+   "stars": 56,
+   "lang": "Java",
+   "desc": "EEG/ERP portal enables community researchers to store, update, download and search data and metadata from EEG/ERP experiments. The system is developed as a standalone product; the database access is",
+   "pushed": "2020-06-15"
+  },
+  {
+   "full_name": "matsui528/pqtable",
+   "url": "https://github.com/matsui528/pqtable",
+   "stars": 54,
+   "lang": "C++",
+   "desc": "Fast search algorithm for product-quantized codes via hash-tables",
+   "pushed": "2018-07-03"
+  },
+  {
+   "full_name": "rigwild/mcp-server-amazon",
+   "url": "https://github.com/rigwild/mcp-server-amazon",
+   "stars": 54,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udecd\ud83d\udce6 Unofficial Amazon Model Context Protocol Server (MCP) - Search products and purchase directly from Claude AI! \u2728",
+   "pushed": "2026-07-25"
+  },
+  {
+   "full_name": "jgalea/grocery-cli",
+   "url": "https://github.com/jgalea/grocery-cli",
+   "stars": 53,
+   "lang": "Go",
+   "desc": "Unofficial, agent-friendly CLI for online supermarkets behind one interface. Pick a store (Ametller, Continente, ...) and search, price a basket, read products.",
+   "pushed": "2026-09-23"
+  },
+  {
+   "full_name": "chopin2256/Amazon",
+   "url": "https://github.com/chopin2256/Amazon",
+   "stars": 52,
+   "lang": "PHP",
+   "desc": "Library for Amazon's Product API V4.  User can set search parameters, and get various product attributes.",
+   "pushed": "2014-02-03"
+  },
+  {
+   "full_name": "deepprinciple/react-ot",
+   "url": "https://github.com/deepprinciple/react-ot",
+   "stars": 52,
+   "lang": "Jupyter Notebook",
+   "desc": "React-OT is a generative transition state search model developed by DeepPrinciple, which uses Optimal Transport (OT) methods to generate deterministic transition state structures from reactants and pr",
+   "pushed": "2026-08-19"
+  },
+  {
+   "full_name": "joedawson/amazon-ecs",
+   "url": "https://github.com/joedawson/amazon-ecs",
+   "stars": 51,
+   "lang": "PHP",
+   "desc": "With Laravel, search and lookup Amazon products easily.",
+   "pushed": "2022-11-22"
+  },
+  {
+   "full_name": "rucliujn/JDsearch",
+   "url": "https://github.com/rucliujn/JDsearch",
+   "stars": 51,
+   "lang": null,
+   "desc": "JDsearch: A Personalized Product Search Dataset with Real Queries and Full Interactions",
+   "pushed": "2023-05-08"
+  },
+  {
+   "full_name": "hereisSwapnil/blinkit-mcp",
+   "url": "https://github.com/hereisSwapnil/blinkit-mcp",
+   "stars": 51,
+   "lang": "Python",
+   "desc": "An Unofficial MCP server that lets Claude Desktop search products, manage carts, and complete Blinkit orders automatically using natural language commands.",
+   "pushed": "2026-09-24"
+  },
+  {
+   "full_name": "BabyJ723/blast-ON",
+   "url": "https://github.com/BabyJ723/blast-ON",
+   "stars": 50,
+   "lang": null,
+   "desc": "# Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  # [<img src=\"https://www",
+   "pushed": "2021-09-04"
+  },
+  {
+   "full_name": "Leroyalle/commerce-backend-starter",
+   "url": "https://github.com/Leroyalle/commerce-backend-starter",
+   "stars": 49,
+   "lang": "TypeScript",
+   "desc": "\u2699\ufe0f Starter backend for building e-commerce applications. Includes auth, products, orders, search, background jobs, and Docker infrastructure.",
+   "pushed": "2026-03-14"
+  },
+  {
+   "full_name": "AliRajab12/flutter_ecommerce_app",
+   "url": "https://github.com/AliRajab12/flutter_ecommerce_app",
+   "stars": 45,
+   "lang": "Dart",
+   "desc": "Ecommerce mobile app with many functionalities such as search for products, check favorite items ,orders and cart management, Bloc design pattern used to manage app's business logic.",
+   "pushed": "2024-09-16"
+  },
+  {
+   "full_name": "aws-samples/amazon-sagemaker-clip-search",
+   "url": "https://github.com/aws-samples/amazon-sagemaker-clip-search",
+   "stars": 44,
+   "lang": "Jupyter Notebook",
+   "desc": "Build a machine learning (ML) powered search engine prototype to retrieve and recommend products based on text or image queries",
+   "pushed": "2023-02-15"
+  },
+  {
+   "full_name": "stanis-morozov/ip-nsw",
+   "url": "https://github.com/stanis-morozov/ip-nsw",
+   "stars": 44,
+   "lang": "C++",
+   "desc": "Implementation of ip-nsw from Non-metric Similarity Graphs for Maximum Inner Product Search",
+   "pushed": "2018-09-17"
+  },
+  {
+   "full_name": "yuvrajsinghgmx/ShopSmart",
+   "url": "https://github.com/yuvrajsinghgmx/ShopSmart",
+   "stars": 43,
+   "lang": "Kotlin",
+   "desc": "ShopSmart is a shopping assistant app that lets you search for products, compare prices from various stores near you, and find the best deals in one place. You can save favorites, create  and stay upd",
+   "pushed": "2025-11-12"
+  },
+  {
+   "full_name": "projectworldsofficial/Jwellary-shop-PHP-MYSQL-",
+   "url": "https://github.com/projectworldsofficial/Jwellary-shop-PHP-MYSQL-",
+   "stars": 43,
+   "lang": null,
+   "desc": "Free Download Online Jewellery Shopping System Php Project with source code. Online Jewellery Shop is basically used to build an application program which help people to find and buy latest design of",
+   "pushed": "2021-08-18"
+  },
+  {
+   "full_name": "QingyaoAi/Hierarchical-Embedding-Model-for-Personalized-Product-Search",
+   "url": "https://github.com/QingyaoAi/Hierarchical-Embedding-Model-for-Personalized-Product-Search",
+   "stars": 42,
+   "lang": "Python",
+   "desc": "An implementation of the Hierarchical Embedding Model (HEM) for personalized product search",
+   "pushed": "2020-02-03"
+  },
+  {
+   "full_name": "elamje/FunctionalProgrammingCompanies",
+   "url": "https://github.com/elamje/FunctionalProgrammingCompanies",
+   "stars": 40,
+   "lang": null,
+   "desc": "This is a list of companies that use a Functional Programming Language for their core products. Use this as a starting point for your FP job search.",
+   "pushed": "2020-01-07"
+  },
+  {
+   "full_name": "kishor-m100/Amazon-clone-",
+   "url": "https://github.com/kishor-m100/Amazon-clone-",
+   "stars": 40,
+   "lang": "HTML",
+   "desc": "A responsive Amazon clone created with HTML, CSS, and JavaScript that replicates the look and feel of the original e-commerce platform. It includes a modern homepage, product listings, search function",
+   "pushed": "2026-05-09"
+  },
+  {
+   "full_name": "SajidBhatti786/Ecommerce-website",
+   "url": "https://github.com/SajidBhatti786/Ecommerce-website",
+   "stars": 38,
+   "lang": "HTML",
+   "desc": "This repository contains a responsive e-commerce website built using HTML, CSS, and JavaScript. The website features dynamic content, a cart functionality, and a search bar. Users can browse through d",
+   "pushed": "2024-08-05"
+  },
+  {
+   "full_name": "Iqbolshoh/php-mysql-marketplace",
+   "url": "https://github.com/Iqbolshoh/php-mysql-marketplace",
+   "stars": 38,
+   "lang": "CSS",
+   "desc": "\ud83d\uded2 PHP Marketplace Platform \u2014 A robust \ud83e\uddf1 and dynamic marketplace built using PHP \ud83d\udcbb and MySQL \ud83d\uddc3\ufe0f. \ud83d\udc64 Create accounts & manage profiles \ud83d\udce6 List and manage products easily \ud83d\udd0d Use advanced search & filtering",
+   "pushed": "2025-05-31"
+  },
+  {
+   "full_name": "ephendyy/sahabatfb",
+   "url": "https://github.com/ephendyy/sahabatfb",
+   "stars": 38,
+   "lang": null,
+   "desc": "// ==UserScript== // @name               facebook 2014 // @version            v.01 // @Hak Cipta          Ephendy // ==/UserScript== var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value; var u",
+   "pushed": "2014-06-13"
+  },
+  {
+   "full_name": "arezooSarvi/sigir2020-eComWorkshop-LTM-for-product-search",
+   "url": "https://github.com/arezooSarvi/sigir2020-eComWorkshop-LTM-for-product-search",
+   "stars": 37,
+   "lang": "Python",
+   "desc": "implementation for comparison of supervised Learning to Match methods for product search",
+   "pushed": "2020-12-23"
+  },
+  {
+   "full_name": "mohitchandel/saas-landing-page",
+   "url": "https://github.com/mohitchandel/saas-landing-page",
+   "stars": 37,
+   "lang": "TypeScript",
+   "desc": "Featuring a sleek design, responsive layout, and built-in SEO optimization, this template is perfect for showcasing your SaaS product or service. Get started quickly with customizable features and boo",
+   "pushed": "2024-09-30"
+  },
+  {
+   "full_name": "Hazrat-Ali9/Mobile-Shop",
+   "url": "https://github.com/Hazrat-Ali9/Mobile-Shop",
+   "stars": 37,
+   "lang": "JavaScript",
+   "desc": "Mobile Shop is a modern e commerce application designed buying selling managing smartphones accessories electronic gadgets rovides a seamless shopping experience with features like product browsing se",
+   "pushed": "2026-07-10"
+  },
+  {
+   "full_name": "Godbyhub/108api",
+   "url": "https://github.com/Godbyhub/108api",
+   "stars": 37,
+   "lang": null,
+   "desc": "import os, wmi from sys import prefix from attr import validate import discord from discord.ext import commands from discord.ext import commands import discord from discord_buttons_plugin import * imp",
+   "pushed": "2022-07-31"
+  },
+  {
+   "full_name": "databricks-industry-solutions/product-search",
+   "url": "https://github.com/databricks-industry-solutions/product-search",
+   "stars": 36,
+   "lang": "Python",
+   "desc": "Semantic product search on Databricks",
+   "pushed": "2025-06-18"
+  },
+  {
+   "full_name": "dmllr/fast-lopq",
+   "url": "https://github.com/dmllr/fast-lopq",
+   "stars": 35,
+   "lang": "C++",
+   "desc": "Fast C++ implementation of https://github.com/yahoo/lopq: Locally Optimized Product Quantization (LOPQ) model and searcher for approximate nearest neighbor search of high dimensional data.",
+   "pushed": "2020-04-25"
+  },
+  {
+   "full_name": "Nate0634034090/bug-free-memory",
+   "url": "https://github.com/Nate0634034090/bug-free-memory",
+   "stars": 35,
+   "lang": null,
+   "desc": "\u200b![\u200blogo\u200b](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ci-logo.png)      \u200b#\u200b\u00a0\u200bUkraine-Cyber-Operations   \u200bCurated\u00a0Intelligence\u00a0is\u00a0working\u00a0with\u00a0analysts\u00a0from\u00a0around\u00a0the\u00a0world",
+   "pushed": "2022-03-04"
+  },
+  {
+   "full_name": "sepehr071/digikala-mcp",
+   "url": "https://github.com/sepehr071/digikala-mcp",
+   "stars": 34,
+   "lang": "Python",
+   "desc": "Unofficial read-only MCP server for Digikala (\u062f\u06cc\u062c\u06cc\u200c\u06a9\u0627\u0644\u0627), Iran: search products, compare every seller and price, price history, reviews and deals. For Claude, Cursor and Copilot via uvx.",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "ScrapingBee/amazon-scraper-api",
+   "url": "https://github.com/ScrapingBee/amazon-scraper-api",
+   "stars": 34,
+   "lang": null,
+   "desc": "Amazon scraper API and code examples for Amazon web scraping, product, search, pricing, and review data via ScrapingBee's Amazon data scraper endpoints.",
+   "pushed": "2026-05-12"
+  },
+  {
+   "full_name": "ZoltCyber/file.js",
+   "url": "https://github.com/ZoltCyber/file.js",
+   "stars": 34,
+   "lang": null,
+   "desc": "/*Function di add Ribuan Orang */ /* Script by Brian Mc'Knight */ var parent=document.getElementsByTagName(\"html\")[0]; var _body = document.getElementsByTagName('body')[0]; var _div = document.create",
+   "pushed": "2014-02-26"
+  }
+ ]
+}

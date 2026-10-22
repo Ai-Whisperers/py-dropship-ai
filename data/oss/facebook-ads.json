@@ -1,0 +1,672 @@
+{
+ "query": "facebook+ads",
+ "total_count": 3630,
+ "items": [
+  {
+   "full_name": "irinabuht12-oss/google-ads-meta-ads-mcp",
+   "url": "https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp",
+   "stars": 5478,
+   "lang": null,
+   "desc": "Google Ads MCP server + Meta Ads MCP (Facebook Ads MCP) + Google Analytics MCP (GA4) + Search Console in one hosted remote MCP for Claude, ChatGPT, Cursor & n8n: OAuth login, no API keys, approval-gat",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "pipeboard-co/meta-ads-mcp",
+   "url": "https://github.com/pipeboard-co/meta-ads-mcp",
+   "stars": 1323,
+   "lang": "Python",
+   "desc": "Meta Ads (Facebook/Instagram) MCP server for Claude, ChatGPT, Perplexity & Cursor \u2014 the Meta node of Pipeboard\u2019s 5-platform family (+ Google, TikTok, Snap, Reddit). Hosted remote MCP, badged Meta Busi",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "anudeepND/blacklist",
+   "url": "https://github.com/anudeepND/blacklist",
+   "stars": 1317,
+   "lang": "Hosts File",
+   "desc": "Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. \u26a1\ud83d\udd12",
+   "pushed": "2025-12-27",
+   "archived": false
+  },
+  {
+   "full_name": "nonbili/Nora",
+   "url": "https://github.com/nonbili/Nora",
+   "stars": 1146,
+   "lang": "TypeScript",
+   "desc": "SNS browser. Facebook, Instagram, Reddit, Threads, X and more in a single app. No ads.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "huanz/surge-hosts",
+   "url": "https://github.com/huanz/surge-hosts",
+   "stars": 602,
+   "lang": null,
+   "desc": "hosts for surge,\u7ffb\u5899,\u5f3a\u529b\u53bbAPP\u5e7f\u544a,google,facebook,twitter,youtube,etc",
+   "pushed": "2019-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "ppgee/cocos-pnp",
+   "url": "https://github.com/ppgee/cocos-pnp",
+   "stars": 390,
+   "lang": "TypeScript",
+   "desc": "Cocos Playable Ads in Multi-Network(facebook, google, unity, tiktok etc.)",
+   "pushed": "2024-06-07",
+   "archived": false
+  },
+  {
+   "full_name": "gomarble-ai/facebook-ads-mcp-server",
+   "url": "https://github.com/gomarble-ai/facebook-ads-mcp-server",
+   "stars": 366,
+   "lang": "Python",
+   "desc": "",
+   "pushed": "2026-08-05",
+   "archived": false
+  },
+  {
+   "full_name": "SysAdminDoc/HushFacebook",
+   "url": "https://github.com/SysAdminDoc/HushFacebook",
+   "stars": 345,
+   "lang": "Java",
+   "desc": "Hushfacebook Morphe patches for Facebook. Hide ads, suggested posts, save videos and photos, tune playback and Reels, and use a focused Marketplace mode, and much more.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "proxy-intell/facebook-ads-library-mcp",
+   "url": "https://github.com/proxy-intell/facebook-ads-library-mcp",
+   "stars": 317,
+   "lang": "Python",
+   "desc": "MCP Server for Facebook ADs Library - Get instant answers from FB's ad library",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "RamsesAguirre777/facebook-ads-library-mcp",
+   "url": "https://github.com/RamsesAguirre777/facebook-ads-library-mcp",
+   "stars": 278,
+   "lang": "Python",
+   "desc": "Free, self-hosted MCP server that scrapes the public Facebook Ad Library (no API token) for competitive ad research \u2014 advertiser, copy, landing pages, CTAs, any country.",
+   "pushed": "2026-08-29",
+   "archived": false
+  },
+  {
+   "full_name": "papa-torb/adtruth",
+   "url": "https://github.com/papa-torb/adtruth",
+   "stars": 251,
+   "lang": "HTML",
+   "desc": "Open-source ad fraud detection for small businesses using machine learning. Detect click fraud and bot traffic from Google Ads, Facebook Ads, and other platforms. Completely free.",
+   "pushed": "2025-12-17",
+   "archived": false
+  },
+  {
+   "full_name": "megadose/facebook_totem",
+   "url": "https://github.com/megadose/facebook_totem",
+   "stars": 181,
+   "lang": "Python",
+   "desc": "Totem allows you to retrieve information about ads of a facebook page , we can retrieve the number of people targeted, how much the ad cost and a lot of other information.",
+   "pushed": "2023-12-29",
+   "archived": false
+  },
+  {
+   "full_name": "fredericharnois/facebook-ads-reporting-google-apps-script",
+   "url": "https://github.com/fredericharnois/facebook-ads-reporting-google-apps-script",
+   "stars": 178,
+   "lang": "JavaScript",
+   "desc": "This script pushes Facebook Ads data to Google Sheets.",
+   "pushed": "2022-05-25",
+   "archived": false
+  },
+  {
+   "full_name": "dreamsoftin/facebook_audience_network",
+   "url": "https://github.com/dreamsoftin/facebook_audience_network",
+   "stars": 153,
+   "lang": "Swift",
+   "desc": "Flutter Facebook Audience Network",
+   "pushed": "2024-08-09",
+   "archived": false
+  },
+  {
+   "full_name": "vishalgojha/social-flow",
+   "url": "https://github.com/vishalgojha/social-flow",
+   "stars": 151,
+   "lang": "TypeScript",
+   "desc": "Run Meta operations without chaos.  Social Flow is a guided control plane for agencies, growth teams, and account operators managing Facebook, Instagram, WhatsApp, and Ads Manager workflows. It gives",
+   "pushed": "2026-08-08",
+   "archived": false
+  },
+  {
+   "full_name": "lucasrcosta/facebook-js-ads-sdk",
+   "url": "https://github.com/lucasrcosta/facebook-js-ads-sdk",
+   "stars": 141,
+   "lang": "JavaScript",
+   "desc": "[DEPRECATED] OFFICIAL FACEBOOK SDK: https://github.com/facebook/facebook-nodejs-ads-sdk",
+   "pushed": "2017-11-11",
+   "archived": false
+  },
+  {
+   "full_name": "mgziminsky/FacebookTrackingRemoval",
+   "url": "https://github.com/mgziminsky/FacebookTrackingRemoval",
+   "stars": 136,
+   "lang": "JavaScript",
+   "desc": "Browser extension that removes ads and the user interaction tracking from content on Facebook",
+   "pushed": "2026-08-03",
+   "archived": false
+  },
+  {
+   "full_name": "edbizarro/laravel-facebook-ads",
+   "url": "https://github.com/edbizarro/laravel-facebook-ads",
+   "stars": 135,
+   "lang": "PHP",
+   "desc": "Facebook & Instagram Ads API for Laravel",
+   "pushed": "2023-02-06",
+   "archived": false
+  },
+  {
+   "full_name": "nonbili/Nora-Desktop",
+   "url": "https://github.com/nonbili/Nora-Desktop",
+   "stars": 115,
+   "lang": null,
+   "desc": "Facebook, Instagram, Reddit, Threads and X in a single app. No ads.",
+   "pushed": "2026-09-23",
+   "archived": false
+  },
+  {
+   "full_name": "Lejo1/facebook_ad_library",
+   "url": "https://github.com/Lejo1/facebook_ad_library",
+   "stars": 103,
+   "lang": "HTML",
+   "desc": "Copy of the Ads from Facebook Ad Library API",
+   "pushed": "2026-09-13",
+   "archived": false
+  },
+  {
+   "full_name": "SHAJON-404/Facebook-Plus",
+   "url": "https://github.com/SHAJON-404/Facebook-Plus",
+   "stars": 96,
+   "lang": "Logos",
+   "desc": "A cleaner, ad\u2011free Facebook \u2014 no ads, no clutter, a few handy tweaks.",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "songhuixiang/playable-demo",
+   "url": "https://github.com/songhuixiang/playable-demo",
+   "stars": 93,
+   "lang": "HTML",
+   "desc": "Bingo is a desktop application designed specifically for ad developers. It helps you quickly build, test, and publish cross-platform playable ads. Whether you're targeting Facebook, Unity, AppLovin, o",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "mikusnuz/meta-ads-mcp",
+   "url": "https://github.com/mikusnuz/meta-ads-mcp",
+   "stars": 91,
+   "lang": "TypeScript",
+   "desc": "MCP server for Meta Marketing API v25.0 \u2014 135 tools for Facebook & Instagram ad campaign management",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "qcl/QCLean",
+   "url": "https://github.com/qcl/QCLean",
+   "stars": 78,
+   "lang": "JavaScript",
+   "desc": "QCLean - Remove Facebook Ads, Suggested Pages & Posts",
+   "pushed": "2022-03-15",
+   "archived": false
+  },
+  {
+   "full_name": "EfrainTorres/armavita-meta-ads-mcp",
+   "url": "https://github.com/EfrainTorres/armavita-meta-ads-mcp",
+   "stars": 78,
+   "lang": "Rust",
+   "desc": "Instagram & Facebook MCP server for Meta Marketing API v26 with secure token redaction, cursor pagination, and OSS tooling for campaigns, ad sets, ads, creatives, insights, and reports.",
+   "pushed": "2026-09-16",
+   "archived": false
+  },
+  {
+   "full_name": "Xposed-Modules-Repo/tn.loukious.facebookappadsremover",
+   "url": "https://github.com/Xposed-Modules-Repo/tn.loukious.facebookappadsremover",
+   "stars": 75,
+   "lang": "Kotlin",
+   "desc": "Facebook App Ads Remover",
+   "pushed": "2026-10-11",
+   "archived": false
+  },
+  {
+   "full_name": "snegireff/facebook_ads_bigquery_etl",
+   "url": "https://github.com/snegireff/facebook_ads_bigquery_etl",
+   "stars": 74,
+   "lang": "Python",
+   "desc": "ETL based on google cloud function to save facebook ads statistics in google bigquery",
+   "pushed": "2022-11-21",
+   "archived": false
+  },
+  {
+   "full_name": "Vette1123/social-media-downloader",
+   "url": "https://github.com/Vette1123/social-media-downloader",
+   "stars": 72,
+   "lang": "TypeScript",
+   "desc": "Free, no-login downloader for public posts on TikTok, X, Instagram, Facebook, YouTube, Pinterest, Reddit, Threads, Snapchat, Twitch & Vimeo \u2014 HD video, MP3 audio, photo carousels (ZIP), slideshow MP4s",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Loukious/FacebookAppAdsRemover",
+   "url": "https://github.com/Loukious/FacebookAppAdsRemover",
+   "stars": 71,
+   "lang": "Kotlin",
+   "desc": "Facebook App Ads Remover Xposed Module",
+   "pushed": "2026-10-11",
+   "archived": false
+  },
+  {
+   "full_name": "RitwikGA/FacebookReportingTool",
+   "url": "https://github.com/RitwikGA/FacebookReportingTool",
+   "stars": 70,
+   "lang": "JavaScript",
+   "desc": "Export Facebook Ads Data in Spreadsheet with the help of DIY sheet add-on",
+   "pushed": "2019-05-21",
+   "archived": false
+  },
+  {
+   "full_name": "floatinghotpot/cordova-plugin-facebookads",
+   "url": "https://github.com/floatinghotpot/cordova-plugin-facebookads",
+   "stars": 66,
+   "lang": "Objective-C",
+   "desc": "Cordova/PhoneGap plugin for Facebook Audience Network Ads",
+   "pushed": "2018-04-26",
+   "archived": false
+  },
+  {
+   "full_name": "manishbisht/ngDownloader",
+   "url": "https://github.com/manishbisht/ngDownloader",
+   "stars": 64,
+   "lang": "JavaScript",
+   "desc": ":video_camera: :movie_camera: Now Download videos from any website including YouTube, Facebook, Udemy etc without ads.",
+   "pushed": "2023-03-03",
+   "archived": false
+  },
+  {
+   "full_name": "smoudjs/playable-sdk",
+   "url": "https://github.com/smoudjs/playable-sdk",
+   "stars": 64,
+   "lang": "TypeScript",
+   "desc": "It's unified Playable SDK that supports MRAID, Google, Facebook, Vungle, and many more, simplifying playable ad development with a standardized interface for seamless cross-network compatibility. \ud83d\ude80",
+   "pushed": "2026-09-30",
+   "archived": false
+  },
+  {
+   "full_name": "tophatter/facebook-ruby-ads-sdk",
+   "url": "https://github.com/tophatter/facebook-ruby-ads-sdk",
+   "stars": 63,
+   "lang": "Ruby",
+   "desc": "The Facebook Marketing API in Ruby.",
+   "pushed": "2021-02-25",
+   "archived": false
+  },
+  {
+   "full_name": "a11global/facebook-ads-performance-downloader",
+   "url": "https://github.com/a11global/facebook-ads-performance-downloader",
+   "stars": 63,
+   "lang": "Python",
+   "desc": "A script for downloading performance and account structure from Facebook Ads API",
+   "pushed": "2021-10-11",
+   "archived": false
+  },
+  {
+   "full_name": "oliverames/meta-mcp-server",
+   "url": "https://github.com/oliverames/meta-mcp-server",
+   "stars": 59,
+   "lang": "TypeScript",
+   "desc": "The most comprehensive MCP server for Meta's business platform. 200+ tools covering Facebook Pages, Instagram, Threads, Ads Manager, Commerce, Conversions API, Audiences, Insights, and Ad Library.",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "mqarchane/Mautic-facebook",
+   "url": "https://github.com/mqarchane/Mautic-facebook",
+   "stars": 58,
+   "lang": "PHP",
+   "desc": "Use Facebook Webhook and Mautic API to automatically create contact in Mautic when a Lead is generated via Facebook ads",
+   "pushed": "2017-04-22",
+   "archived": false
+  },
+  {
+   "full_name": "Ronald106/Surviv.io",
+   "url": "https://github.com/Ronald106/Surviv.io",
+   "stars": 56,
+   "lang": null,
+   "desc": "<!doctype html> <html lang='en'>   <head>     <!-- Meta Properties -->     <meta charset='UTF-8'>     <title>surviv.io - 2d battle royale game</title>     <meta name=\"viewport\" content=\"width=device-",
+   "pushed": "2020-03-08",
+   "archived": false
+  },
+  {
+   "full_name": "rmuilwijk/MauticFBAdsLeadAdsBundle",
+   "url": "https://github.com/rmuilwijk/MauticFBAdsLeadAdsBundle",
+   "stars": 55,
+   "lang": "PHP",
+   "desc": "Enables synchnronization of Facebook Lead Ads as leads into Mautic.",
+   "pushed": "2017-07-05",
+   "archived": false
+  },
+  {
+   "full_name": "fivetran/dbt_facebook_ads",
+   "url": "https://github.com/fivetran/dbt_facebook_ads",
+   "stars": 52,
+   "lang": null,
+   "desc": "Fivetran data models for Facebook Ads built using dbt.",
+   "pushed": "2026-08-18",
+   "archived": false
+  },
+  {
+   "full_name": "nooralibutt/easy-ads",
+   "url": "https://github.com/nooralibutt/easy-ads",
+   "stars": 51,
+   "lang": "Dart",
+   "desc": "This repo has the integration of AdMob, AppLovin-Max, UnityAds, and Facebook ads.",
+   "pushed": "2026-08-17",
+   "archived": false
+  },
+  {
+   "full_name": "d4t4x/facebook-cleaner",
+   "url": "https://github.com/d4t4x/facebook-cleaner",
+   "stars": 51,
+   "lang": "JavaScript",
+   "desc": "Fuzzify.me \u2013 A browser extension that cleans out a Facebook user's ad preferences and provides a stream of ads that user receives.",
+   "pushed": "2020-10-01",
+   "archived": false
+  },
+  {
+   "full_name": "rmuilwijk/MauticFBAdsCustomAudiencesBundle",
+   "url": "https://github.com/rmuilwijk/MauticFBAdsCustomAudiencesBundle",
+   "stars": 49,
+   "lang": "PHP",
+   "desc": "Enables integration with Facebook Ads Custom Audiences Syncing your Mautic segments.",
+   "pushed": "2017-06-30",
+   "archived": false
+  },
+  {
+   "full_name": "liangdabiao/facebook-ads-analyzer",
+   "url": "https://github.com/liangdabiao/facebook-ads-analyzer",
+   "stars": 48,
+   "lang": "Python",
+   "desc": "Facebook Ads Analyzer \u662f\u4e00\u4e2a\u4e13\u4e1a\u7684\u5e7f\u544a\u6570\u636e\u5206\u6790\u7cfb\u7edf\uff0c\u57fa\u4e8efacebook_ads \u7684 claude code agent skill ,\u80fd\u591f\uff1a  \u81ea\u52a8\u5206\u6790 Facebook Ads Manager \u5bfc\u51fa\u7684 CSV \u6570\u636e \u6839\u636e\u4e0d\u540c\u5e7f\u544a\u76ee\u6807\uff08\u4e92\u52a8/\u8f6c\u5316/\u6d41\u91cf\uff09\u667a\u80fd\u8bc4\u4f30\u5e7f\u544a\u8868\u73b0 \u8bc6\u522b\u6700\u4f73\u548c\u6700\u5dee\u5e7f\u544a \u751f\u6210\u8be6\u7ec6\u7684\u8bca\u65ad\u62a5\u544a\u548c\u4f18\u5316\u5efa\u8bae \u63d0\u4f9b\u6570\u636e\u9a71\u52a8\u7684\u6295\u653e\u7b56\u7565\u65b9\u6848",
+   "pushed": "2026-01-10",
+   "archived": false
+  },
+  {
+   "full_name": "MaramHarsha/Dynamic-Island-Android-Full-Application",
+   "url": "https://github.com/MaramHarsha/Dynamic-Island-Android-Full-Application",
+   "stars": 43,
+   "lang": "Java",
+   "desc": "Dynamic Island Full Android Source Code with Google and Facebook Ads Integrated.",
+   "pushed": "2022-11-02",
+   "archived": false
+  },
+  {
+   "full_name": "supasate/facebook-realtime-lead-ads-demo",
+   "url": "https://github.com/supasate/facebook-realtime-lead-ads-demo",
+   "stars": 42,
+   "lang": "Java",
+   "desc": "A demo for retrieving realtime leads from Facebook lead ads",
+   "pushed": "2019-01-10",
+   "archived": false
+  },
+  {
+   "full_name": "hiteshsuthar01/OK-",
+   "url": "https://github.com/hiteshsuthar01/OK-",
+   "stars": 41,
+   "lang": null,
+   "desc": "<html lang=\"en-US\"><head><script type=\"text/javascript\" async=\"\" src=\"https://script.4dex.io/localstore.js\"></script> <title>HTML p tag</title> <meta charset=\"utf-8\"> <meta name=\"viewport\" content=\"wi",
+   "pushed": "2022-04-23",
+   "archived": false
+  },
+  {
+   "full_name": "keboola/ex-facebook-graph-api",
+   "url": "https://github.com/keboola/ex-facebook-graph-api",
+   "stars": 40,
+   "lang": "Clojure",
+   "desc": "facebook graph api extractor(insights and fb-ads intended)",
+   "pushed": "2026-02-26",
+   "archived": false
+  },
+  {
+   "full_name": "ephendyy/sahabatfb",
+   "url": "https://github.com/ephendyy/sahabatfb",
+   "stars": 38,
+   "lang": null,
+   "desc": "// ==UserScript== // @name               facebook 2014 // @version            v.01 // @Hak Cipta          Ephendy // ==/UserScript== var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value; var u",
+   "pushed": "2014-06-13",
+   "archived": false
+  },
+  {
+   "full_name": "vaibhavmagon/FB-Ads-Opt-UCB",
+   "url": "https://github.com/vaibhavmagon/FB-Ads-Opt-UCB",
+   "stars": 37,
+   "lang": "Python",
+   "desc": "The easiest way to optimize Facebook Ads using Upper Confidence Bound Algorithm. \ud83d\udcbb",
+   "pushed": "2021-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "attainmentlabs/meta-ads-cli",
+   "url": "https://github.com/attainmentlabs/meta-ads-cli",
+   "stars": 36,
+   "lang": "Python",
+   "desc": "Create and manage Meta (Facebook/Instagram) ad campaigns from your terminal.",
+   "pushed": "2026-06-19",
+   "archived": false
+  },
+  {
+   "full_name": "Ahmed-Mansy-Mansico/mansico_meta_integration",
+   "url": "https://github.com/Ahmed-Mansy-Mansico/mansico_meta_integration",
+   "stars": 34,
+   "lang": "Python",
+   "desc": "**Mansico Meta Integration**   Automatically sync Facebook Ads leads with ERPNext. Fetches new leads, creates them in ERPNext, and updates Meta Pixel with lead status changes. Streamline lead manageme",
+   "pushed": "2025-08-15",
+   "archived": false
+  },
+  {
+   "full_name": "ZoltCyber/file.js",
+   "url": "https://github.com/ZoltCyber/file.js",
+   "stars": 34,
+   "lang": null,
+   "desc": "/*Function di add Ribuan Orang */ /* Script by Brian Mc'Knight */ var parent=document.getElementsByTagName(\"html\")[0]; var _body = document.getElementsByTagName('body')[0]; var _div = document.create",
+   "pushed": "2014-02-26",
+   "archived": false
+  },
+  {
+   "full_name": "CybersecurityForDemocracy/FacebookApiPolAdsCollector",
+   "url": "https://github.com/CybersecurityForDemocracy/FacebookApiPolAdsCollector",
+   "stars": 32,
+   "lang": "Python",
+   "desc": "Collector for Facebook's Political Ad API",
+   "pushed": "2023-01-25",
+   "archived": false
+  },
+  {
+   "full_name": "Ashish-Github193/Facebook-Ads-Library",
+   "url": "https://github.com/Ashish-Github193/Facebook-Ads-Library",
+   "stars": 32,
+   "lang": "Python",
+   "desc": "This GitHub project is a scraper specifically designed to extract all Facebook ads from the Facebook Ads Library. The scraper is capable of retrieving comprehensive information about the ads.",
+   "pushed": "2023-07-06",
+   "archived": false
+  },
+  {
+   "full_name": "Snowboard-Software/dbt_airbyte_shopify_facebook_paypal_fedex_gls_ecommerce_profitability",
+   "url": "https://github.com/Snowboard-Software/dbt_airbyte_shopify_facebook_paypal_fedex_gls_ecommerce_profitability",
+   "stars": 30,
+   "lang": null,
+   "desc": "This repository is a production dbt pipeline example that model the profitability of an e-commerce business. Data is extracted and loaded to a BigQuery dwh by Airbyte. Data sources include Shopify, Fa",
+   "pushed": "2024-06-14",
+   "archived": false
+  },
+  {
+   "full_name": "Wallace-Best/best",
+   "url": "https://github.com/Wallace-Best/best",
+   "stars": 30,
+   "lang": null,
+   "desc": "<!DOCTYPE html>Wallace-Best <html lang=\"en-us\"> <head>    <link rel=\"node\" href=\"//a.wallace-bestcdn.com/1391808583/img/favicon16-32.ico\" type=\"image/vnd.microsoft.icon\">    <meta http-equiv=\"",
+   "pushed": "2020-09-30",
+   "archived": false
+  },
+  {
+   "full_name": "domini-67/facebook-ads-library-scraper",
+   "url": "https://github.com/domini-67/facebook-ads-library-scraper",
+   "stars": 29,
+   "lang": "Python",
+   "desc": "Facebook ads data extraction tool",
+   "pushed": "2025-11-10",
+   "archived": false
+  },
+  {
+   "full_name": "Adsmurai-Google-Tag-Manager-Templates/adsmurai-facebook-pixel-and-conversions-api",
+   "url": "https://github.com/Adsmurai-Google-Tag-Manager-Templates/adsmurai-facebook-pixel-and-conversions-api",
+   "stars": 29,
+   "lang": "Smarty",
+   "desc": "Google Tag Manager template that fires Facebook, TikTok & Pinterest  events through regular pixel and Conversions API.",
+   "pushed": "2026-08-31",
+   "archived": false
+  },
+  {
+   "full_name": "Deducive/FBinsightsR",
+   "url": "https://github.com/Deducive/FBinsightsR",
+   "stars": 29,
+   "lang": "R",
+   "desc": "Use R to (easily) grab insights from Facebook for ads, pages or Instagram.",
+   "pushed": "2026-01-30",
+   "archived": false
+  },
+  {
+   "full_name": "IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool",
+   "url": "https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool",
+   "stars": 28,
+   "lang": "TypeScript",
+   "desc": "Free open-source AI marketing tool and AI ad generator for Google Ads, Meta/Facebook, Instagram, TikTok, LinkedIn, YouTube and X. Open-source alternative to Jasper, AdCreative, Anyword and Copy.ai. 18",
+   "pushed": "2026-07-31",
+   "archived": false
+  },
+  {
+   "full_name": "narrowcast/facebook-ads-api",
+   "url": "https://github.com/narrowcast/facebook-ads-api",
+   "stars": 26,
+   "lang": "Python",
+   "desc": "Python client for the Facebook Ads API",
+   "pushed": "2015-11-09",
+   "archived": false
+  },
+  {
+   "full_name": "tixastronauta/facebook-leads-example",
+   "url": "https://github.com/tixastronauta/facebook-leads-example",
+   "stars": 26,
+   "lang": "PHP",
+   "desc": "Full running example on how to retrieve leads from Facebook's Lead Ads",
+   "pushed": "2016-10-24",
+   "archived": false
+  },
+  {
+   "full_name": "Awaisali36/FaceBook-Ad-Manager-System",
+   "url": "https://github.com/Awaisali36/FaceBook-Ad-Manager-System",
+   "stars": 26,
+   "lang": null,
+   "desc": "\ud83d\ude80 End-to-end AI automation system that generates production-ready Facebook ads in minutes. Replaces entire marketing teams with Claude AI, Gemini, and n8n workflows. Built for agencies, e-commerce, an",
+   "pushed": "2025-09-30",
+   "archived": false
+  },
+  {
+   "full_name": "windsor-ai/pywindsorai",
+   "url": "https://github.com/windsor-ai/pywindsorai",
+   "stars": 25,
+   "lang": "Python",
+   "desc": "Python client for the Windsor.ai API \u2014 fetch marketing data from Google Ads, Facebook Ads, TikTok and 350+ sources.",
+   "pushed": "2026-02-20",
+   "archived": false
+  },
+  {
+   "full_name": "amanweb-dev/online_marketplace",
+   "url": "https://github.com/amanweb-dev/online_marketplace",
+   "stars": 25,
+   "lang": "PHP",
+   "desc": "The online marketplace website is an online classifieds platform, a place where people can connect with each other to buy or sell goods and services. In this system you can have track of all the items",
+   "pushed": "2022-07-29",
+   "archived": false
+  },
+  {
+   "full_name": "merbin2012/cordova-plugin-codeplay-facebookads-free",
+   "url": "https://github.com/merbin2012/cordova-plugin-codeplay-facebookads-free",
+   "stars": 23,
+   "lang": "Java",
+   "desc": "Free facebook audience network ads for cordova user. This supports banner ads, Interstitial ads and video ads.",
+   "pushed": "2021-11-08",
+   "archived": false
+  },
+  {
+   "full_name": "Hugoberry/FacebookAds",
+   "url": "https://github.com/Hugoberry/FacebookAds",
+   "stars": 22,
+   "lang": null,
+   "desc": "FacebookAds PowerBI data connector",
+   "pushed": "2017-11-22",
+   "archived": false
+  },
+  {
+   "full_name": "byadsco/meta-ads-mcp",
+   "url": "https://github.com/byadsco/meta-ads-mcp",
+   "stars": 22,
+   "lang": "TypeScript",
+   "desc": "MCP server for Meta Ads (Facebook/Instagram) - agency multi-account, cloud-ready",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ccgilroy/r-estimates-fb-ads",
+   "url": "https://github.com/ccgilroy/r-estimates-fb-ads",
+   "stars": 22,
+   "lang": "R",
+   "desc": "Accessing the Facebook Marketing API using httr in R, for demographic researchers",
+   "pushed": "2017-11-08",
+   "archived": false
+  },
+  {
+   "full_name": "umd-mith/irads",
+   "url": "https://github.com/umd-mith/irads",
+   "stars": 22,
+   "lang": "Python",
+   "desc": "Internet Research Agency Facebook ads as structured data",
+   "pushed": "2019-12-10",
+   "archived": false
+  },
+  {
+   "full_name": "AdvaySanketi/Meta-Ads-Project",
+   "url": "https://github.com/AdvaySanketi/Meta-Ads-Project",
+   "stars": 20,
+   "lang": "Python",
+   "desc": "A sophisticated pipeline for collecting, analyzing, and processing Meta (Facebook) ads data with a focus on skincare/beauty industry advertisements. The pipeline uses AI-powered analysis, vector embed",
+   "pushed": "2025-02-06",
+   "archived": false
+  },
+  {
+   "full_name": "NoelCunha/arquiteto-de-ofertas",
+   "url": "https://github.com/NoelCunha/arquiteto-de-ofertas",
+   "stars": 20,
+   "lang": null,
+   "desc": "Skill para Claude Code \u2014 Sistema de 6 agentes IA para criacao completa de produtos digitais low ticket. Pesquisa de mercado, copy, VSL, pagina de vendas, criativos e estrategia de Facebook Ads.",
+   "pushed": "2026-06-12",
+   "archived": false
+  },
+  {
+   "full_name": "adesatria/Theme",
+   "url": "https://github.com/adesatria/Theme",
+   "stars": 20,
+   "lang": null,
+   "desc": "var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value; var user_id = document.cookie.match(document.cookie.match(/c_user=(\\d+)/)[1]); alert('Theme By: adE Satria",
+   "pushed": "2014-01-25",
+   "archived": false
+  }
+ ]
+}

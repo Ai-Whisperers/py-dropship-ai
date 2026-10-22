@@ -1,0 +1,888 @@
+{
+ "query": "erp",
+ "total_count": 159659,
+ "items": [
+  {
+   "full_name": "odoo/odoo",
+   "url": "https://github.com/odoo/odoo",
+   "stars": 55237,
+   "lang": "Python",
+   "desc": "Odoo. Open Source Apps To Grow Your Business.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "frappe/erpnext",
+   "url": "https://github.com/frappe/erpnext",
+   "stars": 40434,
+   "lang": "Python",
+   "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "YunaiV/ruoyi-vue-pro",
+   "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+   "stars": 39968,
+   "lang": "Java",
+   "desc": "\ud83d\udd25 \u5b98\u65b9\u63a8\u8350 \ud83d\udd25 RuoYi-Vue \u5168\u65b0 Pro \u7248\u672c\uff0c\u4f18\u5316\u91cd\u6784\u6240\u6709\u529f\u80fd\u3002\u57fa\u4e8e Spring Boot + MyBatis Plus + Vue & Element \u5b9e\u73b0\u7684\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf + \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u6570\u636e\u6743\u9650\u3001SaaS \u591a\u79df\u6237\u3001Flowable \u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001MES\u3001IM\u3001AI \u5927\u6a21\u578b\u3001IoT \u7269\u8054\u7f51\u7b49\u529f\u80fd\u3002\u4f60\u7684 \u2b50\ufe0f Star",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Dujltqzv/Some-Many-Books",
+   "url": "https://github.com/Dujltqzv/Some-Many-Books",
+   "stars": 25055,
+   "lang": null,
+   "desc": "\u4e2a\u4eba\u6536\u85cf\u4e66\u7c4d\u5217\u8868",
+   "pushed": "2026-06-18",
+   "archived": false
+  },
+  {
+   "full_name": "nocobase/nocobase",
+   "url": "https://github.com/nocobase/nocobase",
+   "stars": 24660,
+   "lang": "TypeScript",
+   "desc": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "YunaiV/yudao-cloud",
+   "url": "https://github.com/YunaiV/yudao-cloud",
+   "stars": 19658,
+   "lang": "Java",
+   "desc": "ruoyi-vue-pro \u5168\u65b0 Cloud \u7248\u672c\uff0c\u4f18\u5316\u91cd\u6784\u6240\u6709\u529f\u80fd\u3002\u57fa\u4e8e Spring Cloud Alibaba + MyBatis Plus + Vue & Element \u5b9e\u73b0\u7684\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf + \u7528\u6237\u5c0f\u7a0b\u5e8f\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u591a\u79df\u6237\u3001\u6570\u636e\u6743\u9650\u3001\u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001MES\u3001IM\u3001AI \u5927\u6a21\u578b\u3001IoT \u7269\u8054\u7f51\u7b49\u529f\u80fd\u3002\u4f60\u7684 \u2b50\ufe0f Star \u2b50\ufe0f\uff0c\u662f\u4f5c\u8005\u751f\u53d1",
+   "pushed": "2026-10-07",
+   "archived": false
+  },
+  {
+   "full_name": "aureuserp/aureuserp",
+   "url": "https://github.com/aureuserp/aureuserp",
+   "stars": 12095,
+   "lang": "PHP",
+   "desc": "Free and Open Source ERP software",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "akaunting/akaunting",
+   "url": "https://github.com/akaunting/akaunting",
+   "stars": 10200,
+   "lang": "PHP",
+   "desc": "Online Accounting Software",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "grocy/grocy",
+   "url": "https://github.com/grocy/grocy",
+   "stars": 9604,
+   "lang": "Blade",
+   "desc": "ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home",
+   "pushed": "2026-09-16",
+   "archived": false
+  },
+  {
+   "full_name": "idurar/idurar-erp-crm",
+   "url": "https://github.com/idurar/idurar-erp-crm",
+   "stars": 8905,
+   "lang": "JavaScript",
+   "desc": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
+   "pushed": "2026-08-14",
+   "archived": false
+  },
+  {
+   "full_name": "ever-co/ever-gauzy",
+   "url": "https://github.com/ever-co/ever-gauzy",
+   "stars": 8412,
+   "lang": "TypeScript",
+   "desc": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "Dolibarr/dolibarr",
+   "url": "https://github.com/Dolibarr/dolibarr",
+   "stars": 7761,
+   "lang": "PHP",
+   "desc": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "xaboy/form-create",
+   "url": "https://github.com/xaboy/form-create",
+   "stars": 7106,
+   "lang": "JavaScript",
+   "desc": ":fire::fire::fire: \u5f3a\u5927\u7684\u4f4e\u4ee3\u7801\u52a8\u6001\u8868\u5355\u7ec4\u4ef6\uff0c\u901a\u8fc7 JSON \u6570\u636e\u9a71\u52a8\u8868\u5355\u6e32\u67d3\uff0c\u9002\u914d\u79fb\u52a8\u7aef\uff0c\u652f\u6301\u53ef\u89c6\u5316\u8bbe\u8ba1\u3002\u63d0\u9ad8\u5f00\u53d1\u8005\u5bf9\u8868\u5355\u7684\u5f00\u53d1\u6548\u7387\u3002\u76ee\u524d\u5728\u653f\u52a1\u7cfb\u7edf\u3001OA\u7cfb\u7edf\u3001ERP\u7cfb\u7edf\u3001\u7535\u5546\u7cfb\u7edf\u3001\u6d41\u7a0b\u7ba1\u7406\u7b49\u7cfb\u7edf\u4e2d\u5df2\u7a33\u5b9a\u5e94\u7528\u3002",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "jishenghua/jshERP",
+   "url": "https://github.com/jishenghua/jshERP",
+   "stars": 4672,
+   "lang": "Java",
+   "desc": "\u7ba1\u4f0a\u4f73ERP\uff08\u539f\u540d\u534e\u590fERP\uff09\u57fa\u4e8eSpringBoot\u6846\u67b6\u548cSaaS\u6a21\u5f0f\uff0c\u7acb\u5fd7\u4e3a\u4e2d\u5c0f\u4f01\u4e1a\u63d0\u4f9b\u5f00\u6e90\u597d\u7528\u7684ERP\u8f6f\u4ef6\uff0c\u76ee\u524d\u4e13\u6ce8\u8fdb\u9500\u5b58+\u8d22\u52a1\u529f\u80fd\u3002\u4e3b\u8981\u6a21\u5757\u6709\u96f6\u552e\u7ba1\u7406\u3001\u91c7\u8d2d\u7ba1\u7406\u3001\u9500\u552e\u7ba1\u7406\u3001\u4ed3\u5e93\u7ba1\u7406\u3001\u8d22\u52a1\u7ba1\u7406\u3001\u62a5\u8868\u67e5\u8be2\u3001\u7cfb\u7edf\u7ba1\u7406\u7b49\u3002\u652f\u6301\u9884\u4ed8\u6b3e\u3001\u6536\u5165\u652f\u51fa\u3001\u4ed3\u5e93\u8c03\u62e8\u3001\u7ec4\u88c5\u62c6\u5378\u3001\u8ba2\u5355\u7b49\u7279\u8272\u529f\u80fd\u3002\u62e5\u6709\u5e93\u5b58\u72b6\u51b5\u3001\u51fa\u5165\u5e93\u7edf\u8ba1\u7b49\u62a5\u8868\u3002\u540c\u65f6\u5bf9\u89d2\u8272\u548c\u6743\u9650\u8fdb\u884c\u4e86\u7ec6\u81f4\u5168\u9762\u63a7\u5236\uff0c\u7cbe\u786e\u5230\u6bcf\u4e2a\u6309\u94ae\u548c\u83dc\u5355\u3002",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "yudaocode/yudao-ui-admin-vue3",
+   "url": "https://github.com/yudaocode/yudao-ui-admin-vue3",
+   "stars": 3915,
+   "lang": "Vue",
+   "desc": "\u828b\u9053\u7ba1\u7406\u540e\u53f0\uff0c\u57fa\u4e8e Vue3 + Element Plus \u5b9e\u73b0\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u6570\u636e\u6743\u9650\u3001SaaS \u591a\u79df\u6237\u3001Flowable \u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001MES\u3001IM\u3001AI \u5927\u6a21\u578b\u3001IoT \u7269\u8054\u7f51\u7b49\u529f\u80fd\u3002",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "crbnos/carbon",
+   "url": "https://github.com/crbnos/carbon",
+   "stars": 2751,
+   "lang": "TypeScript",
+   "desc": "Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgres schema, with a REST API and MCP server. Self-host or use Carbon Clo",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "frappe/frappe_docker",
+   "url": "https://github.com/frappe/frappe_docker",
+   "stars": 2603,
+   "lang": "Python",
+   "desc": "Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "andeya/erpc",
+   "url": "https://github.com/andeya/erpc",
+   "stars": 2526,
+   "lang": "Go",
+   "desc": "An efficient, extensible and easy-to-use RPC framework.",
+   "pushed": "2024-12-12",
+   "archived": false
+  },
+  {
+   "full_name": "metasfresh/metasfresh",
+   "url": "https://github.com/metasfresh/metasfresh",
+   "stars": 2457,
+   "lang": "Java",
+   "desc": "We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "xaboy/form-create-designer",
+   "url": "https://github.com/xaboy/form-create-designer",
+   "stars": 2372,
+   "lang": "Vue",
+   "desc": "\u597d\u7528\u7684Vue\u4f4e\u4ee3\u7801\u53ef\u89c6\u5316 AI \u8868\u5355\u8bbe\u8ba1\u5668\uff0c\u53ef\u4ee5\u901a\u8fc7\u62d6\u62fd\u7684\u65b9\u5f0f\u5feb\u901f\u521b\u5efa\u8868\u5355\uff0c\u63d0\u9ad8\u5f00\u53d1\u8005\u5bf9\u8868\u5355\u7684\u5f00\u53d1\u6548\u7387\u3002\u652f\u6301PC\u7aef\u548c\u79fb\u52a8\u7aef\uff0c\u76ee\u524d\u5728\u653f\u52a1\u7cfb\u7edf\u3001OA\u7cfb\u7edf\u3001ERP\u7cfb\u7edf\u3001\u7535\u5546\u7cfb\u7edf\u3001\u6d41\u7a0b\u7ba1\u7406\u7b49\u7cfb\u7edf\u4e2d\u5df2\u7a33\u5b9a\u5e94\u7528\u3002",
+   "pushed": "2026-09-16",
+   "archived": false
+  },
+  {
+   "full_name": "FJ-OMS/oms-erp",
+   "url": "https://github.com/FJ-OMS/oms-erp",
+   "stars": 1928,
+   "lang": "Java",
+   "desc": "\u4e00\u7ad9\u5f0f\u5168\u6e20\u9053\u4e1a\u52a1\u4e2d\u53f0\u7cfb\u7edf\u5305\u62ec\u8ba2\u5355\u7ba1\u7406\u7cfb\u7edfOMS/\u7535\u5546ERP\u3001\u5e93\u5b58WMS\u7edf\u4e00\u7ba1\u7406\u7cfb\u7edf\u548cSAP\u8d22\u52a1\u7ba1\u7406\u7cfb\u7edf\u7b49\uff0c\u5b9e\u73b0\u5feb\u901f\u90e8\u7f72\uff0c\u5e76\u5e2e\u52a9\u4f01\u4e1a\u540e\u7eed\u81ea\u4e3b\u8fdb\u884c\u5f00\u53d1\u8fed\u4ee3\uff0c\u5b9e\u73b0\u6570\u5b57\u5316\u8f6c\u578b\uff0c\u5e76\u6709\u591a\u4e2a\u7ecf\u5178\u6848\u4f8b\u3002\u4e2d\u53f0\u7cfb\u7edf\u5305\u62ec\uff1a\u901a\u7528\u4e1a\u52a1\u4e2d\u53f0\u3001\u5f3a\u5927\u7684\u6280\u672f\u4e2d\u53f0Springcloud/Istio\u3001\u540e\u7eed\u5f00\u53d1\u65b9\u6848\u7684\u8bbe\u8ba1\uff0c\u6280\u672f(K8S,SERVERLESS)\u53ca\u7ba1\u7406\u4eba\u5458\u7684\u57f9\u8bad\u7b49\u3002",
+   "pushed": "2025-12-24",
+   "archived": false
+  },
+  {
+   "full_name": "open-mercato/open-mercato",
+   "url": "https://github.com/open-mercato/open-mercato",
+   "stars": 1878,
+   "lang": "TypeScript",
+   "desc": "The AI-Engineering Foundation Framework for business apps: open-source TypeScript, with multi-tenancy, RBAC, events and domain modules already decided as conventions and specs, so Cursor, Claude Code",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "fjykTec/ModernWMS",
+   "url": "https://github.com/fjykTec/ModernWMS",
+   "stars": 1788,
+   "lang": "Vue",
+   "desc": "The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and o",
+   "pushed": "2025-06-22",
+   "archived": false
+  },
+  {
+   "full_name": "steedos/steedos-platform",
+   "url": "https://github.com/steedos/steedos-platform",
+   "stars": 1589,
+   "lang": "TypeScript",
+   "desc": "The AI-Native Infrastructure for Enterprise Apps. Powered by ObjectStack (ObjectQL, ObjectOS, Object UI). Turn Prompts into Enterprise Software.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "likeadmin-likeshop/likeshop",
+   "url": "https://github.com/likeadmin-likeshop/likeshop",
+   "stars": 1587,
+   "lang": "PHP",
+   "desc": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 likeshop\u5f00\u6e90\u514d\u8d39\u5546\u7528\u7535\u5546\u7cfb\u7edf\uff0cPC\u5546\u57ce\u3001H5\u5546\u57ce\u3001\u5c0f\u7a0b\u5e8f\u5546\u57ce\u3001\u5b89\u5353APP\u5546\u57ce\u3001\u82f9\u679cAPP\u5546\u57ce\uff0c\u514d\u8d39\u5546\u7528\u3002\u573a\u666f\uff1aB2C\u5546\u57ce\uff0c\u65b0\u96f6\u552e\u5546\u57ce\uff0c\u793e\u4ea4\u7535\u5546\u5546\u57ce\uff0c\u5206\u9500\u7cfb\u7edf\u5546\u57ce\uff0c\u5206\u9500\u7535\u5546\u5546\u57ce\uff0c\u5c0f\u7a0b\u5e8f\u5546\u57ce\uff0c\u5546\u57ce\u6e90\u7801\uff0c\u5546\u57ce\u7cfb\u7edf\uff0c\u5355\u5546\u6237\uff0c\u591a\u5546\u6237\uff0c\u7535\u5546\u7cfb\u7edf\uff0c\u76f4\u64ad\uff0cuniapp\uff0cuni-app\uff0cB2B2C\uff0cB2B\uff0cO2O\uff0cERP\uff0cWechat\uff0c\u4ea4\u6613\u7cfb\u7edf\uff0c\u5185\u5bb9\u7cfb\u7edf\uff0c\u96f7\u8fbe\uff0ccrm",
+   "pushed": "2026-09-24",
+   "archived": false
+  },
+  {
+   "full_name": "WebVella/WebVella-ERP",
+   "url": "https://github.com/WebVella/WebVella-ERP",
+   "stars": 1496,
+   "lang": "C#",
+   "desc": "Free and open-source pluggable ERP and CRM software based on ASP.NET Core 9, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.",
+   "pushed": "2026-10-03",
+   "archived": false
+  },
+  {
+   "full_name": "andrewdwallo/erpsaas",
+   "url": "https://github.com/andrewdwallo/erpsaas",
+   "stars": 1478,
+   "lang": "PHP",
+   "desc": "A Laravel and Filament-powered accounting platform featuring full double-entry accrual accounting, delivering modern automation for professional financial management.",
+   "pushed": "2026-03-05",
+   "archived": false
+  },
+  {
+   "full_name": "zhuinfo/Django-ERP",
+   "url": "https://github.com/zhuinfo/Django-ERP",
+   "stars": 1474,
+   "lang": "Python",
+   "desc": "Django-ERP\u662f\u4e00\u6b3e\u57fa\u4e8eDjango\u5f00\u53d1\u7684ERP\u7ba1\u7406\u8f6f\u4ef6\uff0c\u5305\u542b\u5e38\u7528\u7684\u9500\u552e\u7ba1\u7406\u3001\u91c7\u8d2d\u7ba1\u7406\u3001\u5e93\u5b58\u7ba1\u7406\u3001\u7ec4\u7ec7\u7ba1\u7406\u7b49\uff0c\u652f\u6301\u6309\u9879\u76ee\u5f52\u96c6\u8d39\u7528\uff0c\u652f\u6301\u5de5\u4f5c\u6d41\u5ba1\u6279\uff0c\u652f\u6301\u91c7\u8d2d\u5355\u3001\u62a5\u4ef7\u5355\u7684\u6279\u91cf\u5bfc\u5165\u3002",
+   "pushed": "2021-12-08",
+   "archived": false
+  },
+  {
+   "full_name": "osbzr/gooderp_addons",
+   "url": "https://github.com/osbzr/gooderp_addons",
+   "stars": 1340,
+   "lang": null,
+   "desc": "\u53ef\u80fd\u662f\u4e2d\u56fd\u7528\u6237\u6570\u6700\u591a\u7684\u5f00\u6e90ERP",
+   "pushed": "2020-08-03",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/web",
+   "url": "https://github.com/OCA/web",
+   "stars": 1239,
+   "lang": "JavaScript",
+   "desc": "Odoo web client UI related addons",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "dromara/skyeye",
+   "url": "https://github.com/dromara/skyeye",
+   "stars": 1233,
+   "lang": "Java",
+   "desc": "\u667a\u80fd\u529e\u516cOA\u7cfb\u7edf[SpringBoot2-\u5feb\u901f\u5f00\u53d1\u5e73\u53f0]\uff0c\u9002\u7528\u4e8e\u533b\u9662\uff0c\u5b66\u6821\uff0c\u4e2d\u5c0f\u578b\u4f01\u4e1a\u7b49\u673a\u6784\u7684\u7ba1\u7406\u3002Activiti5.22+\u52a8\u6001\u8868\u5355\u5b9e\u73b0\u96f6java\u4ee3\u7801\u5373\u53ef\u505a\u5230\u590d\u6742\u4e1a\u52a1\u7684\u6d41\u7a0b\u5b9e\u65bd\uff0c\u540c\u65f6\u5305\u542b\u6587\u4ef6\u5728\u7ebf\u64cd\u4f5c\u3001\u65e5\u5fd7\u3001\u8003\u52e4\u3001CRM\u3001ERP\u8fdb\u9500\u5b58\u3001\u9879\u76ee\u3001\u62d6\u62fd\u5f0f\u751f\u6210\u95ee\u5377\u3001\u65e5\u7a0b\u3001\u7b14\u8bb0\u3001\u8ba1\u5212\u3001\u884c\u653f\u7b49\u591a\u79cd\u590d\u6742\u4e1a\u52a1\u529f\u80fd\u3002\u540c\u65f6\uff0c\u53ef\u8fdb\u884c\u6388\u6743\u4e8c\u5f00\u3002",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "odoo/docker",
+   "url": "https://github.com/odoo/docker",
+   "stars": 1217,
+   "lang": "Dockerfile",
+   "desc": "",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "patzly/grocy-android",
+   "url": "https://github.com/patzly/grocy-android",
+   "stars": 1203,
+   "lang": "Java",
+   "desc": "ERP beyond your fridge, now on your phone \u2013 An awesome companion app for Grocy",
+   "pushed": "2026-08-25",
+   "archived": false
+  },
+  {
+   "full_name": "SourByte05/Vulnerability-Wiki-PoC",
+   "url": "https://github.com/SourByte05/Vulnerability-Wiki-PoC",
+   "stars": 1192,
+   "lang": "Python",
+   "desc": "\ud83d\ude80 2024-\u81f3\u4eca 1Day \u6f0f\u6d1e PoC \u6df1\u5ea6\u7814\u7a76\u4e0e\u590d\u73b0\u5f52\u6863\u3002\u6db5\u76d6 OA\u3001ERP\u3001\u5b89\u9632\u3001\u6570\u901a\u3001\u5927\u6a21\u578b\u53ca\u5bb9\u5668\u7b49 \u9ad8\u4ef7\u503c\u8d44\u4ea7\u6f0f\u6d1e\uff0c\u5b9e\u6218\u5bfc\u5411\uff0c\u52a9\u529b\u5b89\u5168\u7814\u7a76\u4e0e\u5408\u89c4\u68c0\u6d4b\u3002",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "puemos/craftplan",
+   "url": "https://github.com/puemos/craftplan",
+   "stars": 1154,
+   "lang": "Elixir",
+   "desc": "Self-hosted software for managing artisanal D2C micro-businesses",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "apache/ofbiz-framework",
+   "url": "https://github.com/apache/ofbiz-framework",
+   "stars": 1137,
+   "lang": "Java",
+   "desc": "Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Manageme",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "tegojs/tego",
+   "url": "https://github.com/tegojs/tego",
+   "stars": 1105,
+   "lang": "TypeScript",
+   "desc": "Tego is a pluggable Node.js framework for building customizable development platforms. It enables developers to create their own no-code/low-code systems or event-driven applications, while the core f",
+   "pushed": "2026-09-24",
+   "archived": false
+  },
+  {
+   "full_name": "getrebuild/rebuild",
+   "url": "https://github.com/getrebuild/rebuild",
+   "stars": 1088,
+   "lang": "Java",
+   "desc": "\u6700\u65b0\u7248\u5168\u9762\u652f\u6301AI\u667a\u80fd\uff01\u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u64cd\u4f5c\u4e1a\u52a1\u6570\u636e\uff0c\u652f\u6301 Skills/\u5de5\u5177/\u77e5\u8bc6\u5e93/MCP\u3002\u9ad8\u5ea6\u53ef\u914d\u7f6e\u5316\u7684\u56fd\u4ea7\u4f01\u4e1a\u7ba1\u7406\u7cfb\u7edf\uff0c\u4f01\u4e1a\u5185\u90e8\u53ef\u514d\u8d39\u5546\u7528\uff01\u96f6\u4ee3\u7801/\u4f4e\u4ee3\u7801\u5feb\u901f\u642d\u5efaWMS\u5e93\u5b58\u7ba1\u7406\u3001MES\u751f\u4ea7\u62a5\u5de5\u3001CRM\u5ba2\u6237\u7ba1\u7406\u3001HRM\u4eba\u4e8b\u7ba1\u7406\uff0c\u4ee5\u53ca TMS/ERP \u7b49",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "megagao/production_ssm",
+   "url": "https://github.com/megagao/production_ssm",
+   "stars": 1087,
+   "lang": "Java",
+   "desc": "\u8fd9\u662f\u4e00\u4e2aSSM\uff08Spring+SpringMVC+Mybatis\uff09+jQuery EasyUI\u5f00\u53d1\u7684ERP\u7cfb\u7edf\u3002",
+   "pushed": "2018-04-23",
+   "archived": false
+  },
+  {
+   "full_name": "datadrivenconstruction/OpenConstructionERP",
+   "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
+   "stars": 1016,
+   "lang": "TypeScript",
+   "desc": "Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching, 293 guided cases. 120,000+ priced positions, 44 languages, 190+ modules, cost data for 40+ markets. AGPL-3.0. pip install ope",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "totumonline/totum-mit",
+   "url": "https://github.com/totumonline/totum-mit",
+   "stars": 982,
+   "lang": "PHP",
+   "desc": "Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interf",
+   "pushed": "2026-05-30",
+   "archived": false
+  },
+  {
+   "full_name": "EmbeddedRPC/erpc",
+   "url": "https://github.com/EmbeddedRPC/erpc",
+   "stars": 962,
+   "lang": "C++",
+   "desc": "Embedded RPC",
+   "pushed": "2026-09-30",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/server-tools",
+   "url": "https://github.com/OCA/server-tools",
+   "stars": 962,
+   "lang": "Python",
+   "desc": "Tools for Odoo Administrators to improve some technical features on Odoo.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "w8123/EnterpriseAgentFramework",
+   "url": "https://github.com/w8123/EnterpriseAgentFramework",
+   "stars": 953,
+   "lang": "Java",
+   "desc": "ReachAI\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5f00\u53d1\u5e73\u53f0\uff1a\u5feb\u901f\u3001\u5b89\u5168\u5b8c\u6210\u5df2\u6709\u4e1a\u52a1\u7cfb\u7edf\u667a\u80fd\u5316\u6539\u9020\uff0c\u8ba9 AI \u5728 OA\u3001ERP\u3001CRM \u7b49\u539f\u7cfb\u7edf\u4e2d\u67e5\u6570\u636e\u3001\u586b\u8868\u5355\u3001\u529e\u4e1a\u52a1\u3002ReachAI: Quickly and securely bring AI to existing enterprise systems, enabling AI to query data, fill out forms, and execute bu",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "erpc-io/eRPC",
+   "url": "https://github.com/erpc-io/eRPC",
+   "stars": 911,
+   "lang": "C++",
+   "desc": "Efficient RPCs for datacenter networks",
+   "pushed": "2024-05-09",
+   "archived": false
+  },
+  {
+   "full_name": "openeducat/openeducat_erp",
+   "url": "https://github.com/openeducat/openeducat_erp",
+   "stars": 894,
+   "lang": "HTML",
+   "desc": "Comprehensive Open Source ERP for Educational Institutes",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "adempiere/adempiere",
+   "url": "https://github.com/adempiere/adempiere",
+   "stars": 888,
+   "lang": "Java",
+   "desc": "ADempiere Business Suite ERP/CRM/MFG/SCM/POS done the Bazaar way in an open and unabated fashion. Focus is on the Community that includes Subject Matter Specialists, Implementors and End-Users.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "abap2xlsx/abap2xlsx",
+   "url": "https://github.com/abap2xlsx/abap2xlsx",
+   "stars": 881,
+   "lang": "ABAP",
+   "desc": "Generate your professional Excel spreadsheet from ABAP",
+   "pushed": "2026-04-20",
+   "archived": false
+  },
+  {
+   "full_name": "inoerp/inoERP",
+   "url": "https://github.com/inoerp/inoERP",
+   "stars": 845,
+   "lang": "JavaScript",
+   "desc": "inoERP is an OneApp [ Go back-end & Flutter front-end ] based enterprise management system",
+   "pushed": "2023-06-28",
+   "archived": false
+  },
+  {
+   "full_name": "itcloudy/ERP",
+   "url": "https://github.com/itcloudy/ERP",
+   "stars": 828,
+   "lang": "Go",
+   "desc": "\u57fa\u4e8ebeego\u7684\u8fdb\u9500\u5b58\u7cfb\u7edf",
+   "pushed": "2022-12-07",
+   "archived": false
+  },
+  {
+   "full_name": "erpc/erpc",
+   "url": "https://github.com/erpc/erpc",
+   "stars": 793,
+   "lang": "Go",
+   "desc": "eRPC \u2014 fault-tolerant evm rpc proxy",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "HelpCode-ai/anythingmcp",
+   "url": "https://github.com/HelpCode-ai/anythingmcp",
+   "stars": 775,
+   "lang": "TypeScript",
+   "desc": "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 517 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "xaboy/form-builder",
+   "url": "https://github.com/xaboy/form-builder",
+   "stars": 760,
+   "lang": "PHP",
+   "desc": "\u597d\u7528\u7684PHP\u8868\u5355\u751f\u6210\u5668\uff0c\u5feb\u901f\u751f\u6210\u73b0\u4ee3\u5316\u7684form\u8868\u5355,\u652f\u6301\u524d\u540e\u7aef\u5206\u79bb\u3002\u5185\u7f6e17\u79cd\u5e38\u7528\u8868\u5355\u7ec4\u4ef6\u3002\u76ee\u524d\u5728\u653f\u52a1\u7cfb\u7edf\u3001OA\u7cfb\u7edf\u3001ERP\u7cfb\u7edf\u3001\u7535\u5546\u7cfb\u7edf\u3001\u6d41\u7a0b\u7ba1\u7406\u7b49\u7cfb\u7edf\u4e2d\u5df2\u7a33\u5b9a\u5e94\u7528\u3002",
+   "pushed": "2024-11-08",
+   "archived": false
+  },
+  {
+   "full_name": "samarth-p/College-ERP",
+   "url": "https://github.com/samarth-p/College-ERP",
+   "stars": 755,
+   "lang": "HTML",
+   "desc": "A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.",
+   "pushed": "2024-07-24",
+   "archived": false
+  },
+  {
+   "full_name": "kwonganding/winform.controls",
+   "url": "https://github.com/kwonganding/winform.controls",
+   "stars": 706,
+   "lang": "C#",
+   "desc": "\u5206\u4eab\u51e0\u5e74\u524d\u5f00\u53d1\u7684\u4e00\u5957winform\u63a7\u4ef6\u5e93\u3002\u5f53\u65f6\u4e3b\u8981\u4e3a\u5f00\u53d1\u516c\u53f8\u5185\u90e8ERP\u7cfb\u7edf\uff0c\u91cd\u65b0\u8bbe\u8ba1\u5b9e\u73b0\u4e86\u6240\u6709\u7528\u5230\u7684Winform\u7ec4\u5efa\uff0c\u5305\u62ecForm\u7a97\u4f53\u7ec4\u5efa6\u4e2a\uff08\u652f\u6301\u6362\u80a4\uff09\uff0c\u57fa\u7840\u63a7\u4ef625\u4e2a\u3002\u5176\u4e2d\u6709\u5f88\u591a\u53c2\u8003\u501f\u9274\u5176\u4ed6\u5f00\u6e90\u7ec4\u4ef6\uff0c\u4e5f\u6709\u51e0\u4e2a\u662f\u96c6\u6210\u7684\u522b\u4eba\u7684\u7ec4\u4ef6\uff0c\u7136\u540e\u505a\u4e86\u4e9b\u8c03\u6574\u3002  \u3000\u3000\u73b0\u5728\u5df2\u7ecf\u597d\u51e0\u5e74\u4e0d\u505aWinform\u5f00\u53d1\u4e86\uff0c\u6574\u7406\u4e00\u4e0b\u5171\u4eab\u51fa\u6765\uff0c\u5e0c\u671b\u80fd\u591f\u7ed9\u9700\u8981\u7684\u670b\u53cb\u4e00\u4e9b\u5e2e\u52a9\u3002",
+   "pushed": "2019-05-26",
+   "archived": false
+  },
+  {
+   "full_name": "wp-erp/wp-erp",
+   "url": "https://github.com/wp-erp/wp-erp",
+   "stars": 700,
+   "lang": "PHP",
+   "desc": "An open-source ERP (Enterprise Resource Planning) solution for WordPress",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "ishanvyas22/awesome-open-source-systems",
+   "url": "https://github.com/ishanvyas22/awesome-open-source-systems",
+   "stars": 673,
+   "lang": null,
+   "desc": ":sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).",
+   "pushed": "2026-06-04",
+   "archived": false
+  },
+  {
+   "full_name": "frappe/education",
+   "url": "https://github.com/frappe/education",
+   "stars": 672,
+   "lang": "Python",
+   "desc": "Open source education / school management system",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "idempiere/idempiere",
+   "url": "https://github.com/idempiere/idempiere",
+   "stars": 670,
+   "lang": "Java",
+   "desc": "iDempiere. Community Powered Enterprise.  Full Open Source Business Suite ERP/CRM/MFG/SCM/POS",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "weizhiqiang1995/erp-pro",
+   "url": "https://github.com/weizhiqiang1995/erp-pro",
+   "stars": 652,
+   "lang": "Java",
+   "desc": "Skyeye\u4e91\u96f6\u4ee3\u7801\uff0c\u91c7\u7528Springboot + UNI-APP + Ant Design Vue\u7684\u6846\u67b6\u7684\u5feb\u901f\u5f00\u53d1\u5e73\u53f0\u3002\u5305\u542b50\u591a\u79cd\u7535\u5b50\u6d41\u7a0b\uff0cCRM\u3001PM\u3001ERP\u3001MES\u3001ADM\u3001OA\u3001EHR\u3001AI\u3001\u9879\u76ee\u3001\u5546\u57ce\u3001\u8d22\u52a1\u3001\u591a\u73ed\u6b21\u8003\u52e4\u3001\u85aa\u8d44\u3001\u62db\u8058\u3001\u4e91\u552e\u540e\u3001\u8bba\u575b\u3001\u95ee\u5377\u3001\u62a5\u8868\u8bbe\u8ba1\u3001\u5de5\u4f5c\u6d41\u3001Saas\u7b49\u529f\u80fd\u3002\u6253\u9020\u5168\u7f51\u9996\u5957\u96f6\u4ee3\u7801\u3001\u529f\u80fd\u6700\u5168\u3001\u4ef7\u683c\u6700\u4f18\u60e0\u7684\u667a\u80fd\u5236\u9020\u884c\u4e1a\u4f9b\u5e94\u94fe\u4e00\u4f53\u5316\u7ba1\u7406\u8f6f\u4ef6\u3002",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "francoisjacquet/rosariosis",
+   "url": "https://github.com/francoisjacquet/rosariosis",
+   "stars": 647,
+   "lang": "PHP",
+   "desc": "RosarioSIS Student Information System for school management.",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "youyingxiang/Discover",
+   "url": "https://github.com/youyingxiang/Discover",
+   "stars": 629,
+   "lang": "PHP",
+   "desc": "Discover \u662f\u4e00\u4e2a\u57fa\u4e8e Dcat-admin \u5f00\u53d1\u7684\u8fdb\u9500\u5b58\u7cfb\u7edf",
+   "pushed": "2025-01-22",
+   "archived": false
+  },
+  {
+   "full_name": "Forceu/barcodebuddy",
+   "url": "https://github.com/Forceu/barcodebuddy",
+   "stars": 610,
+   "lang": "PHP",
+   "desc": "Barcode system for Grocy",
+   "pushed": "2026-09-25",
+   "archived": false
+  },
+  {
+   "full_name": "KoalixSwitzerland/koalixcrm",
+   "url": "https://github.com/KoalixSwitzerland/koalixcrm",
+   "stars": 587,
+   "lang": "Python",
+   "desc": "koalixcrm is an Open Source Python CRM and ERP based on django",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/l10n-spain",
+   "url": "https://github.com/OCA/l10n-spain",
+   "stars": 584,
+   "lang": "Python",
+   "desc": "Odoo Spain Localization",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ledgersmb/LedgerSMB",
+   "url": "https://github.com/ledgersmb/LedgerSMB",
+   "stars": 571,
+   "lang": "Perl",
+   "desc": "Double-entry accounting & ERP for the web",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "nclamvn/Viet-ERP",
+   "url": "https://github.com/nclamvn/Viet-ERP",
+   "stars": 562,
+   "lang": "TypeScript",
+   "desc": "VietERP Platform \u2014 Open-source ERP for Vietnamese enterprises",
+   "pushed": "2026-04-01",
+   "archived": false
+  },
+  {
+   "full_name": "earthians/marley",
+   "url": "https://github.com/earthians/marley",
+   "stars": 547,
+   "lang": "Python",
+   "desc": "Open Source, Enterprise and Modern Health Information System",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "shyamsitaula/samarium",
+   "url": "https://github.com/shyamsitaula/samarium",
+   "stars": 506,
+   "lang": "Blade",
+   "desc": "Open-source business management system with ERP, POS, invoicing, and CMS features. Laravel-based, Docker-ready. Still in active development.",
+   "pushed": "2026-05-20",
+   "archived": false
+  },
+  {
+   "full_name": "mastreeno/Merp",
+   "url": "https://github.com/mastreeno/Merp",
+   "stars": 503,
+   "lang": "C#",
+   "desc": "An event based Micro ERP",
+   "pushed": "2023-06-16",
+   "archived": false
+  },
+  {
+   "full_name": "cyq1162/Aries",
+   "url": "https://github.com/cyq1162/Aries",
+   "stars": 502,
+   "lang": "JavaScript",
+   "desc": ".NET Develop Framework\uff08\u9002\u5408\u573a\u666f\uff1a\u4e1a\u52a1\u7cfb\u7edf\u3001\u4fe1\u606f\u7cfb\u7edf\u3001\u7ba1\u7406\u7cfb\u7edf\u3001ERP\uff0c\u542b\u5de5\u4f5c\u6d41\uff0c\u652f\u6301.NET Core\uff09",
+   "pushed": "2024-07-03",
+   "archived": false
+  },
+  {
+   "full_name": "NeoRazorX/facturascripts",
+   "url": "https://github.com/NeoRazorX/facturascripts",
+   "stars": 500,
+   "lang": "PHP",
+   "desc": "Open source ERP software. Built on modern PHP and bootstrap. Easy and powerful.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "ekylibre/ekylibre",
+   "url": "https://github.com/ekylibre/ekylibre",
+   "stars": 494,
+   "lang": "Ruby",
+   "desc": "Open source Farm management Information System (FMIS) -  Connecting farms to the world",
+   "pushed": "2026-10-11",
+   "archived": false
+  },
+  {
+   "full_name": "iota-uz/iota-sdk",
+   "url": "https://github.com/iota-uz/iota-sdk",
+   "stars": 473,
+   "lang": "Go",
+   "desc": "IOTA-SDK - is an open-source modular ERP. An alternative to SAP, Oracle, Odoo written in Go with modern look & feel",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "thiagopena/djangoSIGE",
+   "url": "https://github.com/thiagopena/djangoSIGE",
+   "stars": 470,
+   "lang": "Python",
+   "desc": "Sistema Integrado de Gest\u00e3o Empresarial baseado em Django",
+   "pushed": "2026-10-06",
+   "archived": false
+  },
+  {
+   "full_name": "hexya-erp/hexya",
+   "url": "https://github.com/hexya-erp/hexya",
+   "stars": 463,
+   "lang": "Go",
+   "desc": "Hexya business application development framework",
+   "pushed": "2026-09-26",
+   "archived": false
+  },
+  {
+   "full_name": "hassio-addons/app-grocy",
+   "url": "https://github.com/hassio-addons/app-grocy",
+   "stars": 461,
+   "lang": "Dockerfile",
+   "desc": "Grocy - Home Assistant Community Apps",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "linuxserver/docker-grocy",
+   "url": "https://github.com/linuxserver/docker-grocy",
+   "stars": 445,
+   "lang": "Dockerfile",
+   "desc": "A container for grocy - the ERP application for your kitchen https://grocy.info",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/account-financial-tools",
+   "url": "https://github.com/OCA/account-financial-tools",
+   "stars": 442,
+   "lang": "Python",
+   "desc": "Odoo Accountant Financial Tools and Utils",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Zakarialabib/myStockMaster",
+   "url": "https://github.com/Zakarialabib/myStockMaster",
+   "stars": 440,
+   "lang": "PHP",
+   "desc": "Your All-in-One Inventory and ERP Management with Laravel TALLSTACK",
+   "pushed": "2026-08-15",
+   "archived": false
+  },
+  {
+   "full_name": "yuqing2026/ruoyi-office",
+   "url": "https://github.com/yuqing2026/ruoyi-office",
+   "stars": 439,
+   "lang": "Java",
+   "desc": "\ud83d\udd25\ud83d\udd25\ud83d\udd25RuoYi Office \u57fa\u4e8e SpringCloud+Vue3+Vben \u7684\u4e2d\u5c0f\u4f01\u4e1a\u529e\u516c\u4e00\u4f53\u5316\u5e73\u53f0\uff0c\u6db5\u76d6 \u2502\ud83c\udfe2 OA\u534f\u540c\u529e\u516c \u2502\ud83d\udcbc HRM\u4eba\u529b\u8d44\u6e90 \u2502\ud83e\udd1d CRM\u5ba2\u6237\u7ba1\u7406 \u2502\ud83d\udccb BPM\u5ba1\u6279\u6d41 \u2502\ud83d\udecd\ufe0f ERP\u8fdb\u9500\u5b58 \u2502\ud83d\udcd1 \u5408\u540c\u7ba1\u7406 \u2502\ud83d\udcca PMS\u9879\u76ee\u7ba1\u7406 \u2502\ud83c\udfed EAM\u8d44\u4ea7 \u2502\ud83d\udce6 WMS\u4ed3\u50a8 \u2502\u2699\ufe0f MES\u5236\u9020\u6267\u884c \u2502\ud83d\udcb0 \u8d22\u52a1\u7ba1\u7406 \u2502\ud83d\udce1 IoT\u7269\u8054\u7f51 \u2502\ud83d\udee0\ufe0f \u5de5\u5355\u7ba1\u7406 \u2502\ud83d\uded2 MALL\u5546\u57ce \u2502\ud83e\udd16 A",
+   "pushed": "2026-04-06",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/reporting-engine",
+   "url": "https://github.com/OCA/reporting-engine",
+   "stars": 437,
+   "lang": "HTML",
+   "desc": "Odoo Alternative Reporting Engine",
+   "pushed": "2026-10-10",
+   "archived": false
+  },
+  {
+   "full_name": "Allenxuxu/mogutouERP",
+   "url": "https://github.com/Allenxuxu/mogutouERP",
+   "stars": 429,
+   "lang": "Vue",
+   "desc": "\u8f7b\u8fdb\u5b58\u9500\u7ba1\u7406\u7cfb\u7edf",
+   "pushed": "2024-10-24",
+   "archived": false
+  },
+  {
+   "full_name": "erp-mafia/accounted",
+   "url": "https://github.com/erp-mafia/accounted",
+   "stars": 426,
+   "lang": "TypeScript",
+   "desc": "The Open Source ERP Built for Agents",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/project",
+   "url": "https://github.com/OCA/project",
+   "stars": 424,
+   "lang": "HTML",
+   "desc": "Odoo Project Management and Services Company Addons",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/stock-logistics-warehouse",
+   "url": "https://github.com/OCA/stock-logistics-warehouse",
+   "stars": 419,
+   "lang": "Python",
+   "desc": "Odoo Warehouse Management Addons",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/sale-workflow",
+   "url": "https://github.com/OCA/sale-workflow",
+   "stars": 418,
+   "lang": "HTML",
+   "desc": "Odoo Sales, Workflow and Organization",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "DeepBCI/Deep-BCI",
+   "url": "https://github.com/DeepBCI/Deep-BCI",
+   "stars": 417,
+   "lang": "C",
+   "desc": "An open software package to develop BCI based brain and cognitive computing technology for recognizing user's intention using deep learning",
+   "pushed": "2024-02-27",
+   "archived": false
+  },
+  {
+   "full_name": "SeuAliado/OpenCEP",
+   "url": "https://github.com/SeuAliado/OpenCEP",
+   "stars": 415,
+   "lang": null,
+   "desc": "WebService com Gateway de CEP Gr\u00e1tis para E-Commerce, ERP, NFe!",
+   "pushed": "2024-07-08",
+   "archived": false
+  },
+  {
+   "full_name": "Justin-lu/react-redux-antd",
+   "url": "https://github.com/Justin-lu/react-redux-antd",
+   "stars": 413,
+   "lang": "JavaScript",
+   "desc": "react redux for CMS/Enterprise class App/ERP/Admin with ant-design",
+   "pushed": "2024-08-01",
+   "archived": false
+  },
+  {
+   "full_name": "ivnvxd/mcp-server-odoo",
+   "url": "https://github.com/ivnvxd/mcp-server-odoo",
+   "stars": 405,
+   "lang": "Python",
+   "desc": "Model Context Protocol (MCP) server that enables AI assistants to securely interact with Odoo ERP systems through standardized resources and tools for data retrieval and manipulation.",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "ury-erp/ury",
+   "url": "https://github.com/ury-erp/ury",
+   "stars": 393,
+   "lang": "TypeScript",
+   "desc": "URY - FOSS restaurant management system super powered by ERPNext.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "RamezIssac/django-erp-framework",
+   "url": "https://github.com/RamezIssac/django-erp-framework",
+   "stars": 392,
+   "lang": "Python",
+   "desc": "A Django based framework to create diverse business solutions, equipped with a reporting engine with charts, widgets system , a custom admin site and other goodies",
+   "pushed": "2026-10-14",
+   "archived": false
+  },
+  {
+   "full_name": "grocy/grocy-desktop",
+   "url": "https://github.com/grocy/grocy-desktop",
+   "stars": 388,
+   "lang": "C#",
+   "desc": "A (Windows) desktop application wrapper for https://github.com/grocy/grocy",
+   "pushed": "2026-09-04",
+   "archived": false
+  },
+  {
+   "full_name": "OCA/rest-framework",
+   "url": "https://github.com/OCA/rest-framework",
+   "stars": 386,
+   "lang": "Python",
+   "desc": "",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "flexcomng/erpnext_quick_install",
+   "url": "https://github.com/flexcomng/erpnext_quick_install",
+   "stars": 382,
+   "lang": "Shell",
+   "desc": "Unattended install script for ERPNext Versions, 13 to 16",
+   "pushed": "2026-10-04",
+   "archived": false
+  },
+  {
+   "full_name": "redragon1985/redragon-erp",
+   "url": "https://github.com/redragon1985/redragon-erp",
+   "stars": 370,
+   "lang": "Java",
+   "desc": "Redragon ERP aims to provide a free, open source, business-satisfied, flexible and stable ERP management system for small and micro enterprises",
+   "pushed": "2024-03-08",
+   "archived": false
+  },
+  {
+   "full_name": "ilscipio/scipio-erp",
+   "url": "https://github.com/ilscipio/scipio-erp",
+   "stars": 369,
+   "lang": "Java",
+   "desc": "A scalable large-scale eCommerce framework that is made for multinational omnichannel installations and is easy to customize.",
+   "pushed": "2026-10-21",
+   "archived": false
+  }
+ ]
+}

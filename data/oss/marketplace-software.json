@@ -1,0 +1,790 @@
+{
+ "query": "marketplace+platform",
+ "total_count": 15704,
+ "items": [
+  {
+   "full_name": "bagisto/bagisto",
+   "url": "https://github.com/bagisto/bagisto",
+   "stars": 28270,
+   "lang": "PHP",
+   "desc": "Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "spree/spree",
+   "url": "https://github.com/spree/spree",
+   "stars": 15769,
+   "lang": "Ruby",
+   "desc": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platfo",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "reactioncommerce/reaction",
+   "url": "https://github.com/reactioncommerce/reaction",
+   "stars": 12399,
+   "lang": "JavaScript",
+   "desc": "Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.",
+   "pushed": "2026-03-01"
+  },
+  {
+   "full_name": "unicity-sphere/sphere",
+   "url": "https://github.com/unicity-sphere/sphere",
+   "stars": 9626,
+   "lang": "TypeScript",
+   "desc": "A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace.",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "jeremylongshore/tons-of-skills-marketplace",
+   "url": "https://github.com/jeremylongshore/tons-of-skills-marketplace",
+   "stars": 2858,
+   "lang": "Python",
+   "desc": "Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "sharetribe/sharetribe",
+   "url": "https://github.com/sharetribe/sharetribe",
+   "stars": 2448,
+   "lang": "Ruby",
+   "desc": "Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.",
+   "pushed": "2026-05-11"
+  },
+  {
+   "full_name": "FrancyJGLisboa/agent-skills-platform",
+   "url": "https://github.com/FrancyJGLisboa/agent-skills-platform",
+   "stars": 2407,
+   "lang": "Python",
+   "desc": "Build tested agent skills and govern their lifecycle through a user-defined marketplace: evidence, discovery, updates, rollback, quarantine, and 17-platform distribution.",
+   "pushed": "2026-09-15"
+  },
+  {
+   "full_name": "Websoft9/websoft9",
+   "url": "https://github.com/Websoft9/websoft9",
+   "stars": 2131,
+   "lang": "TypeScript",
+   "desc": "Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "beikeshop/beikeshop",
+   "url": "https://github.com/beikeshop/beikeshop",
+   "stars": 1980,
+   "lang": "PHP",
+   "desc": "Free and Open-Source, Easy-to-Use Laravel eCommerce Platform,It supports multiple languages and currencies, Integrates AI agents and MCP.The platform features customizable visual design and a rich plu",
+   "pushed": "2026-10-16"
+  },
+  {
+   "full_name": "yint-tech/sekiro-open",
+   "url": "https://github.com/yint-tech/sekiro-open",
+   "stars": 1912,
+   "lang": "Java",
+   "desc": "SEKIRO is a multi-language, distributed, network topology-independent service publishing platform. By writing handlers in their respective languages, functionalities can be published to the central AP",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "ever-co/ever-demand",
+   "url": "https://github.com/ever-co/ever-demand",
+   "stars": 1867,
+   "lang": "TypeScript",
+   "desc": "Ever\u00ae Demand\u2122 - Open Commerce Platform - https://everdemand.co",
+   "pushed": "2026-09-27"
+  },
+  {
+   "full_name": "mercurjs/mercur",
+   "url": "https://github.com/mercurjs/mercur",
+   "stars": 1861,
+   "lang": "TypeScript",
+   "desc": "The complete open source platform to run your entire marketplace. Storefront, vendor panel, admin console, and integrations in one enterprise-grade platform you own.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "openilink/openilink-hub",
+   "url": "https://github.com/openilink/openilink-hub",
+   "stars": 1594,
+   "lang": "Go",
+   "desc": "\u5f00\u6e90\u5fae\u4fe1 Bot \u7ba1\u7406\u5e73\u53f0 + App \u5e94\u7528\u5e02\u573a | Self-hosted WeChat Bot Platform with App Marketplace | Lark \u00b7 Slack \u00b7 Discord \u00b7 DingTalk \u00b7 GitHub \u00b7 Notion \u00b7 20+ Apps | AI Tools | 7 Language SDKs",
+   "pushed": "2026-06-18"
+  },
+  {
+   "full_name": "enatega/food-delivery-multivendor",
+   "url": "https://github.com/enatega/food-delivery-multivendor",
+   "stars": 1404,
+   "lang": "TypeScript",
+   "desc": "Enatega is a fully customizable and scalable delivery management system that supports multiple business models and service verticals. It allows you to launch and manage your own ordering and logistics",
+   "pushed": "2026-10-07"
+  },
+  {
+   "full_name": "moyangzhan/langchain4j-aideepin",
+   "url": "https://github.com/moyangzhan/langchain4j-aideepin",
+   "stars": 1383,
+   "lang": "Java",
+   "desc": "AI \u5e94\u7528\u5e73\u53f0\uff08\u804a\u5929\u3001\u7ed8\u753b\u3001\u77e5\u8bc6\u5e93\u3001\u5de5\u4f5c\u6d41\u3001 MCP\u670d\u52a1\u5e02\u573a\u3001\u8bed\u97f3\u8f93\u5165\u8f93\u51fa\u3001\u957f\u671f\u8bb0\u5fc6\uff09 | AI application platform (Chat,Draw,RAG,Workflow,MCP marketplace, ASR,TTS, Long-term memory etc)",
+   "pushed": "2026-10-09"
+  },
+  {
+   "full_name": "grandnode/grandnode2",
+   "url": "https://github.com/grandnode/grandnode2",
+   "stars": 1336,
+   "lang": "C#",
+   "desc": "Open-source eCommerce platform for C# and ASP.NET Core 10 with MongoDB. Build multi-store shops and multi-vendor marketplaces with B2B/B2C, REST API, plugins, Vue 3 and Docker.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "higress-group/himarket",
+   "url": "https://github.com/higress-group/himarket",
+   "stars": 1313,
+   "lang": "Java",
+   "desc": "HiMarket is an enterprise-level \"AI Capability Marketplace and Developer Ecosystem Hub.\" It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, p",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "tanshuai/alphabiz",
+   "url": "https://github.com/tanshuai/alphabiz",
+   "stars": 1215,
+   "lang": "JavaScript",
+   "desc": "Web3 YouTube Alternative - fully decentralized media platform and blockchain-based marketplace",
+   "pushed": "2026-10-11"
+  },
+  {
+   "full_name": "microsoft/power-platform-skills",
+   "url": "https://github.com/microsoft/power-platform-skills",
+   "stars": 1042,
+   "lang": "JavaScript",
+   "desc": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "Cocolabs-SAS/cocorico",
+   "url": "https://github.com/Cocolabs-SAS/cocorico",
+   "stars": 873,
+   "lang": "PHP",
+   "desc": "\ud83d\ude80 Cocorico has evolved into Second (www.scnd.com) - a powerful, scalable, and enterprise-ready solution built specifically for advanced service and rental marketplaces. \ud83c\udf1f Second delivers enhanced feat",
+   "pushed": "2021-10-19"
+  },
+  {
+   "full_name": "marketplacekit/marketplacekit",
+   "url": "https://github.com/marketplacekit/marketplacekit",
+   "stars": 822,
+   "lang": "PHP",
+   "desc": "A platform to create an online marketplace",
+   "pushed": "2023-01-05"
+  },
+  {
+   "full_name": "stripe/stripe-connect-rocketrides",
+   "url": "https://github.com/stripe/stripe-connect-rocketrides",
+   "stars": 653,
+   "lang": "Swift",
+   "desc": "Sample on-demand platform built on Stripe: Connect onboarding for pilots, iOS app for passengers to request rides.",
+   "pushed": "2024-03-13"
+  },
+  {
+   "full_name": "coopcycle/coopcycle-web",
+   "url": "https://github.com/coopcycle/coopcycle-web",
+   "stars": 605,
+   "lang": "PHP",
+   "desc": "Logistics & marketplace platform. Only for worker-owned business.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "nft-api/nft-api",
+   "url": "https://github.com/nft-api/nft-api",
+   "stars": 544,
+   "lang": null,
+   "desc": "The Moralis NFT API: Your ultimate ally for top-tier NFT dApps. Build gaming platforms, secure wallets, bustling marketplaces, analytics tools, dazzling dashboards, and more with ease. Unlock your NFT",
+   "pushed": "2023-10-04"
+  },
+  {
+   "full_name": "open-condo-software/condo",
+   "url": "https://github.com/open-condo-software/condo",
+   "stars": 424,
+   "lang": "JavaScript",
+   "desc": "Condo is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while off",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Kooboo/Kooboo",
+   "url": "https://github.com/Kooboo/Kooboo",
+   "stars": 345,
+   "lang": "JavaScript",
+   "desc": "High-performance platform for building websites, e-commerce, and web applications\u2014with Native AI, JavaScript development, and a marketplace for portable sites and apps.",
+   "pushed": "2026-10-14"
+  },
+  {
+   "full_name": "stelace/stelace",
+   "url": "https://github.com/stelace/stelace",
+   "stars": 317,
+   "lang": "JavaScript",
+   "desc": "Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS\u2026 \u26a1 :computer:",
+   "pushed": "2024-02-10"
+  },
+  {
+   "full_name": "xiaodou-official/xiaodou-market",
+   "url": "https://github.com/xiaodou-official/xiaodou-market",
+   "stars": 307,
+   "lang": null,
+   "desc": "\u5c0f\u8c46\u96c6\u5e02\uff5c\u6570\u5b57\u5546\u54c1\u4ea4\u6613\u5e73\u53f0\uff1a\u53d1\u5361\u5bc4\u552e\u3001\u5361\u5bc6\u5e73\u53f0\u3001\u865a\u62df\u53d1\u5361\u3001\u5bc4\u552e\u7f51\u300224 \u5c0f\u65f6\u53d1\u5361\u5e73\u53f0\u3001\u5361\u5bc6\u81ea\u52a8\u53d1\u8d27\uff1b\u865a\u62df\u5546\u54c1\u5bc4\u552e\u514d\u8d39\u5f00\u5e97\uff0c\u4e70\u5bb6\u514d\u6ce8\u518c\uff0c\u652f\u4ed8\u5b9d\u3001\u5fae\u4fe1\u6536\u6b3e\uff08\u652f\u4ed8\u5b9d\u5185\u53ef\u9009\u82b1\u5457/\u4fe1\u7528\u5361\uff0c\u5fae\u4fe1\u5185\u53ef\u9009\u4fe1\u7528\u5361\uff09\uff0c\u6301\u724c\u673a\u6784\u6e05\u7b97\u3001\u6b21\u65e5\u4e2d\u5348\u524d\u5230\u8d26\uff08\u542b\u8282\u5047\u65e5\uff09\u3002Digital-goods marketplace with auto-delivery, digital-goods consignment, faka pl",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "getdokan/dokan",
+   "url": "https://github.com/getdokan/dokan",
+   "stars": 287,
+   "lang": "TypeScript",
+   "desc": "Multivendor marketplace platform for WordPress",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Sfedfcv/redesigned-pancake",
+   "url": "https://github.com/Sfedfcv/redesigned-pancake",
+   "stars": 268,
+   "lang": null,
+   "desc": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration",
+   "pushed": "2021-05-16"
+  },
+  {
+   "full_name": "sonnysangha/ticket-marketplace-saas-nextjs15-convex-clerk-stripe-connect",
+   "url": "https://github.com/sonnysangha/ticket-marketplace-saas-nextjs15-convex-clerk-stripe-connect",
+   "stars": 220,
+   "lang": "TypeScript",
+   "desc": "Modern event ticketing platform with real-time queuing and instant payments. Built with Next.js 14, Convex, Clerk, and Stripe Connect. Features include smart waiting lists, automatic refunds, rate lim",
+   "pushed": "2024-11-21"
+  },
+  {
+   "full_name": "worknenjoy/gitpay",
+   "url": "https://github.com/worknenjoy/gitpay",
+   "stars": 217,
+   "lang": "TypeScript",
+   "desc": "The payment platform for work delivered.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Rito-w/skills-manager",
+   "url": "https://github.com/Rito-w/skills-manager",
+   "stars": 196,
+   "lang": "Vue",
+   "desc": "A cross-platform skills manager for AI IDEs. Search marketplace, download locally, and install to Claude, Cursor, Windsurf, and more with one click.",
+   "pushed": "2026-07-04"
+  },
+  {
+   "full_name": "xpack-ai/XPack-MCP-Marketplace",
+   "url": "https://github.com/xpack-ai/XPack-MCP-Marketplace",
+   "stars": 173,
+   "lang": "TypeScript",
+   "desc": "The world\u2019s first open-source MCP monetization platform, to quickly create and sell your own MCP server in just minutes. | XPack \u662f\u5168\u7403\u9996\u4e2a\u5f00\u6e90 MCP \u4ea4\u6613\u5e73\u53f0\uff0c\u5e2e\u52a9\u4f60\u572810\u5206\u949f\u5185\u5feb\u901f\u642d\u5efa\u81ea\u5df1\u7684 MCP \u5546\u5e97\u5e76\u7acb\u523b\u5f00\u59cb\u9500\u552e MCP \u670d\u52a1\u3002",
+   "pushed": "2026-05-18"
+  },
+  {
+   "full_name": "mobazha/mobazha",
+   "url": "https://github.com/mobazha/mobazha",
+   "stars": 173,
+   "lang": "Go",
+   "desc": "Open-source peer-to-peer commerce platform for storefronts, marketplaces, orders, and crypto payments.",
+   "pushed": "2026-09-14"
+  },
+  {
+   "full_name": "hugoattal/OrbitalMarket",
+   "url": "https://github.com/hugoattal/OrbitalMarket",
+   "stars": 161,
+   "lang": "Vue",
+   "desc": "Enhanced marketplace platform for the Unreal Engine marketplace",
+   "pushed": "2026-06-17"
+  },
+  {
+   "full_name": "up42/up42-py",
+   "url": "https://github.com/up42/up42-py",
+   "stars": 144,
+   "lang": "Python",
+   "desc": ":earth_americas: Python SDK for UP42, the geospatial marketplace and developer platform.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "mergeos-bounties/mergeos",
+   "url": "https://github.com/mergeos-bounties/mergeos",
+   "stars": 139,
+   "lang": "Vue",
+   "desc": "MergeOS \u2014 bounty marketplace, ledger, scan, and agent protocol platform",
+   "pushed": "2026-07-21"
+  },
+  {
+   "full_name": "stelace/marketplace-demo",
+   "url": "https://github.com/stelace/marketplace-demo",
+   "stars": 134,
+   "lang": "Vue",
+   "desc": "Open-source marketplace front-end powered by Stelace API including search, platform automation, user management, transactions, real-time messaging, ratings and much more :zap:",
+   "pushed": "2023-11-28"
+  },
+  {
+   "full_name": "ashleshsortee/festival-marketplace",
+   "url": "https://github.com/ashleshsortee/festival-marketplace",
+   "stars": 130,
+   "lang": "JavaScript",
+   "desc": "An end-to-end blockchain based NFT platform for festival ticket booking and ticket reselling between trustless parties.",
+   "pushed": "2021-03-10"
+  },
+  {
+   "full_name": "ulamlabs/OpenNFT",
+   "url": "https://github.com/ulamlabs/OpenNFT",
+   "stars": 114,
+   "lang": "Vue",
+   "desc": "Cloud-native platform for building an NFT Marketplace on top of Algorand blockchain.",
+   "pushed": "2023-02-06"
+  },
+  {
+   "full_name": "FundRequest/platform",
+   "url": "https://github.com/FundRequest/platform",
+   "stars": 111,
+   "lang": "Java",
+   "desc": "FundRequest platform code (core)",
+   "pushed": "2022-12-06"
+  },
+  {
+   "full_name": "carina0074/sellertransparencyhub",
+   "url": "https://github.com/carina0074/sellertransparencyhub",
+   "stars": 111,
+   "lang": "TypeScript",
+   "desc": "Independent research platform tracking marketplace fees, seller policies, and transparency across major e-commerce platforms.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "cowinapi/developer.cowin",
+   "url": "https://github.com/cowinapi/developer.cowin",
+   "stars": 111,
+   "lang": null,
+   "desc": "This group is created to facilitate technical and integration discussions related to cowin platform. API related contents can be obtained at API setu portal https://apisetu.gov.in/public/marketplace/a",
+   "pushed": "2021-05-03"
+  },
+  {
+   "full_name": "microgift/my-web3-projects",
+   "url": "https://github.com/microgift/my-web3-projects",
+   "stars": 111,
+   "lang": "Rust",
+   "desc": "Blockchain projects(+ smart contract) - DeFi, DEX, NFT(+ pnft, cnt, xnft), minting, staking, raffle/auction, marketplace, launchpad, nft lend/borrow platform, P2E(coinflip, crash, poker) on Solana, EV",
+   "pushed": "2025-05-26"
+  },
+  {
+   "full_name": "RicardoGEsteves/next-digital-marketplace",
+   "url": "https://github.com/RicardoGEsteves/next-digital-marketplace",
+   "stars": 94,
+   "lang": "TypeScript",
+   "desc": "Digital marketplace it's a next.js full stack application (e-commerce platform). Digital Marketplace is a sophisticated full-stack e-commerce platform designed to deliver a seamless shopping experienc",
+   "pushed": "2026-10-20"
+  },
+  {
+   "full_name": "GoogleCloudPlatform/datashare-toolkit",
+   "url": "https://github.com/GoogleCloudPlatform/datashare-toolkit",
+   "stars": 94,
+   "lang": "JavaScript",
+   "desc": "DIY commercial datasets on Google Cloud Platform",
+   "pushed": "2026-06-20"
+  },
+  {
+   "full_name": "agriya/burrow",
+   "url": "https://github.com/agriya/burrow",
+   "stars": 83,
+   "lang": "PHP",
+   "desc": "ReserveLogic is an online booking platform / software for Real estate marketplace (Realty marketplace), Rental booking, Room sharing, Hotel booking, Office/Parking Space sharing, Car sharing, Bike sha",
+   "pushed": "2023-10-27"
+  },
+  {
+   "full_name": "vinaysanwal/thecodersgig",
+   "url": "https://github.com/vinaysanwal/thecodersgig",
+   "stars": 83,
+   "lang": "JavaScript",
+   "desc": "TheCodersGig is a AI Powered open source platform for devs where they can connect and discuss technology . It will be having integrated utility marketplace where devs can create utility plugins in a e",
+   "pushed": "2026-02-26"
+  },
+  {
+   "full_name": "dh-orko/Help-me-get-rid-of-unhumans",
+   "url": "https://github.com/dh-orko/Help-me-get-rid-of-unhumans",
+   "stars": 82,
+   "lang": null,
+   "desc": "/* JS */ gapi.loaded_0(function(_){var window=this; var ha,ia,ja,ma,sa,na,ta,ya,Ja;_.ea=function(a){return function(){return _.da[a].apply(this,arguments)}};_._DumpException=function(a){throw a;};_.da",
+   "pushed": "2023-08-20"
+  },
+  {
+   "full_name": "Rastaman4e/-1",
+   "url": "https://github.com/Rastaman4e/-1",
+   "stars": 78,
+   "lang": null,
+   "desc": "NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE   PLEASE READ THESE NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE (\u201cTerms\u201d) CAREFULLY BEFORE USING THE THE PLA",
+   "pushed": "2021-04-16"
+  },
+  {
+   "full_name": "coralsio/laraship",
+   "url": "https://github.com/coralsio/laraship",
+   "stars": 74,
+   "lang": "PHP",
+   "desc": "Laraship is a Platform built on Laravel for Rapid Development, it helps Agents, Startups, and even individuals to save time building their Web Applications and websites using well-structured code.",
+   "pushed": "2026-09-29"
+  },
+  {
+   "full_name": "openmvm/OpenMVM",
+   "url": "https://github.com/openmvm/OpenMVM",
+   "stars": 68,
+   "lang": "PHP",
+   "desc": "OpenMVM is an open-source multi-vendor e-commerce marketplace platform.",
+   "pushed": "2023-01-02"
+  },
+  {
+   "full_name": "mageplaza/magento-2-sample-payment-method",
+   "url": "https://github.com/mageplaza/magento-2-sample-payment-method",
+   "stars": 63,
+   "lang": "PHP",
+   "desc": "Magento 2 Create Payment Method proves that store admin has rights to generate as many payment methods as they need when your store is based on Magento 2 platform, an great era of ecommerce architectu",
+   "pushed": "2018-07-14"
+  },
+  {
+   "full_name": "ziauldin123/django-ecommerce-B2B2C",
+   "url": "https://github.com/ziauldin123/django-ecommerce-B2B2C",
+   "stars": 60,
+   "lang": "CSS",
+   "desc": "Python Django ecommerce b2b & b2c is an online marketplace tailored for both retailers and wholesalers. Built on the robust Django framework, this platform combines the power of E-commerce with effici",
+   "pushed": "2025-08-02"
+  },
+  {
+   "full_name": "ErisPulse/ErisPulse",
+   "url": "https://github.com/ErisPulse/ErisPulse",
+   "stars": 58,
+   "lang": "Python",
+   "desc": "Event-driven multi-platform bot framework with Dashboard, Docker, hot-reload & module marketplace | \u4e8b\u4ef6\u9a71\u52a8\u7684\u591a\u5e73\u53f0\u673a\u5668\u4eba\u6846\u67b6 \u2014 \u4e00\u6b21\u7f16\u5199\u90e8\u7f72 QQ/Telegram/Kook/\u4e91\u6e56/Matrix/\u90ae\u4ef6\u7b49 15+ \u5e73\u53f0",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "agriya/bookorrent",
+   "url": "https://github.com/agriya/bookorrent",
+   "stars": 57,
+   "lang": "PHP",
+   "desc": "BookorRent is an open source online platform for booking and rental marketplace sites. Book or rent anything--events, services, spaces, or anything. Ideal for events booking with tickets, tuition mark",
+   "pushed": "2019-06-24"
+  },
+  {
+   "full_name": "Mahaselvan/farmfresh-hubs",
+   "url": "https://github.com/Mahaselvan/farmfresh-hubs",
+   "stars": 51,
+   "lang": "JavaScript",
+   "desc": "\ud83c\udf3f Built FarmFresh Hubs \u2013 A MERN Stack AgriTech Platform  A full-stack application integrating: \u2022 Cold storage booking \u2022 QR-based lot traceability \u2022 Marketplace with cart & checkout \u2022 Role-based dashbo",
+   "pushed": "2026-10-18"
+  },
+  {
+   "full_name": "BabyJ723/blast-ON",
+   "url": "https://github.com/BabyJ723/blast-ON",
+   "stars": 50,
+   "lang": null,
+   "desc": "# Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  # [<img src=\"https://www",
+   "pushed": "2021-09-04"
+  },
+  {
+   "full_name": "openlinker-project/openlinker",
+   "url": "https://github.com/openlinker-project/openlinker",
+   "stars": 49,
+   "lang": "TypeScript",
+   "desc": "Self-hosted, API-first e-commerce orchestration platform \u2014 sync products, inventory, and orders across any marketplace.",
+   "pushed": "2026-10-19"
+  },
+  {
+   "full_name": "OpenCSGs/csglite",
+   "url": "https://github.com/OpenCSGs/csglite",
+   "stars": 49,
+   "lang": "Go",
+   "desc": "CSGLite is a lightweight local LLM inference platform. One command downloads, loads, and chats with models. It   ships a web UI, OpenAI-compatible API, llama.cpp inference, resumable downloads, market",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "worknenjoy/truppie",
+   "url": "https://github.com/worknenjoy/truppie",
+   "stars": 48,
+   "lang": "JavaScript",
+   "desc": "The marketplace for adventures",
+   "pushed": "2023-01-03"
+  },
+  {
+   "full_name": "paypal/mirakl-hyperwallet-connector",
+   "url": "https://github.com/paypal/mirakl-hyperwallet-connector",
+   "stars": 44,
+   "lang": "Java",
+   "desc": "The Hyperwallet Mirakl Connector (HMC) is a self-hosted solution that mediates between a Mirakl marketplace solution and the Hyperwallet (PayPal) payout platform.",
+   "pushed": "2026-09-24"
+  },
+  {
+   "full_name": "Hazrat-Ali9/Ama-zon",
+   "url": "https://github.com/Hazrat-Ali9/Ama-zon",
+   "stars": 44,
+   "lang": "JavaScript",
+   "desc": "\u26bd Amazon \u26be is \ud83d\udc33  a \ud83e\udd8a full \ud83e\udd4e featured e \ud83c\udfc0 commerce \ud83c\udfd0 platform \ud83c\udfc8 inspired \ud83c\udfb3 by \ud83e\udd81 modern \ud83c\udfc9 online \ud83c\udfc6 marketplaces \ud83c\udfae It delivers \u26f8 a  \ud83e\udeb2smooth \ud83d\ude83 fast \ud83d\ude82 and \ud83d\ude9d secure \ud83d\ude8b shopping \ud83d\udee9 experience \ud83d\udeec with a  \ud83e\udda5focus",
+   "pushed": "2025-11-20"
+  },
+  {
+   "full_name": "dotclaude/marketplace",
+   "url": "https://github.com/dotclaude/marketplace",
+   "stars": 43,
+   "lang": "Python",
+   "desc": "DotClaude Plugin Marketplace - Revolutionary AI interaction platform for Claude Code",
+   "pushed": "2026-04-07"
+  },
+  {
+   "full_name": "Trustdev-eth/Trustdev-Web3-Portfolio",
+   "url": "https://github.com/Trustdev-eth/Trustdev-Web3-Portfolio",
+   "stars": 42,
+   "lang": "TypeScript",
+   "desc": "Solana EVM Developer: AI Agents & AI-powered on-chain systems Smart Contracts & DeFi Protocols Cross-Chain Bridges NFT Marketplaces & Dynamic NFT Platforms Token Launchpads & Bonding Curve DEXs P2E Ga",
+   "pushed": "2026-05-26"
+  },
+  {
+   "full_name": "Gayaya999/ecommerce-detail-page-generator",
+   "url": "https://github.com/Gayaya999/ecommerce-detail-page-generator",
+   "stars": 40,
+   "lang": "Python",
+   "desc": "A policy-aware Codex skill that turns product photos into platform-adapted e-commerce detail pages with modular image generation, deterministic typography, slicing, manifests, and validation.",
+   "pushed": "2026-06-12"
+  },
+  {
+   "full_name": "GoogleCloudPlatform/marketplace-vm-imagebuilder",
+   "url": "https://github.com/GoogleCloudPlatform/marketplace-vm-imagebuilder",
+   "stars": 39,
+   "lang": "Shell",
+   "desc": "A tool to automate the build process of VM images for Google Cloud Platform (GCP).",
+   "pushed": "2026-05-22"
+  },
+  {
+   "full_name": "BeamLabEU/phoenix_kit",
+   "url": "https://github.com/BeamLabEU/phoenix_kit",
+   "stars": 39,
+   "lang": "Elixir",
+   "desc": "PhoenixKit - The Elixir Phoenix Boilerplate Starter Kit for writing your SaaS, social networks, ERP systems, marketplaces, internal tools, AI-powered apps, community platforms, and more.",
+   "pushed": "2026-10-21"
+  },
+  {
+   "full_name": "Salvelop07/Crypto-Hat",
+   "url": "https://github.com/Salvelop07/Crypto-Hat",
+   "stars": 39,
+   "lang": "JavaScript",
+   "desc": "Crypto-Hat is a blockchain-powered platform where you can trade NFTs. \ud83c\udf1f It's an NFT marketplace built with JavaScript, React, Next.js, Web3.js, Solidity, and styled using Tailwind CSS.",
+   "pushed": "2024-11-13"
+  },
+  {
+   "full_name": "Iqbolshoh/php-mysql-marketplace",
+   "url": "https://github.com/Iqbolshoh/php-mysql-marketplace",
+   "stars": 38,
+   "lang": "CSS",
+   "desc": "\ud83d\uded2 PHP Marketplace Platform \u2014 A robust \ud83e\uddf1 and dynamic marketplace built using PHP \ud83d\udcbb and MySQL \ud83d\uddc3\ufe0f. \ud83d\udc64 Create accounts & manage profiles \ud83d\udce6 List and manage products easily \ud83d\udd0d Use advanced search & filtering",
+   "pushed": "2025-05-31"
+  },
+  {
+   "full_name": "DeepakDevelops/CropConnect",
+   "url": "https://github.com/DeepakDevelops/CropConnect",
+   "stars": 38,
+   "lang": "JavaScript",
+   "desc": "CropConnect is a comprehensive web platform designed to facilitate wholesale crop trading, connecting farmers and buyers in an intuitive and efficient marketplace. With separate interfaces for sellers",
+   "pushed": "2025-02-04"
+  },
+  {
+   "full_name": "DannylydST/sorftime-seller-agent",
+   "url": "https://github.com/DannylydST/sorftime-seller-agent",
+   "stars": 38,
+   "lang": "Python",
+   "desc": "Free AI-powered Amazon product research & marketplace intelligence for 6 platforms. Hidden Profit Index \u2014 Sorftime's proprietary algorithm for finding overlooked high-margin products. 80+ MCP tools. A",
+   "pushed": "2026-10-13"
+  },
+  {
+   "full_name": "netlify/addons",
+   "url": "https://github.com/netlify/addons",
+   "stars": 36,
+   "lang": null,
+   "desc": "Netlify add-on documentation",
+   "pushed": "2023-07-18"
+  },
+  {
+   "full_name": "anurag270102/fiverr-clone",
+   "url": "https://github.com/anurag270102/fiverr-clone",
+   "stars": 36,
+   "lang": "JavaScript",
+   "desc": "Explore a dynamic freelance marketplace with Fiverr Clone. Seamlessly connecting clients with diverse freelancers, this platform offers advanced search capabilities, gig creation tools, secure payment",
+   "pushed": "2026-07-07"
+  },
+  {
+   "full_name": "nerufuyo/neru-scrapper",
+   "url": "https://github.com/nerufuyo/neru-scrapper",
+   "stars": 35,
+   "lang": "Python",
+   "desc": "A comprehensive, production-ready scraper for Indonesian e-commerce platforms including Shopee, Tokopedia, and Lazada. Built with clean architecture, advanced analytics, and professional logging capab",
+   "pushed": "2025-07-04"
+  },
+  {
+   "full_name": "open-marketplace/open-marketplace",
+   "url": "https://github.com/open-marketplace/open-marketplace",
+   "stars": 34,
+   "lang": "PHP",
+   "desc": "Open-source multi-vendor marketplace platform based on Sylius and Symfony",
+   "pushed": "2024-07-15"
+  },
+  {
+   "full_name": "PhucHau0310/APILayer-BE",
+   "url": "https://github.com/PhucHau0310/APILayer-BE",
+   "stars": 34,
+   "lang": "C#",
+   "desc": "APILayer is a software platform that serves as a marketplace for APIs",
+   "pushed": "2025-06-07"
+  },
+  {
+   "full_name": "syscoin/syscoin1",
+   "url": "https://github.com/syscoin/syscoin1",
+   "stars": 34,
+   "lang": "C++",
+   "desc": "Syscoin is a crypto currency that is universally merge-mineable and offers a unique variety of services including decentralized identities, marketplaces and certificate management, escrow, asset token",
+   "pushed": "2018-03-20"
+  },
+  {
+   "full_name": "lyes-mersel/megashop",
+   "url": "https://github.com/lyes-mersel/megashop",
+   "stars": 33,
+   "lang": "TypeScript",
+   "desc": "A comprehensive e-commerce platform featuring a multi-vendor marketplace, chatbot support, order tracking, advanced analytics, and full customer, vendor, and admin management.",
+   "pushed": "2025-07-08"
+  },
+  {
+   "full_name": "anfiquehussain/Freelance-Marketplace-Django",
+   "url": "https://github.com/anfiquehussain/Freelance-Marketplace-Django",
+   "stars": 32,
+   "lang": "HTML",
+   "desc": "A Django-based freelance marketplace platform connecting freelancers and clients, enabling project collaboration, management, and secure payments",
+   "pushed": "2025-06-05"
+  },
+  {
+   "full_name": "mahmud-sajib/Classified-Ads-Marketplace",
+   "url": "https://github.com/mahmud-sajib/Classified-Ads-Marketplace",
+   "stars": 32,
+   "lang": "JavaScript",
+   "desc": "Classified Ads (Python/Django/JavaScript) is a buy/sell platform with features such as email signup, ad posting with approval, location or category-based browsing, filtering, and direct buyer contact.",
+   "pushed": "2023-07-14"
+  },
+  {
+   "full_name": "Shubh2-0/Shopzilla-Online-Shopping-Platform",
+   "url": "https://github.com/Shubh2-0/Shopzilla-Online-Shopping-Platform",
+   "stars": 31,
+   "lang": "Java",
+   "desc": "E-commerce marketplace backend built with Spring Boot and Java. Features secure buyer-seller connectivity, product management and transactions.",
+   "pushed": "2026-07-11"
+  },
+  {
+   "full_name": "IHUI-INF-AI/IHUI-AI",
+   "url": "https://github.com/IHUI-INF-AI/IHUI-AI",
+   "stars": 31,
+   "lang": "TypeScript",
+   "desc": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 tables, RAG knowledge base, agent marketplace. Web/API/CLI/Desktop/Extension/Mobil",
+   "pushed": "2026-10-22"
+  },
+  {
+   "full_name": "vaibhavmagon/Auction-Marketplace",
+   "url": "https://github.com/vaibhavmagon/Auction-Marketplace",
+   "stars": 30,
+   "lang": "JavaScript",
+   "desc": "Crossover Task - Auction marketplace comprising an end-to-end classified platform with the option to bid on products in realtime. \u2696\ufe0f",
+   "pushed": "2020-10-07"
+  },
+  {
+   "full_name": "Maher-Elmair/Noqta-Marketplace",
+   "url": "https://github.com/Maher-Elmair/Noqta-Marketplace",
+   "stars": 30,
+   "lang": "TypeScript",
+   "desc": "Noqta is a smart multi-vendor e-commerce platform focused on trust, discovery, and empowering small sellers. Built with clarity, scalability, and a deep user experience at its core.",
+   "pushed": "2026-01-30"
+  },
+  {
+   "full_name": "Isaree-ai/Isaree-Platform",
+   "url": "https://github.com/Isaree-ai/Isaree-Platform",
+   "stars": 26,
+   "lang": null,
+   "desc": "Open-source medical-compliant AI Assistant and AI Agent Orchestration Engine with marketplace",
+   "pushed": "2025-05-07"
+  },
+  {
+   "full_name": "amanweb-dev/online_marketplace",
+   "url": "https://github.com/amanweb-dev/online_marketplace",
+   "stars": 25,
+   "lang": "PHP",
+   "desc": "The online marketplace website is an online classifieds platform, a place where people can connect with each other to buy or sell goods and services. In this system you can have track of all the items",
+   "pushed": "2022-07-29"
+  },
+  {
+   "full_name": "ParendumOU/Nexora",
+   "url": "https://github.com/ParendumOU/Nexora",
+   "stars": 25,
+   "lang": "Python",
+   "desc": "Self-hosted, MIT-licensed AI-agent orchestration platform. Agents with personas, skills & tools that chat, run ~90 tools, delegate to sub-agents, and stream results across ~46 LLM providers. RAG, sema",
+   "pushed": "2026-10-09"
+  },
+  {
+   "full_name": "Vagabonds-Labs/cofiblocks",
+   "url": "https://github.com/Vagabonds-Labs/cofiblocks",
+   "stars": 24,
+   "lang": "TypeScript",
+   "desc": "Welcome to Cofiblocks marketplace: A Starknet web3 platform to innovate Costa Rica coffee industry. Cofiblocks connects small coffee farmers directly with coffee lovers, cutting out unnecessary interm",
+   "pushed": "2025-11-19"
+  },
+  {
+   "full_name": "omondi8399/KANAIRO-NFT-Marketplace",
+   "url": "https://github.com/omondi8399/KANAIRO-NFT-Marketplace",
+   "stars": 23,
+   "lang": "JavaScript",
+   "desc": "This is a Web3 platform where users can buy, sell, and trade NFTs (non-fungible tokens) through the use of blockchain technology. It is Built on NextJs, NodeJs and Solidity",
+   "pushed": "2023-09-06"
+  },
+  {
+   "full_name": "mcp360/unified-gateway-mcp",
+   "url": "https://github.com/mcp360/unified-gateway-mcp",
+   "stars": 23,
+   "lang": "TypeScript",
+   "desc": "Unified MCP Gateway Platform, Marketplace & Custom MCPs",
+   "pushed": "2026-06-17"
+  },
+  {
+   "full_name": "abhinav077/Verity-decentralised-freelance-marketplace",
+   "url": "https://github.com/abhinav077/Verity-decentralised-freelance-marketplace",
+   "stars": 23,
+   "lang": "TypeScript",
+   "desc": "A fully on-chain, trustless freelancing platform powered by Ethereum smart contracts, a soulbound reputation system, and a DAO governance layer.",
+   "pushed": "2026-05-19"
+  },
+  {
+   "full_name": "sandipanparia/Digital-MarketPlace",
+   "url": "https://github.com/sandipanparia/Digital-MarketPlace",
+   "stars": 23,
+   "lang": "JavaScript",
+   "desc": "A blockchain-based digital marketplace is a platform where buyers and sellers can trade goods or services securely without relying on a central authority. Using blockchain technology, every transactio",
+   "pushed": "2025-08-03"
+  },
+  {
+   "full_name": "iteplenky/bedrock-pack-tools",
+   "url": "https://github.com/iteplenky/bedrock-pack-tools",
+   "stars": 23,
+   "lang": "Go",
+   "desc": "Dump AES keys, download, decrypt, and encrypt Minecraft Bedrock resource packs (.mcpack) - cross-platform Go CLI",
+   "pushed": "2026-06-12"
+  },
+  {
+   "full_name": "bnb-chain/greenfield-data-marketplace-frontend",
+   "url": "https://github.com/bnb-chain/greenfield-data-marketplace-frontend",
+   "stars": 22,
+   "lang": "TypeScript",
+   "desc": "Greenfield Data marketplace is a data exchange platform where users can freely create, list, trade, and sell data assets, including digital publications, scientific experimental data, and specific dom",
+   "pushed": "2024-06-07"
+  },
+  {
+   "full_name": "ototech7/Cryprocurrency-marketplace-real-estate",
+   "url": "https://github.com/ototech7/Cryprocurrency-marketplace-real-estate",
+   "stars": 21,
+   "lang": "Solidity",
+   "desc": "A decentralized platform representing real estate as ERC721 NFTs with ZK-SNARKs for secure ownership verification. Built with Solidity, ZoKrates, and OpenSea integration.",
+   "pushed": "2025-08-28"
+  },
+  {
+   "full_name": "SENODROOM/Canvas-Market",
+   "url": "https://github.com/SENODROOM/Canvas-Market",
+   "stars": 21,
+   "lang": null,
+   "desc": "A comprehensive marketplace platform for canvas products, built with modern web technologies to provide a seamless buying and selling experience for artists, creators, and canvas enthusiasts.",
+   "pushed": "2026-02-17"
+  }
+ ]
+}

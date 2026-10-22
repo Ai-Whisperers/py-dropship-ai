@@ -1,0 +1,879 @@
+{
+ "query": "web+scraping",
+ "total_count": 139663,
+ "items": [
+  {
+   "full_name": "firecrawl/firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "stars": 193958,
+   "lang": "TypeScript",
+   "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \ud83d\udd25",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "D4Vinci/Scrapling",
+   "url": "https://github.com/D4Vinci/Scrapling",
+   "stars": 89054,
+   "lang": "Python",
+   "desc": "\ud83d\udd77\ufe0f A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "scrapy/scrapy",
+   "url": "https://github.com/scrapy/scrapy",
+   "stars": 64942,
+   "lang": "Python",
+   "desc": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "soimort/you-get",
+   "url": "https://github.com/soimort/you-get",
+   "stars": 56860,
+   "lang": "Python",
+   "desc": ":arrow_double_down: Dumb downloader that scrapes the web",
+   "pushed": "2026-10-06",
+   "archived": false
+  },
+  {
+   "full_name": "h4ckf0r0day/obscura",
+   "url": "https://github.com/h4ckf0r0day/obscura",
+   "stars": 29117,
+   "lang": "Rust",
+   "desc": "The headless browser for AI agents and web scraping",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "apify/crawlee",
+   "url": "https://github.com/apify/crawlee",
+   "stars": 26216,
+   "lang": "TypeScript",
+   "desc": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "dzhng/deep-research",
+   "url": "https://github.com/dzhng/deep-research",
+   "stars": 19812,
+   "lang": "TypeScript",
+   "desc": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp",
+   "pushed": "2026-04-11",
+   "archived": false
+  },
+  {
+   "full_name": "seleniumbase/SeleniumBase",
+   "url": "https://github.com/seleniumbase/SeleniumBase",
+   "stars": 13112,
+   "lang": "Python",
+   "desc": "\ud83d\udcca Python APIs for Web Automation, E2E Testing, and Data Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "code4craft/webmagic",
+   "url": "https://github.com/code4craft/webmagic",
+   "stars": 11670,
+   "lang": "Java",
+   "desc": "A scalable web crawler framework for Java.",
+   "pushed": "2025-12-20",
+   "archived": false
+  },
+  {
+   "full_name": "apify/crawlee-python",
+   "url": "https://github.com/apify/crawlee-python",
+   "stars": 9614,
+   "lang": "Python",
+   "desc": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "clips/pattern",
+   "url": "https://github.com/clips/pattern",
+   "stars": 8854,
+   "lang": "Python",
+   "desc": "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",
+   "pushed": "2026-08-05",
+   "archived": false
+  },
+  {
+   "full_name": "lorien/awesome-web-scraping",
+   "url": "https://github.com/lorien/awesome-web-scraping",
+   "stars": 8184,
+   "lang": "JavaScript",
+   "desc": "List of libraries, tools and APIs for web scraping and data processing.",
+   "pushed": "2026-09-19",
+   "archived": false
+  },
+  {
+   "full_name": "alirezamika/autoscraper",
+   "url": "https://github.com/alirezamika/autoscraper",
+   "stars": 8058,
+   "lang": "Python",
+   "desc": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+   "pushed": "2026-07-29",
+   "archived": false
+  },
+  {
+   "full_name": "firecrawl/firecrawl-mcp-server",
+   "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+   "stars": 7666,
+   "lang": "JavaScript",
+   "desc": "Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "go-rod/rod",
+   "url": "https://github.com/go-rod/rod",
+   "stars": 7138,
+   "lang": "Go",
+   "desc": "A Chrome DevTools Protocol driver for web automation and scraping.",
+   "pushed": "2026-08-11",
+   "archived": false
+  },
+  {
+   "full_name": "adbar/trafilatura",
+   "url": "https://github.com/adbar/trafilatura",
+   "stars": 7003,
+   "lang": "Python",
+   "desc": "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "brightdata/cli",
+   "url": "https://github.com/brightdata/cli",
+   "stars": 6234,
+   "lang": "TypeScript",
+   "desc": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "niespodd/browser-fingerprinting",
+   "url": "https://github.com/niespodd/browser-fingerprinting",
+   "stars": 5150,
+   "lang": "JavaScript",
+   "desc": "Analysis of Bot Protection systems with available countermeasures \ud83d\udebf. How to defeat anti-bot system \ud83d\udc7b and get around browser fingerprinting scripts \ud83d\udd75\ufe0f\u200d\u2642\ufe0f when scraping the web?",
+   "pushed": "2026-07-27",
+   "archived": false
+  },
+  {
+   "full_name": "REMitchell/python-scraping",
+   "url": "https://github.com/REMitchell/python-scraping",
+   "stars": 4729,
+   "lang": "Jupyter Notebook",
+   "desc": "Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do",
+   "pushed": "2024-06-01",
+   "archived": false
+  },
+  {
+   "full_name": "Anakin-Inc/anakin",
+   "url": "https://github.com/Anakin-Inc/anakin",
+   "stars": 4511,
+   "lang": "Go",
+   "desc": "Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One command: make up",
+   "pushed": "2026-08-18",
+   "archived": false
+  },
+  {
+   "full_name": "sparklemotion/mechanize",
+   "url": "https://github.com/sparklemotion/mechanize",
+   "stars": 4445,
+   "lang": "Ruby",
+   "desc": "Mechanize is a ruby library that makes automated web interaction easy.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "dotnetcore/DotnetSpider",
+   "url": "https://github.com/dotnetcore/DotnetSpider",
+   "stars": 4144,
+   "lang": "C#",
+   "desc": "DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework",
+   "pushed": "2026-04-03",
+   "archived": false
+  },
+  {
+   "full_name": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+   "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+   "stars": 3290,
+   "lang": "Python",
+   "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F",
+   "pushed": "2026-04-28",
+   "archived": false
+  },
+  {
+   "full_name": "symfony/panther",
+   "url": "https://github.com/symfony/panther",
+   "stars": 3070,
+   "lang": "PHP",
+   "desc": "A browser testing and web crawling library for PHP and Symfony",
+   "pushed": "2026-10-03",
+   "archived": false
+  },
+  {
+   "full_name": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
+   "url": "https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama",
+   "stars": 3023,
+   "lang": "Python",
+   "desc": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various",
+   "pushed": "2026-09-02",
+   "archived": false
+  },
+  {
+   "full_name": "spider-rs/spider",
+   "url": "https://github.com/spider-rs/spider",
+   "stars": 2793,
+   "lang": "Rust",
+   "desc": "Foundational low latency web data collecting in Rust",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "geziyor/geziyor",
+   "url": "https://github.com/geziyor/geziyor",
+   "stars": 2781,
+   "lang": "Go",
+   "desc": "Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.",
+   "pushed": "2026-07-02",
+   "archived": false
+  },
+  {
+   "full_name": "brightdata/brightdata-mcp",
+   "url": "https://github.com/brightdata/brightdata-mcp",
+   "stars": 2685,
+   "lang": "JavaScript",
+   "desc": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "firecrawl/open-agent-builder",
+   "url": "https://github.com/firecrawl/open-agent-builder",
+   "stars": 2641,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udd25 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution",
+   "pushed": "2025-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "feder-cr/invisible_playwright",
+   "url": "https://github.com/feder-cr/invisible_playwright",
+   "stars": 2503,
+   "lang": "Python",
+   "desc": "Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "lorien/grab",
+   "url": "https://github.com/lorien/grab",
+   "stars": 2463,
+   "lang": "Python",
+   "desc": "Web Scraping Framework",
+   "pushed": "2025-09-19",
+   "archived": false
+  },
+  {
+   "full_name": "0xMassi/webclaw",
+   "url": "https://github.com/0xMassi/webclaw",
+   "stars": 2385,
+   "lang": "Rust",
+   "desc": "Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data \u2014 all from Rust. CLI, REST API, and MCP server.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "emadehsan/thal",
+   "url": "https://github.com/emadehsan/thal",
+   "stars": 2358,
+   "lang": "JavaScript",
+   "desc": "Getting started with Puppeteer and Chrome Headless for Web Scraping",
+   "pushed": "2020-10-28",
+   "archived": false
+  },
+  {
+   "full_name": "chiphuyen/lazynlp",
+   "url": "https://github.com/chiphuyen/lazynlp",
+   "stars": 2305,
+   "lang": "Python",
+   "desc": "Library to scrape and clean web pages to create massive datasets.",
+   "pushed": "2020-11-11",
+   "archived": false
+  },
+  {
+   "full_name": "AhmadHassan-BTed/Noria",
+   "url": "https://github.com/AhmadHassan-BTed/Noria",
+   "stars": 2155,
+   "lang": "JavaScript",
+   "desc": "An agentic extractor for messaging platforms. Noria receives messages & URLs via chat; scrapes web data to evaluate the content against custom scoring matrices (e.g., jobs, scholarships); and sends a",
+   "pushed": "2026-07-22",
+   "archived": false
+  },
+  {
+   "full_name": "php-embed/Embed",
+   "url": "https://github.com/php-embed/Embed",
+   "stars": 2139,
+   "lang": "PHP",
+   "desc": "Get info from any web service or page",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "jimmc414/onefilellm",
+   "url": "https://github.com/jimmc414/onefilellm",
+   "stars": 2022,
+   "lang": "Python",
+   "desc": "Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion",
+   "pushed": "2026-06-12",
+   "archived": false
+  },
+  {
+   "full_name": "pmh1314520/WebRPA",
+   "url": "https://github.com/pmh1314520/WebRPA",
+   "stars": 1909,
+   "lang": "Python",
+   "desc": "A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing. | \u4e00\u6b3e\u529f\u80fd\u5f3a\u5927\u7684\u81ea\u52a8\u5316\u5de5\u5177\uff0c\u901a\u8fc7\u62d6\u62fd\u6a21\u5757\u7684\u65b9\u5f0f\u5feb\u901f\u6784\u5efa\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u65e0\u9700\u7f16\u5199\u4efb\u4f55\u4ee3\u7801\u5373\u53ef\u5b9e\u73b0\u7f51\u9875\u6570\u636e\u91c7\u96c6\u3001\u8868\u5355\u586b\u5199\u3001\u81ea\u52a8\u5316\u6d4b\u8bd5\u7b49\u4efb\u52a1\u3002",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "enetx/surf",
+   "url": "https://github.com/enetx/surf",
+   "stars": 1845,
+   "lang": "Go",
+   "desc": "SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.",
+   "pushed": "2026-09-10",
+   "archived": false
+  },
+  {
+   "full_name": "josh0xA/darkdump",
+   "url": "https://github.com/josh0xA/darkdump",
+   "stars": 1804,
+   "lang": "Python",
+   "desc": "Open Source Intelligence Interface for Deep Web Scraping",
+   "pushed": "2026-04-08",
+   "archived": false
+  },
+  {
+   "full_name": "TheWebScrapingClub/webscraping-from-0-to-hero",
+   "url": "https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero",
+   "stars": 1740,
+   "lang": null,
+   "desc": "The web scraping open project repository aims to share knowledge and experiences about web scraping with Python",
+   "pushed": "2024-05-27",
+   "archived": false
+  },
+  {
+   "full_name": "howie6879/ruia",
+   "url": "https://github.com/howie6879/ruia",
+   "stars": 1739,
+   "lang": "Python",
+   "desc": "Async Python 3.6+ web scraping micro-framework based on asyncio",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "Ge0rg3/requests-ip-rotator",
+   "url": "https://github.com/Ge0rg3/requests-ip-rotator",
+   "stars": 1680,
+   "lang": "Python",
+   "desc": "A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.",
+   "pushed": "2026-07-13",
+   "archived": false
+  },
+  {
+   "full_name": "scrapy/dirbot",
+   "url": "https://github.com/scrapy/dirbot",
+   "stars": 1629,
+   "lang": "Python",
+   "desc": "Scrapy project to scrape public web directories (educational) [DEPRECATED]",
+   "pushed": "2017-10-27",
+   "archived": false
+  },
+  {
+   "full_name": "propublica/upton",
+   "url": "https://github.com/propublica/upton",
+   "stars": 1595,
+   "lang": "HTML",
+   "desc": "A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)",
+   "pushed": "2018-12-26",
+   "archived": false
+  },
+  {
+   "full_name": "zohaibbashir/Google-Maps-Scrapper",
+   "url": "https://github.com/zohaibbashir/Google-Maps-Scrapper",
+   "stars": 1577,
+   "lang": "Python",
+   "desc": "This code is used to perform web scraping and data extraction from Google Maps. It is particularly designed for obtaining information about businesses, including their name, address, website, phone nu",
+   "pushed": "2026-05-18",
+   "archived": false
+  },
+  {
+   "full_name": "ulixee/hero",
+   "url": "https://github.com/ulixee/hero",
+   "stars": 1559,
+   "lang": "TypeScript",
+   "desc": "The web browser built for scraping",
+   "pushed": "2026-05-16",
+   "archived": false
+  },
+  {
+   "full_name": "tidyverse/rvest",
+   "url": "https://github.com/tidyverse/rvest",
+   "stars": 1526,
+   "lang": "R",
+   "desc": "Simple web scraping for R",
+   "pushed": "2026-10-09",
+   "archived": false
+  },
+  {
+   "full_name": "tinyfish-io/agentql",
+   "url": "https://github.com/tinyfish-io/agentql",
+   "stars": 1491,
+   "lang": "Python",
+   "desc": "AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "roach-php/core",
+   "url": "https://github.com/roach-php/core",
+   "stars": 1456,
+   "lang": "PHP",
+   "desc": "The complete web scraping toolkit for PHP.",
+   "pushed": "2025-10-27",
+   "archived": false
+  },
+  {
+   "full_name": "raznem/parsera",
+   "url": "https://github.com/raznem/parsera",
+   "stars": 1369,
+   "lang": "Python",
+   "desc": "Lightweight library for scraping web-sites with LLMs",
+   "pushed": "2025-12-17",
+   "archived": false
+  },
+  {
+   "full_name": "philippta/flyscrape",
+   "url": "https://github.com/philippta/flyscrape",
+   "stars": 1350,
+   "lang": "Go",
+   "desc": "Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.",
+   "pushed": "2025-11-24",
+   "archived": false
+  },
+  {
+   "full_name": "ProxyShard/ShardBrowser",
+   "url": "https://github.com/ProxyShard/ShardBrowser",
+   "stars": 1317,
+   "lang": "TypeScript",
+   "desc": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 152 (WebGL / WebGPU / Client Hints / fonts /",
+   "pushed": "2026-09-13",
+   "archived": false
+  },
+  {
+   "full_name": "stanfordjournalism/search-script-scrape",
+   "url": "https://github.com/stanfordjournalism/search-script-scrape",
+   "stars": 1235,
+   "lang": "Python",
+   "desc": "101 real world web scraping exercises in Python 3 for data journalists",
+   "pushed": "2021-10-14",
+   "archived": false
+  },
+  {
+   "full_name": "neon-mmd/websurfx",
+   "url": "https://github.com/neon-mmd/websurfx",
+   "stars": 1220,
+   "lang": "Rust",
+   "desc": ":rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "fastcrw/crw",
+   "url": "https://github.com/fastcrw/crw",
+   "stars": 1172,
+   "lang": "Rust",
+   "desc": "Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler & search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 2.3x faster than T",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "elixir-crawly/crawly",
+   "url": "https://github.com/elixir-crawly/crawly",
+   "stars": 1125,
+   "lang": "Elixir",
+   "desc": "Crawly, a high-level web crawling & scraping framework for Elixir.",
+   "pushed": "2025-07-16",
+   "archived": false
+  },
+  {
+   "full_name": "scrapfly/scrapfly-scrapers",
+   "url": "https://github.com/scrapfly/scrapfly-scrapers",
+   "stars": 1099,
+   "lang": "Python",
+   "desc": "Scalable Python web scraping scripts for +40 popular domains",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "jaimeiniesta/metainspector",
+   "url": "https://github.com/jaimeiniesta/metainspector",
+   "stars": 1050,
+   "lang": "Ruby",
+   "desc": "Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...",
+   "pushed": "2026-10-13",
+   "archived": false
+  },
+  {
+   "full_name": "daijro/hrequests",
+   "url": "https://github.com/daijro/hrequests",
+   "stars": 1025,
+   "lang": "Python",
+   "desc": "\ud83d\ude80 Web scraping for humans",
+   "pushed": "2024-12-01",
+   "archived": false
+  },
+  {
+   "full_name": "utkarshkukreti/select.rs",
+   "url": "https://github.com/utkarshkukreti/select.rs",
+   "stars": 1018,
+   "lang": "Rust",
+   "desc": "A Rust library to extract useful data from HTML documents, suitable for web scraping.",
+   "pushed": "2025-03-19",
+   "archived": false
+  },
+  {
+   "full_name": "nrabinowitz/pjscrape",
+   "url": "https://github.com/nrabinowitz/pjscrape",
+   "stars": 991,
+   "lang": "JavaScript",
+   "desc": "A web-scraping framework written in Javascript, using PhantomJS and jQuery",
+   "pushed": "2015-05-18",
+   "archived": false
+  },
+  {
+   "full_name": "oxylabs/dedicated-isp-proxies",
+   "url": "https://github.com/oxylabs/dedicated-isp-proxies",
+   "stars": 973,
+   "lang": null,
+   "desc": "Technical overview of dedicated proxies and dedicated ISP proxies, covering features, setup, and use cases for reliable web scraping and automation.",
+   "pushed": "2026-06-19",
+   "archived": false
+  },
+  {
+   "full_name": "BullsEye0/dorks-eye",
+   "url": "https://github.com/BullsEye0/dorks-eye",
+   "stars": 931,
+   "lang": "Python",
+   "desc": "Dorks Eye Google Hacking Dork Scraping and Searching Script. Dorks Eye is a script I made in python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pa",
+   "pushed": "2026-10-01",
+   "archived": false
+  },
+  {
+   "full_name": "je-suis-tm/web-scraping",
+   "url": "https://github.com/je-suis-tm/web-scraping",
+   "stars": 916,
+   "lang": "Python",
+   "desc": "Detailed web scraping tutorials for dummies with financial data crawlers on Reddit WallStreetBets, CME (both options and futures), US Treasury, CFTC, LME, MacroTrends, SHFE and alternative data crawle",
+   "pushed": "2022-02-01",
+   "archived": false
+  },
+  {
+   "full_name": "feder-cr/invisible_playwright_mcp",
+   "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+   "stars": 873,
+   "lang": "Python",
+   "desc": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "itbrowser-net/undetectable-fingerprint-browser",
+   "url": "https://github.com/itbrowser-net/undetectable-fingerprint-browser",
+   "stars": 871,
+   "lang": null,
+   "desc": "Free open-source Multilogin/Incogniton/Kameleo alternative for fingerprint spoofing (Canvas/WebGL/User-Agent). Perfect for Selenium/Playwright/Puppeteer automation, web scraping, social media bots, ad",
+   "pushed": "2025-04-25",
+   "archived": false
+  },
+  {
+   "full_name": "MorvanZhou/easy-scraping-tutorial",
+   "url": "https://github.com/MorvanZhou/easy-scraping-tutorial",
+   "stars": 824,
+   "lang": "Jupyter Notebook",
+   "desc": "Simple but useful Python web scraping tutorial code.",
+   "pushed": "2024-04-07",
+   "archived": false
+  },
+  {
+   "full_name": "LUCY78765580/Python-web-scraping",
+   "url": "https://github.com/LUCY78765580/Python-web-scraping",
+   "stars": 815,
+   "lang": "Python",
+   "desc": "python\u722c\u866b\uff0c\u5305\u542b\u5927\u5c0f\u9879\u76ee",
+   "pushed": "2019-10-24",
+   "archived": false
+  },
+  {
+   "full_name": "DataHenHQ/till",
+   "url": "https://github.com/DataHenHQ/till",
+   "stars": 815,
+   "lang": "Go",
+   "desc": "DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap",
+   "pushed": "2021-12-05",
+   "archived": false
+  },
+  {
+   "full_name": "Lookyloo/lookyloo",
+   "url": "https://github.com/Lookyloo/lookyloo",
+   "stars": 785,
+   "lang": "Python",
+   "desc": "Lookyloo is a web interface that allows users to capture a website page and then display a tree of domains that call each other.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "prescience-data/dark-knowledge",
+   "url": "https://github.com/prescience-data/dark-knowledge",
+   "stars": 773,
+   "lang": "JavaScript",
+   "desc": "\ud83d\ude08\ud83d\udcda A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.",
+   "pushed": "2024-02-19",
+   "archived": false
+  },
+  {
+   "full_name": "maxhumber/gazpacho",
+   "url": "https://github.com/maxhumber/gazpacho",
+   "stars": 770,
+   "lang": "Python",
+   "desc": "The simple, fast, and modern web scraping library",
+   "pushed": "2023-12-07",
+   "archived": false
+  },
+  {
+   "full_name": "mattsse/voyager",
+   "url": "https://github.com/mattsse/voyager",
+   "stars": 765,
+   "lang": "Rust",
+   "desc": "crawl and scrape web pages in rust",
+   "pushed": "2024-12-14",
+   "archived": false
+  },
+  {
+   "full_name": "oxylabs/web-scraping-google-sheets",
+   "url": "https://github.com/oxylabs/web-scraping-google-sheets",
+   "stars": 762,
+   "lang": null,
+   "desc": "Guide to Using Google Sheets for Basic Web Scraping",
+   "pushed": "2025-12-30",
+   "archived": false
+  },
+  {
+   "full_name": "dharmafly/noodle",
+   "url": "https://github.com/dharmafly/noodle",
+   "stars": 741,
+   "lang": "JavaScript",
+   "desc": "A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST.",
+   "pushed": "2024-05-14",
+   "archived": false
+  },
+  {
+   "full_name": "ulixee/secret-agent",
+   "url": "https://github.com/ulixee/secret-agent",
+   "stars": 730,
+   "lang": "TypeScript",
+   "desc": "The web scraper that's nearly impossible to block - now called @ulixee/hero",
+   "pushed": "2023-03-07",
+   "archived": false
+  },
+  {
+   "full_name": "1broseidon/ketch",
+   "url": "https://github.com/1broseidon/ketch",
+   "stars": 729,
+   "lang": "Go",
+   "desc": "Fast, stateless CLI for web search and scrape. Built for AI agents.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "ScrapeGraphAI/scrapecraft",
+   "url": "https://github.com/ScrapeGraphAI/scrapecraft",
+   "stars": 723,
+   "lang": "Python",
+   "desc": "\ud83e\udd16 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.",
+   "pushed": "2025-12-26",
+   "archived": false
+  },
+  {
+   "full_name": "slotix/dataflowkit",
+   "url": "https://github.com/slotix/dataflowkit",
+   "stars": 713,
+   "lang": "Go",
+   "desc": "Extract structured data from web sites. Web sites scraping.",
+   "pushed": "2023-03-07",
+   "archived": false
+  },
+  {
+   "full_name": "Xonshiz/comic-dl",
+   "url": "https://github.com/Xonshiz/comic-dl",
+   "stars": 681,
+   "lang": "Python",
+   "desc": "Comic-dl is a command line tool to download manga and comics from various comic and manga sites. Supported sites : readcomiconline.to, mangafox.me, comic naver and many more.",
+   "pushed": "2025-07-31",
+   "archived": false
+  },
+  {
+   "full_name": "theNetworkChuck/dark-web-scraping-guide",
+   "url": "https://github.com/theNetworkChuck/dark-web-scraping-guide",
+   "stars": 662,
+   "lang": null,
+   "desc": "Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research.",
+   "pushed": "2025-11-17",
+   "archived": false
+  },
+  {
+   "full_name": "adamschwartz/web.scraper.workers.dev",
+   "url": "https://github.com/adamschwartz/web.scraper.workers.dev",
+   "stars": 661,
+   "lang": "JavaScript",
+   "desc": "Scrape websites for text by CSS selector.",
+   "pushed": "2024-02-14",
+   "archived": false
+  },
+  {
+   "full_name": "firecrawl/cli",
+   "url": "https://github.com/firecrawl/cli",
+   "stars": 661,
+   "lang": "TypeScript",
+   "desc": "Firecrawl CLI and agent skills: search, scrape, and interact with the web from your terminal or any coding agent, plus parse, crawl, map, Agent and Monitor. Firecrawl is the context API for AI agents.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "AnonCatalyst/Ominis-OSINT",
+   "url": "https://github.com/AnonCatalyst/Ominis-OSINT",
+   "stars": 638,
+   "lang": "Python",
+   "desc": "This Python application is an OSINT (Open Source Intelligence) tool called \"Ominis OSINT - Web Hunter.\" It performs online information gathering by querying Google for search results related to a user",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "adrianhajdin/pricewise",
+   "url": "https://github.com/adrianhajdin/pricewise",
+   "stars": 634,
+   "lang": "TypeScript",
+   "desc": "Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.",
+   "pushed": "2024-07-06",
+   "archived": false
+  },
+  {
+   "full_name": "fabriziotappero/ip-cores",
+   "url": "https://github.com/fabriziotappero/ip-cores",
+   "stars": 632,
+   "lang": null,
+   "desc": "A huge collection of VHDL/Verilog open-source IP cores scraped from the web",
+   "pushed": "2023-01-18",
+   "archived": false
+  },
+  {
+   "full_name": "Isona/dirble",
+   "url": "https://github.com/Isona/dirble",
+   "stars": 631,
+   "lang": "Rust",
+   "desc": "Fast directory scanning and scraping tool",
+   "pushed": "2026-04-14",
+   "archived": false
+  },
+  {
+   "full_name": "s-r-e-e-r-a-j/WebSift",
+   "url": "https://github.com/s-r-e-e-r-a-j/WebSift",
+   "stars": 589,
+   "lang": "Shell",
+   "desc": "WebSift is an OSINT ethical hacking tool designed to scrape and extract emails, phone numbers, and social media links or other URLs from websites. It is developed for Termux and Linux-based systems",
+   "pushed": "2026-02-24",
+   "archived": false
+  },
+  {
+   "full_name": "spekulatius/PHPScraper",
+   "url": "https://github.com/spekulatius/PHPScraper",
+   "stars": 588,
+   "lang": "PHP",
+   "desc": "A universal web-util for PHP.",
+   "pushed": "2026-09-08",
+   "archived": false
+  },
+  {
+   "full_name": "speed/newcrawler",
+   "url": "https://github.com/speed/newcrawler",
+   "stars": 586,
+   "lang": "JavaScript",
+   "desc": "Free Web Scraping Tool with Java",
+   "pushed": "2023-11-25",
+   "archived": false
+  },
+  {
+   "full_name": "jpjacobpadilla/Stealth-Requests",
+   "url": "https://github.com/jpjacobpadilla/Stealth-Requests",
+   "stars": 565,
+   "lang": "Python",
+   "desc": "Undetected web-scraping & seamless HTML parsing in Python!",
+   "pushed": "2026-09-19",
+   "archived": false
+  },
+  {
+   "full_name": "zhuyingda/webster",
+   "url": "https://github.com/zhuyingda/webster",
+   "stars": 560,
+   "lang": "JavaScript",
+   "desc": "a reliable high-level web crawling & scraping framework for Node.js.",
+   "pushed": "2025-03-12",
+   "archived": false
+  },
+  {
+   "full_name": "vakra-dev/reader",
+   "url": "https://github.com/vakra-dev/reader",
+   "stars": 560,
+   "lang": "TypeScript",
+   "desc": "Open source web infrastructure for AI. Scrape, crawl, and automate the web, clean markdown, browser sessions, ready for your agents.",
+   "pushed": "2026-10-06",
+   "archived": false
+  },
+  {
+   "full_name": "unconv/gpt4v-browsing",
+   "url": "https://github.com/unconv/gpt4v-browsing",
+   "stars": 559,
+   "lang": "JavaScript",
+   "desc": "Web Scraping with GPT-4 Vision API and Puppeteer",
+   "pushed": "2024-01-31",
+   "archived": false
+  },
+  {
+   "full_name": "ScrapingBee/google-search-api",
+   "url": "https://github.com/ScrapingBee/google-search-api",
+   "stars": 553,
+   "lang": null,
+   "desc": "Scalable Google search API scraper powered by a high-performance Google web scraping API for structured SERP data collection.",
+   "pushed": "2026-04-08",
+   "archived": false
+  },
+  {
+   "full_name": "vlall/Darksearch",
+   "url": "https://github.com/vlall/Darksearch",
+   "stars": 544,
+   "lang": "Python",
+   "desc": ":mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...",
+   "pushed": "2022-12-26",
+   "archived": false
+  }
+ ]
+}

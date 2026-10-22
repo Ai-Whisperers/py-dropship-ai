@@ -1,0 +1,879 @@
+{
+ "query": "ai+agent+framework",
+ "total_count": 19785,
+ "items": [
+  {
+   "full_name": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "stars": 303191,
+   "lang": "Shell",
+   "desc": "An agentic skills framework & software development methodology that works.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "langchain-ai/langchain",
+   "url": "https://github.com/langchain-ai/langchain",
+   "stars": 148231,
+   "lang": "Python",
+   "desc": "The agent engineering platform.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "FoundationAgents/MetaGPT",
+   "url": "https://github.com/FoundationAgents/MetaGPT",
+   "stars": 70955,
+   "lang": "Python",
+   "desc": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "pushed": "2026-01-21",
+   "archived": false
+  },
+  {
+   "full_name": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "stars": 69267,
+   "lang": "TypeScript",
+   "desc": "Write HTML. Render video. Built for agents.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "microsoft/autogen",
+   "url": "https://github.com/microsoft/autogen",
+   "stars": 61518,
+   "lang": "Python",
+   "desc": "A programming framework for agentic AI",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "crewAIInc/crewAI",
+   "url": "https://github.com/crewAIInc/crewAI",
+   "stars": 59966,
+   "lang": "Python",
+   "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "HKUDS/nanobot",
+   "url": "https://github.com/HKUDS/nanobot",
+   "stars": 49259,
+   "lang": "Python",
+   "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "langchain-ai/langgraph",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "stars": 43678,
+   "lang": "Python",
+   "desc": "Build resilient agents.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "AstrBotDevs/AstrBot",
+   "url": "https://github.com/AstrBotDevs/AstrBot",
+   "stars": 42635,
+   "lang": "Python",
+   "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+   "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+   "stars": 34822,
+   "lang": "Python",
+   "desc": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with",
+   "pushed": "2026-08-31",
+   "archived": false
+  },
+  {
+   "full_name": "openai/openai-agents-python",
+   "url": "https://github.com/openai/openai-agents-python",
+   "stars": 30205,
+   "lang": "Python",
+   "desc": "A lightweight, powerful framework for multi-agent workflows",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "TencentCloud/TencentDB-Agent-Memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "stars": 29763,
+   "lang": "TypeScript",
+   "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "mastra-ai/mastra",
+   "url": "https://github.com/mastra-ai/mastra",
+   "stars": 28986,
+   "lang": "TypeScript",
+   "desc": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "humanlayer/12-factor-agents",
+   "url": "https://github.com/humanlayer/12-factor-agents",
+   "stars": 26819,
+   "lang": "TypeScript",
+   "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+   "pushed": "2025-09-21",
+   "archived": false
+  },
+  {
+   "full_name": "deepset-ai/haystack",
+   "url": "https://github.com/deepset-ai/haystack",
+   "stars": 26804,
+   "lang": "Python",
+   "desc": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "zai-org/Open-AutoGLM",
+   "url": "https://github.com/zai-org/Open-AutoGLM",
+   "stars": 26446,
+   "lang": "Python",
+   "desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+   "pushed": "2026-03-06",
+   "archived": false
+  },
+  {
+   "full_name": "elizaOS/eliza",
+   "url": "https://github.com/elizaOS/eliza",
+   "stars": 19633,
+   "lang": "TypeScript",
+   "desc": "Open source agentic operating system",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "agent0ai/agent-zero",
+   "url": "https://github.com/agent0ai/agent-zero",
+   "stars": 19536,
+   "lang": "Python",
+   "desc": "Agent Zero AI framework",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "camel-ai/camel",
+   "url": "https://github.com/camel-ai/camel",
+   "stars": 17947,
+   "lang": "Python",
+   "desc": "\ud83d\udc2b CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "TransformerOptimus/SuperAGI",
+   "url": "https://github.com/TransformerOptimus/SuperAGI",
+   "stars": 17711,
+   "lang": "Python",
+   "desc": "<\u26a1\ufe0f> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+   "pushed": "2025-01-22",
+   "archived": false
+  },
+  {
+   "full_name": "xbtlin/ai-berkshire",
+   "url": "https://github.com/xbtlin/ai-berkshire",
+   "stars": 16826,
+   "lang": "HTML",
+   "desc": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "pipecat-ai/pipecat",
+   "url": "https://github.com/pipecat-ai/pipecat",
+   "stars": 16699,
+   "lang": "Python",
+   "desc": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "raga-ai-hub/RagaAI-Catalyst",
+   "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+   "stars": 16179,
+   "lang": "Python",
+   "desc": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal",
+   "pushed": "2026-02-11",
+   "archived": false
+  },
+  {
+   "full_name": "livekit/agents",
+   "url": "https://github.com/livekit/agents",
+   "stars": 14885,
+   "lang": "Python",
+   "desc": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "microsoft/agent-framework",
+   "url": "https://github.com/microsoft/agent-framework",
+   "stars": 14258,
+   "lang": "Python",
+   "desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "pestphp/pest",
+   "url": "https://github.com/pestphp/pest",
+   "stars": 11743,
+   "lang": "PHP",
+   "desc": "The elegant testing framework for PHP developers and AI agents.",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "TEN-framework/ten-framework",
+   "url": "https://github.com/TEN-framework/ten-framework",
+   "stars": 11188,
+   "lang": "Python",
+   "desc": "Open-source framework for conversational voice AI agents",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "alibaba/spring-ai-alibaba",
+   "url": "https://github.com/alibaba/spring-ai-alibaba",
+   "stars": 11045,
+   "lang": "Java",
+   "desc": "Agentic AI Framework for Java Developers",
+   "pushed": "2026-10-07",
+   "archived": false
+  },
+  {
+   "full_name": "omnigent-ai/omnigent",
+   "url": "https://github.com/omnigent-ai/omnigent",
+   "stars": 10968,
+   "lang": "Python",
+   "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and c",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "VoltAgent/voltagent",
+   "url": "https://github.com/VoltAgent/voltagent",
+   "stars": 10854,
+   "lang": "TypeScript",
+   "desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+   "pushed": "2026-10-15",
+   "archived": false
+  },
+  {
+   "full_name": "mcp-use/mcp-use",
+   "url": "https://github.com/mcp-use/mcp-use",
+   "stars": 10795,
+   "lang": "TypeScript",
+   "desc": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "MervinPraison/PraisonAI",
+   "url": "https://github.com/MervinPraison/PraisonAI",
+   "stars": 9283,
+   "lang": "Python",
+   "desc": "PraisonAI \ud83e\udd9e \u2014 Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "2FastLabs/agent-squad",
+   "url": "https://github.com/2FastLabs/agent-squad",
+   "stars": 7794,
+   "lang": "Python",
+   "desc": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "deanpeters/Product-Manager-Skills",
+   "url": "https://github.com/deanpeters/Product-Manager-Skills",
+   "stars": 7580,
+   "lang": "Shell",
+   "desc": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "BuilderIO/agent-native",
+   "url": "https://github.com/BuilderIO/agent-native",
+   "stars": 7477,
+   "lang": "TypeScript",
+   "desc": "A framework for building agentic apps",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "kyegomez/swarms",
+   "url": "https://github.com/kyegomez/swarms",
+   "stars": 7286,
+   "lang": "Python",
+   "desc": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "InternLM/MindSearch",
+   "url": "https://github.com/InternLM/MindSearch",
+   "stars": 6946,
+   "lang": "JavaScript",
+   "desc": "\ud83d\udd0d An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+   "pushed": "2025-07-04",
+   "archived": false
+  },
+  {
+   "full_name": "genkit-ai/genkit",
+   "url": "https://github.com/genkit-ai/genkit",
+   "stars": 6537,
+   "lang": "TypeScript",
+   "desc": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "lavague-ai/LaVague",
+   "url": "https://github.com/lavague-ai/LaVague",
+   "stars": 6392,
+   "lang": "Python",
+   "desc": "Large Action Model framework to develop AI Web Agents",
+   "pushed": "2025-01-21",
+   "archived": false
+  },
+  {
+   "full_name": "AgentOps-AI/agentops",
+   "url": "https://github.com/AgentOps-AI/agentops",
+   "stars": 5903,
+   "lang": "Python",
+   "desc": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca",
+   "pushed": "2026-06-25",
+   "archived": false
+  },
+  {
+   "full_name": "PySpur-Dev/pyspur",
+   "url": "https://github.com/PySpur-Dev/pyspur",
+   "stars": 5794,
+   "lang": "TypeScript",
+   "desc": "A visual playground for agentic workflows: Iterate over your agents 10x faster",
+   "pushed": "2026-06-29",
+   "archived": false
+  },
+  {
+   "full_name": "ageerle/ruoyi-ai",
+   "url": "https://github.com/ageerle/ruoyi-ai",
+   "stars": 5770,
+   "lang": "Java",
+   "desc": "Enterprise-grade AI agent framework with multi-provider LLM management, secure knowledge bases and high-precision RAG, visual workflow orchestration, and multi-agent coordination.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "superduper-io/superduper",
+   "url": "https://github.com/superduper-io/superduper",
+   "stars": 5327,
+   "lang": "Python",
+   "desc": "Superduper: End-to-end framework for building custom AI applications and agents.",
+   "pushed": "2025-09-01",
+   "archived": false
+  },
+  {
+   "full_name": "OpenBMB/AgentVerse",
+   "url": "https://github.com/OpenBMB/AgentVerse",
+   "stars": 5158,
+   "lang": "JavaScript",
+   "desc": "\ud83e\udd16 AgentVerse \ud83e\ude90 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
+   "pushed": "2024-09-09",
+   "archived": false
+  },
+  {
+   "full_name": "darrenhinde/OpenAgentsControl",
+   "url": "https://github.com/darrenhinde/OpenAgentsControl",
+   "stars": 4925,
+   "lang": "TypeScript",
+   "desc": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "JetBrains/koog",
+   "url": "https://github.com/JetBrains/koog",
+   "stars": 4622,
+   "lang": "Kotlin",
+   "desc": "Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-brow",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "embabel/embabel-agent",
+   "url": "https://github.com/embabel/embabel-agent",
+   "stars": 4528,
+   "lang": "Kotlin",
+   "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /\u025bm\u02c8be\u026ab\u0259l/",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "SylphAI-Inc/AdalFlow",
+   "url": "https://github.com/SylphAI-Inc/AdalFlow",
+   "stars": 4221,
+   "lang": "Python",
+   "desc": "AdalFlow: The library to build & auto-optimize LLM applications.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "magnitudedev/browser-agent",
+   "url": "https://github.com/magnitudedev/browser-agent",
+   "stars": 4134,
+   "lang": "TypeScript",
+   "desc": "Open-source, vision-first browser agent",
+   "pushed": "2026-02-08",
+   "archived": false
+  },
+  {
+   "full_name": "simonlin1212/TradingAgents-astock",
+   "url": "https://github.com/simonlin1212/TradingAgents-astock",
+   "stars": 3755,
+   "lang": "Python",
+   "desc": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
+   "pushed": "2026-10-11",
+   "archived": false
+  },
+  {
+   "full_name": "Ar9av/obsidian-wiki",
+   "url": "https://github.com/Ar9av/obsidian-wiki",
+   "stars": 3601,
+   "lang": "Python",
+   "desc": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "i-am-bee/beeai-framework",
+   "url": "https://github.com/i-am-bee/beeai-framework",
+   "stars": 3438,
+   "lang": "Python",
+   "desc": "Build production-ready AI agents in both Python and Typescript.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Intelligent-Internet/ii-agent",
+   "url": "https://github.com/Intelligent-Internet/ii-agent",
+   "stars": 3391,
+   "lang": "Python",
+   "desc": "II-Agent: a new open-source framework to build and deploy intelligent agents",
+   "pushed": "2026-08-16",
+   "archived": false
+  },
+  {
+   "full_name": "langchain-ai/langgraphjs",
+   "url": "https://github.com/langchain-ai/langgraphjs",
+   "stars": 3371,
+   "lang": "TypeScript",
+   "desc": "Framework to build resilient language agents as graphs.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "Meirtz/Awesome-Context-Engineering",
+   "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
+   "stars": 3329,
+   "lang": null,
+   "desc": "\ud83d\udd25 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
+   "pushed": "2026-05-28",
+   "archived": false
+  },
+  {
+   "full_name": "cirosantilli/china-dictatorship",
+   "url": "https://github.com/cirosantilli/china-dictatorship",
+   "stars": 3285,
+   "lang": "HTML",
+   "desc": "\u53cd\u4e2d\u5171\u653f\u6cbb\u5ba3\u4f20\u5e93\u3002Anti Chinese government propaganda. \u4f4f\u5728\u4e2d\u56fd\u771f\u540d\u7528\u6237\u7684\u7f51\u53cb\u8bf7\u522b\u7ed9\u661f\u661f\uff0c\u4e0d\u7136\u4f60\u8981\u88ab\u8b66\u5bdf\u8bf7\u559d\u8336\u3002\u5e38\u89c1\u95ee\u7b54\u96c6\uff0c\u65b0\u95fb\u96c6\u548c\u996d\u5e97\u548c\u97f3\u4e50\u5efa\u8bae\u3002\u5350\u4e60\u4e07\u5c81\u5350\u3002\u51a0\u72b6\u75c5\u6bd2\u5ba1\u67e5\u90dd\u6d77\u4e1c\u65b0\u7586\u6539\u9020\u4e2d\u5fc3\u516d\u56db\u4e8b\u4ef6\u6cd5\u8f6e\u529f 996.ICU709\u5927\u6293\u6355\u5df4\u62ff\u9a6c\u6587\u4ef6\u9093\u5bb6\u8d35\u4f4e\u7aef\u4eba\u53e3\u897f\u85cf\u9a9a\u4e71\u3002Friends who live in China and have real name on ac",
+   "pushed": "2026-02-05",
+   "archived": false
+  },
+  {
+   "full_name": "GH05TCREW/pentestagent",
+   "url": "https://github.com/GH05TCREW/pentestagent",
+   "stars": 3207,
+   "lang": "Python",
+   "desc": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "full_name": "samugit83/redamon",
+   "url": "https://github.com/samugit83/redamon",
+   "stars": 3182,
+   "lang": "Python",
+   "desc": "Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "SciSharp/BotSharp",
+   "url": "https://github.com/SciSharp/BotSharp",
+   "stars": 3115,
+   "lang": "C#",
+   "desc": "AI Multi-Agent Framework in .NET",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "cheshire-cat-ai/core",
+   "url": "https://github.com/cheshire-cat-ai/core",
+   "stars": 3096,
+   "lang": "Python",
+   "desc": "AI agent microservice",
+   "pushed": "2026-07-29",
+   "archived": false
+  },
+  {
+   "full_name": "confident-ai/deepteam",
+   "url": "https://github.com/confident-ai/deepteam",
+   "stars": 3035,
+   "lang": "Python",
+   "desc": "DeepTeam is a framework to red team LLMs and AI agents.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "open-gitagent/opengap",
+   "url": "https://github.com/open-gitagent/opengap",
+   "stars": 2981,
+   "lang": "TypeScript",
+   "desc": "A framework-agnostic, git-native standard for defining AI agents",
+   "pushed": "2026-07-02",
+   "archived": false
+  },
+  {
+   "full_name": "BAAI-Agents/Cradle",
+   "url": "https://github.com/BAAI-Agents/Cradle",
+   "stars": 2594,
+   "lang": "Python",
+   "desc": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation,",
+   "pushed": "2024-11-07",
+   "archived": false
+  },
+  {
+   "full_name": "griptape-ai/griptape",
+   "url": "https://github.com/griptape-ai/griptape",
+   "stars": 2583,
+   "lang": "Python",
+   "desc": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "wondelai/skills",
+   "url": "https://github.com/wondelai/skills",
+   "stars": 2481,
+   "lang": "Shell",
+   "desc": "Wondel.ai Agent Skills \u2014 Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
+   "pushed": "2026-09-10",
+   "archived": false
+  },
+  {
+   "full_name": "Farama-Foundation/Arcade-Learning-Environment",
+   "url": "https://github.com/Farama-Foundation/Arcade-Learning-Environment",
+   "stars": 2459,
+   "lang": "C++",
+   "desc": "A simple framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games",
+   "pushed": "2026-10-17",
+   "archived": false
+  },
+  {
+   "full_name": "agentuniverse-ai/agentUniverse",
+   "url": "https://github.com/agentuniverse-ai/agentUniverse",
+   "stars": 2386,
+   "lang": "Python",
+   "desc": "agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "IBM/AssetOpsBench",
+   "url": "https://github.com/IBM/AssetOpsBench",
+   "stars": 2375,
+   "lang": "Python",
+   "desc": "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scena",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "datopian/portaljs",
+   "url": "https://github.com/datopian/portaljs",
+   "stars": 2369,
+   "lang": "TypeScript",
+   "desc": "\ud83c\udf00 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills \u2014 any backend (CKAN, GitHub, Frictionless).",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "dot-agent/nextpy",
+   "url": "https://github.com/dot-agent/nextpy",
+   "stars": 2349,
+   "lang": "Python",
+   "desc": "\ud83e\udd16Self-Modifying Framework from the Future \ud83d\udd2e World's First AMS",
+   "pushed": "2024-05-01",
+   "archived": false
+  },
+  {
+   "full_name": "trypromptly/LLMStack",
+   "url": "https://github.com/trypromptly/LLMStack",
+   "stars": 2310,
+   "lang": "Python",
+   "desc": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data",
+   "pushed": "2024-12-11",
+   "archived": false
+  },
+  {
+   "full_name": "guy-hartstein/company-research-agent",
+   "url": "https://github.com/guy-hartstein/company-research-agent",
+   "stars": 2302,
+   "lang": "Python",
+   "desc": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages OpenRouter on the backend for rapid inference wit",
+   "pushed": "2026-10-16",
+   "archived": false
+  },
+  {
+   "full_name": "Kocoro-lab/Shannon",
+   "url": "https://github.com/Kocoro-lab/Shannon",
+   "stars": 2297,
+   "lang": "Go",
+   "desc": "A production-oriented multi-agent orchestration framework.",
+   "pushed": "2026-09-05",
+   "archived": false
+  },
+  {
+   "full_name": "espressif/esp-claw",
+   "url": "https://github.com/espressif/esp-claw",
+   "stars": 2279,
+   "lang": "C",
+   "desc": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+   "pushed": "2026-10-19",
+   "archived": false
+  },
+  {
+   "full_name": "alpic-ai/skybridge",
+   "url": "https://github.com/alpic-ai/skybridge",
+   "stars": 2173,
+   "lang": "TypeScript",
+   "desc": "Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "hexo-ai/sia",
+   "url": "https://github.com/hexo-ai/sia",
+   "stars": 2161,
+   "lang": "Python",
+   "desc": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+   "pushed": "2026-08-26",
+   "archived": false
+  },
+  {
+   "full_name": "neuron-core/neuron-ai",
+   "url": "https://github.com/neuron-core/neuron-ai",
+   "stars": 2149,
+   "lang": "PHP",
+   "desc": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "gege-circle/.github",
+   "url": "https://github.com/gege-circle/.github",
+   "stars": 2058,
+   "lang": null,
+   "desc": "\u8fd9\u91cc\u662fGitHub\u7684\u8349\u573a\uff0c\u4e5f\u662f\u6208\u6208\u5708\u7231\u597d\u8005\u7684\u4ea4\u6d41\u5730\uff0c\u4e3b\u8981\u8ba8\u8bba\u52a8\u6f2b\u3001\u6e38\u620f\u3001\u79d1\u6280\u3001\u4eba\u6587\u3001\u751f\u6d3b\u7b49\u6240\u6709\u8bdd\u9898\uff0c\u6b22\u8fce\u5404\u4f4d\u5c0f\u4f19\u4f34\u4eec\u5728\u6b64\u8ba8\u8bba\u8da3\u4e8b\u3002This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t",
+   "pushed": "2025-10-04",
+   "archived": false
+  },
+  {
+   "full_name": "openakita/openakita",
+   "url": "https://github.com/openakita/openakita",
+   "stars": 2004,
+   "lang": "Python",
+   "desc": "An open-source AI assistant framework with skills and agent architecture",
+   "pushed": "2026-09-24",
+   "archived": false
+  },
+  {
+   "full_name": "caramaschiHG/awesome-ai-agents-2026",
+   "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+   "stars": 1964,
+   "lang": null,
+   "desc": "\ud83e\udd16 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources \u00b7 20+ categories \u00b7 Updated monthly.",
+   "pushed": "2026-06-10",
+   "archived": false
+  },
+  {
+   "full_name": "master-co/css",
+   "url": "https://github.com/master-co/css",
+   "stars": 1953,
+   "lang": "TypeScript",
+   "desc": "A markup-driven CSS orchestration language for developers and AI agents.",
+   "pushed": "2026-10-08",
+   "archived": false
+  },
+  {
+   "full_name": "yomorun/yomo",
+   "url": "https://github.com/yomorun/yomo",
+   "stars": 1929,
+   "lang": "Rust",
+   "desc": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "melih-unsal/DemoGPT",
+   "url": "https://github.com/melih-unsal/DemoGPT",
+   "stars": 1906,
+   "lang": "Python",
+   "desc": "\ud83e\udd16 Create agentic apps in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+   "pushed": "2026-04-01",
+   "archived": false
+  },
+  {
+   "full_name": "tuya/TuyaOpen",
+   "url": "https://github.com/tuya/TuyaOpen",
+   "stars": 1890,
+   "lang": "C",
+   "desc": "Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more \u2013 Fast IoT and AI Agent hardware integration",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "trpc-group/trpc-agent-go",
+   "url": "https://github.com/trpc-group/trpc-agent-go",
+   "stars": 1874,
+   "lang": "Go",
+   "desc": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "Core-Mate/OpenGUI",
+   "url": "https://github.com/Core-Mate/OpenGUI",
+   "stars": 1822,
+   "lang": "HTML",
+   "desc": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the GUI.",
+   "pushed": "2026-10-18",
+   "archived": false
+  },
+  {
+   "full_name": "trycua/acu",
+   "url": "https://github.com/trycua/acu",
+   "stars": 1795,
+   "lang": null,
+   "desc": "A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.",
+   "pushed": "2025-09-26",
+   "archived": false
+  },
+  {
+   "full_name": "AgentDock/AgentDock",
+   "url": "https://github.com/AgentDock/AgentDock",
+   "stars": 1773,
+   "lang": "MDX",
+   "desc": "Framework retired. Prompts and document generators moved to AgentDock/prompt-library, the book to AgentDock/ai-agents-book. See the pinned issue.",
+   "pushed": "2026-07-14",
+   "archived": false
+  },
+  {
+   "full_name": "LLPhant/LLPhant",
+   "url": "https://github.com/LLPhant/LLPhant",
+   "stars": 1722,
+   "lang": "PHP",
+   "desc": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "fetchai/uAgents",
+   "url": "https://github.com/fetchai/uAgents",
+   "stars": 1643,
+   "lang": "Python",
+   "desc": "A fast and lightweight framework for creating decentralized agents with ease.",
+   "pushed": "2026-10-20",
+   "archived": false
+  },
+  {
+   "full_name": "steel-dev/awesome-web-agents",
+   "url": "https://github.com/steel-dev/awesome-web-agents",
+   "stars": 1594,
+   "lang": "Python",
+   "desc": "\ud83d\udd25 A list of tools, frameworks, and resources for building AI web agents",
+   "pushed": "2026-08-25",
+   "archived": false
+  },
+  {
+   "full_name": "antvis/AVA",
+   "url": "https://github.com/antvis/AVA",
+   "stars": 1585,
+   "lang": "TypeScript",
+   "desc": "\ud83d\udc7e AI-native Visual Analytics framework build for agents.",
+   "pushed": "2026-10-21",
+   "archived": false
+  },
+  {
+   "full_name": "patched-codes/patchwork",
+   "url": "https://github.com/patched-codes/patchwork",
+   "stars": 1579,
+   "lang": "Python",
+   "desc": "Agentic AI framework for enterprise workflow automation.",
+   "pushed": "2026-08-24",
+   "archived": false
+  },
+  {
+   "full_name": "video-db/Director",
+   "url": "https://github.com/video-db/Director",
+   "stars": 1559,
+   "lang": "Python",
+   "desc": "AI video agents framework for next-gen video interactions and workflows.",
+   "pushed": "2026-01-23",
+   "archived": false
+  },
+  {
+   "full_name": "fujibee/agmsg",
+   "url": "https://github.com/fujibee/agmsg",
+   "stars": 1559,
+   "lang": "Shell",
+   "desc": "Cross-vendor messaging for CLI AI coding agents \u2014 let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.",
+   "pushed": "2026-10-22",
+   "archived": false
+  },
+  {
+   "full_name": "kaiban-ai/KaibanJS",
+   "url": "https://github.com/kaiban-ai/KaibanJS",
+   "stars": 1483,
+   "lang": "TypeScript",
+   "desc": "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.",
+   "pushed": "2026-05-15",
+   "archived": false
+  },
+  {
+   "full_name": "agi-inc/agent-protocol",
+   "url": "https://github.com/agi-inc/agent-protocol",
+   "stars": 1460,
+   "lang": "Python",
+   "desc": "Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.",
+   "pushed": "2025-04-08",
+   "archived": false
+  }
+ ]
+}
