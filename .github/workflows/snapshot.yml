@@ -1,0 +1,52 @@
+# .github/workflows/snapshot.yml — scheduled CDE price snapshot for py-dropship-ai
+#
+# Runs the Shopping China niche crawler (scripts/crawl_shoppingchina.py) on a
+# schedule and commits the dated snapshot JSON to data/cde-snapshots/.
+# This makes the price-history table (docs/14-ZERO-ACCESS-DATA.md §4) start
+# accumulating automatically — no VPS required.
+#
+# Pattern basis: saskia-app lessons (pinned SHA, concurrency, min perms,
+# persist-credentials: false) + commit-from-action with a bot identity.
+
+name: cde-snapshot
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # nightly 02:17 UTC (off-peak, avoids HH:00 rush)
+  workflow_dispatch:        # manual trigger for testing
+
+concurrency:
+  group: cde-snapshot-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write           # needed to commit the snapshot
+
+jobs:
+  snapshot:
+    name: crawl Shopping China niche categories
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4
+        with:
+          persist-credentials: false
+
+      - name: Run crawler
+        run: python3 scripts/crawl_shoppingchina.py
+
+      - name: Validate new snapshot
+        run: python3 scripts/validate_repo.py
+
+      - name: Commit snapshot (if changed)
+        # Safe: no untrusted input is interpolated; files come from the crawler.
+        run: |
+          git config user.name "aiw-snapshot-bot"
+          git config user.email "actions@github.com"
+          git add data/cde-snapshots/
+          if git diff --cached --quiet; then
+            echo "No changes — prices stable."
+            exit 0
+          fi
+          git commit -m "data: CDE snapshot $(date -u +%F) [skip ci]"
+          git push

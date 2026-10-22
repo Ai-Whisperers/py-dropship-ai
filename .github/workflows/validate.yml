@@ -1,0 +1,48 @@
+# .github/workflows/validate.yml — repo-integrity CI for py-dropship-ai
+#
+# Pattern basis: saskia-app CI lessons (pinned SHAs, concurrency cancel,
+# min permissions, job timeout) + gaby-client-engine's data-validation shape
+# (CSV/files/row-count) adapted to this repo's JSON artifacts.
+#
+# Validates (scripts/validate_repo.py):
+#   1. README doc links resolve
+#   2. data/oss/*.json schema
+#   3. CDE snapshots: parse + price sanity + no future dates
+#      (freshness >14d is a warning, not a failure)
+#   4. Secret-pattern scan
+
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: validate-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: repo integrity (docs links, data schema, snapshots, secrets)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4
+        with:
+          persist-credentials: false
+
+      - name: Run validator
+        run: python3 scripts/validate_repo.py
+
+      - name: Key artifacts present
+        run: |
+          test -d data/oss
+          test -d data/cde-snapshots
+          test "$(ls data/cde-snapshots/*.json 2>/dev/null | wc -l)" -ge 1
+          echo "✓ oss catalog + CDE snapshots present"
