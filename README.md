@@ -20,7 +20,9 @@ El dropshipping internacional clásico (AliExpress → cliente paraguayo) **no f
 | [Stack de IA](docs/04-STACK-IA.md) | **La propuesta central** — arquitectura Hermes para dropshipping PY |
 | [Roadmap](docs/05-ROADMAP.md) | Fases 0-3 con costos y métricas |
 | [Transferencia WiseQ](docs/06-TRANSFERENCIA-WISEQ.md) | Qué reutilizamos del playbook europeo |
+| [Análisis de 40 sombreros](docs/07-ANALISIS-40-SOMBREROS.md) | **100+ ideas** por rol (40 hats): OSS verificado, scrapeabilidad CDE, top-10 ROI, descartes |
 
 ## Estado
 
 - 2026-10-21: repositorio creado; investigación de mercado completada; arquitectura definida. Próximo: selección de nicho + contacto con proveedores CDE.
+- 2026-10-22: análisis de 40 sombreros + investigación OSS (InvenTree, Medusa, Evolution API, meta-mcp-server, Scrapling) + sonda de scrapeabilidad CDE (Cellshop/Nissei 403, Fastrax/ShoppingChina/Tupi abiertos).
