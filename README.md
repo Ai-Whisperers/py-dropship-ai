@@ -22,9 +22,11 @@ El dropshipping internacional clásico (AliExpress → cliente paraguayo) **no f
 | [Transferencia WiseQ](docs/06-TRANSFERENCIA-WISEQ.md) | Qué reutilizamos del playbook europeo |
 | [Análisis de 40 sombreros](docs/07-ANALISIS-40-SOMBREROS.md) | **100+ ideas** por rol (40 hats): OSS verificado, scrapeabilidad CDE, top-10 ROI, descartes |
 | [Catálogo OSS](docs/08-OSS-CATALOG.md) | **25 temas · 1,710 repos** investigados vía GitHub API, shortlists curadas, stack adoptado |
+| [Profundización](docs/09-PROFUNDIZACION-2026-10.md) | Pagos post-BCP (tope 3%/2%), Ley 7593/2025 datos, régimen courier USD 1.000, competencia ampliada, 12 mejoras técnicas |
 
 ## Estado
 
 - 2026-10-21: repositorio creado; investigación de mercado completada; arquitectura definida. Próximo: selección de nicho + contacto con proveedores CDE.
 - 2026-10-22: análisis de 40 sombreros + investigación OSS (InvenTree, Medusa, Evolution API, meta-mcp-server, Scrapling) + sonda de scrapeabilidad CDE (Cellshop/Nissei 403, Fastrax/ShoppingChina/Tupi abiertos).
 - 2026-10-22: catálogo OSS completo — 25 búsquedas × top-100 por estrellas, 1,710 repos únicos indexados en `data/oss/`, doc curado con stack adoptado y shortlists por capa.
+- 2026-10-22: profundización — tope de comisiones BCP (3% crédito/2% débito desde jul-2026, uPay Gs.0/mes), Ley 7593/2025 de datos (ventana hasta nov-2027), courier USD 33/kg CN→PY impuestos incl., competencia (Tiendamia/Shein-Temu/MELI 13-20%), última milla Gs. 15-30k, y 12 mejoras técnicas (evals, observabilidad, precios dinámicos, privacidad).
