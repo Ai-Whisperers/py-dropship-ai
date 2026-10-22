@@ -28,6 +28,7 @@ El dropshipping internacional clásico (AliExpress → cliente paraguayo) **no f
 | [Extracción 50 sombreros](docs/12-EXTRACCION-50-SOMBREROS.md) | PY decisions from the 50-hat analysis — CONATEL, cash sweep, anti-fake, zones, fleet, copy, expansion gates |
 | [Tooling PY](docs/13-TOOLING-PY.md) | MCP installs (Evolution API P0), docker-compose fase 0, wrappers finos a construir |
 | [Zero-access data](docs/14-ZERO-ACCESS-DATA.md) | **First CDE price snapshot captured (113 SKUs)**, full collection list both ops, cron plan |
+| [Hermes/Jev + reuso AIW](docs/15-HERMES-JEV-REUSO-PY.md) | Veredicto Jev (rutar carriles OpenRouter), checklist Hermes, inventario de reuso AIW (saskia-app, ops-toolkit, observabilidad) |
 
 ## Estado
 
@@ -35,6 +36,7 @@ El dropshipping internacional clásico (AliExpress → cliente paraguayo) **no f
 - 2026-10-22: análisis de 40 sombreros + investigación OSS (InvenTree, Medusa, Evolution API, meta-mcp-server, Scrapling) + sonda de scrapeabilidad CDE (Cellshop/Nissei 403, Fastrax/ShoppingChina/Tupi abiertos).
 - 2026-10-22: catálogo OSS completo — 25 búsquedas × top-100 por estrellas, 1,710 repos únicos indexados en `data/oss/`, doc curado con stack adoptado y shortlists por capa.
 - 2026-10-22: profundización — tope de comisiones BCP (3% crédito/2% débito desde jul-2026, uPay Gs.0/mes), Ley 7593/2025 de datos (ventana hasta nov-2027), courier USD 33/kg CN→PY impuestos incl., competencia (Tiendamia/Shein-Temu/MELI 13-20%), última milla Gs. 15-30k, y 12 mejoras técnicas (evals, observabilidad, precios dinámicos, privacidad).
+- 2026-10-22: Hermes/Jev + reuso — Jev verificado vivo (inerte en asiento operador por diseño; apuntar a carriles OpenRouter); `hermes fallback add` = fix top; inventario AIW: 7 org + 81 repos personales mapeados, stack reuso-primero definido.
 - 2026-10-22: **primer snapshot CDE real** — 113 productos con precios (Shopping China, 10 categorías nicho) en `data/cde-snapshots/`; mediana Gs. 195k valida banda de ticket; 584 categorías descubiertas; lista completa de recolección sin-access + plan de cron.
 - 2026-10-22: tooling PY — MCP list (Evolution API + wrappers changedetection/InvenTree/Meta Ads/SIFEN), docker-compose fase 0 de un VPS, semana-1 sin-access arrancable ya.
 - 2026-10-22: extracción PY del análisis de 50 sombreros (master en repo WiseQ docs/12) — CONATEL homologación para Bluetooth (etiqueta al onboarding), barrido de caja diario, anti-contras, puertas de expansión.
